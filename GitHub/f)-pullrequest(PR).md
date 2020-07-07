@@ -1,4 +1,4 @@
-#Pull
+# Pull
 1. Cloning and Opening to Desktop.
 2. Create a new branch.
 3. Make a change in the imp file from the text editor.
