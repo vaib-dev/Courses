@@ -1,8 +1,52 @@
 # Courses
 
-## Description
-All programs of data structure using C programing.
-This course also conatain a quick tutorial of github for begginers.
+
+## Data Structures
+The code of data structures are as follow:
+
+* Linklist
+
+    *Create*
+
+     *Display*
+
+     *Insert*
+* Doblylinklist
+
+    *Create*
+
+     *Display*
+
+     *Insert*
+* Graph
+* Heap  
+* Queue
+* Stack
+* Treetraversal
+
+   *Preorder*
+
+   *Postorder*
+
+   *Inorder*
+
+ ## Algorithms  
+ **Will be updated soon...**
+
+ ## GitHub
+1. Aboutgit
+1. Commit
+1. Repository
+1. Push
+1. CreatingPR
+1. Clone
+1. Branch
+1. Merge
+1. Fork
+* README
+
+
+
 
 ## Features
 All source code available.

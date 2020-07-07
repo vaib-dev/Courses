@@ -12,6 +12,9 @@ Then, once the developer gets his or her part of the code working properly, he o
 
 All of these changes are then tracked and can be reverted if need be.
 
+**Workflow of GitHub is as shown**
+![GitHub](https://miro.medium.com/max/1248/1*IelAxduwS_YtpsrlRe1d0Q.png)
+
 ## What Is Git?
 
 Git is a specific open-source version control system created by Linus Torvalds in 2005.
@@ -33,3 +36,5 @@ Additionally, anyone can sign up and host a public code repository for free, whi
 
 As a company, GitHub makes money by selling hosted private code repositories, as well as other business-focused plans that make it easier for organizations to manage team members and security. We utilize Github extensively at Kinsta to manage and develop internal projects.
 
+
+**Source**-https://levelup.gitconnected.com

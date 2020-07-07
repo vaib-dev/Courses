@@ -16,6 +16,13 @@ For-ex:
           3. Type a name for your repository, and an optional description.
           4. Choose to make the repository either public or private. Public repositories are visible to the public, while private       repositories are only accessible to you, and people you share them with. For more information, see "Setting repository visibility."
 
+
+![Repo](https://guides.github.com/activities/hello-world/create-new-repo.png)
+
+
+
+
+
 ## Remove  
           2. If you want to remove a Git repository, you can simply delete the folder which contains the repository.
 
