@@ -1,11 +1,5 @@
-# Repository
-Here I will quickly describe - what is a repository and what are all the possible actions on it. 
+#Commits
 
-For-ex: 
+A commit, or "revision", is an individual change to a file (or set of files). It's like when you save a file, except with Git, every time you save it creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of what changes were made when and by who.
 
-1. Create
-2. Add
-3. Clone
-4. Fork
-5. Remove 
 
