@@ -2,7 +2,7 @@
 
 
 ## Data Structures
-The contents of data structures are as follow:
+The code of data structures are as follow:
 
 * Linklist
 
@@ -31,12 +31,12 @@ The contents of data structures are as follow:
    *Inorder*
 
  ## Algorithms  
- **Content will be updated soon...**
+ **Will be updated soon...**
 
  ## GitHub
 1. Aboutgit
-1. Repository
 1. Commit
+1. Repository
 1. Push
 1. CreatingPR
 1. Clone
