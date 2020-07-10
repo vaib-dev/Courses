@@ -13,9 +13,9 @@
 9. Click Confirm merge.
 10. Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
 
-![Merge your pull request](https://guides.github.com/activities/hello-world/merge-button.png)
+![Merge your pull request](https://user-images.githubusercontent.com/5396286/56090826-fa31e980-5ed9-11e9-9ccd-e8ae3ec77764.png)
 
-![Merge your pull request](https://guides.github.com/activities/hello-world/delete-button.png)
+![Merge your pull request](https://github.blog/wp-content/uploads/2016/09/3b06b4ee-81b1-11e6-96f8-f7b34eb30b05.png?fit=1556%2C778)
 
 # Push
 
@@ -27,3 +27,5 @@ Using GitHub Desktop to PUSH to your local content to GitHub.Steps are:
    * Publish branch in GitHub Desktop to upload your all files to GitHub.
 
 **Now,you have learned the PUSH and PULL request and also the different ways through which the PUSH and PULL request is done through the GitHub Desktop Applications.**
+
+![Push](https://mspoweruser.com/wp-content/uploads/2020/05/GitHub-Desktop-2.5-1536x833.jpg)
