@@ -1,7 +1,3 @@
-// PROGRAM FOR COUNT SORT
-//Counting sort is a stable sorting technique, which is used to sort objects 
-//according to the keys that are small numbers. It counts the number of keys whose key values are same.
-
 #include<conio.h>
 #include<stdio.h>
 

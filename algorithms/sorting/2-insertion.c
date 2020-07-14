@@ -1,9 +1,3 @@
-//PROGRAM FOR INSERTION SORT
-//Insertion sort is based on the idea that one element from the input elements is 
-//consumed in each iteration to find its correct position i.e, the position to which it belongs 
- //in a sorted array.It iterates the input elements by growing the sorted array at each iteration.
-
-
 #include<conio.h>
 #include<stdio.h>
 void main()

@@ -1,6 +1,3 @@
-//PROGRAM FOR QUICK SORT
-//Quick sort is a highly efficient sorting algorithm and is based on 
-//partitioning of array of data into smaller arrays.	
 #include <stdio.h>
 #include<conio.h> 
 void quick_sort(int[],int,int);

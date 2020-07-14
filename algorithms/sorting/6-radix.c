@@ -1,9 +1,3 @@
-//PROGRAM FOR RADIX SORT
-//Radix Sort. Radix sort is an integer sorting algorithm that sorts data with integer 
-//keys by grouping the keys by individual digits that share the same significant position and
-// value (place value). Radix sort uses counting sort as a subroutine to sort an array of numbers.
-
-
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
@@ -19,7 +13,7 @@ int getMax(int list[], int n)
     return mx;
 }
 
-void countSort(int list[], int n, int exp) 
+void count_Sort(int list[], int n, int exp) 
 {
     int output[n];
     int i, count[10] = { 0 };
@@ -46,7 +40,7 @@ void radixsort(int list[], int n)
 
     int exp;
     for (exp = 1; m / exp > 0; exp *= 10)
-        countSort(list, n, exp);
+        count_Sort(list, n, exp);
 }
 
 void print(int list[], int n) 

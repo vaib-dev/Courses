@@ -1,9 +1,3 @@
-//PROGRAM FOR SELECTION SORT
-//This sorting algorithm is an in-place comparison-based algorithm in which the list is divided 
-//into two parts, the sorted part at the left end and the unsorted part at the right end.
-// Initially, the sorted part is empty and the unsorted part is the entire list.
-
-
 #include<stdio.h>
 #include<conio.h> 
 int main()
