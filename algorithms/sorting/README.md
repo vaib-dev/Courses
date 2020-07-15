@@ -248,7 +248,7 @@ This algorithm basically works on two functions:
 ## 6.Radix Sort
 Radix Sort. Radix sort is an integer sorting algorithm that sorts data with integer keys by grouping the keys by individual digits that share the same significant position and value (place value). Radix sort uses counting sort as a subroutine to sort an array of numbers.
 
-### Example :
+### Example
 ![radixsort](https://image.slidesharecdn.com/algoppt-150414075622-conversion-gate01/95/counting-sort-and-radix-sort-algorithms-36-638.jpg?cb=1428998345)
 
 ### Complexity Analysis ->
