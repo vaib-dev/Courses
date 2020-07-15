@@ -120,7 +120,7 @@ This is the simplest sorting algorithm that works by repeatedly swapping the adj
 ## 4. Quick Sort
  QuickSort is one of the most efficient sorting algorithms and is based on the splitting of an array into smaller ones. The name comes from the fact that, quick sort is capable of sorting a list of data elements significantly faster than any of the common sorting algorithms. And like Merge sort, Quick sort also falls into the category of divide and conquer approach of problem-solving methodology.
 
- ### Example 1
+### Example 1
 
  ![quicksort](https://camo.githubusercontent.com/c98c115a53ba3f64b64c99bc3936e6d684c3651e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39632f517569636b736f72742d6578616d706c652e676966)
  
