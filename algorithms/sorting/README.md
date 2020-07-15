@@ -87,7 +87,7 @@ Insertion sort is based on the idea that one element from the input elements is 
 
       Step 5->Exit
 
-## 3.Bubble Sort :
+## 3. Bubble Sort
 This is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order. It makes multiple passes through a list, compares adjacent items and exchanges those that are out of order. Each pass through the list places the next largest value in its proper place.
  
  ### Example
