@@ -93,7 +93,7 @@ This is the simplest sorting algorithm that works by repeatedly swapping the adj
  ### Example
 ![bubblesort](https://tech.queryhome.com/?qa=blob&qa_blobid=9990396289959433440)
 
-#### Complexity ->
+#### Complexity
 **Time complexity** - О(n^2), where n is the number of items being sorted.
 
 **Space complexity** - O(1), due to auxillary space only.
