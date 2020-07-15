@@ -17,7 +17,7 @@ Below we have all the Pseudo-codes of the above programs. So the question arises
 
 ---
 
-## 1.Selection Sort:
+## 1. Selection Sort
 This sorting algorithm is an in-place comparison-based algorithm in which the list is divided into two parts, the sorted part at the left end and the unsorted part at the right end.
 Initially, the sorted part is empty and the unsorted part is the entire list. The algorithm maintains two subarrays in a given array.
 
