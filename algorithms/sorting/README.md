@@ -55,7 +55,7 @@ Space complexity - O(1), due to auxillary space only.
     Step5-> [Finished]   
             Exit
 
-## 2.Insertion Sort :
+## 2. Insertion Sort
 Insertion sort is based on the idea that one element from the input elements is consumed in each iteration to find its correct position i.e, the position to which it belongs in a sorted array. It iterates the input elements by growing the sorted array at each iteration.
 ![insertionsort](https://www.studytonight.com/data-structures/images/basic-insertion-sort.png)
 
