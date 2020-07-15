@@ -283,7 +283,7 @@ Radix Sort. Radix sort is an integer sorting algorithm that sorts data with inte
        
     Step4 ->End
 
-## 7.Count Sort
+## 7. Count Sort
 Counting sort is a stable sorting technique, which is used to sort objects according to the keys that are small numbers. It counts the number of keys whose key values are same.
 
 ### Example :
