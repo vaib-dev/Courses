@@ -27,7 +27,7 @@ Initially, the sorted part is empty and the unsorted part is the entire list. Th
 ### Example ->
 ![selectionsort](https://www.studytonight.com/data-structures/images/simple-selection-sort.png)
 
-### Complexity :-
+### Complexity
 Time complexity - О(n^2), where n is the number of items being sorted. 
 
 Space complexity - O(1), due to auxillary space only.
@@ -311,4 +311,3 @@ Counting sort is a stable sorting technique, which is used to sort objects accor
           [END OF STEP 2 for STATEMENT]
 
     Step 4-> Exit
-
