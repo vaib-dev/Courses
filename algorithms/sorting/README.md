@@ -124,7 +124,7 @@ This is the simplest sorting algorithm that works by repeatedly swapping the adj
 
  ![quicksort](https://camo.githubusercontent.com/c98c115a53ba3f64b64c99bc3936e6d684c3651e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39632f517569636b736f72742d6578616d706c652e676966)
  
- ### Example 2 -->
+ ### Example 2
 Below given is an array, which needs to be sorted. We will use the Quick Sort Algorithm to sort this array(this example chooses any element as pivot):
 
 ![Quick Sort 2](https://miro.medium.com/max/600/1*DtH6fEdBhoUGnjBWudJ8pA.png)
