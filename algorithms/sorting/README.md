@@ -59,7 +59,7 @@ Space complexity - O(1), due to auxillary space only.
 Insertion sort is based on the idea that one element from the input elements is consumed in each iteration to find its correct position i.e, the position to which it belongs in a sorted array. It iterates the input elements by growing the sorted array at each iteration.
 ![insertionsort](https://www.studytonight.com/data-structures/images/basic-insertion-sort.png)
 
-### Complexity -> 
+### Complexity
 **Time complexity**
 
 * Best Case: O(n)
