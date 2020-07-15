@@ -159,7 +159,7 @@ Below given is an array, which needs to be sorted. We will use the Quick Sort Al
     Step9 -Exit
 
 
-### 5.Merge Sort ->
+### 5. Merge Sort
 Merge sort is a divide-and-conquer algorithm based on the idea of breaking down a list into several sub-lists until each sublist consists of a single element and merging those sublists in a manner that results into a sorted list.
 
 ### Example :
