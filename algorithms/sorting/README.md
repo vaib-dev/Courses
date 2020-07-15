@@ -162,7 +162,7 @@ Below given is an array, which needs to be sorted. We will use the Quick Sort Al
 ### 5. Merge Sort
 Merge sort is a divide-and-conquer algorithm based on the idea of breaking down a list into several sub-lists until each sublist consists of a single element and merging those sublists in a manner that results into a sorted list.
 
-### Example :
+### Example
 
 ![mergesort](https://www.researchgate.net/profile/Ahmet_Erdogan/publication/221577430/figure/fig5/AS:667654490701834@1536192643267/Merge-sort-paradigm-11.ppm)
 
