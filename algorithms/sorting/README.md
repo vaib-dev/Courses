@@ -24,7 +24,7 @@ Initially, the sorted part is empty and the unsorted part is the entire list. Th
 1. The subarray which is already sorted.
 2. Remaining subarray which is unsorted.
 
-### Example ->
+### Example
 ![selectionsort](https://www.studytonight.com/data-structures/images/simple-selection-sort.png)
 
 ### Complexity
