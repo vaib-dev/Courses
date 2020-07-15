@@ -289,7 +289,7 @@ Counting sort is a stable sorting technique, which is used to sort objects accor
 ### Example
 ![countsort](https://www.codesdope.com/staticroot/images/algorithm/counting3.png)
 
-### Complexity ->
+#### Complexity
 **Space Complexity**: O(n+k)
 
 **Counting Sort has linear time complexity.**
