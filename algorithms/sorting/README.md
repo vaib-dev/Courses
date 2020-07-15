@@ -130,7 +130,7 @@ Below given is an array, which needs to be sorted. We will use the Quick Sort Al
 ![Quick Sort 2](https://miro.medium.com/max/600/1*DtH6fEdBhoUGnjBWudJ8pA.png)
  - After the above step, the first pivot is in its required place, similarly we sort the left and right halves of the array in a recursive manner.
 
- #### Complexity
+ ### Complexity
 
 **Time Complexity** -> is O(nLogn).
 
