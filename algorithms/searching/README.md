@@ -142,3 +142,4 @@ Depth First Search (DFS) algorithm traverses a graph in a depthward motion and u
 ## Complexity
 **Time complexity** - O(V+E), where V and E are number of vertices and edges.
                    
+![edit2](https://img.shields.io/static/v1?label=topic&message=Algoritm&color=orange)![edit](https://img.shields.io/github/languages/top/vaibhavpratapsingh22/Courses)![edit2](https://img.shields.io/static/v1?label=madeby&message=Vaibhav&color=<COLOR>)![edit2](https://img.shields.io/static/v1?label=reviewer&message=Udey&color=<COLOR>)![edit](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=<COLOR>)
