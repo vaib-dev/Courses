@@ -104,7 +104,7 @@ Breadth-first search (BFS) is an algorithm that is used to graph data or searchi
 
 **Space complexity** - O(|V|), where |V| is the cardinality of the set of vertices (as said before). If the graph is represented by an adjacency list it occupies O(|V|+|E|) space in memory, while an adjacency matrix representation occupies O(|V|^{2})            
 
-## 4. Depth First Search
+## 4. Depth-First Search
 Depth First Search (DFS) algorithm traverses a graph in a depthward motion and uses a stack to remember to get the next vertex to start a search, when a dead end occurs in any iteration
 
 ![DFS](https://www.codesdope.com/staticroot/images/algorithm/dfs.gif)
