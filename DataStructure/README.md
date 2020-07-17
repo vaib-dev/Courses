@@ -58,7 +58,7 @@ A linked list is a dynamic data structure where each element (called a node) is 
 
 8) It allows processing of data on software system
 
-## Disadvantages:-
+### Disadvantages
 
 1) It is applicable only for advanced users.
 
