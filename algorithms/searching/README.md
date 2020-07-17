@@ -71,7 +71,7 @@ Binary Search: Search a sorted array by repeatedly dividing the search interval 
 
 **Space complexity** - O(1), due to auxillary space only.
 
-## 3.Breadth First Search
+## 3. Breadth-First Search
 Breadth-first search (BFS) is an algorithm that is used to graph data or searching tree or traversing structures. ... This algorithm selects a single node (initial or source point) in a graph and then visits all the nodes adjacent to the selected node. Remember, BFS accesses these nodes one by one.
 
 ![bfs](https://i1.wp.com/algorithms.tutorialhorizon.com/files/2015/05/Graph-BFS.gif)
