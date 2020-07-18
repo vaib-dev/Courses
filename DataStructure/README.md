@@ -58,7 +58,6 @@ A linked list is a dynamic data structure where each element (called a node) is 
  ![graph](https://www.geeksforgeeks.org/wp-content/uploads/undirectedgraph.png)
 
  ### Advantages
- Advantages:-
 
 1) Allows easier processing of data.
 
