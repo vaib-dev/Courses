@@ -128,7 +128,7 @@ Queue is used when things don’t have to be processed immediately, but have to 
 1) When a resource is shared among multiple consumers. Examples include CPU scheduling, Disk Scheduling.
 2) When data is transferred asynchronously (data not necessarily received at same rate as sent) between two processes. Examples include IO Buffers, pipes, file IO, etc.
 
-#  <p style="color:orange"> 5. Stack </p>
+## 5. Stack
  A stack is a basic data structure that can be logically thought of as a linear structure represented by a real physical stack or pile, a structure where insertion and deletion of items takes place at one end called top of the stack. This structure is used all throughout programming.
 
 ### Example
