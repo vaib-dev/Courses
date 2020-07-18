@@ -143,6 +143,7 @@ Queue is used when things don’t have to be processed immediately, but have to 
 * not flexible
 * Lack of scailability
 * Unable to Copy & Paste
+
  ### Applications
 The stack can be used to convert some infix expression into its postfix equivalent, or prefix equivalent. These postfix or prefix notations are used in computers to express some expressions.
 
