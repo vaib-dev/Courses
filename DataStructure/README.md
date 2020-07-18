@@ -111,7 +111,7 @@ For fast data lookup, data indexing, Ip addressing, parsers, dynamic memory allo
 ### Applications
 Heaps are used in many famous algorithms such as Dijkstra's algorithm for finding the shortest path, the heap sort sorting algorithm, implementing priority queues, and more. Essentially, heaps are the data structure you want to use when you want to be able to access the maximum or minimum element very quickly.
 
-#  <p style="color:brown">4. Queue</p>
+## 4. Queue
 Queue is an abstract data structure, somewhat similar to Stacks. Unlike stacks, a queue is open at both its ends. One end is always used to insert data (enqueue) and the other is used to remove data (dequeue). Queue follows First-In-First-Out methodology, i.e., the data item stored first will be accessed first.
 
 ### Example
