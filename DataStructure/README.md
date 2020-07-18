@@ -86,7 +86,7 @@ A linked list is a dynamic data structure where each element (called a node) is 
 ## Application
 For fast data lookup, data indexing, Ip addressing, parsers, dynamic memory allocation,process scheduling,dictionary, directory traversal,web crawling , organizing file hierarchy etc.
 
-#  <p style="color:purple"> 3. Heap</p>
+## 3. Heap
 
  A heap is a specialized tree-based data structure that satisfied the heap property: if B is a child node of A, then key(A) ≥ key(B). This implies that an element with the greatest key is always in the root node, and so such a heap is sometimes called a max-heap. Of course, there's also a min-heap.
 
