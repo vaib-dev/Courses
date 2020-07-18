@@ -18,7 +18,7 @@
 <p style="color:purple">All these data structures allow us to perform different operations on data. We select these data structures based on which type of operation is required. We will look into these data structures one by one in more details below : -
 </p>
 
-# <p style="color:maroon">  1. Link List
+## 1. Link List
 
 A linked list is a dynamic data structure where each element (called a node) is made up of two items - the data and a reference (or pointer) which points to the next node. A linked list is a collection of nodes where each node is connected to the next node through a pointer.</p>
 
