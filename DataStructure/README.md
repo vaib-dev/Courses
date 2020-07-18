@@ -161,7 +161,7 @@ Trees reflect structural relationships in the data. Trees are used to represent 
 Binary trees are only efficient when the tree is balanced. If the tree is unbalanced, it won't provide same benefits. Since the leaf and non-leaf nodes are of different sizes, data storage is complicated. Data storage on the heap is slower and comparison takes more time than other data structures.
 
  ### Applications
- 1. Store hierarchical data, like folder  
+1. Store hierarchical data, like folder  
     structure, organization structure, XML/HTML data.
 1. Binary Search Tree is a tree that allows fast 
    search, insert, delete on a sorted data. It also allows finding closest item
