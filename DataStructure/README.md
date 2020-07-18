@@ -148,7 +148,7 @@ Queue is used when things don’t have to be processed immediately, but have to 
 The stack can be used to convert some infix expression into its postfix equivalent, or prefix equivalent. These postfix or prefix notations are used in computers to express some expressions.
 
 
-#  <p style="color:indigo">6. Tree</p>
+## 6. Tree
 A tree is a nonlinear data structure, compared to arrays, linked lists, stacks and queues which are linear data structures. A tree can be empty with no nodes or a tree is a structure consisting of one node called the root and zero or one or more subtrees.
 
 ### Example
