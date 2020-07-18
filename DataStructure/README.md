@@ -24,7 +24,7 @@ A linked list is a dynamic data structure where each element (called a node) is 
 
 ### Example of Singly Link List
 ![linklist](https://codeforwin.org/ezoimgfmt/secureservercdn.net/160.153.138.219/b79.d22.myftpupload.com/wp-content/uploads/2015/09/Singly-linked-list.png?ezimgfmt=rs:392x193/rscb1)
-## Example of Doubly Link List
+### Example of Doubly Link List
 ![doublylinklist](https://camo.githubusercontent.com/b7ac8182d84eeb21230f22d5cf2ff3ecff342fb9/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a474f4b6d6b756346484e5f676d544d557479433273512e706e67)
 
 ### Types of Link List
