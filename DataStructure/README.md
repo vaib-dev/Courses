@@ -50,7 +50,7 @@ A linked list is a dynamic data structure where each element (called a node) is 
 * Implementation of hash maps. 
 * Performing arithmetic operations on long integers. 
 
-# <p style="color:green">2. Graph
+## 2. Graph
 
  A graph consists of a set of nodes or vertices together with a set of edges or arcs where each edge joins two vertices. Unless otherwise specified, a graph is undirected: each edge is an unordered pair {u,v} of vertices, and we don't regard either of the two vertices as having a distinct role from the other.
  ### Example
