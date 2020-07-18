@@ -156,7 +156,8 @@ A tree is a nonlinear data structure, compared to arrays, linked lists, stacks a
 
  ### Advantages
 Trees reflect structural relationships in the data. Trees are used to represent hierarchies. Trees provide an efficient insertion and searching. Trees are very flexible data, allowing to move subtrees around with minumum effort.
- ### Disadvantages
+
+### Disadvantages
 Binary trees are only efficient when the tree is balanced. If the tree is unbalanced, it won't provide same benefits. Since the leaf and non-leaf nodes are of different sizes, data storage is complicated. Data storage on the heap is slower and comparison takes more time than other data structures.
 
  ### Applications
