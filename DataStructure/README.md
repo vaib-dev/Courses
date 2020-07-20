@@ -83,7 +83,7 @@ A linked list is a dynamic data structure where each element (called a node) is 
 
 3) Slow access in case of some data types
 
-## Application
+### Application
 For fast data lookup, data indexing, Ip addressing, parsers, dynamic memory allocation,process scheduling,dictionary, directory traversal,web crawling , organizing file hierarchy etc.
 
 ## 3. Heap
