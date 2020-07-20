@@ -116,21 +116,21 @@ Throughout this course, you'll learn about Git's core functionality so you can u
 
 
 ## Features of Course
-* All source code available.
+1. All source code available.
 
-* Compatible with every compiler.
-* Easy to understand.
-* Short and effecient programs.
-* Good quality of code.
-* Complete GitHub tutorial folder.
+2. Compatible with every compiler.
+3. Easy to understand.
+4. Short and effecient programs.
+5. Good quality of code.
+6. Complete GitHub tutorial folder.
 
 ## Who this course is for:
-* Developer who want to get Deepest knowledge of Data Structure
-* Undergraduate who want to Learn Data Structures Perfectly
-* Anyone interested in using source control and specifically Git and GitHub
-* Software engineers, developers, programmers new to Git or GitHub
-* IT Managers or technical leads considering Git or GitHub for version control on their team
-* Freelancers or other creative professionals
+1. Developer who want to get Deepest knowledge of Data Structure
+2. Undergraduate who want to Learn Data Structures Perfectly
+3. Anyone interested in using source control and specifically Git and GitHub
+4. Software engineers, developers, programmers new to Git or GitHub
+5. IT Managers or technical leads considering Git or GitHub for version control on their team
+6. Freelancers or other creative professionals
 
 ## Support
 For any query plz mail at vaibhavpratapsingh22@gmail.com
