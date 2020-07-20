@@ -51,6 +51,10 @@ Apply basic algorithmic techniques such as greedy algorithms, searching, sorting
 Apply graph and string algorithms to solve real-world challenges: finding shortest paths.
 ### [Folder Content](Algorithms)
 
+## Sorting
+
+### [Folder Content](Algorithms\sorting)
+
 1. [Selection sort](README3.md)
 
    [Code](selection.c)
@@ -78,6 +82,40 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 7. [Count sort](README3.md)
 
    [Code](count.c)
+
+## Searching
+
+### [Folder Content](Algorithms\searching)
+
+1. [Linear search](README3.md)
+
+   [Code](linear-search.c)
+
+2. [Binary search](README3.md)
+
+    [Code](binary-search.c)
+
+3. [BFS](README3.md)
+
+    [Code](breadth-first-search.c)
+
+4. [DFS](README3.md)
+
+   [Code](depth-first-search.c)
+
+ ## Greedy Method
+
+1. [Dijkstra algoritm](README3.md)
+
+   [Code](dijkstra.c)
+
+2. [Kruskal's algorithm](README3.md)
+
+    [Code](kruskal.c)
+
+3. [Prim's algorithm](README3.md)
+
+    [Code](prims.c)
 
 
  ## GitHub
