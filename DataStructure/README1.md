@@ -84,7 +84,7 @@ A linked list is a dynamic data structure where each element (called a node) is 
 3) Slow access in case of some data types
 
 ### Application
- For fast data lookup, data indexing, Ip addressing, parsers, dynamic memory allocation,process scheduling,dictionary, directory traversal,web crawling , organizing file hierarchy etc.
+1. For fast data lookup, data indexing, Ip addressing, parsers, dynamic memory allocation,process scheduling,dictionary, directory traversal,web crawling , organizing file hierarchy etc.
 
 ## 3. Heap
 
@@ -181,4 +181,4 @@ A tree is a nonlinear data structure, compared to arrays, linked lists, stacks a
 1. Spanning Trees and shortest path trees are used in routers and bridges respectively in computer networks
 1. As a workflow for compositing digital images for visual effects.
 
-![edit2](https://img.shields.io/static/v1?label=topic&message=datastructure&color=orange)![edit](https://img.shields.io/github/languages/top/vaibhavpratapsingh22/Courses)![edit2](https://img.shields.io/static/v1?label=madeby&message=Vaibhav&color=<COLOR>)![edit2](https://img.shields.io/static/v1?label=reviewer&message=Udey&color=<COLOR>)
+![edit2](https://img.shields.io/static/v1?label=topic&message=datastructure&color=orange)![edit](https://img.shields.io/github/languages/top/vaibhavpratapsingh22/Courses)![edit2](https://img.shields.io/static/v1?label=madeby&message=Vaibhav&color=<COLOR>)![edit2](https://img.shields.io/static/v1?label=reviewer&message=Udey&color=<COLOR>)![edit](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=<COLOR>)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
