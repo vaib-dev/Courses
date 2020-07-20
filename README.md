@@ -15,31 +15,31 @@ Welcome to the Data Structure and Algorithm course here U will learn :-
 
 ### [Folder Content](DataStructure)
 
-1. [Linked List](README1.md)
-
+1. Linked List
+   
    [Code](Linklist.c)
 
-2. [Doublylinklist](README1.md)
+2. Doublylinklist    
+   
+   [Code](Doublylinklist.c)
 
-    [Code](Doublylinklist.c)
+3. Graph    
+   
+   [Code](Graph.c)
 
-3. [Graph](README1.md)
-
-    [Code](Graph.c)
-
-4. [Heap](README1.md)
-
+4. Heap   
+   
    [Code](Heap.c)   
 
-5. [Queue](README1.md)
-
+5. Queue   
+   
    [Code](Queue.c)
 
-6. [Stack](README.md)
+6. Stack 
 
-   [Code](Stack.c)
+    [Code](Stack.c)
 
-7. [Trees](README.md)
+7. Trees 
 
    [Code](Treetraversal.c)
 
@@ -55,66 +55,66 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 
 ### [Folder Content](Algorithms\sorting)
 
-1. [Selection sort](README3.md)
+1. Selection sort   
 
    [Code](selection.c)
 
-2. [Insertion sort](README3.md)
-
+2. Insertion sort
+    
     [Code](insertion.c)
 
-3. [Bubble sort](README3.md)
-
+3. Bubble sort
+   
     [Code](bubble.c)
 
-4. [Quick sort](README3.md)
-
+4. Quick sort
+   
    [Code](quick.c)   
 
-5. [Merge sort](README3.md)
-
+5. Merge sort
+   
    [Code](merge.c)
 
-6. [Radix sort](README3.md)
-
+6. Radix sort
+   
    [Code](radix.c)
 
-7. [Count sort](README3.md)
-
+7. Count sort
+   
    [Code](count.c)
 
 ## Searching
 
 ### [Folder Content](Algorithms\searching)
 
-1. [Linear search](README3.md)
-
+1. Linear search
+   
    [Code](linear-search.c)
 
-2. [Binary search](README3.md)
-
+2. Binary search
+   
     [Code](binary-search.c)
 
-3. [BFS](README3.md)
-
+3. BFS
+   
     [Code](breadth-first-search.c)
 
-4. [DFS](README3.md)
-
+4. DFS
+   
    [Code](depth-first-search.c)
 
  ## Greedy Method
 
-1. [Dijkstra algoritm](README3.md)
-
+1. Dijkstra algoritm
+   
    [Code](dijkstra.c)
 
-2. [Kruskal's algorithm](README3.md)
-
+2. Kruskal's algorithm
+   
     [Code](kruskal.c)
 
-3. [Prim's algorithm](README3.md)
-
+3. Prim's algorithm
+   
     [Code](prims.c)
 
 
@@ -126,29 +126,29 @@ Throughout this course, you'll learn about Git's core functionality so you can u
 
 ### [Folder Content](GItHub)
 
-1. [Aboutgit](README2.md)
+1. [Aboutgit](aboutgit.md)
 
 
-2. [Repository](README2.md)
+2. [Repository](repository.md)
 
 
-3. [Clone](README2.md)
+3. [Clone](clone.md)
 
 
-4. [Commit](README2.md)
+4. [Commit](commit.md)
    
 
-5. [Pull and Push](README2.md)
+5. [Pull and Push](pull-and-push.md)
 
 
-6. [Branch](README2.md)
+6. [Branch](branch.md)
 
 
-7. [Creating PR](README2.md)
+7. [Creating PR](creatingPR.md)
 
-8. [Merge](README2.md)
+8. [Merge](merge.md)
 
-9. [Fork](README2.md)
+9. [Fork](fork.md)
 
 
 
