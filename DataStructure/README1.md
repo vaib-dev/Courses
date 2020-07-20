@@ -33,22 +33,22 @@ A linked list is a dynamic data structure where each element (called a node) is 
 * Doubly Link List
 ### Advantages 
 
-* Linked list is a  **Dynamic Data Structure**. Meaning it's size can grow and shrink during runtime. 
-* Insertion and Deletion operations are easier as compared to arrays. 
+1. Linked list is a  **Dynamic Data Structure**. Meaning it's size can grow and shrink during runtime. 
+2. Insertion and Deletion operations are easier as compared to arrays. 
 
 ### Disadvantages
 
-* They use more memory than arrays because they use pointers.
-* Accessing an element has to be done sequentially, i.e, start from the first node. 
-* Nodes are stored incontigously which increases time required to access individual elements.
+1. They use more memory than arrays because they use pointers.
+2. Accessing an element has to be done sequentially, i.e, start from the first node. 
+3. Nodes are stored incontigously which increases time required to access individual elements.
 
 ### Applications
 
-* Implementation of stacks and queues can be done using linked list.
-* Music Player: Songs are linked to previous and next song. 
-* Implementation of graphs.
-* Implementation of hash maps. 
-* Performing arithmetic operations on long integers. 
+1. Implementation of stacks and queues can be done using linked list.
+2. Music Player: Songs are linked to previous and next song. 
+3. Implementation of graphs.
+4. Implementation of hash maps. 
+5. Performing arithmetic operations on long integers. 
 
 ## 2. Graph
 
@@ -84,7 +84,7 @@ A linked list is a dynamic data structure where each element (called a node) is 
 3) Slow access in case of some data types
 
 ### Application
-For fast data lookup, data indexing, Ip addressing, parsers, dynamic memory allocation,process scheduling,dictionary, directory traversal,web crawling , organizing file hierarchy etc.
+1. For fast data lookup, data indexing, Ip addressing, parsers, dynamic memory allocation,process scheduling,dictionary, directory traversal,web crawling , organizing file hierarchy etc.
 
 ## 3. Heap
 
@@ -109,7 +109,8 @@ For fast data lookup, data indexing, Ip addressing, parsers, dynamic memory allo
 2. it take to much time in execution compare then other.
 
 ### Applications
-Heaps are used in many famous algorithms such as Dijkstra's algorithm for finding the shortest path, the heap sort sorting algorithm, implementing priority queues, and more. Essentially, heaps are the data structure you want to use when you want to be able to access the maximum or minimum element very quickly.
+1. Heaps are used in many famous algorithms such as Dijkstra's algorithm for finding the shortest path, the heap sort sorting algorithm, implementing priority queues, and more. 
+2. Essentially, heaps are the data structure you want to use when you want to be able to access the maximum or minimum element very quickly.
 
 ## 4. Queue
 Queue is an abstract data structure, somewhat similar to Stacks. Unlike stacks, a queue is open at both its ends. One end is always used to insert data (enqueue) and the other is used to remove data (dequeue). Queue follows First-In-First-Out methodology, i.e., the data item stored first will be accessed first.
@@ -118,10 +119,12 @@ Queue is an abstract data structure, somewhat similar to Stacks. Unlike stacks, 
 ![queue](https://miro.medium.com/max/3148/0*TRbfsq86lqDoqW6b.png)
 
 ### Advantages
- It can basically have infinite length compared with the use of fixed-length arrays. It is fast and flexible . It can handle multiple data types. A queue allows for O(1) insertion from the end and O(1)deletion from the front.
+ 1. It can basically have infinite length compared with the use of fixed-length arrays. It is fast and flexible . It can handle multiple data types.
+ 2. A queue allows for O(1) insertion from the end and O(1)deletion from the front.
 
 ### Disadvantages
-Moreover, queues can be of potentially infinite length compared with the use of fixed-length arrays. A major disadvantage of a classical queue is that a new element can only be inserted when all of the elements are deleted from the queue.
+1. Moreover, queues can be of potentially infinite length compared with the use of fixed-length arrays. 
+2. A major disadvantage of a classical queue is that a new element can only be inserted when all of the elements are deleted from the queue.
 
 ### Application
 Queue is used when things don’t have to be processed immediately, but have to be processed in First In First Out order like Breadth First Search. This property of Queue makes it also useful in following kind of scenarios.
@@ -135,17 +138,18 @@ Queue is used when things don’t have to be processed immediately, but have to 
  ![stack](https://res.cloudinary.com/practicaldev/image/fetch/s--s1Qbl8Gf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mwcwre09s12vqa3gvl7a.png)
 
  ### Advantages
- * Easy to started
-* Less Hardware Requirement
-* Cross- Platform
+ 1. Easy to started
+2.  Less Hardware Requirement
+3. Cross- Platform
 
  ### Disadvantages
-* not flexible
-* Lack of scailability
-* Unable to Copy & Paste
+1. not flexible
+2. Lack of scailability
+3. Unable to Copy & Paste
 
  ### Applications
-The stack can be used to convert some infix expression into its postfix equivalent, or prefix equivalent. These postfix or prefix notations are used in computers to express some expressions.
+1. The stack can be used to convert some infix expression into its postfix equivalent, or prefix equivalent. 
+2. These postfix or prefix notations are used in computers to express some expressions.
 
 
 ## 6. Tree
@@ -155,10 +159,13 @@ A tree is a nonlinear data structure, compared to arrays, linked lists, stacks a
  ![tree](https://miro.medium.com/max/975/1*PWJiwTxRdQy8A_Y0hAv5Eg.png)
 
  ### Advantages
-Trees reflect structural relationships in the data. Trees are used to represent hierarchies. Trees provide an efficient insertion and searching. Trees are very flexible data, allowing to move subtrees around with minumum effort.
+1. Trees reflect structural relationships in the data. 
+2. Trees are used to represent hierarchies. Trees provide an efficient insertion and searching. 
+3. Trees are very flexible data, allowing to move subtrees around with minumum effort.
 
 ### Disadvantages
-Binary trees are only efficient when the tree is balanced. If the tree is unbalanced, it won't provide same benefits. Since the leaf and non-leaf nodes are of different sizes, data storage is complicated. Data storage on the heap is slower and comparison takes more time than other data structures.
+1. Binary trees are only efficient when the tree is balanced. If the tree is unbalanced, it won't provide same benefits. Since the leaf and non-leaf nodes are of different sizes, data storage is complicated.
+2.  Data storage on the heap is slower and comparison takes more time than other data structures.
 
  ### Applications
 1. Store hierarchical data, like folder  
