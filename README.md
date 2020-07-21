@@ -28,7 +28,7 @@ Welcome to the Data Structure and Algorithm course here U will learn :-
 
 7. Trees ::  [Code](treetraversal.c)
 
- ## [Algorithms](algorithms)  
+ ## [Algorithms](3-algorithms)  
  
 Apply basic algorithmic techniques such as greedy algorithms, searching, sorting and dynamic programming to solve programming challenges.
 Apply graph and string algorithms to solve real-world challenges: finding shortest paths.
@@ -72,7 +72,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 Files will be added soon.
 
 
- ## [GitHub](github)
+ ## [GitHub](1-github)
 
 Git is a free and open source Version Control System (VCS) designed to handle everything from small to very large projects with speed and efficiency.
 
