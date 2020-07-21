@@ -33,7 +33,7 @@ Welcome to the Data Structure and Algorithm course here U will learn :-
 Apply basic algorithmic techniques such as greedy algorithms, searching, sorting and dynamic programming to solve programming challenges.
 Apply graph and string algorithms to solve real-world challenges: finding shortest paths.
 
-## [Sorting](algorithms\sorting)
+## [Sorting](3-algorithms\sorting)
 
 1. Selection sort :: [Code](selection.c)
 
@@ -49,7 +49,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 
 7. Count sort :: [Code](count.c)
 
-## [Searching](algorithms\searching)
+## [Searching](3-algorithms\searching)
 
 1. Linear search :: [Code](linear-search.c)
 
@@ -59,7 +59,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 
 4. DFS :: [Code](depth-first-search.c)
 
- ## [Greedy Method](algorithms\greedy-method)
+ ## [Greedy Method](3-algorithms\greedy-method)
 
 1. Dijkstra algoritm :: [Code](dijkstra.c)
 
@@ -67,7 +67,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 
 3. Prim's algorithm :: [Code](prims.c)
 
-## [Dynamic Method](algorithms\dynamic-method)
+## [Dynamic Method](3-algorithms\dynamic-method)
 
 Files will be added soon.
 
