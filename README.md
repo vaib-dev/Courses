@@ -13,35 +13,35 @@ Welcome to the Data Structure and Algorithm course here U will learn :-
 
   You may be new to Data Structure or you have already Studied and Implemented Data Structures but still you feel you need to learn more about Data Structure in detail so that it helps you solve challenging problems and used Data Structure efficiently.Every Data Structure is discussed, analysed and implemented with a Practical line-by-line coding.
 
-### [Folder Content](DataStructure)
+### [Folder Content](datastructure)
 
 1. Linked List
    
-   [Code](Linklist.c)
+   [Code](linklist.c)
 
 2. Doublylinklist    
    
-   [Code](Doublylinklist.c)
+   [Code](doublylinklist.c)
 
 3. Graph    
    
-   [Code](Graph.c)
+   [Code](graph.c)
 
 4. Heap   
    
-   [Code](Heap.c)   
+   [Code](heap.c)   
 
 5. Queue   
    
-   [Code](Queue.c)
+   [Code](queue.c)
 
 6. Stack 
 
-    [Code](Stack.c)
+    [Code](stack.c)
 
 7. Trees 
 
-   [Code](Treetraversal.c)
+   [Code](treetraversal.c)
 
 
 
@@ -49,11 +49,11 @@ Welcome to the Data Structure and Algorithm course here U will learn :-
  
 Apply basic algorithmic techniques such as greedy algorithms, searching, sorting and dynamic programming to solve programming challenges.
 Apply graph and string algorithms to solve real-world challenges: finding shortest paths.
-### [Folder Content](Algorithms)
+### [Folder Content](algorithms)
 
 ## Sorting
 
-### [Folder Content](Algorithms\sorting)
+### [Folder Content](algorithms\sorting)
 
 1. Selection sort   
 
@@ -85,7 +85,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 
 ## Searching
 
-### [Folder Content](Algorithms\searching)
+### [Folder Content](algorithms\searching)
 
 1. Linear search
    
@@ -124,7 +124,7 @@ Git is a free and open source Version Control System (VCS) designed to handle ev
 
 Throughout this course, you'll learn about Git's core functionality so you can understand how and why it’s used in organizations. We’ll look into both basic and more advanced features, like branches, pull request and merging. We'll demonstrate how having a working knowledge of a VCS like Git can be a lifesaver in emergency situations or when debugging. And then we'll explore how to use a VCS to work with others through remote repositories, like the ones provided by GitHub.
 
-### [Folder Content](GItHub)
+### [Folder Content](github)
 
 1. [Aboutgit](aboutgit.md)
 

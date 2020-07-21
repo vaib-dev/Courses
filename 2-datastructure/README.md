@@ -1,12 +1,12 @@
 # Data Structures
 
-<p style="color:orange">A data structure is a special way of organizing and storing data in a computer so that it can be used efficiently. Array, LinkedList, Stack, Queue, Tree, Graph etc are all data structures that stores the data in a special way so that we can access and use the data efficiently.</p>
+A data structure is a special way of organizing and storing data in a computer so that it can be used efficiently. Array, LinkedList, Stack, Queue, Tree, Graph etc are all data structures that stores the data in a special way so that we can access and use the data efficiently.
 
 
-<p style="color:blue">As we have discussed above, anything that can store data can be called as a data structure, hence Integer, Float, Boolean, Char etc, all are data structures. They are known as Primitive Data Structures.  
-</p>
+As we have discussed above, anything that can store data can be called as a data structure, hence Integer, Float, Boolean, Char etc, all are data structures. They are known as Primitive Data Structures.  
 
-<p style="color:green">Then we also have some complex Data Structures, which are used to store large and connected data. Some example of Abstract Data Structure are :</p>
+
+Then we also have some complex Data Structures, which are used to store large and connected data. Some example of Abstract Data Structure are :
 
 1. Linked List
 2. Graph
@@ -15,8 +15,8 @@
 5. Stack
 6. Tree
 
-<p style="color:purple">All these data structures allow us to perform different operations on data. We select these data structures based on which type of operation is required. We will look into these data structures one by one in more details below : -
-</p>
+All these data structures allow us to perform different operations on data. We select these data structures based on which type of operation is required. We will look into these data structures one by one in more details below : -
+
 
 ## 1. Link List
 
