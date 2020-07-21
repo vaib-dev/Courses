@@ -9,11 +9,10 @@ Welcome to the Data Structure and Algorithm course here U will learn :-
 1. Implementation of Data Structures using C .
 1. Working with Git and GitHub from scratch.
 
-## [Data Structures](datastructure)
+## [Data Structures](2-datastructure)
 
   You may be new to Data Structure or you have already Studied and Implemented Data Structures but still you feel you need to learn more about Data Structure in detail. Every Data Structure is discussed, analysed and implemented with a Practical line-by-line coding.
 
-### [Folder Content](datastructure)
 
 1. Linked List :: [Code](linklist.c)
 
