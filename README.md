@@ -9,122 +9,73 @@ Welcome to the Data Structure and Algorithm course here U will learn :-
 1. Implementation of Data Structures using C .
 1. Working with Git and GitHub from scratch.
 
-## Data Structures
+## [Data Structures](datastructure)
 
-  You may be new to Data Structure or you have already Studied and Implemented Data Structures but still you feel you need to learn more about Data Structure in detail so that it helps you solve challenging problems and used Data Structure efficiently.Every Data Structure is discussed, analysed and implemented with a Practical line-by-line coding.
+  You may be new to Data Structure or you have already Studied and Implemented Data Structures but still you feel you need to learn more about Data Structure in detail. Every Data Structure is discussed, analysed and implemented with a Practical line-by-line coding.
 
 ### [Folder Content](datastructure)
 
-1. Linked List
-   
-   [Code](linklist.c)
+1. Linked List :: [Code](linklist.c)
 
-2. Doublylinklist    
-   
-   [Code](doublylinklist.c)
+2. Doublylinklist ::   [Code](doublylinklist.c)
 
-3. Graph    
-   
-   [Code](graph.c)
+3. Graph :: [Code](graph.c)
 
-4. Heap   
-   
-   [Code](heap.c)   
+4. Heap ::   [Code](heap.c)   
 
-5. Queue   
-   
-   [Code](queue.c)
+5. Queue ::   [Code](queue.c)
 
-6. Stack 
+6. Stack ::   [Code](stack.c)
 
-    [Code](stack.c)
+7. Trees ::  [Code](treetraversal.c)
 
-7. Trees 
-
-   [Code](treetraversal.c)
-
-
-
- ## Algorithms  
+ ## [Algorithms](algorithms)  
  
 Apply basic algorithmic techniques such as greedy algorithms, searching, sorting and dynamic programming to solve programming challenges.
 Apply graph and string algorithms to solve real-world challenges: finding shortest paths.
-### [Folder Content](algorithms)
 
-## Sorting
+## [Sorting](algorithms\sorting)
 
-### [Folder Content](algorithms\sorting)
+1. Selection sort :: [Code](selection.c)
 
-1. Selection sort   
+2. Insertion sort :: [Code](insertion.c)
 
-   [Code](selection.c)
+3. Bubble sort :: [Code](bubble.c)
 
-2. Insertion sort
-    
-    [Code](insertion.c)
+4. Quick sort :: [Code](quick.c)   
 
-3. Bubble sort
-   
-    [Code](bubble.c)
+5. Merge sort :: [Code](merge.c)
 
-4. Quick sort
-   
-   [Code](quick.c)   
+6. Radix sort :: [Code](radix.c)
 
-5. Merge sort
-   
-   [Code](merge.c)
+7. Count sort :: [Code](count.c)
 
-6. Radix sort
-   
-   [Code](radix.c)
+## [Searching](algorithms\searching)
 
-7. Count sort
-   
-   [Code](count.c)
+1. Linear search :: [Code](linear-search.c)
 
-## Searching
+2. Binary search :: [Code](binary-search.c)
 
-### [Folder Content](algorithms\searching)
+3. BFS :: [Code](breadth-first-search.c)
 
-1. Linear search
-   
-   [Code](linear-search.c)
+4. DFS :: [Code](depth-first-search.c)
 
-2. Binary search
-   
-    [Code](binary-search.c)
+ ## [Greedy Method](algorithms\greedy-method)
 
-3. BFS
-   
-    [Code](breadth-first-search.c)
+1. Dijkstra algoritm :: [Code](dijkstra.c)
 
-4. DFS
-   
-   [Code](depth-first-search.c)
+2. Kruskal's algorithm :: [Code](kruskal.c)
 
- ## Greedy Method
+3. Prim's algorithm :: [Code](prims.c)
 
-1. Dijkstra algoritm
-   
-   [Code](dijkstra.c)
+## [Dynamic Method](algorithms\dynamic-method)
 
-2. Kruskal's algorithm
-   
-    [Code](kruskal.c)
-
-3. Prim's algorithm
-   
-    [Code](prims.c)
+Files will be added soon.
 
 
- ## GitHub
+ ## [GitHub](github)
 
 Git is a free and open source Version Control System (VCS) designed to handle everything from small to very large projects with speed and efficiency.
-
-Throughout this course, you'll learn about Git's core functionality so you can understand how and why it’s used in organizations. We’ll look into both basic and more advanced features, like branches, pull request and merging. We'll demonstrate how having a working knowledge of a VCS like Git can be a lifesaver in emergency situations or when debugging. And then we'll explore how to use a VCS to work with others through remote repositories, like the ones provided by GitHub.
-
-### [Folder Content](github)
 
 1. [Aboutgit](aboutgit.md)
 
@@ -151,8 +102,6 @@ Throughout this course, you'll learn about Git's core functionality so you can u
 9. [Fork](fork.md)
 
 
-
-
 ## Features of Course
 1. All source code available.
 
@@ -161,14 +110,6 @@ Throughout this course, you'll learn about Git's core functionality so you can u
 4. Short and effecient programs.
 5. Good quality of code.
 6. Complete GitHub tutorial folder.
-
-## Who this course is for:
-1. Developer who want to get Deepest knowledge of Data Structure
-2. Undergraduate who want to Learn Data Structures Perfectly
-3. Anyone interested in using source control and specifically Git and GitHub
-4. Software engineers, developers, programmers new to Git or GitHub
-5. IT Managers or technical leads considering Git or GitHub for version control on their team
-6. Freelancers or other creative professionals
 
 ## Support
 For any query plz mail at vaibhavpratapsingh22@gmail.com
