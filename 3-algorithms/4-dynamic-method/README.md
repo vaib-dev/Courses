@@ -12,6 +12,19 @@ The image above says a lot about Dynamic Programming. So, is repeating the thing
 
 The optimization problems expect you to select a feasible solution, so that the value of the required function is minimized or maximized. Combinatorial problems expect you to figure out the number of ways to do something, or the probability of some event happening.
 
+## Advantages
+1. For the various problems in area such as inventory, chemical engineering design , and control theory, 
+   Dynamic Programming is the only technique used to solve the problem.
+
+2. It is well suited for multi-stage or multi-point or sequential decision process.
+
+3. It is suitable for linear or non-linear problems, discrete or continuous variables, and deterministic problems.
+
+## Disadvantages
+1. No general formation of Dynamic Program is available; every problem has to be solving in its own way.
+
+2. Dividing problem in sub problem and storing inter mediate results consumes memory.
+
 ## Where Dynamic Approach is used :
 
 ![dynmaic](https://cdn.journaldev.com/wp-content/uploads/2020/04/Dynamic-programming.png)
