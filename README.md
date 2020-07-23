@@ -33,45 +33,45 @@ Welcome to the Data Structure and Algorithm course here U will learn :-
 Apply basic algorithmic techniques such as greedy algorithms, searching, sorting and dynamic programming to solve programming challenges.
 Apply graph and string algorithms to solve real-world challenges: finding shortest paths.
 
-## [Sorting](3-algorithms\sorting)
+## [Sorting](3-algorithms\1-sorting)
 
-1. Selection sort :: [Code](3-algorithms\sorting\1-selection.c)
+1. Selection sort :: [Code](3-algorithms\1-sorting\1-selection.c)
 
-2. Insertion sort :: [Code](3-algorithms\sorting\2-insertion.c)
+2. Insertion sort :: [Code](3-algorithms\1-sorting\2-insertion.c)
 
-3. Bubble sort :: [Code](3-algorithms\sorting\3-bubble.c)
+3. Bubble sort :: [Code](3-algorithms\1-sorting\3-bubble.c)
 
-4. Quick sort :: [Code](3-algorithms\sorting\4-quick.c)   
+4. Quick sort :: [Code](3-algorithms\1-sorting\4-quick.c)   
 
-5. Merge sort :: [Code](3-algorithms\sorting\5-merge.c)
+5. Merge sort :: [Code](3-algorithms\1-sorting\5-merge.c)
 
-6. Radix sort :: [Code](3-algorithms\sorting\6-radix.c)
+6. Radix sort :: [Code](3-algorithms\1-sorting\6-radix.c)
 
-7. Count sort :: [Code](3-algorithms\sorting\7-count.c)
+7. Count sort :: [Code](3-algorithms\1-sorting\7-count.c)
 
-## [Searching](3-algorithms\searching)
+## [Searching](3-algorithms\2-searching)
 
-1. Linear search :: [Code](3-algorithms\searching/1-linear-search.c)
+1. Linear search :: [Code](3-algorithms\2-searching/1-linear-search.c)
 
-2. Binary search :: [Code](3-algorithms\searching/2-binary-search.c)
+2. Binary search :: [Code](3-algorithms\2-searching/2-binary-search.c)
 
-3. BFS :: [Code](3-algorithms\searching/3-breadth-first-search.c)
+3. BFS :: [Code](3-algorithms\2-searching/3-breadth-first-search.c)
 
-4. DFS :: [Code](3-algorithms\searching/4-depth-first-search.c)
+4. DFS :: [Code](3-algorithms\2-searching/4-depth-first-search.c)
 
  ## [Greedy Method](3-algorithms\greedy-method)
 
-1. Dijkstra algoritm :: [Code](3-algorithms\greedy-method\1-dijkstra.c)
+1. Dijkstra algoritm :: [Code](3-algorithms\3-greedy-method\1-dijkstra.c)
 
-2. Kruskal's algorithm :: [Code](3-algorithms\greedy-method\2-kruskal.c)
+2. Kruskal's algorithm :: [Code](3-algorithms\3-greedy-method\2-kruskal.c)
 
-3. Prim's algorithm :: [Code](3-algorithms\greedy-method\3-prims.c)
+3. Prim's algorithm :: [Code](3-algorithms\3-greedy-method\3-prims.c)
 
 ## [Dynamic Method](3-algorithms\dynamic-method)
 
-1. Bellma-ford algorithm :: [Code](3-algorithms\dynamic-method\1-bellman-ford.c)
+1. Bellma-ford algorithm :: [Code](3-algorithms\4-dynamic-method\1-bellman-ford.c)
 
-2. Flyod-warshall algorithm :: [Code](3-algorithms\dynamic-method\2-flyod-warshall.c)
+2. Flyod-warshall algorithm :: [Code](3-algorithms\4-dynamic-method\2-flyod-warshall.c)
 
  ## [GitHub](1-github)
 
