@@ -57,7 +57,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 
 3. BFS
 
-4. DFS
+4. Depth-first search
 
  ## Greedy Method
 
