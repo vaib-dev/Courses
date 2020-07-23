@@ -33,7 +33,7 @@ Welcome to the Data Structure and Algorithm course here U will learn :-
 Apply basic algorithmic techniques such as greedy algorithms, searching, sorting and dynamic programming to solve programming challenges.
 Apply graph and string algorithms to solve real-world challenges: finding shortest paths.
 
-## [Sorting](3-algorithms\ 1-sorting)
+## [Sorting](3-algorithms\1-sorting)
 
 1. Selection sort :: [Code](3-algorithms\1-sorting\1-selection.c)
 
