@@ -14,7 +14,7 @@ Welcome to the Data Structure and Algorithm course here U will learn :-
   You may be new to Data Structure or you have already Studied and Implemented Data Structures but still you feel you need to learn more about Data Structure in detail. Every Data Structure is discussed, analysed and implemented with a Practical line-by-line coding.
 
 
-1. Linked List :: [Code](D:\git\Courses\2-datastructure\1-linklist.c)
+1. Linked List :: [Code](2-datastructure\1-linklist.c)
 
 2. Doublylinklist :: [Code](2-datastructure\2-doublylinklist.c)
 
