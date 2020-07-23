@@ -10,7 +10,7 @@ In this section u will cover the following topics
 4. [Dynamic Method](3-algoritms\4-dynamic-method)
 
 
-## For an algorithm to be useful, it must satisfy five properties:
+## Properties Of Algorithm :
 1. The inputs must be specified.
 2. The outputs must be specified.
 3. Definiteness - Definiteness means every statement of the algorithm should be clear and unambiguous.
@@ -18,14 +18,44 @@ In this section u will cover the following topics
 4. Finiteness - Finiteness means every algorithm should lead to some solution after certain number of steps.
 5. Effectiveness - All operations to be performed must be sufficiently basic that they can be done exactly and in finite length.
 
-## Example Algorithms
-Let us first take an example of a real-life situation for creating algorithm. Here is the algorithm for going to the market to purchase a pen.
+## Complexity Of Algorithm :
+Algorithm complexity is a measure which evaluates the order of the count of operations, performed by a given or algorithm as a function of the size of the input data. To put this simpler, complexity is a rough approximation of the number of steps necessary to execute an algorithm. When we evaluate complexity we speak of order of operation count, not of their exact count. For example if we have an order of N2 operations to process N elements, then N2/2 and 3*N2 are of one and the same quadratic order.
 
-![example](https://www.tutorialspoint.com/programming_methodologies/images/example_algorithms.jpg)
+Algorithm complexity is commonly represented with the O(f) notation, also known as asymptotic notation or “Big O notation”, where f is the function of the size of the input data.
 
-**Step 4 in this algorithm is in itself a complete task and separate algorithm can be written for it.** 
+![complexity](https://he-s3.s3.amazonaws.com/media/uploads/c950295.png)
 
-Let us now create an algorithm to check whether a number is positive or negative.
+## Steps For Good Algorithm :
+1. Input and output should be defined precisely.
+2. Each step in the algorithm should be clear and unambiguous.
+3. Algorithms should be most effective among many different ways to solve a problem.
+4. An algorithm shouldn't include computer code. 5. Instead, the algorithm should be written in such a way that it can be used in different programming languages.
 
-![example](https://www.tutorialspoint.com/programming_methodologies/images/example_algorithms_1.jpg)
+## Basic Examples Of Algorithms :
+**1. Write an algorithm to add two numbers entered by the user.**
 
+    Step 1: Start
+
+    Step 2: Declare variables num1, num2 and sum. 
+    Step 3: Read values num1 and num2. 
+    Step 4: Add num1 and num2 and assign the result to sum.
+        sum←num1+num2 
+    Step 5: Display sum 
+    Step 6: Stop
+
+**2. Write an algorithm to find the largest among three different numbers entered by the user.**
+
+    Step 1: Start
+    Step 2: Declare variables a,b and c.
+    Step 3: Read variables a,b and c.
+    Step 4: If a > b
+           If a > c
+              Display a is the largest number.
+           Else
+              Display c is the largest number.
+        Else
+           If b > c
+              Display b is the largest number.
+           Else
+              Display c is the greatest number.  
+   Step 5: Stop

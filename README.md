@@ -14,93 +14,86 @@ Welcome to the Data Structure and Algorithm course here U will learn :-
   You may be new to Data Structure or you have already Studied and Implemented Data Structures but still you feel you need to learn more about Data Structure in detail. Every Data Structure is discussed, analysed and implemented with a Practical line-by-line coding.
 
 
-1. Linked List :: [Code](2-datastructure\1-linklist.c)
+1. Linked List 
 
-2. Doublylinklist :: [Code](2-datastructure\2-doublylinklist.c)
+2. Doublylinklist 
 
-3. Graph :: [Code](2-datastructure\3-graph.c)
+3. Graph 
 
-4. Heap ::   [Code](2-datastructure\4-heap.c)   
+4. Heap   
 
-5. Queue ::   [Code](2-datastructure\5-queue.c)
+5. Queue 
 
-6. Stack ::   [Code](2-datastructure\6-stack.c)
+6. Stack 
 
-7. Trees ::  [Code](2-datastructure\7-treetraversal.c)
+7. Trees 
 
  ## [Algorithms](3-algorithms)  
  
 Apply basic algorithmic techniques such as greedy algorithms, searching, sorting and dynamic programming to solve programming challenges.
 Apply graph and string algorithms to solve real-world challenges: finding shortest paths.
 
-## [Sorting](3-algorithms\1-sorting)
+## Sorting
 
-1. Selection sort :: [Code](3-algorithms\1-sorting\1-selection.c)
+1. Selection sort 
 
-2. Insertion sort :: [Code](3-algorithms\1-sorting\2-insertion.c)
+2. Insertion sort 
 
-3. Bubble sort :: [Code](3-algorithms\1-sorting\3-bubble.c)
+3. Bubble sort 
 
-4. Quick sort :: [Code](3-algorithms\1-sorting\4-quick.c)   
+4. Quick sort 
 
-5. Merge sort :: [Code](3-algorithms\1-sorting\5-merge.c)
+5. Merge sort 
 
-6. Radix sort :: [Code](3-algorithms\1-sorting\6-radix.c)
+6. Radix sort 
 
-7. Count sort :: [Code](3-algorithms\1-sorting\7-count.c)
+7. Count sort 
 
-## [Searching](3-algorithms\2-searching)
+## Searching
 
-1. Linear search :: [Code](3-algorithms\2-searching/1-linear-search.c)
+1. Linear search
 
-2. Binary search :: [Code](3-algorithms\2-searching/2-binary-search.c)
+2. Binary search
 
-3. BFS :: [Code](3-algorithms\2-searching/3-breadth-first-search.c)
+3. BFS
 
-4. DFS :: [Code](3-algorithms\2-searching/4-depth-first-search.c)
+4. DFS
 
- ## [Greedy Method](3-algorithms\greedy-method)
+ ## Greedy Method
 
-1. Dijkstra algoritm :: [Code](3-algorithms\3-greedy-method\1-dijkstra.c)
+1. Dijkstra algoritm 
 
-2. Kruskal's algorithm :: [Code](3-algorithms\3-greedy-method\2-kruskal.c)
+2. Kruskal's algorithm
 
-3. Prim's algorithm :: [Code](3-algorithms\3-greedy-method\3-prims.c)
+3. Prim's algorithm 
 
-## [Dynamic Method](3-algorithms\dynamic-method)
+## Dynamic Method
 
-1. Bellma-ford algorithm :: [Code](3-algorithms\4-dynamic-method\1-bellman-ford.c)
+1. Bellma-ford algorithm
 
-2. Flyod-warshall algorithm :: [Code](3-algorithms\4-dynamic-method\2-flyod-warshall.c)
+2. Flyod-warshall algorithm
 
  ## [GitHub](1-github)
 
 Git is a free and open source Version Control System (VCS) designed to handle everything from small to very large projects with speed and efficiency.
 
-1. [Aboutgit](1-github\1-aboutgit.md)
+1. Aboutgit
 
+2. Repository
 
-2. [Repository](1-github\2-repository.md)
+3. Clone
 
+4. Commit   
 
-3. [Clone](1-github\3-clone.md)
+5. Pull and Push
 
+6. Branch
 
-4. [Commit](1-github\4-commit.md)
-   
+7. Creating PR
 
-5. [Pull and Push](1-github\5-pull-and-push.md)
+8. Merge
 
-
-6. [Branch](1-github\6-branch.md)
-
-
-7. [Creating PR](1-github\7-creatingPR.md)
-
-8. [Merge](1-github\8-merge.md)
-
-9. [Fork](1-github\9-fork.md)
-
+9. Fork
 
 ## Features of Course
 1. All source code available.
