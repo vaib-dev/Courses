@@ -14,92 +14,86 @@ Welcome to the Data Structure and Algorithm course here U will learn :-
   You may be new to Data Structure or you have already Studied and Implemented Data Structures but still you feel you need to learn more about Data Structure in detail. Every Data Structure is discussed, analysed and implemented with a Practical line-by-line coding.
 
 
-1. Linked List :: [Code](linklist.c)
+1. Linked List 
 
-2. Doublylinklist ::   [Code](doublylinklist.c)
+2. Doublylinklist 
 
-3. Graph :: [Code](graph.c)
+3. Graph 
 
-4. Heap ::   [Code](heap.c)   
+4. Heap   
 
-5. Queue ::   [Code](queue.c)
+5. Queue 
 
-6. Stack ::   [Code](stack.c)
+6. Stack 
 
-7. Trees ::  [Code](treetraversal.c)
+7. Trees 
 
  ## [Algorithms](3-algorithms)  
  
 Apply basic algorithmic techniques such as greedy algorithms, searching, sorting and dynamic programming to solve programming challenges.
 Apply graph and string algorithms to solve real-world challenges: finding shortest paths.
 
-## [Sorting](3-algorithms\sorting)
+## Sorting
 
-1. Selection sort :: [Code](selection.c)
+1. Selection sort 
 
-2. Insertion sort :: [Code](insertion.c)
+2. Insertion sort 
 
-3. Bubble sort :: [Code](bubble.c)
+3. Bubble sort 
 
-4. Quick sort :: [Code](quick.c)   
+4. Quick sort 
 
-5. Merge sort :: [Code](merge.c)
+5. Merge sort 
 
-6. Radix sort :: [Code](radix.c)
+6. Radix sort 
 
-7. Count sort :: [Code](count.c)
+7. Count sort 
 
-## [Searching](3-algorithms\searching)
+## Searching
 
-1. Linear search :: [Code](linear-search.c)
+1. Linear search
 
-2. Binary search :: [Code](binary-search.c)
+2. Binary search
 
-3. BFS :: [Code](breadth-first-search.c)
+3. Breadth-first search
 
-4. DFS :: [Code](depth-first-search.c)
+4. Depth-first search
 
- ## [Greedy Method](3-algorithms\greedy-method)
+ ## Greedy Method
 
-1. Dijkstra algoritm :: [Code](dijkstra.c)
+1. Dijkstra algoritm 
 
-2. Kruskal's algorithm :: [Code](kruskal.c)
+2. Kruskal's algorithm
 
-3. Prim's algorithm :: [Code](prims.c)
+3. Prim's algorithm 
 
-## [Dynamic Method](3-algorithms\dynamic-method)
+## Dynamic Method
 
-Files will be added soon.
+1. Bellma-ford algorithm
 
+2. Flyod-warshall algorithm
 
  ## [GitHub](1-github)
 
 Git is a free and open source Version Control System (VCS) designed to handle everything from small to very large projects with speed and efficiency.
 
-1. [Aboutgit](aboutgit.md)
+1. Aboutgit
 
+2. Repository
 
-2. [Repository](repository.md)
+3. Clone
 
+4. Commit   
 
-3. [Clone](clone.md)
+5. Pull and Push
 
+6. Branch
 
-4. [Commit](commit.md)
-   
+7. Creating PR
 
-5. [Pull and Push](pull-and-push.md)
+8. Merge
 
-
-6. [Branch](branch.md)
-
-
-7. [Creating PR](creatingPR.md)
-
-8. [Merge](merge.md)
-
-9. [Fork](fork.md)
-
+9. Fork
 
 ## Features of Course
 1. All source code available.
