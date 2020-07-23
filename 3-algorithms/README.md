@@ -58,4 +58,4 @@ Algorithm complexity is commonly represented with the O(f) notation, also known 
               Display b is the largest number.
            Else
               Display c is the greatest number.  
-   Step 5: Stop
+    Step 5: Stop
