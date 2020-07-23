@@ -55,7 +55,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 
 2. Binary search
 
-3. BFS
+3. Breadth-first search
 
 4. Depth-first search
 
