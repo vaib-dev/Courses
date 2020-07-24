@@ -1,47 +1,48 @@
 #include<stdio.h>
 #include<conio.h>
+#include<stdlib.h>
 
 int main()
 {
-    int coins[] = {1,2,5,10,20,50,100,500,1000};
-    int value, i;
-    printf("Enter the amount:");
-    scanf("%d",&value);
-
+    int coins[] = {1,2,5,10,20,50,100,500,1000,5000,10000,100000,1000000};
     int size = sizeof(coins)/sizeof(coins[0]);
+    printf("Size is::%d\n",size);
+    int value, i;
+    printf("Enter the amount in Rs:");
+    scanf("%d",&value);
+    if(value<=0)
+    {
+        printf("\nWrong input");
 
-    findminCoins(coins,size,value);
+    }    
+    else
+    {
+        findminCoins(coins,size,value);
+    }
     
-
+    
+ 
+  
 }
 
 int findminCoins(int coins[], int size,  int value)
 {
-    int i,countt=0, count = 0,arr=2;
-    int low=coins[0];
-    int high=coins[size-1];
+    int component[100],j,count=0,i;
+    for(i=size-1;i>=0;i--)
+    {
 
-        while(low<high)
+        while(value>=coins[i])
         {
-           int amount=low+high;
-        if(amount==value)
-        {
-        printf("U need %d and %d note",high,low);
-        break;
-        }
-        else if(amount<value)
-        {
-            low=coins[count+1];
+            value=value-coins[i];
+            component[j]=coins[i];
+            j++;
             count++;
         }
-        else if(amount>value)
-        {
-            high=coins[size-arr];
-        arr++;
-        }
-        if(value == 0)
-            break;
-        }
-
+    }
+    for(i=0;i<j;i++)
+    {
+       printf(" %d",component[i]);
+    }
+    printf("\n number of notes=%d",count);
 }
 
