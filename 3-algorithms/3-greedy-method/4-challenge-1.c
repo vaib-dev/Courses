@@ -6,13 +6,13 @@ int main()
 {
     int coins[] = {1,2,5,10,20,50,100,500,1000,5000,10000,100000,1000000};
     int size = sizeof(coins)/sizeof(coins[0]);
-    printf("Size is::%d\n",size);
+    printf("Array Size is::%d\n",size);
     int value, i;
     printf("Enter the amount in Rs:");
     scanf("%d",&value);
     if(value<=0)
     {
-        printf("\nWrong input");
+        printf("\nPlease enter amount greater than zero");
 
     }    
     else
@@ -39,9 +39,10 @@ int findminCoins(int coins[], int size,  int value)
             count++;
         }
     }
+    printf("Notes u need are:\n");
     for(i=0;i<j;i++)
     {
-       printf(" %d",component[i]);
+       printf(" %d\t",component[i]);
     }
     printf("\n number of notes=%d",count);
 }
