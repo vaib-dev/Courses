@@ -32,3 +32,8 @@ The greedy method is quite powerful and works well for a wide range of problems.
 1. Kruskal's Algorithm
 2. Prim's Algorithm
 2. Dijkstra’s algorithm for shortest paths from a single source
+
+## Challenges
+
+### challenge-1: Find Minimum number of Coins
+Given a value V, if we want to make a change for V Rs, and we have an infinite supply of each of the denominations in Indian currency, i.e., we have an infinite supply of { 1, 2, 5, 10, 20, 50, 100, 500, 1000} valued coins/notes, what is the minimum number of coins and/or notes needed to make the change?

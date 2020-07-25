@@ -35,7 +35,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 
 ## Sorting
 
-1. Selection sort 
+1. Selection sort
 
 2. Insertion sort 
 
@@ -59,6 +59,8 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 
 4. Depth-first search
 
+5. Hashing
+
  ## Greedy Method
 
 1. Dijkstra algoritm 
@@ -74,8 +76,6 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 2. Flyod-warshall algorithm
 
  ## [GitHub](1-github)
-
-Git is a free and open source Version Control System (VCS) designed to handle everything from small to very large projects with speed and efficiency.
 
 1. Aboutgit
 
