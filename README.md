@@ -1,6 +1,6 @@
 # Courses
 
-Welcome to the Data Structure and Algorithm course here U will learn :-
+Welcome to the GitHub , Data Structure and Algorithm course here U will learn :-
 
 1. Various Popular Data Structures and their Algorithms.
 1. Develop your Analytical skills on Data Structure and use then efficiently.
@@ -8,6 +8,26 @@ Welcome to the Data Structure and Algorithm course here U will learn :-
 1. Learn about various Sorting and Searching Algorithms
 1. Implementation of Data Structures using C .
 1. Working with Git and GitHub from scratch.
+
+## [GitHub](1-github)
+
+1. Aboutgit
+
+2. Repository
+
+3. Clone
+
+4. Commit   
+
+5. Pull and Push
+
+6. Branch
+
+7. Creating PR
+
+8. Merge
+
+9. Fork
 
 ## [Data Structures](2-datastructure)
 
@@ -33,7 +53,7 @@ Welcome to the Data Structure and Algorithm course here U will learn :-
 Apply basic algorithmic techniques such as greedy algorithms, searching, sorting and dynamic programming to solve programming challenges.
 Apply graph and string algorithms to solve real-world challenges: finding shortest paths.
 
-## Sorting
+### Sorting
 
 1. Selection sort
 
@@ -49,7 +69,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 
 7. Count sort 
 
-## Searching
+### Searching
 
 1. Linear search
 
@@ -61,7 +81,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 
 5. Hashing
 
- ## Greedy Method
+### Greedy Method
 
 1. Dijkstra algoritm 
 
@@ -69,35 +89,22 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 
 3. Prim's algorithm 
 
-## Dynamic Method
+### Dynamic Method
 
 1. Bellma-ford algorithm
 
 2. Flyod-warshall algorithm
 
- ## [GitHub](1-github)
+### Time Complexity Using Big-O Notation (.md file)
 
-1. Aboutgit
+1. What is Big-O notation
+2. Types of Big-O notation
+3. Complexity chart
+4. Big-O of all algorithms
 
-2. Repository
-
-3. Clone
-
-4. Commit   
-
-5. Pull and Push
-
-6. Branch
-
-7. Creating PR
-
-8. Merge
-
-9. Fork
 
 ## Features of Course
 1. All source code available.
-
 2. Compatible with every compiler.
 3. Easy to understand.
 4. Short and effecient programs.
