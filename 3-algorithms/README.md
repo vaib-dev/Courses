@@ -8,7 +8,7 @@ In this section u will cover the following topics
 2. [Searching Algorithms](2-searching)
 3. [Greedy Method](3-greedy-method)
 4. [Dynamic Method](4-dynamic-method)
-5. [Time-complexity](5-time-complexity.md)
+5. [Time Complexity](5-time-complexity.md)
 
 
 ## Properties Of Algorithm :
