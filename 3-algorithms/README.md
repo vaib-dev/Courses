@@ -4,11 +4,11 @@ An algorithm (pronounced AL-go-rith-um) is a procedure or formula for solving a 
 
 In this section u will cover the following topics 
 
-1. [Sorting Algorithms](3-algoritms\1-sorting)
-2. [Searching Algorithms](3-algoritms\2-searching)
-3. [Greedy Method](3-algoritms\3-greedy-method)
-4. [Dynamic Method](3-algoritms\4-dynamic-method)
-5. [Time-complexity](5-time-complexity.md)
+1. [Sorting Algorithms](1-sorting)
+2. [Searching Algorithms](2-searching)
+3. [Greedy Method](3-greedy-method)
+4. [Dynamic Method](4-dynamic-method)
+5. [Time Complexity](5-time-complexity.md)
 
 
 ## Properties Of Algorithm :
