@@ -1,0 +1,101 @@
+#  Definition of Software
+
+Software means a collection of programs whose objective is to enhance the capabilities of the hardware. So software can be defned  as :
+
+**Software is a collection of computer programs , procedure rules and associated documentation and data.**
+
+## Program Versus Software
+It is clear software is not merely collection of computer programs. Any program is a subset of software and it becomes a software ony if documentation and operating procedure manuals are prepared.
+
+There are three mai components of software :
+
+1. Program 
+2. Documentaion
+3. Operating Procedures
+
+Hence ,
+
+**Software= Program + Documentaion + Operating Procedures**
+
+## Software Crisis
+Software Crisis is a term used in computer science for the difficulty of writing useful and efficient computer programs in the required time .Software crisis was due to using same workforce, same methods, same tools even though rapidly increasing in software demand, complexity of software and software challenges. With increase in the complexity of software, many software problems arise because existing methods were insufficient.
+
+![crisis](https://media.geeksforgeeks.org/wp-content/uploads/20190318213021/Untitled-Diagram-35.png)
+
+### Causes of Software Crisis :
+
+The cost of owning and maintaining software was as expensive as developing the software
+At that time Projects was running over-time
+At that time Software was very inefficient
+The quality of software was low quality
+Software often did not meet requirements
+The average software project overshoots its schedule by half
+At that time Software was never delivered
+Solution of Software Crisis:
+There is no single solution to the crisis.one possible solution of software crisis is Software Engineering because software engineering is a systematic, disciplined and quantifiable approach. For preventing software crisis, there are some guidelines:
+
+1. Reduction in software over-budget
+2. The quality of software must be high
+3. Less time needed for software project
+4. Experience working team member on software project
+5. Software must be delivered on time
+
+# Software Characterstics
+Software Characteristics are classified into six major components:
+
+![components](https://media.geeksforgeeks.org/wp-content/uploads/20190321145114/Untitled-Diagram-91.png)
+
+These components are described below:
+
+### 1. Functionality:
+It refers to the degree of performance of the software against its intended purpose.
+Required functions are:
+![functionality](https://media.geeksforgeeks.org/wp-content/uploads/20190321135958/Untitled-Diagram31.png)
+
+### 2. Reliability:
+A set of attribute that bear on capability of software to maintain its level of performance under the given condition for a stated period of time.
+![reliability](https://media.geeksforgeeks.org/wp-content/uploads/20190321141051/Untitled-Diagram-42.png)
+### 3. Efficiency:
+It refers to the ability of the software to use system resources in the most effective and efficient manner.the software should make effective use of storage space and executive command as per desired timing requirement.
+![efficiency](https://media.geeksforgeeks.org/wp-content/uploads/20190321141051/Untitled-Diagram-42.png)
+
+### 4. Usability:
+It refers to the extent to which the software can be used with ease.the amount of effort or time required to learn how to use the software.
+![usability](https://media.geeksforgeeks.org/wp-content/uploads/20190321142138/Untitled-Diagram-61.png)
+
+### 5. Maintainability:
+It refers to the ease with which the modifications can be made in a software system to extend its functionality, improve its performance, or correct errors.
+![maintainability](https://media.geeksforgeeks.org/wp-content/uploads/20190321142611/Untitled-Diagram-71.png)
+
+### 6. Portability:
+A set of attribute that bear on the ability of software to be transferred from one environment to another, without or minimum changes.
+![portability](https://media.geeksforgeeks.org/wp-content/uploads/20190321143347/Untitled-Diagram-81.png)
+
+
+
+# Definition of Software Engineering
+
+Software Engeneering is discipline whose aim is the production of fault free software that satisfy the user's need and that is delivered on time and within the budget.
+
+From the above definition we can say that the **aim or goal** of software engeneering is to produce software within following attributes :
+
+1. High quality
+2. Low cost
+3. Within time
+4. Consistency
+5. Efficiency
+6. Extensibility 
+7. Satisfying the requirements
+
+## Elements of Software Engeneering
+
+Elements of Software Engeneering are :
+
+1. Methods : A method is a procedure for producing some results.
+2. Procedures : A procedure is the combination of tools and menthods to produce a particular product. For example Algorihtm.
+3. Tools : Tools are used to increase 
+accuracy , efficiency , productivity , quality of the end product.
+4. Paradigms : Paradigms reffer to particular approaches or philosipphies for building software . For example object oriented paradigm .
+
+
+       
