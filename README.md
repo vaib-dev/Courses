@@ -102,7 +102,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 3. Complexity chart
 4. Big-O of all algorithms
 
-## Software Engineering
+## [Software Engineering](4-software-engineering)
 1. Introduction
 
 
