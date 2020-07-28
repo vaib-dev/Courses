@@ -48,7 +48,7 @@ Welcome to the GitHub , Data Structure and Algorithm course here U will learn :-
 
 7. Trees 
 
- ## [Algorithms](3-algorithms)  
+## [Algorithms](3-algorithms)  
  
 Apply basic algorithmic techniques such as greedy algorithms, searching, sorting and dynamic programming to solve programming challenges.
 Apply graph and string algorithms to solve real-world challenges: finding shortest paths.
@@ -101,6 +101,9 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 2. Types of Big-O notation
 3. Complexity chart
 4. Big-O of all algorithms
+
+## Software Engineering
+1. Introduction
 
 
 ## Features of Course
