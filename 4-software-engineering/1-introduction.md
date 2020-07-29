@@ -53,7 +53,7 @@ Required functions are:
 ![functionality](https://media.geeksforgeeks.org/wp-content/uploads/20190321135958/Untitled-Diagram31.png)
 
 ### 2. Reliability:
-A set of attribute that bear on capability of software to maintain its level of performance under the given condition for a stated period of time.
+It refers to the ability of software to work which it is supposed to do . The software should continue to operate without interruption when one or more of its components fail. Software should become more reliable w.r.t time .
 ![reliability](https://media.geeksforgeeks.org/wp-content/uploads/20190321141051/Untitled-Diagram-42.png)
 ### 3. Efficiency:
 It refers to the ability of the software to use system resources in the most effective and efficient manner.the software should make effective use of storage space and executive command as per desired timing requirement.
@@ -98,4 +98,4 @@ accuracy , efficiency , productivity , quality of the end product.
 4. Paradigms : Paradigms reffer to particular approaches or philosipphies for building software . For example object oriented paradigm .
 
 
-       
+![edit2](https://img.shields.io/static/v1?label=Source&message=www.geeksforgeeks.org&color=orange)![edit](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=<COLOR>)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
