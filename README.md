@@ -10,19 +10,20 @@ Welcome to the GitHub , Data Structure and Algorithm course here U will learn :-
 1. Working with Git and GitHub from scratch.
 
 ## [GitHub](1-github)
-                     CONTENTS
+                       CONTENTS
 
-    1. Aboutgit     2. Repository      3. Clone
+    1. Aboutgit      2. Repository        3. Clone
 
-    4. Commit       5. Pull and Push     6. Branch
+    4. Commit        5. Pull and Push     6. Branch
 
-    7. Creating PR   8. Merge         9. Fork
+    7. Creating PR   8. Merge            9. Fork
 
 ## [Data Structures](2-datastructure)
 
   You may be new to Data Structure or you have already Studied and Implemented Data Structures but still you feel you need to learn more about Data Structure in detail. Every Data Structure is discussed, analysed and implemented with a Practical line-by-line coding.
 
                       CONTENTS
+                      
     1. Linked List  2. Doublylinklist  3. Graph 
 
     4. Heap         5. Queue           6. Stack
@@ -36,6 +37,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 
 ### Sorting
                   CONTENTS
+                  
     1. Selection sort   2. Insertion sort 
  
     3. Bubble sort      4. Quick sort 
@@ -47,6 +49,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 ### Searching
 
                       CONTENTS
+                      
     1. Linear search         2. Binary search
     
     3. Breadth-first search  4. Depth-first search
@@ -55,23 +58,26 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 
 ### Greedy Method
                       CONTENTS
+                      
     1. Dijkstra algoritm   2. Kruskal's algorithm
 
     3. Prim's algorithm 
 
 ### Dynamic Method
                          CONTENTS
+                         
      1. Bellma-ford algorithm  2. Flyod-warshall algorithm
 
 ### Time Complexity Using Big-O Notation (.md file)
                           CONTENTS
+                          
     1. What is Big-O notation   2. Types of Big-O notation
 
-    3. Complexity chart       4. Big-O of all 
-                                  algorithms
+    3. Complexity chart         4. Big-O of all algorithms
 
 ## [Software Engineering](4-software-engineering)
                         CONTENTS
+                        
          1. Introduction        2. Development Models
  
 
