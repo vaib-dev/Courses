@@ -68,7 +68,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
                          
      1. Bellma-ford algorithm  2. Flyod-warshall algorithm
 
-### Time Complexity Using Big-O Notation (.md file)
+### Time Complexity Using Big-O Notation
                           CONTENTS
                           
     1. What is Big-O notation   2. Types of Big-O notation
