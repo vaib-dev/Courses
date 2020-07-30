@@ -53,7 +53,7 @@ Required functions are:
 ![functionality](https://media.geeksforgeeks.org/wp-content/uploads/20190321135958/Untitled-Diagram31.png)
 
 ### 2. Reliability:
-It refers to the ability of software to work which it is supposed to do . The software should continue to operate without interruption when one or more of its components fail. Software should become more reliable w.r.t time .
+It refers to the ability of software to work which it is supposed to do. The software should continue to operate without interruption when one or more of its components fail. The software should become more reliable with respect to time.
 ![reliability](https://media.geeksforgeeks.org/wp-content/uploads/20190321141051/Untitled-Diagram-42.png)
 ### 3. Efficiency:
 It refers to the ability of the software to use system resources in the most effective and efficient manner.the software should make effective use of storage space and executive command as per desired timing requirement.
