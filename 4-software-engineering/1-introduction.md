@@ -98,7 +98,7 @@ accuracy , efficiency , productivity , quality of the end product.
 4. Paradigms : Paradigms reffer to particular approaches or philosipphies for building software . For example object oriented paradigm .
 
 ## Summary
-In this chapter we will look at the basics of software engineering .We will start with how a program is different from a software . Then we will head towards the software crisis . In software crisis we will learn its causes , characteristics . At last we will learn about the elments of software engineering .
+In this chapter, we had a look at the basics of software engineering. We started with how a program is different from software. Then we headed towards the software crisis where we learned its causes, characteristics. At last, we quickly went over the elements of software engineering.
  
 In the next chapter we will learn about Software Development Process Models .
 
