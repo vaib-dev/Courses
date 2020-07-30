@@ -60,7 +60,7 @@ User Interface – Defines the ways customers interact with the software, and ho
 
 ## Waterfall Model
 
-The waterfall model was introduced by Winston Royce in 1970 . In waterfall model all development activities are divided into various phases . The fases are organized in linear order. 
+The waterfall model was introduced by Winston Royce in 1970. In the waterfall model, all development activities are divided into various phases. The phases are organized in linear order. 
 Therefore each phase begins only when the previous phase has finished . Each phase has well-defined starting and ending points . The output of one phase are used as the input of the second phase that's why it s also called **linear sequential model** .
 
 Various phases of waterfall model are performed one after the other and fall like water falling from the sky that's why it is known as **Waterfall Model** .
