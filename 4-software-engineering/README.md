@@ -5,7 +5,7 @@ Software Engineering is the field of computer science that deals with the constr
 
 ## Chapter 1 - Introduction
 
-In this chapter we will look at the basics of software engineering like :
+It is about the basics of software engineering. We will start with how a program is different from software. Then we will head towards the software crisis. In the software crisis, we will learn its causes, characteristics. At last, we will learn about the elements of software engineering.
 
 1. Definition of Software
    * Program versus Software
@@ -13,4 +13,3 @@ In this chapter we will look at the basics of software engineering like :
 2. Software Characteristics
 3. Definition of Software Engineering
 4. Elements of Software Engineering
-
