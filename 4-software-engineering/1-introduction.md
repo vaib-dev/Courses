@@ -54,6 +54,7 @@ Required functions are:
 
 ### 2. Reliability:
 It refers to the ability of software to work which it is supposed to do. The software should continue to operate without interruption when one or more of its components fail. The software should become more reliable with respect to time.
+
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190321141051/Untitled-Diagram-42.png" width="300" height="100">
 
 ### 3. Efficiency:
