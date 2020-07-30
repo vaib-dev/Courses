@@ -97,5 +97,10 @@ Elements of Software Engeneering are :
 accuracy , efficiency , productivity , quality of the end product.
 4. Paradigms : Paradigms reffer to particular approaches or philosipphies for building software . For example object oriented paradigm .
 
+## Summary
+In this chapter we will look at the basics of software engineering .We will start with how a program is different from a software . Then we will head towards the software crisis . In software crisis we will learn its causes , characteristics . At last we will learn about the elments of software engineering .
+ 
+In the next chapter we will learn about Software Development Process Models .
 
-![edit2](https://img.shields.io/static/v1?label=Source&message=www.geeksforgeeks.org&color=orange)![edit](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=<COLOR>)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+![Chapter-1](https://img.shields.io/static/v1?label=Finished&message=Introduction-to-SE&color=blue)
+![edit2](https://img.shields.io/static/v1?label=Source&message=www.geeksforgeeks.org&color=orange)![edit](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=<COLOR>)
