@@ -1,4 +1,4 @@
-# Development Models
+# Chapter 2 - Software Development Process Models
 
 Like humans when take birth they pass through certain stages like adolescence to mature than to old age . Similarly from the time of inception to the time of implementation & maintainance the software undergoes several phases . 
 
@@ -8,7 +8,7 @@ A number of different SDLC methodologies are used today to guide professionals t
 
 ## Phases in Software development models
 
-![phases](https://ncube-digest.com/wp-content/uploads/2019/08/SDLC1.jpg)
+![phases](https://i0.wp.com/melsatar.blog/wp-content/uploads/2012/03/sdlc.png?fit=830%2C374&ssl=1)
 
 
 ### 1. Planning
@@ -69,27 +69,41 @@ A waterfall model has following phases as shown :
 
 ![waterfall](https://www.scnsoft.com/blog-pictures/custom-software-development/1-waterfall-.png)
 
-### Applictions of Waterfall Model 
+### Phases of Waterfall Model 
 
 1. **Requirements** : During this initial phase, the potential requirements of the application are methodically analyzed and written down in a specification document that serves as the basis for all future development. The result is typically a requirements document that defines what the application should do, but not how it should do it.
 2. **Analysis** : During this second stage, the system is analyzed in order to properly generate the models and business logic that will be used in the application.
 3. **Design**: This stage largely covers technical design requirements, such as programming language, data layers, services, etc. A design specification will typically be created that outlines how exactly the business logic covered in analysis will be technically implemented.
 4. **Implementation**: The actual source code is finally written in this fourth stage, implementing all models, business logic, and service integrations that were specified in the prior stages.
 5. **Testing**: During this stage, QA, beta testers, and all other testers systematically discover and report issues within the application that need to be resolved. It is not uncommon for this phase to cause a “necessary repeat” of the previous coding phase, in order for revealed bugs to be properly squashed.
-6. **Maintainance** : Once the system passes all the tests , it is deliveredd to the customer . Any modification made to the system after initial delivery are usually attributed to this phase . 
+6. **Maintainance** : Once the system passes all the tests , it is delivered to the customer . Any modification made to the system after initial delivery are usually attributed to this phase . 
 This phase involves creating computer - compatible files , training the staff , installing hardware and telecommunication network before the system is up and running . 
 
+### Applications
+In the olden days, Waterfall model was used to develop enterprise applications like Customer Relationship Management (CRM) systems, Human Resource Management Systems (HRMS), Supply Chain Management Systems, Inventory Management Systems etc.
+
+Waterfall model was used significantly in the development of software till the year 2000. Even after the Agile manifesto was published in 2001, Waterfall model continued to be used by many organization till the last decade.
+
+These days most project follow Agile Methodology
+which will be studying in the next chapter .
+
 ### Advantages
-1. It is a linear model
-2. It is simple one
-3. Easy to explain to the user
-4. Stages and activities are well - defined
-5. Widely used
+1. It is a linear model as output of one phase is used as the input of the second phase
+2. It is simple one due to the rigidity of the model – each phase has specific deliverables and a review process 
+3. Easy to explain to the user 
+4. Waterfall model works well for smaller projects where requirements are clearly defined and very well understood
 
 ### Disadvantages
-1. It is difficult to define all requirements at the beginning of a project .
-2. Cycle time too long .
-3. Disallows changes .
-4. We cannot go in backward direction while SDLC performs .
-5. If there is any mistake or any error in any phase then we cannot make good software .
+1. It is difficult to define all requirements at the beginning of a project 
+2. Cycle time too long as we have to work on all the phases and ia change comes in a last step we have to start from the beginning 
+3. We cannot go in backward direction while SDLC performs 
+5. If there is any mistake or any error in any phase then we cannot make good software 
+
+
+## Summary
+In this chapter we learned about  Software Development Process Models and there different phases through which we build a software . After this we have a detailed explanation of waterfall model with the help of diagram . Then we have waterfall model application , advantages , disadvantages .
+ 
+In the next chapter we will learn about Agile Methods .
+
+ ![Chapter-2](https://img.shields.io/static/v1?label=Finished&message=Software-Development-Process-Models&color=red) ![Chapter-2](https://img.shields.io/static/v1?label=Source&message=tryqa.com&color==orange)![Chapter-2](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=blue)
 
