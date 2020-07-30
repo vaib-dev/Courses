@@ -101,9 +101,8 @@ which will be studying in the next chapter .
 
 
 ## Summary
-In this chapter we learned about  Software Development Process Models and there different phases through which we build a software . After this we have a detailed explanation of waterfall model with the help of diagram . Then we have waterfall model application , advantages , disadvantages .
+In this chapter, we learned about Software Development Process Models and different phases through which we build software. After this, we had a detailed explanation of the waterfall model with the help of a diagram . Finally, we closed with waterfall model applications, advantages, and disadvantages.
  
 In the next chapter we will learn about Agile Methods .
 
  ![Chapter-2](https://img.shields.io/static/v1?label=Finished&message=Software-Development-Process-Models&color=red) ![Chapter-2](https://img.shields.io/static/v1?label=Source&message=tryqa.com&color==orange)![Chapter-2](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=blue)
-
