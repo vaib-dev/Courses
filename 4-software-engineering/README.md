@@ -7,6 +7,3 @@ Software Engineering is the field of computer science that deals with the constr
 
 It is about the basics of software engineering. We will start with how a program is different from software. Then we will head towards the software crisis. In the software crisis, we will learn its causes, characteristics. At last, we will learn about the elements of software engineering.
 
-## Chapter 2 -  Software Development Process Models
-
-In this chapter, we learned about Software Development Process Models and different phases through which we build software. After this, we had a detailed explanation of the waterfall model with the help of a diagram . Finally, we closed with waterfall model applications, advantages, and disadvantages.
