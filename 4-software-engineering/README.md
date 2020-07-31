@@ -10,3 +10,20 @@ It is about the basics of software engineering. We will start with how a program
 ## Chapter 2 -  Software Development Process Models
 
 In this chapter, we learned about Software Development Process Models and different phases through which we build software. After this, we had a detailed explanation of the waterfall model with the help of a diagram . Finally, we closed with waterfall model applications, advantages, and disadvantages.
+
+## Chapter 3 -  Agile Methods
+
+This is one of the method which is mostly used by software companies nowadays.
+
+## Chapter 4 - Software Project Planning
+
+In this we will learn about the various planning methods like Software Cost estimation , Project scheduling , Team structure etc.
+
+## Chapter 5 - Software Designing
+
+In this we will learn about how to represent client requirement , as described in the SRS document into a form that is easy to implement using programming languages.
+
+## Chapter 6 - Software Testing
+This is a strategy which provides a framework or set of activities which are essential for the success of the project.
+
+![edit2](https://img.shields.io/static/v1?label=Introduction&message=Software-Engineering&color=orange)![edit](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=<COLOR>)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
