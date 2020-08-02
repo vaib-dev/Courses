@@ -9,7 +9,7 @@ It is about the basics of software engineering. We will start with how a program
 
 ## Chapter 2 - Software Development Models
 
-In this we will learn about the different phases and models in software development.
+It is about Software Development Process Models and different phases through which we build software. After this, the waterfall model is explained in detail with the help of a diagram . At last, we will learn about the waterfall model applications, advantages, and disadvantages.
 
 ## Chapter 3 -  Agile Methods
 
