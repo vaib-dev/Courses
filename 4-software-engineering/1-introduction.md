@@ -23,7 +23,7 @@ Hence ,
 ## Software Crisis
 Software Crisis is a term used in computer science for the difficulty of writing useful and efficient computer programs in the required time.Software crisis was due to using same workforce, same methods, same tools even though rapidly increasing in software demand, complexity of software and software challenges. With increase in the complexity of software, many software problems arise because existing methods were insufficient.
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20190318213021/Untitled-Diagram-35.png" width="2500" height="200" />
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20190318213021/Untitled-Diagram-35.png" width="400" height="200" />
 
 ### Causes of Software Crisis :
 
@@ -43,7 +43,7 @@ There is no single solution to the crisis.one possible solution of software cris
 Software Characteristics are classified into six major components:
 
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20190321145114/Untitled-Diagram-91.png" width="2500" height="200">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20190321145114/Untitled-Diagram-91.png" width="350" height="200">
 
 These components are described below:
 
@@ -54,6 +54,7 @@ Required functions are:
 
 ### 2. Reliability:
 It refers to the ability of software to work which it is supposed to do. The software should continue to operate without interruption when one or more of its components fail. The software should become more reliable with respect to time.
+
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190321141051/Untitled-Diagram-42.png" width="300" height="100">
 
 ### 3. Efficiency:
@@ -63,6 +64,7 @@ It refers to the ability of the software to use system resources in the most eff
 
 ### 4. Usability:
 It refers to the extent to which the software can be used with ease.the amount of effort or time required to learn how to use the software.
+
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190321142138/Untitled-Diagram-61.png" width="300" height="100">
 
 
