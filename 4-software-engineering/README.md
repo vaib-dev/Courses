@@ -13,7 +13,7 @@ It is about Software Development Process Models and different phases through whi
 
 ## Chapter 3 -  Agile Methods
 
-This is one of the method which is mostly used by software companies nowadays.
+In this chapter we will learn abou Agile. Agile is one form of software development methodology. Its main focus is on client satisfaction through continuous delivery. We will also learn about different phases of Agile and its different frameworks like scrum, kanban and many more.
 
 ## Chapter 4 - Software Project Planning
 
