@@ -35,60 +35,22 @@ Welcome to the GitHub , Data Structure and Algorithm course here U will learn :-
 Apply basic algorithmic techniques such as greedy algorithms, searching, sorting and dynamic programming to solve programming challenges.
 Apply graph and string algorithms to solve real-world challenges: finding shortest paths.
 
-### Sorting
-                  CONTENTS
+                     CONTENTS
+                     
+    1. Sorting            2. Searching            3. Greedy Method
+
+    4. Dynamic Metod      5. Big O Notaion
                   
-    1. Selection sort   2. Insertion sort 
- 
-    3. Bubble sort      4. Quick sort 
- 
-    5. Merge sort       6. Radix sort 
- 
-    7. Count sort 
-
-### Searching
-
-                      CONTENTS
-                      
-    1. Linear search         2. Binary search
-    
-    3. Breadth-first search  4. Depth-first search
-    
-    5. Hashing
-
-### Greedy Method
-                      CONTENTS
-                      
-    1. Dijkstra algoritm   2. Kruskal's algorithm
-
-    3. Prim's algorithm 
-
-### Dynamic Method
-                         CONTENTS
-                         
-     1. Bellma-ford algorithm  2. Flyod-warshall algorithm
-
-### Big-O Notation
-                          CONTENTS
-                          
-    1. What is Big-O notation   2. Types of Big-O notation
-
-    3. Complexity chart         4. Big-O of all algorithms
 
 ## [Software Engineering](4-software-engineering)
                         CONTENTS
                         
          1. Introduction        2. Development Models
+
+         3. Agile Methods
  
 
 
-## Features of Course
-1. All source code available.
-2. Compatible with every compiler.
-3. Easy to understand.
-4. Short and effecient programs.
-5. Good quality of code.
-6. Complete GitHub tutorial folder.
 
 ## Support
 For any query plz mail at vaibhavpratapsingh22@gmail.com
