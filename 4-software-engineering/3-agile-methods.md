@@ -3,7 +3,7 @@
 ## **What is Agile ?**
 Agile software development refers to a group of software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams.
 
-<img src ="https://149349666.v2.pressablecdn.com/wp-content/uploads/2019/06/Agile-Manifesto-edited.png" height="200" width="400">
+<img src ="https://149349666.v2.pressablecdn.com/wp-content/uploads/2019/06/Agile-Manifesto-edited.png" height="200" width="600">
 
 ## **Why Agile ?**
 
@@ -96,7 +96,7 @@ A PM(project management) methodology where a small team is led by a Scrum Master
 ### Roles in  Scrum Framework
 Scrum framework consists of three roles and these roles together form the scrum team. 
 
-<img src="https://images.mendix.com/wp-content/uploads/scrum-team-illustration.svg" height="" width="">
+<img src="https://images.mendix.com/wp-content/uploads/scrum-team-illustration.svg" height="300" width="800">
 
 1) **Product Owner** : The product owner represents all the possible stakeholders and the customer in each case. It has the responsibility of delivering the maximum possible value to the customer. The product owner does not get the things done rather he prioritizes things on the demands and importance. A scrum team should have only one product owner.
 
@@ -140,7 +140,7 @@ In every phrase in this cycle listening to the client is very important to see w
   Most of the scaling elements of LeSS are focused on directing the attention of all of the teams onto the whole product instead of “my part.” Global and “end-to-end” focus are perhaps the dominant problems to solve in scaling.
 
  ### The Workflow of LeSS Framework -
- <img src="https://less.works/img/framework/why-less-framework.png" height="200" width="1500">
+ <img src="https://less.works/img/framework/why-less-framework.png" height="250" width="1000">
 
  1) **Sprint Planning Part 1**: In addition to the one Product Owner, it includes people from all teams. Let team members self-manage to decide their division of Product Backlog Items.
 2) **Sprint Planning Part 2** : This is held independently (and usually in parallel) by each Team, though sometimes for simple coordination and learning two or more Teams may hold it in the same room (in different areas).
@@ -174,7 +174,7 @@ It has two to four levels:
 * Large solution level (optional)
 * Portfolio level (optional)
 
-<img src="https://www.scaledagile.com/wp-content/uploads/2017/06/BP-4.5-Full-Not-title@2x.png" height="300" width="1500">
+<img src="https://29qv0td5i214u7b32lcdkxkn-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/Keystone-BigPicture-5.0-full.jpg" height="350" width="700">
 
 1) **Team level** - At the team level (called Agile team) SAFe says to work just like Scrum, however teams can also work in Kanban. Teams work together to deliver working software every two weeks. The Product Owner is responsible for the Team Backlog.  Then there’s Built-In Quality. Built-In Quality are practices that should be followed for every increment. This resembles the Definition of Done from Scrum, although the latter is determined by the Development Team. 
 2) **Program Level** - Here we are talking about multiple teams working to deliver something together. This can be scaled to up to 150 people. The teams work to create a Program Increment, to be delivered after 5 Sprints (10 weeks).
