@@ -65,7 +65,7 @@ VUCA is an acronym (artificial word), first used in 1987 and based on the leader
  After gathering all aspects  lifecycle phases start anew — either with anew iteration or by moving toward the next stage.
 
 
-# **Leight Weight Agile Frameworks**
+## Leight Weight Agile Frameworks
 Each Agile framework is considered lightweight. Rules and practices are kept to a minimum, especially when compared to traditional waterfall-style development processes, and are designed to be adaptable to all kinds of circumstances. The focus, instead, falls on empowering developers of all kinds to collaborate and make decisions together as a group quickly and effectively. The grand vision behind the Agile development methodology is to create applications in small increments, with each individual increment tested before it is considered complete. This process assures quality is “built” into the product, versus inspecting for quality later. So we we will study one by one about different Leight Weight Agile Frameworks.
 
 ## 1. Kanban 
