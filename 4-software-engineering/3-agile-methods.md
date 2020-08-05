@@ -1,6 +1,8 @@
-# **Chapter 3 - Agile Methods**
+# Chapter 3 - Agile Methods
 
-## **What is Agile ?**
+Agile is one form of software development methodology. Its main focus is on client satisfaction through continuous delivery. The focus of Agile is more on limiting the project scope. An agile project sets a minimum number of requirements and turns them into a deliverable product.
+
+## What is Agile ?
 <img src ="https://149349666.v2.pressablecdn.com/wp-content/uploads/2019/06/Agile-Manifesto-edited.png" height="350" width="600">
 
 
@@ -12,11 +14,11 @@ Agile software development refers to a group of software development methodologi
 4) responding to change **over** following a plan
 5) facts and data **over** intuition and feelings
 
-## **Why Agile ?**
+## Why Agile ?
 
 The agile method is based on giving high priority to customer participation, from the very beginning of the development cycle. The objective is to keep the client involved at every step so that they have a product that they are happy with at the end. This method saves the client money and time because the client tests and approves the product at each step of development. If there are defects or challenges, then changes can be made during production cycles to fix the issue. Traditional models of project management would not find defects as early because they do not test as often. 
 
-## **VUCA World**
+## VUCA World
 
 VUCA is an acronym (artificial word), first used in 1987 and based on the leadership theories of Warren Bennis and Burt Nanus, and stands for **Volatility, Uncertainty, Complexity and Ambiguity**.
 
@@ -28,7 +30,7 @@ VUCA is an acronym (artificial word), first used in 1987 and based on the leader
 3. **Complexity** - The situation has many interconnected parts and variables ,some information is available or can be predicted but the volume or nature of it can be overwhelming to process.
 4. **Ambiguity** - Lack of clarity about how to interpret something. A situation is ambiguous, for example, when information is incomplete, contradicting or too inaccurate to draw clear conclusions. The more ambiguous the world is, the harder it is to interpret.
 
-## **Advantages of Agile**
+## Advantages of Agile
 <img src="https://www.mindcypress.com/wp-content/uploads/2019/05/Benefits-of-Agile-training-and-best-courses-1024x521.png" height="300" width="600">
 
  1) **Transparency** - An Agile approach provides a unique opportunity for clients to be involved throughout the project, from prioritizing features to iteration planning and review sessions to frequent software builds containing new features.
@@ -77,7 +79,7 @@ Kanban method revolves around the kanban board. It is a tool that visualizes the
 
 <img src="https://kissflow.com/wp-content/uploads/2019/08/Kanban-project-management-framework-100.jpg" height="350" width="600">
 
-### <ins> Workflow of Kanban</ins>
+**The Workflow of Kanban Framework**
 
 1. **Define your first and last step** -
 To give the process a shape we start by outlining the first and the last step of the workflow. The first step is represented by the “requested” state and the last by the “done” state. In this we don't use the term “almost done” trap.
@@ -92,10 +94,10 @@ It is important to determine how deep into the details your process will go. Too
 
 5. **Continuous improvement** - Kanban is an continuous journey without an end.Every process can be improved further, there is not an exception to this rule. So don’t forget to improve your work process regularly if there is a need for it.
 
-## 2. **Scrum**  
+### 2. Scrum  
 A PM(project management) methodology where a small team is led by a Scrum Master whose main job is to clear away all obstacles to completing work. Work is done in short cycles called sprints, but the team meets daily to discuss current tasks and roadblocks that need clearing.
 
-### Roles in  Scrum Framework
+**Roles in  Scrum Framework**
 Scrum framework consists of three roles and these roles together form the scrum team. 
 
 <img src="https://images.mendix.com/wp-content/uploads/scrum-team-illustration.svg" height="300" width="800">
@@ -106,14 +108,14 @@ Scrum framework consists of three roles and these roles together form the scrum 
 
 3) **Development Team**: The development team is responsible for delivering optimum quality work with each passing sprint. The sprint goal describes the work a team should do and the quality it must deliver at the end of each sprint. A team has  three to nine members who carry out all tasks required to build the product increments. It is a self-organizing team and interactions outside the team is managed by the product owner or the scrum master.
 
-### The Workflow of Scrum Framework
+**The Workflow of Scrum Framework**
 <img src="https://miro.medium.com/max/1024/0*YdGp-9USV9C5Skuh" height="350" width="700">
 
-1) **Sprint**: A sprint/iteration is the unit of a Scrum. A sprint is limited to a specific time. The duration of a sprint is decided beforehand and is normally, between one week to one month, commonly two weeks.
+1) **Sprint** : A sprint/iteration is the unit of a Scrum. A sprint is limited to a specific time. The duration of a sprint is decided beforehand and is normally, between one week to one month, commonly two weeks.
 
-2) **Sprint Planning**: Initially, the scrum team conducts sprint planning. Mutually decide the scope of work that should be done during a sprint. Identify items that can be done in just one sprint. The expected time taken is four hours per day for two weeks.If at the end of sprint team finds that some work is incomplete it is kept in the product baclog. When the sprint backlog is developed by the development team, the items which can be completed within a sprint are taken up.
+2) **Sprint Planning** : Initially, the scrum team conducts sprint planning. Mutually decide the scope of work that should be done during a sprint. Identify items that can be done in just one sprint. The expected time taken is four hours per day for two weeks.If at the end of sprint team finds that some work is incomplete it is kept in the product baclog. When the sprint backlog is developed by the development team, the items which can be completed within a sprint are taken up.
 
-3) **Daily Sprint**: A daily scrum or stand up is held every day with each sprint.Time is limited to fifteen minutes. Each team member is expected to answer three questions during the daily scrum questions be like : What do I need to do today to help my team contribute to my team’s sprint goal today?
+3) **Daily Sprint** : A daily scrum or stand up is held every day with each sprint.Time is limited to fifteen minutes. Each team member is expected to answer three questions during the daily scrum questions be like : What do I need to do today to help my team contribute to my team’s sprint goal today?
 
 4) **Sprint Review** : It is held at the end of the sprint in this the team reviews the completed work and the work that is yet to be completed. The completed work is submitted to the stakeholders.
 
@@ -121,13 +123,13 @@ Scrum framework consists of three roles and these roles together form the scrum 
 
 6) **Extensions** : Extension includes two events namely: Backlog refinement & Cancellation of a sprint.
 
-## 3. **Extreme Prpgramming (XP)**  
+### 3. Extreme Prpgramming (XP)  
 In XP methodology  you can change the project 
  plan, budget, and even the final deliverable to 
  fit changing needs, no matter how far along the 
  project is.
 
- ### The Workflow of XP Framework -
+ **The Workflow of XP Framework** 
 <img src="https://i0.wp.com/www.trenovision.com/wp-content/uploads/2018/08/eXtreme-Programming-XP.png?resize=730%2C531&ssl=1" height="250" width="600">
 
  1) **Planning** - This is the first phase of the Extreme Programming life cycle, which involves user stories along with iterations. The user stories are collected from the client requirements by the development team. The developers will work on iterations once after the development team concocts the scheme, time, and money of functioning the iterations.
@@ -138,10 +140,10 @@ In XP methodology  you can change the project
 
 5) **Listening** -
 In every phrase in this cycle listening to the client is very important to see what they expect the system to do because with listening to the clients, developers ensure they understand these requirements.
-## 4. **LeSS** 
+### 4. LeSS
   Most of the scaling elements of LeSS are focused on directing the attention of all of the teams onto the whole product instead of “my part.” Global and “end-to-end” focus are perhaps the dominant problems to solve in scaling.
 
- ### The Workflow of LeSS Framework -
+**The Workflow of LeSS Framework** 
  <img src="https://less.works/img/framework/why-less-framework.png" height="" width="700">
 
  1) **Sprint Planning Part 1**: In addition to the one Product Owner, it includes people from all teams. Let team members self-manage to decide their division of Product Backlog Items.
@@ -153,11 +155,16 @@ In every phrase in this cycle listening to the client is very important to see w
 6) **Sprint Review** : In addition to the one Product Owner, it includes people from all teams, and relevant customers/users and other stakeholders. 
 7) **Overall Retrospective** : Its purpose is to explore improving the overall system, rather than focusing on one Team. The maximum duration is 45 minutes per week of Sprint. It includes the Product Owner, Scrum Masters, and rotating representatives from each Team.
 
-# **Scaled Agile Frameworks** 
+## Scaled Agile Frameworks 
+
+Software development teams have proven that implementing agile frameworks, like scrum and kanban, lets them deliver solutions to customers faster, with more predictability, and gives them the ability to react quickly based on new information. Implementing agile at the individual team level is relatively easy - the benefits are clear and the resources are plenty.
+
+But the real challenge is extending it across multiple teams in a large organization. In other words, implementing agile at scale. Now we discuss breiefly about methods to apply agile at large scale.
+
 ### 1. LeSS HUGE
 <img src="https://less.works/img/less-huge/less-huge-framework.png" height="" width="1500">
 
-In LeSS Huge, there are multiple Basic LeSS implemented at the same time. It is meant for large organizations where there are more than eight teams. There are Area Product Owners(APO) who are responsible for their respective product backlog. Upto three teams work under an APO. A chief product owner(CPO) leads the APO and focuses on the entire product. So the question arises why we need a APO so the main reason for having APO is to prevent the Product Owner from becoming overloaded. Without an APO, the Product Owner overload would be because:
+In LeSS Huge, there are multiple Basic LeSS implemented at the same time. It is meant for large organizations where there are more than eight teams. There are Area Product Owners(APO) who are responsible for their respective product backlog. Upto three teams work under an APO. A chief product owner(CPO) leads the APO and focuses on the entire product. So the question arises why we need a APO so the main reason for having APO is to prevent the Product Owner from becoming overloaded. Without an APO, the Product Owner overload would be because :
 
 1) **The PB becoming too large** - Lean thinking promotes small batches and short cycles. We suggest that each team have at least four PBIs for each iteration that they can complete independently within that iteration. With 50 teams this leads to a PB with 200 PBIs just for one iteration. Prioritizing 200 PBIs per iteration is too much work for one PO.
 
