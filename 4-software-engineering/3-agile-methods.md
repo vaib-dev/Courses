@@ -166,7 +166,7 @@ In LeSS Huge, there are multiple Basic LeSS implemented at the same time. It is 
 So, to remove such possibilities we need an APO in order to reduce the tension of PO. Else all the methodology is same as LeSS small scale framework.
 
 
-## **2) SAFe**
+### 2. SAFe
 
 SAFe came in use in 2011, it promotes alignment, collaboration, and delivery across large numbers of agile teams. It was formed around three primary bodies of knowledge: agile software development, lean product development, and systems thinking.
 
