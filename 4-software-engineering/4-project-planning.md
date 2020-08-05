@@ -76,3 +76,61 @@ The key parameter tha affects the cost of a project is size.Therefore this model
 
     This equation suggest that the project cost increases linearly with the size of final product.    
 
+ ### **Multivariable Model-COCOMO** 
+ 
+ COnstructive COst estimation MOdel(COCOMO) was intoduced by Berry Bohem. A size-based cost estimate model has a major drawback that it does not take into consideration the various other parameters which effect cost. To solve this problem COCOMO model comes in consideration as it consider various other factors in addition to the size of the project.
+
+ The initial estimate (also called nominal estimate) is determined by an equation of the form used in the static single variable models, using KDLOC as the measure of the size. To determine the initial effort Ei in person-months the equation used is of the type is shown below
+
+                E = a*(KDLOC)b
+
+    The value of the constant a and b are depends on the project type. 
+
+**In COCOMO, projects are categorized into three types :**
+
+1. Organic
+2. Semidetached
+3. Embedded
+
+1) **Organic** : A development project can be treated of the organic type, if the project deals with developing a well-understood application program, the size of the development team is reasonably small, and the team members are experienced in developing similar methods of projects. Examples of this type of projects are simple business systems, simple inventory management systems, and data processing systems.
+
+2. **Semidetached**: A development project can be treated with semidetached type if the development consists of a mixture of experienced and inexperienced staff. Team members may have finite experience in related systems but may be unfamiliar with some aspects of the order being developed. Example of Semidetached system includes developing a new operating system (OS), a Database Management System (DBMS), and complex inventory management system.
+
+3. **Embedded** : A development project is treated to be of an embedded type, if the software being developed is strongly coupled to complex hardware, or if the stringent regulations on the operational method exist. For Example: ATM, Air Traffic control.
+
+**Types of Models:**
+
+COCOMO consists of a hierarchy of three increasingly detailed and accurate forms. Any of the three forms can be adopted according to our requirements. These are types of COCOMO model:
+
+
+<img src="https://static.wixstatic.com/media/0b5e28_9d34b91677bc4431921f5f358c76bf04~mv2.jpg/v1/fill/w_630,h_193,al_c,q_80,usm_0.66_1.00_0.01/0b5e28_9d34b91677bc4431921f5f358c76bf04~mv2.webp" height="" width="">
+
+1. Basic COCOMO Model
+2. Intermediate COCOMO Model
+3. Detailed COCOMO Model
+
+The first level, Basic COCOMO can be used for quick and slightly rough calculations of Software Costs. Its accuracy is somewhat restricted due to the absence of sufficient factor considerations.
+
+Intermediate COCOMO takes these Cost Drivers into account and Detailed COCOMO additionally accounts for the influence of individual project phases, i.e in case of Detailed it accounts for both these cost drivers and also calculations are performed phase wise henceforth producing a more accurate result. 
+
+## Putnam Resource Allocation Model
+The Lawrence Putnam model describes the time and effort requires finishing a software project of a specified size. Putnam makes a use of a so-called The Norden/Rayleigh Curve to estimate project effort, schedule & defect rate as shown in fig:
+
+<img src="https://static.javatpoint.com/tutorial/software-engineering/images/putnam-resource-allocation-model.jpg" height="300" width="500">
+
+Putnam noticed that software staffing profiles followed the well known Rayleigh distribution. Putnam used his observations about productivity levels to derive the software equation.
+
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d307d15a652aa0632c51f5f1df2e8956a38c803">
+
+here, 
+- size is the product size.
+ - B is a scaling factor and is a function of project size.
+- Productivity is the process productivity, the abiity of a particular software organization to produce software of a given size at a particular defect rate.
+- effort is the total effort in PM
+- Time is total schedule of project in years.
+
+From above equation we can calculate the effort as, 
+
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1721a429440d1975f9d17613a8c2d3ca97669d2a">
+
+One of the key advantage of this model is simplicity.
