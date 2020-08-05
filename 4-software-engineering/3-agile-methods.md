@@ -154,7 +154,7 @@ In every phrase in this cycle listening to the client is very important to see w
 7) **Overall Retrospective** : Its purpose is to explore improving the overall system, rather than focusing on one Team. The maximum duration is 45 minutes per week of Sprint. It includes the Product Owner, Scrum Masters, and rotating representatives from each Team.
 
 # **Scaled Agile Frameworks** 
-## **1) LeSS HUGE**
+### 1. LeSS HUGE
 <img src="https://less.works/img/less-huge/less-huge-framework.png" height="" width="1500">
 
 In LeSS Huge, there are multiple Basic LeSS implemented at the same time. It is meant for large organizations where there are more than eight teams. There are Area Product Owners(APO) who are responsible for their respective product backlog. Upto three teams work under an APO. A chief product owner(CPO) leads the APO and focuses on the entire product. So the question arises why we need a APO so the main reason for having APO is to prevent the Product Owner from becoming overloaded. Without an APO, the Product Owner overload would be because:
