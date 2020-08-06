@@ -108,7 +108,7 @@ Scrum framework consists of three roles and these roles together form the scrum 
 
 3) **Development Team**: The development team is responsible for delivering optimum quality work with each passing sprint. The sprint goal describes the work a team should do and the quality it must deliver at the end of each sprint. A team has  three to nine members who carry out all tasks required to build the product increments. It is a self-organizing team and interactions outside the team is managed by the product owner or the scrum master.
 
-**The Workflow of Scrum Framework**
+**Workflow**
 <img src="https://miro.medium.com/max/1024/0*YdGp-9USV9C5Skuh" height="350" width="700">
 
 1) **Sprint** : A sprint/iteration is the unit of a Scrum. A sprint is limited to a specific time. The duration of a sprint is decided beforehand and is normally, between one week to one month, commonly two weeks.
