@@ -129,7 +129,7 @@ In XP methodology  you can change the project
  fit changing needs, no matter how far along the 
  project is.
 
- **The Workflow of XP Framework** 
+ **Workflow** 
 <img src="https://i0.wp.com/www.trenovision.com/wp-content/uploads/2018/08/eXtreme-Programming-XP.png?resize=730%2C531&ssl=1" height="250" width="600">
 
  1) **Planning** - This is the first phase of the Extreme Programming life cycle, which involves user stories along with iterations. The user stories are collected from the client requirements by the development team. The developers will work on iterations once after the development team concocts the scheme, time, and money of functioning the iterations.
