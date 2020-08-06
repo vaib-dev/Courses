@@ -143,7 +143,7 @@ In every phrase in this cycle listening to the client is very important to see w
 ### 4. LeSS
   Most of the scaling elements of LeSS are focused on directing the attention of all of the teams onto the whole product instead of “my part.” Global and “end-to-end” focus are perhaps the dominant problems to solve in scaling.
 
-**The Workflow of LeSS Framework** 
+**Workflow** 
  <img src="https://less.works/img/framework/why-less-framework.png" height="" width="700">
 
  1) **Sprint Planning Part 1**: In addition to the one Product Owner, it includes people from all teams. Let team members self-manage to decide their division of Product Backlog Items.
