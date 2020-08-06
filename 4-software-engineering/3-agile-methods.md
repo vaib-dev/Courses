@@ -79,7 +79,7 @@ Kanban method revolves around the kanban board. It is a tool that visualizes the
 
 <img src="https://kissflow.com/wp-content/uploads/2019/08/Kanban-project-management-framework-100.jpg" height="350" width="600">
 
-**The Workflow of Kanban Framework**
+**Workflow**
 
 1. **Define your first and last step** -
 To give the process a shape we start by outlining the first and the last step of the workflow. The first step is represented by the “requested” state and the last by the “done” state. In this we don't use the term “almost done” trap.
