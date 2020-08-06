@@ -100,9 +100,6 @@ From above equation we can calculate the effort as,
 Software development is an activity that uses a variety of technological advancements and requires high levels of knowledge. Because of these and other factors, every software development project contains elements of uncertainty. This is known as project risk.
 There are three main classifications of risks which can affect a software project:
 
-1. Project risks
-2. Technical risks
-3. Business risks
 1) **Project risks** :  A vital project risk is schedule slippage. Since the software is intangible, it is very tough to monitor and control a software project. It is very tough to control something which cannot be identified.
 2) **Technical risks** : Technical risks concern potential method, implementation, interfacing, testing, and maintenance issue. Most technical risks appear due to the development team's insufficient knowledge about the project.
 
