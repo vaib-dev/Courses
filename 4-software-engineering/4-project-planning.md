@@ -1,8 +1,8 @@
 # Chapter 4 - Software Project Planning
 
-Software project planning is a task, which is performed before the production of software starts. It is there for the software production but involves no concrete activity that has any direct connection with software production; rather it is a set of multiple processes, which facilitate software production. Project planning may include the following:
+Software project planning is a task, which is performed before the production of software starts. It is there for software production but involves no concrete activity that has any direct connection with software production; rather it is a set of multiple processes, which facilitate software production. Project planning may include the following:
 
-1. **Scope Management** - It defines the scope of project  this includes all the activities, process need to be done to make a deliverable software product. Scope management is essential because it creates boundaries of the project by clearly defining what would be done in the project and what would not be done.
+1. **Scope Management** - It defines the scope of a project  this includes all the activities, and  process need to be done to make a deliverable software product. Scope management is essential because it creates boundaries of the project by clearly defining what would be done in the project and what would not be done.
 2. **Project Estimation** - For an effective management accurate estimation of various measures is a must. With correct estimation, managers can manage and control the project more efficiently and effectively.
 3. **Effort estimation** - The managers estimate efforts in terms of person-months(PM) to produce the software. For effort estimation software size should be known. This can either be derived by managers’ experience or organization’s historical data or software size can be converted into efforts by using some standard formulae.
 4. **Time estimation** - Once size and efforts are estimated, the time required to produce the software can be estimated. 
@@ -13,13 +13,14 @@ Software project planning is a task, which is performed before the production of
 A project is a series of tasks that need to be completed to reach a specific outcome. A project can also be defined as a set of inputs and outputs required to achieve a particular goal. Projects can range from simple to complex and can be managed by one person or a hundred.
 
 ### Project vs Product
+A project is a temporary endeavor that is undertaken to create a unique product or service. With a project, there is a clear definition of what needs to be delivered by a specified date and time. A product is anything that can be offered to a market to solve a problem, or to satisfy a want or need.
 
-Product may be something produced by effort, project is the process of effort. Product may be a customer service whereas project is the process of service. Product lay stress on objectives, but project focuses on scope, resource, quality.
+It’s important to note that a product can only be developed within the context of a project, and multiple projects can occur within a product’s life cycle.
 
 ## Definition of Project Planning
 
-Project planning needs utmost care and attention. <ins>Lack of planning is the main cause of schedule slippage, cost overruns, and leads to poor quality of software.</ins>
-Project planning provides a framework that enables the manager to make reasonable estimates to resources, cost, schedule. The estimates are made within a limited period at the beginning pf the software project and should be updated regularly as the project progresses.
+The Project planning provides a framework that enables the manager to make reasonable estimates to resources, cost, schedule. The estimates are made within a limited period at the beginning pf the software project and should be updated regularly as the project progresses.
+Project planning needs the utmost care and attention. <ins>Lack of planning is the main cause of schedule slippage, cost overruns, and leads to poor quality of software.</ins>
 
 Basic goals of Planning are :
 
@@ -34,7 +35,7 @@ For any new software project, it is necessary to know how much it will cost to d
 1. The Project scope must be established earlier.
 Software metrics are used as a support from which evaluation is made.
 2. The project is broken into small pieces which are estimated individually.
-3. To achieve true cost & schedule estimate, several option arise.
+3. To achieve true cost & schedule estimates, several options arise.
 
 ## Cost Estimation Models
 A model may be static or dynamic. In a static model, a single variable is taken as a key element for calculating cost and time. In a dynamic model, all variables are interdependent, and there is no basic variable.
@@ -50,13 +51,13 @@ The key parameter that affects the cost of a project is size. Therefore this mod
              Effort(E) = a*(size)^b
        
        The value of a and b are judged from the historical projects.
-   The size of project is measured in Lines Of Code(LOC) or Kilo Lines Of Code(KLOC).The total effort (E) is measured in person months.Hence a cost of a project is calculated in PM i.e Person  Months.
+   The size of a project is measured in Lines Of Code(LOC) or Kilo Lines Of Code(KLOC).The total effort (E) is measured in person-months.Hence a cost of a project is calculated in PM i.e Person  Months.
 
  2. **Sized-based Cost estimates for small project** - The equation of effort is :
 
                Effort(E) = a*(size)+b
 
-    This equation suggest that the project cost increases linearly with the size of final product.    
+    This equation suggest that the project cost increases linearly with the size of the final product.    
 
  ### Multivariable Model - COCOMO
  
@@ -77,28 +78,21 @@ The key parameter that affects the cost of a project is size. Therefore this mod
 
 3. **Embedded** : A development project is treated to be of an embedded type, if the software being developed is strongly coupled to complex hardware, or if the stringent regulations on the operational method exist. For Example: ATM, Air Traffic control.
 
-## Putnam Resource Allocation Model
-The Lawrence Putnam model describes the time and effort requires finishing a software project of a specified size. Putnam makes a use of a so-called The Norden/Rayleigh Curve to estimate project effort, schedule & defect rate as shown in fig:
+## Resource Allocation 
+Resource allocation in project management is one of those particles which make work of a good PM effective and significant. And even though it may seem simple, it is actually crucial in delivering a great project. Resource allocation in project management is concerned with creating a plan which can help achieve future goals. There are many resources which have to be allocated when managing a project, beginning from budget to equipment and tools, to data and the project’s plan.
 
-<img src="https://static.javatpoint.com/tutorial/software-engineering/images/putnam-resource-allocation-model.jpg" height="300" width="500">
+Since resources refer to quite an extensive list of things and aspects of project management, it may be confusing when trying to properly allocate them all. But it’s not difficult and requires certain dedication and involvement. Here’s what you can do to allocate resources in the right way when managing a project:
 
-Putnam noticed that software staffing profiles followed the well known Rayleigh distribution. Putnam used his observations about productivity levels to derive the software equation.
-
-<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d307d15a652aa0632c51f5f1df2e8956a38c803">
-
-Here, 
-- size is the product size, B is a scaling factor and is a function of project size, Productivity is the process productivity, the ability of a particular software organization to produce software of a given size at a particular defect rate, The effort is the total effort in PM, Time is the total schedule of project in years.
-
-From above equation we can calculate the effort as, 
-
-<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1721a429440d1975f9d17613a8c2d3ca97669d2a">
-
-*One of the key feature of this model is simplicity.*
+- **know the scope** – to know what is your project about, what you will need to achieve it, and to be able to properly allocate resources;
+- **identify resources** – to know which tools, equipment, etc. you will need it completing the project;
+- **track time** – to have a deep analysis of the progress and current situation as well as be able to control it in the real-time;
+- **don’t look only at the big picture** – the process of working on a project is not done with task allocation. Once you allocate resources you have to keep track of all of them. If you lose at least one tiny detail, your project may fail;
+- **don’t over-allocate** – because your team will experience burnout and their productivity will significantly drop.
 
 ## Risk Management
 
-Software development is an activity that uses a variety of technological advancements and requires high levels of knowledge. Because of these and other factors, every software development project contains elements of uncertainty. This is known as project risk.
-There are three main classifications of risks which can affect a software project:
+Risk is an expectation of loss, a potential problem that may or may not occur in the future. It is generally caused due to lack of information, control or time.Loss can be anything, increase in production cost, development of poor quality software, not being able to complete the project on time. Software risk exists because the future is uncertain and there are many known and unknown things that cannot be incorporated in the project plan.
+There are three main classifications of risks which can a software project:
 
 1) **Project risks** :  A vital project risk is schedule slippage. Since the software is intangible, it is very tough to monitor and control a software project. It is very tough to control something which cannot be identified.
 2) **Technical risks** : Technical risks concern potential method, implementation, interfacing, testing, and maintenance issue. Most technical risks appear due to the development team's insufficient knowledge about the project.
@@ -109,10 +103,10 @@ There are three main classifications of risks which can affect a software projec
 
 <img src="https://static.javatpoint.com/tutorial/software-engineering/images/software-engineering-risk-management-activities.png" height="300" width="500">
 
-1. **Risk Identification** : Risk identification is the first step in risk assessment, which identifies all the different risks for the particular project. A checklist of frequently occurring risks are probably the most common tool for risk identification. The other method of risk identification is decision driver. Decision driver analysis involve questioning and analyzing all the major decision taken for the project. If a decision has been driven by factors other than technical and management reasons, it is likely to be a source of risk in the project. Such decisions may be driven by politics, marketing etc.
+1. **Risk Identification** : Risk identification is the first step in risk assessment, which identifies all the different risks for the particular project. A checklist of frequently occurring risks is probably the most common tool for risk identification. The other method of risk identification is decision driver. Decision driver analysis involves questioning and analyzing all the major decisions taken for the project. If a decision has been driven by factors other than technical and management reasons, it is likely to be a source of risk in the project. Such decisions may be driven by politics, marketing etc.
 2) **Risk Analysis** : During the risk analysis process, you have to consider every identified risk and make a perception of the probability and seriousness of that risk. There is no simple way to do this. You have to rely on your perception and experience of previous projects and the problems that arise in them.
 
-3) **Risk Prioritization** : Risk prioritization helps the project focus on most critical risks, so that there should be least destruction. After the probability is determined, a table is made to formulate the risk of the project, and a priority level is made for every risk. The effect of the risk might be determined as catastrophic (threaten the survival of the plan), serious (would cause significant delays), tolerable (delays are within allowed contingency), or insignificant.
+3) **Risk Prioritization** : Risk prioritization helps the project focus on most critical risks, so that there should be least destruction. After the probability is determined, a table is made to formulate the risk of the project, and a priority level is made for every risk. The affect of the risk might be determined as catastrophic (threaten the survival of the plan), serious (would cause significant delays), tolerable (delays are within allowed contingency), or insignificant.
 
 ### Risk Control
 It is the process of managing risks to achieve desired outcomes. After all, the identified risks of a plan are determined; the project must be made to include the most harmful and the most likely risks. There are three main methods to plan for risk management:
