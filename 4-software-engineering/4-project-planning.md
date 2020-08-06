@@ -16,7 +16,7 @@ Software project planning is task, which is performed before the production of s
 A project is a series of tasks that need to be completed in order to reach a specific outcome. A project can also be defined as a set of inputs and outputs required to achieve a particular goal. Projects can range from simple to complex and can be managed by one person or a hundred.
 
 
-### Project VS Software
+### Project vs Software
 
 Product may be something produced by effort, project is the process of effort. Product may be a service for customer, project is the process of service. Product lay stress on objectives, but project focuses on scope, resource, quality.
 
