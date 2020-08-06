@@ -17,7 +17,7 @@ In this chapter we will learn about Agile. Agile is one form of software develop
 
 ## Chapter 4 - Software Project Planning
 
-In this we will learn about the various planning methods like Software Cost estimation , Project scheduling , Team structure etc.
+It is about the planning of the project in this we will study how the cost of software is estimated. Then we will study Putnam Resource allocation model after this we head up to risk management. At last, we will schedule the project and Capability maturity model(CMM) and its application. 
 
 ## Chapter 5 - Software Designing
 

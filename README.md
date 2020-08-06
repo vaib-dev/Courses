@@ -43,15 +43,13 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
                   
 
 ## [Software Engineering](4-software-engineering)
+                        
                         CONTENTS
                         
          1. Introduction        2. Development Models
 
-         3. Agile Methods
+         3. Agile Methods       4. Project Planning
  
-
-
-
 ## Support
 For any query plz mail at vaibhavpratapsingh22@gmail.com
 
