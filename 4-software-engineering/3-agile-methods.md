@@ -200,6 +200,6 @@ It has two to four levels:
 ## Summary
 In this chapter we have discussed about Agile that includes many answers to the questions like What's Agile ?, Why Aglie ? VUCA world , Different phases in Agile , Differnt frameworks used in agile , etc.
 
-In the upcoming chapter we will be studying about  Software Project Planning in detail so stay tuned .
+In the upcoming chapter, we will be studying about Software Project Planning in detail. So stay tuned!
 
  ![Chapter-3](https://img.shields.io/static/v1?label=Finished&message=Agile-Methods&color=red) ![Chapter-3](https://img.shields.io/static/v1?label=Source&message=www.atlassian.com&color==orange)![Chapter-3](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=blue)
