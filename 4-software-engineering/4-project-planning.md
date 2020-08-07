@@ -13,10 +13,10 @@ Software project planning is a task, which is performed before the production of
 A project is a series of tasks that need to be completed to reach a specific outcome. A project can also be defined as a set of inputs and outputs required to achieve a particular goal. Projects can range from simple to complex and can be managed by one person or a hundred.
 
 ### Project vs Product
-A project is a temporary endeavor that is undertaken to create a unique product or service. With a project, there is a clear definition of what needs to be delivered by a specified date and time. A product is anything that can be offered to a market to solve a problem, or to satisfy a want or need.
 
-It’s important to note that a product can only be developed within the context of a project, and multiple projects can occur within a product’s life cycle.
+**Project** has an start and end. In the traditional format we define what we are going to build against pre-made requirements and how it can be tested to comply the requirements when it is ready. Then we implement the project, test that the outcome is according to the original requirements. If we can get the outcome with adequate quality, in agreed schedule and we meet the cost targets, we are happy.
 
+**Product** has a lifecycle that starts before building the actual product and ends to termination of the product. This time span may be from months to tens of years. During the lifecycle the product needs attention continuously. Typically product has a product manager who is responsible for it’s success. The Product life cycle may include number of projects for building and developing it further.
 ## Definition of Project Planning
 
 The Project planning provides a framework that enables the manager to make reasonable estimates to resources, cost, schedule. The estimates are made within a limited period at the beginning pf the software project and should be updated regularly as the project progresses.
