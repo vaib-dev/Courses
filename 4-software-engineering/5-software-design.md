@@ -113,3 +113,79 @@ UML includes the following nine diagrams, the details of which are described in 
 - State-chart diagram
 - Deployment diagram
 - Component diagram
+ 
+ Now we will discuss about these different types of UML diagrams in detail.
+
+ ## Class Diagram
+
+ A class is represented by a rectangle that contains three compartments stacked vertically—the top compartment contains the class’s name and is mandatory, but the bottom two compartments give details about the class attributes and class operations or behaviors.
+
+### How to draw a class diagram ?
+The following points should be remembered while drawing a class diagram −
+
+- The name of the class diagram should be meaningful to describe the aspect of the system.
+- Each element and their relationships should be identified in advance.
+- Responsibility (attributes and methods) of each class should be clearly identified
+- For each class, minimum number of properties should be specified, as unnecessary properties will make the diagram complicated.
+- Use notes whenever required to describe some aspect of the diagram. At the end of the drawing it should be understandable to the developer/coder.
+
+Finally, before making the final version, the diagram should be drawn on plain paper and reworked as many times as possible to make it correct.
+
+ <img src="https://www.smartdraw.com/class-diagram/img/class-diagram-example-maker.png?bn=1510011166" height="" width="">
+
+## Object Diagram
+
+Object diagrams are derived from class diagrams so object diagrams are dependent upon class diagrams.
+
+Object diagrams represent an instance of a class diagram. The basic concepts are similar for class diagrams and object diagrams. Object diagrams also represent the static view of a system but this static view is a snapshot of the system at a particular moment.
+
+### How to draw an object diagram ?
+The following points should be remembered while drawing an object diagram −
+
+- The object diagram should have a meaningful name to indicate its purpose.
+- The most important elements are to be identified.
+- The association among objects should be clarified.
+- Values of different elements need to be captured to include in the object diagram.
+- Add proper notes at points where more clarity is required.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Object_diagram.png" height="" width="">
+
+## Component Diagram
+
+Component diagrams are different in terms of nature and behavior. Component diagrams are used to model the physical aspects of a system. Now the question is, what are these physical aspects? Physical aspects are elements such as libraries, files, documents, etc. which reside in a node. Component diagrams are used to visualize the organization and relationships among components in a system. These diagrams are also used to make executable systems.
+
+### How to Draw a Component Diagram?
+The following points should be remembered while drawing an component diagram −
+
+- Use a meaningful name to identify the component for which the diagram is to be drawn.
+- Prepare a mental layout before producing the using tools.
+- Use notes for clarifying important points.
+
+<img src="https://1.bp.blogspot.com/-hZxgZYJKKm8/WtBwUvDQ6gI/AAAAAAAAACg/FzYxeE9alkw7ZecNuvWXB9K4H70H7SXkACK4BGAYYCw/s1600/component-diagram.png" height="" width="">
+
+## Deployment Diagram
+Deployment diagrams are used to visualize the topology of the physical components of a system, where the software components are deployed. Deployment diagrams are used to describe the static deployment view of a system. Deployment diagrams consist of nodes and their relationships.
+
+### How to Draw a Deployment Diagram?
+The following points should be remembered while drawing a Deployment diagram −
+
+The Deployment diagram represents the deployment view of a system. It is related to the component diagram because the components are deployed using the deployment diagrams. A deployment diagram consists of nodes. Nodes are nothing but physical hardware used to deploy the application.
+
+<img src="https://cdn-images.visual-paradigm.com/guide/uml/what-is-deployment-diagram/03-deployment-diagram-for-embedded-system.png" height="" width="">
+
+## Use Case Diagram
+
+Only static behavior is not sufficient to model a system rather dynamic behavior is more important than static behavior. In UML, there are five diagrams available to model the dynamic nature and use case diagram is one of them. Now as we have to discuss that the use case diagram is dynamic in nature, there should be some internal or external factors for making the interaction.
+
+These internal and external agents are known as actors. Use case diagrams consists of actors, use cases and their relationships. The diagram is used to model the system/subsystem of an application. A single use case diagram captures a particular functionality of a system.
+
+### How to Draw a Use Case Diagram?
+The following points should be remembered while drawing a use case diagram −
+
+- The name of a use case is very important. The name should be chosen in such a way so that it can identify the functionalities performed.
+- Give a suitable name for actors.
+- Show relationships and dependencies clearly in the diagram.
+- Do not try to include all types of relationships, as the main purpose of the diagram is to identify the requirements.
+- Use notes whenever required to clarify some important points.
+
+<img src="https://i.pinimg.com/originals/4b/e9/80/4be980b390d0524b67557d72d3f8b401.png" height="" width="">
