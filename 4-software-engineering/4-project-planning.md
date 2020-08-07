@@ -111,7 +111,8 @@ There are three main classifications of risks which can a software project:
 ### Risk Control
 It is the process of managing risks to achieve desired outcomes. After all, the identified risks of a plan are determined; the project must be made to include the most harmful and the most likely risks. There are three main methods to plan for risk management:
 
-1. **Risk planning** : The main purpose of risk planning is to avoid the risk. It involves looking into the approach. It involves looking for different types of risks and their impact and then a plan is made, so that risks does not occur. If a particular risk cannot be avoided, a plan is made to reduce the impact of risk. Hence, risk management planning produces a plan for dealing with each significant risk. 
+1. **Risk planning** : The main purpose of risk planning is to avoid the risk. It involves looking into the approach. It involves looking for different types of risks and their impact and then a plan is made, so that risks does not occur. If a particular risk cannot be avoided, a plan is made to reduce the impact of risk. Hence, risk management planning is a tool to detect, analyze & deal with these risks to minimize the impact.
+
 2. **Risk Resolution**: It is an approach, applied to solve the risk. It is the execution of risk plans. Some risk resolution approaches are as follows
  - **Prototypes** - The problem of poorly understood requirements can be solved with this approach.
 - **Benchmarks** - Checkpoints are kept, so that there are no cost and schedule overruns.
