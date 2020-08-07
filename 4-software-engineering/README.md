@@ -13,11 +13,11 @@ It is about Software Development Process Models and different phases through whi
 
 ## Chapter 3 -  Agile Methods
 
-This is one of the method which is mostly used by software companies nowadays.
+In this chapter we will learn about Agile. Agile is one form of software development methodology. Its main focus is on client satisfaction through continuous delivery. We will also learn about different phases of Agile and its different frameworks like scrum, kanban and many more. In this we have a bonus topic named VUCA world.
 
 ## Chapter 4 - Software Project Planning
 
-In this we will learn about the various planning methods like Software Cost estimation , Project scheduling , Team structure etc.
+It is about the planning of the project in this we will study how the cost of software is estimated. Then we will study Putnam Resource allocation model after this we head up to risk management. At last, we will schedule the project and Capability maturity model(CMM) and its application. 
 
 ## Chapter 5 - Software Designing
 
