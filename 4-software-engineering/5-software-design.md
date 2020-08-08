@@ -23,12 +23,15 @@ Following are some fundamental concepts of the object-oriented world:
 4. **Encapsulation**: Encapsulation is the mechanism of binding the data together and hiding them from the outside world.
 5. **Inheritance**: Inheritance is the mechanism of making new classes from existing ones.
 6. **Polymorphism**: It defines the mechanism to exists in different forms.
-
-There are three basic steps where the OO concepts are applied and implemented. The steps can be defined as:
-
-    OO Analysis → OO Design → OO implementation using OO languages
 ## UML
 A picture is worth a thousand words, UML (Unified Modeling Language) is a standard language for specifying, visualizing, constructing, and documenting the artifacts of software systems. UML was created by the Object Management Group (OMG) and UML 1.0 specification draft was proposed to the OMG in January 1997. It was initially started to capture the behavior of complex software and non-software system and now it has become an OMG standard.
+ ### Open Source UML Tools
+List of some open source UML tools which are available for free:
+1. Draw.io
+1. AgroUML
+2. StarUML
+3. BOUML
+4. EclipseUML
 ### Goals of UML
 1. Provide users with a ready-to-use, expressive visual modeling language so they can develop and exchange meaningful models.
 2. Provide extensibility and specialization mechanisms to extend the core concepts.
@@ -37,14 +40,13 @@ A picture is worth a thousand words, UML (Unified Modeling Language) is a standa
 5. Encourage the growth of the OO tools market.
 6. Support higher-level development concepts such as collaborations, frameworks, patterns and components.
 
-In conclusion, the goal of UML can be defined as a simple modeling mechanism to model all possible practical systems in today’s complex environment.
- ### Open Source UML Tools
-List of some open source UML tools which are available for free:
-1. Draw.io
-1. AgroUML
-2. StarUML
-3. BOUML
-4. EclipseUML
+In conclusion, the goal of UML can be defined as a simple modeling mechanism to model all possible practical systems in today’s complex environment. The above mentioned goals can be completely achieved if your conceptual model is of good quality.
+
+The conceptual model of UML can be completely understood after gaining the complete knowledge of UML building blocks and rules to connect the building blocks. The building blocks of UML can be defined as:
+
+1. Things
+2. Relationships
+3. Diagrams
 ### 1. Things
 Things are the most important building blocks of UML. Things can be:
 
@@ -93,7 +95,6 @@ Things are the most important building blocks of UML. Things can be:
 <img src="https://static.javatpoint.com/tutorial/uml/images/uml-building-blocks9.png" height="" width="">
 
 **Grouping Things**: It is a method that together binds the elements of the UML model. In UML, the package is the only thing, which is used for grouping.
-
 1. **Package**: It is the only one grouping thing available for gathering structural and behavioral things.
 
 <img src="https://static.javatpoint.com/tutorial/uml/images/uml-building-blocks12.png" height="" width="">
@@ -105,7 +106,6 @@ Things are the most important building blocks of UML. Things can be:
 
 ### 2. Relationship 
  This is another most important building block of UML. It shows how the elements are associated with each other and this association describes the functionality of an application.There are four kinds of relationships available.
-
 1. **Dependency**: It is a relationship between two things in which change in one element also affects the other.
 
 <img src="https://static.javatpoint.com/tutorial/uml/images/uml-building-blocks14.png" height="" width="">
@@ -141,7 +141,6 @@ Now we will discuss several different types of UML diagrams in detail.
 ### 1. Class Diagram
 Class is a type of static structure diagram that describes the structure of a system by showing the system's classes, their attributes, operations (or methods), and the relationships among objects. A class is represented by a rectangle that contains three compartments stacked vertically—the top compartment contains the class’s name and is mandatory, but the bottom two compartments give details about the class attributes and class operations or behaviors.
 The following points should be remembered while drawing a class diagram −
-
 1. The name of the class diagram should be meaningful to describe the aspect of the system.
 2. Each element and their relationships should be identified in advance.
 3. Responsibility (attributes and methods) of each class should be clearly identified
@@ -156,17 +155,16 @@ Finally, before making the final version, the diagram should be drawn on plain p
 Component diagrams are different in terms of nature and behavior. Component diagrams are used to model the physical aspects of a system. Now the question is, what are these physical aspects? Physical aspects are elements such as libraries, files, documents, etc. which reside in a node. Component diagrams are used to visualize the organization and relationships among components in a system. These diagrams are also used to make executable systems.
 
 The following points should be remembered while drawing an component diagram:
-
 1. Use a meaningful name to identify the component for which the diagram is to be drawn.
 2. Prepare a mental layout before producing the using tools.
 3. Use notes for clarifying important points.
+
 <img src="https://1.bp.blogspot.com/-hZxgZYJKKm8/WtBwUvDQ6gI/AAAAAAAAACg/FzYxeE9alkw7ZecNuvWXB9K4H70H7SXkACK4BGAYYCw/s1600/component-diagram.png" height="" width="">
 
 ### 3. Use Case Diagram
 Only static behavior is not sufficient to model a system rather dynamic behavior is more important than static behavior. In UML, there are five diagrams available to model the dynamic nature and use case diagram is one of them. Now as we have to discuss that the use case diagram is dynamic in nature, there should be some internal or external factors for making the interaction.
 
 These internal and external agents are known as actors. Use case diagrams consists of actors, use cases and their relationships. The diagram is used to model the system/subsystem of an application. A single use case diagram captures a particular functionality of a system. The following points should be remembered while drawing a use case diagram:
-
 1. The name of a use case is very important. The name should be chosen in such a way so that it can identify the functionalities performed.
 2. Give a suitable name for actors.
 3. Show relationships and dependencies clearly in the diagram.
@@ -180,15 +178,18 @@ Activity diagram is another important diagram in UML to describe the dynamic asp
 Activity diagram is basically a flowchart to represent the flow from one activity to another activity. The activity can be described as an operation of the system.
 
 The control flow is drawn from one operation to another. This flow can be sequential, branched, or concurrent. Activity diagrams deal with all type of flow control by using different elements such as fork, join, etc. Before drawing an activity diagram, we should identify the following elements:
-- Activities
-- Association
-- Conditions
-- Constraints
+1. Activities
+2. Association
+3. Conditions
+4. Constraints
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/UML-Activity-Diagram-26.png" height="" width="">
+
 ### 5. Sequence Diagram
-Sequence diagrams describe interactions among classes in terms of an exchange of messages over time. They're also called event diagrams. A sequence diagram is a good way to visualize and validate various runtime scenarios. These can help to predict how a system will behave and to discover responsibilities a class may need to have in the process of modelling a new system.
+Sequence diagrams describe interactions among classes in terms of an exchange of messages over time. They're also called event diagrams. A sequence diagram is a good way to visualize and validate various runtime scenarios. These can help to predict how a system will behave and to discover responsibilities a class may need to have in the process of modeling a new system.
+
 Start with one of SmartDraw's included sequence diagram templates. You'll notice that all the notations and symbols you need are docked to the left of your drawing area. Simply stamp them to your page and connect the symbols.
 <img src="https://i.pinimg.com/originals/d2/53/16/d25316ce459323732e704e5c2ebda3d9.png" height="" width="">
+
 ## Summary
  In this chapter we will go through all the main topics in software designing.
 Firstly we will study objective of software design, object-oriented concepts. Then we will head towards the main topic i.e Unified Modeling Language(UML) and its different types of diagrams.
