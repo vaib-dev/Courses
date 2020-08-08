@@ -35,13 +35,9 @@ UML is powerful enough to represent all the concepts that exist in object-orient
 Following are some fundamental concepts of the object-oriented world −
 
 1. **Objects** − Objects represent an entity and the basic building block.
-
 2. **Class** − Class is the copy of an object.
-
 3. **Abstraction** − Abstraction represents the behavior of the real-world entity.
-
 4. **Encapsulation** − Encapsulation is the mechanism of binding the data together and hiding them from the outside world.
-
 5. **Inheritance** − Inheritance is the mechanism of making new classes from existing ones.
 
 6. **Polymorphism** − It defines the mechanism to exists in different forms.
@@ -65,42 +61,39 @@ Things are the most important building blocks of UML. Things can be −
 4. Annotation
 
 **Structural Things** - Structural things define the static part of the model. They represent the physical and conceptual elements. Below is the brief description of the structural things.
-
-- Class − Class represents a set of objects having similar responsibilities.
-
-- Interface − Interface defines a set of operations, which specify the responsibility of a class.
-
-- Collaboration − Collaboration defines an interaction between elements.
-
-- Use case − Use case represents a set of actions performed by a system for a specific goal.
-
-- Component − Component describes the physical part of a system.
-
-- Node − A node can be defined as a physical element that exists at run time.
+- **Class** − Class represents a set of objects having similar responsibilities.
+- **Interface** − Interface defines a set of operations, which specify the responsibility of a class.
+- **Collaboration** − Collaboration defines an interaction between elements.
+- **Use case** − Use case represents a set of actions performed by a system for a specific goal.
+- **Component** − Component describes the physical part of a system.
+- **Node** − A node can be defined as a physical element that exists at run time.
 
 **Behavioral Things** - A behavioral thing consists of the dynamic parts of UML models. Following are the behavioral things −
 
-- Interaction − It is defined as a behavior that consists of a group of messages exchanged among elements to accomplish a specific task.
+- **Interaction** − It is defined as a behavior that consists of a group of messages exchanged among elements to accomplish a specific task.
 
-- State machine − It is useful when the state of an object in its life cycle is important. It defines the sequence of states an object goes through in response to events. Events are external factors responsible for state change
+- **State machine** − It is useful when the state of an object in its life cycle is important. It defines the sequence of states an object goes through in response to events. Events are external factors responsible for state change
 
 **Grouping Things** - It can be defined as a mechanism to group elements of a UML model together. There is only one grouping thing available −
 
-- Package − It is the only one grouping thing available for gathering structural and behavioral things.
+- **Package** − It is the only one grouping thing available for gathering structural and behavioral things.
 
-**Annotation Things** - It can be defined as a mechanism to capture remarks, descriptions, and comments of UML model elements. - Note - It is the only one Annotation thing available. A note is used to render comments, constraints, etc. of a UML element.
+**Annotation Things** - It can be defined as a mechanism to capture remarks, descriptions, and comments of UML model elements. 
+- **Note** - It is the only one Annotation thing available. A note is used to render comments, constraints, etc. of a UML element.
 
-**Relationship** - This is another most important building block of UML. It shows how the elements are associated with each other and this association describes the functionality of an application.There are four kinds of relationships available.
+### Relationship 
+ This is another most important building block of UML. It shows how the elements are associated with each other and this association describes the functionality of an application.There are four kinds of relationships available.
 
-- Dependency - It is a relationship between two things in which change in one element also affects the other.
+- **Dependency** - It is a relationship between two things in which change in one element also affects the other.
 
-- Association - It is basically a set of links that connects the elements of a UML model. It also describes how many objects are taking part in that relationship.
+- **Association** - It is basically a set of links that connects the elements of a UML model. It also describes how many objects are taking part in that relationship.
 
-- Generalization - It can be defined as a relationship which connects a specialized element with a generalized element. It basically describes the inheritance relationship in the world of objects.
+- **Generalization** - It can be defined as a relationship which connects a specialized element with a generalized element. It basically describes the inheritance relationship in the world of objects.
 
-- Realization - It can be defined as a relationship in which two elements are connected. One element describes some responsibility, which is not implemented and the other one implements them. This relationship exists in the case of interfaces.
+- **Realization** - It can be defined as a relationship in which two elements are connected. One element describes some responsibility, which is not implemented and the other one implements them. This relationship exists in the case of interfaces.
 
-**Diagrams** - All the elements, relationships are used to make a complete UML diagram and the diagram represents a system. The visual effect of the UML diagram is the most important part of the entire process. All the other elements are used to make it complete.
+### Diagrams
+ All the elements, relationships are used to make a complete UML diagram and the diagram represents a system. The visual effect of the UML diagram is the most important part of the entire process. All the other elements are used to make it complete.
 
 UML includes the following nine diagrams, the details of which are described in the subsequent chapters.
 
@@ -117,8 +110,7 @@ UML includes the following nine diagrams, the details of which are described in 
  Now we will discuss about these different types of UML diagrams in detail.
 
  ## Class Diagram
-
- A class is represented by a rectangle that contains three compartments stacked vertically—the top compartment contains the class’s name and is mandatory, but the bottom two compartments give details about the class attributes and class operations or behaviors.
+A class is represented by a rectangle that contains three compartments stacked vertically—the top compartment contains the class’s name and is mandatory, but the bottom two compartments give details about the class attributes and class operations or behaviors.
 
 ### How to draw a class diagram ?
 The following points should be remembered while drawing a class diagram −
@@ -134,7 +126,6 @@ Finally, before making the final version, the diagram should be drawn on plain p
  <img src="https://www.smartdraw.com/class-diagram/img/class-diagram-example-maker.png?bn=1510011166" height="" width="">
 
 ## Object Diagram
-
 Object diagrams are derived from class diagrams so object diagrams are dependent upon class diagrams.
 
 Object diagrams represent an instance of a class diagram. The basic concepts are similar for class diagrams and object diagrams. Object diagrams also represent the static view of a system but this static view is a snapshot of the system at a particular moment.
@@ -151,7 +142,6 @@ The following points should be remembered while drawing an object diagram −
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Object_diagram.png" height="" width="">
 
 ## Component Diagram
-
 Component diagrams are different in terms of nature and behavior. Component diagrams are used to model the physical aspects of a system. Now the question is, what are these physical aspects? Physical aspects are elements such as libraries, files, documents, etc. which reside in a node. Component diagrams are used to visualize the organization and relationships among components in a system. These diagrams are also used to make executable systems.
 
 ### How to Draw a Component Diagram?
@@ -174,11 +164,9 @@ The Deployment diagram represents the deployment view of a system. It is related
 <img src="https://cdn-images.visual-paradigm.com/guide/uml/what-is-deployment-diagram/03-deployment-diagram-for-embedded-system.png" height="" width="">
 
 ## Use Case Diagram
-
 Only static behavior is not sufficient to model a system rather dynamic behavior is more important than static behavior. In UML, there are five diagrams available to model the dynamic nature and use case diagram is one of them. Now as we have to discuss that the use case diagram is dynamic in nature, there should be some internal or external factors for making the interaction.
 
 These internal and external agents are known as actors. Use case diagrams consists of actors, use cases and their relationships. The diagram is used to model the system/subsystem of an application. A single use case diagram captures a particular functionality of a system.
-
 ### How to Draw a Use Case Diagram?
 The following points should be remembered while drawing a use case diagram −
 
@@ -189,3 +177,19 @@ The following points should be remembered while drawing a use case diagram −
 - Use notes whenever required to clarify some important points.
 
 <img src="https://i.pinimg.com/originals/4b/e9/80/4be980b390d0524b67557d72d3f8b401.png" height="" width="">
+
+## Acticity Diagram
+Activity diagram is another important diagram in UML to describe the dynamic aspects of the system.
+
+Activity diagram is basically a flowchart to represent the flow from one activity to another activity. The activity can be described as an operation of the system.
+
+The control flow is drawn from one operation to another. This flow can be sequential, branched, or concurrent. Activity diagrams deal with all type of flow control by using different elements such as fork, join, etc.
+
+### How to Draw an Activity Diagram ?
+Before drawing an activity diagram, we should identify the following elements −
+- Activities
+- Association
+- Conditions
+- Constraints
+
+<img src="https://i.pinimg.com/originals/7d/19/c3/7d19c3491de76c85efb55d73aefb9736.png" height="" width="">
