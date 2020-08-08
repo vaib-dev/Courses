@@ -17,11 +17,11 @@ A Basic difference in Verification and Validation Testing is as shown:
 <img src="https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2019/07/Verification-Vs-Validation.jpg" height="" width="">
 
 ## Software Testing Strategies
-Software testing strategies integrates software test case design techniques into a well planned series of steps that result in the successful construction of software. Any test strategy incoporate test planning, test case design, test execution, and the resultant data collection and evaluation. General characterstics of these strategies are:
+Software testing strategies integrates software test case design techniques into a well-planned series of steps that result in the successful construction of software. Any test strategy incorporate test planning, test case design, test execution, and the resultant data collection and evaluation. General characteristics of these strategies are:
 
 1. **Testing begins at the module level and work outwards**
 
-    Test which are carried out, are done at the module level where major functionality is tested and it works towards the intgration of the entire system.
+    Test which are carried out, are done at the module level where major functionality is tested and it works towards the integration of the entire system.
 
 2. **Different testing techniques are appropriate at different points in time**
 
@@ -39,7 +39,7 @@ In order to conduct a proper testing, the following order should be performed as
 
 As shown above first unit testing is performed. Unit testing focuses on the individual module of the product. After this we perform integration testing. When modules are integrated into bigger problems then we see new errors often. After integration acceptance testing is performed which is comprise of system testing and validation testing.     
 
-In validation testing requirements established as part of software requirements analysis are validated against the software that has been constructed. Finally we arrive at system testing where the software and system are tested as whole.
+In validation testing requirements established as part of software requirements analysis are validated against the software that has been constructed. Finally we arrive at system testing where the software and system are tested as a whole.
 
 The relation between phases and testing are shown below:
 
@@ -60,7 +60,7 @@ The following tests are performed during unit testing:
 We will discuss them deeply in the course software testing.
 
 ### Integration Testing 
-Unit testing ensures that all the modules have been tested and each of them work  properly and individually. Unit testing does not guarantee that when these modules will be integrated then also they will work fine. Integration testing uncovers errors that arises when modules are integrated to buid the overall system.
+Unit testing ensures that all the modules have been tested and each of them work  properly and individually. Unit testing does not guarantee that when these modules will be integrated then also they will work fine. Integration testing uncovers errors that arises when modules are integrated to build the overall system.
 
 <img src="https://kithnkin0508.files.wordpress.com/2017/05/what-is-integrationtesting.png" height="" width="">
 
@@ -72,7 +72,7 @@ We will discuss them deeply in the course software testing.
 
 ### Validation testing
 
-Software validation is achieved through a series of black-box tests that demonstrat confirmity with requirements. In validation testing, pplan and procedures ensure that:
+Software validation is achieved through a series of black-box tests that demonstrate conformity with requirements. In validation testing, plan and procedures ensure that:
 1. All functional requirements are fulfilled.
 2. All the required characteristics are achieved.
 3. Documentation is done correctly. 
@@ -90,6 +90,7 @@ System testing involves the following types of testing:
 3. Stress testing
 4. Performance testing
 
+We will discuss them deeply in the course software testing.
 
 ## Summary
 
