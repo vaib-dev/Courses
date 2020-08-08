@@ -116,7 +116,7 @@ List of some open source UML tools which are available for free :
 
 
 ## Types of UML Diagrams
-
+Now we will discuss several different types of UML diagrams in detail.
 ### 1. Class Diagram
 A class is represented by a rectangle that contains three compartments stacked vertically—the top compartment contains the class’s name and is mandatory, but the bottom two compartments give details about the class attributes and class operations or behaviors.
 The following points should be remembered while drawing a class diagram −
