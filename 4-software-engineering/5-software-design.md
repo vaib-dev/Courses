@@ -186,8 +186,7 @@ The control flow is drawn from one operation to another. This flow can be sequen
 - Constraints
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/UML-Activity-Diagram-26.png" height="" width="">
 ### 5. Sequence Diagram
-Sequence diagrams describe interactions among classes in terms of an exchange of messages over time. They're also called event diagrams. A sequence diagram is a good way to visualize and validate various runtime scenarios. These can help to predict how a system will behave and to discover responsibilities a class may need to have in the process of modeling a new system.
-
+Sequence diagrams describe interactions among classes in terms of an exchange of messages over time. They're also called event diagrams. A sequence diagram is a good way to visualize and validate various runtime scenarios. These can help to predict how a system will behave and to discover responsibilities a class may need to have in the process of modelling a new system.
 Start with one of SmartDraw's included sequence diagram templates. You'll notice that all the notations and symbols you need are docked to the left of your drawing area. Simply stamp them to your page and connect the symbols.
 <img src="https://i.pinimg.com/originals/d2/53/16/d25316ce459323732e704e5c2ebda3d9.png" height="" width="">
 ## Summary
