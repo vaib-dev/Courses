@@ -9,7 +9,7 @@ Following are the purposes of Software design:
 <img src="https://static.javatpoint.com/tutorial/software-engineering/images/software-engineering-software-design2.png" height="" width="">
 
 1. **Correctness** : Software design should be correct as per requirement.
-2. ****Completeness** : The design should have all components like data structures, modules, and external interfaces, etc.
+2. **Completeness**: The design should have all components like data structures, modules, and external interfaces, etc.
 3. **Efficiency** : Resources should be used efficiently by the program.
 4. **Flexibility** : Able to modify on changing needs.
 5. **Consistency** : There should not be any inconsistency in the design.
