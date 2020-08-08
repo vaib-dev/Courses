@@ -51,7 +51,7 @@ There are many goals for developing UML but the most important is to define some
 3. Diagrams
 
 ### 1. Things
-Things are the most important building blocks of UML. Things can be −
+Things are the most important building blocks of UML. Things can be:
 
 1. Structural
 2. Behavioral
