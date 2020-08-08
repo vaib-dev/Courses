@@ -155,7 +155,7 @@ These internal and external agents are known as actors. Use case diagrams consis
 
 <img src="https://d3n817fwly711g.cloudfront.net/blog/wp-content/uploads/2015/02/A-use-case-template-for-an-ATM-system.png" height="" width="">
 
-### 4. Acticity Diagram
+### 4. Activity Diagram
 Activity diagram is another important diagram in UML to describe the dynamic aspects of the system.
 Activity diagram is basically a flowchart to represent the flow from one activity to another activity. The activity can be described as an operation of the system.
 
