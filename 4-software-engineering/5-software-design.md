@@ -105,7 +105,6 @@ UML includes the following nine diagrams, the details of which are described in 
 1. Deployment diagram
 1. Component diagram
  
- Now we will discuss about these different types of UML diagrams in detail.
 
  ### Open Source UML Tools
 List of some open source UML tools which are available for free :
