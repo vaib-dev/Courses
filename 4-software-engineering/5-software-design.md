@@ -22,7 +22,6 @@ Following are some fundamental concepts of the object-oriented world:
 3. **Abstraction**: Abstraction represents the behavior of the real-world entity.
 4. **Encapsulation**: Encapsulation is the mechanism of binding the data together and hiding them from the outside world.
 5. **Inheritance**: Inheritance is the mechanism of making new classes from existing ones.
-
 6. **Polymorphism**: It defines the mechanism to exists in different forms.
 
 There are three basic steps where the OO concepts are applied and implemented. The steps can be defined as:
