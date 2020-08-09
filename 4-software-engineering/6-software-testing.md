@@ -46,8 +46,6 @@ The relation between phases and testing are shown below:
 1. **Unit Testing**: 
 We know that the smallest unit of software design is a module. Unit testing is performed to check the functionality of these units. The primary goal of unit testing is to take the smallest unit of testable software and find out wether it works exactly as expected. Each unit or module is tested separately before these units or modules are integrated to build the overall system. Since the module are small in size individual programer can do testing on their respective modules. So unit testing is basically white box testing.
 
-<img src="https://prepinsta.com/wp-content/uploads/2019/07/Unit-Testing.png" height="" width="">
-
 The following tests are performed during unit testing:
 1. Module interface test
 2. Local data structures
@@ -55,9 +53,9 @@ The following tests are performed during unit testing:
 4. Independent paths
 5. Error handling paths
 
-We will discuss them deeply in the course software testing.
+<img src="https://prepinsta.com/wp-content/uploads/2019/07/Unit-Testing.png" height="" width="">
 
-2. **Integration Testing**: Unit testing ensures that all the modules have been tested and each of them work  properly and individually. Unit testing does not guarantee that when these modules will be integrated then also they will work fine. Integration testing uncovers errors that arises when modules are integrated to build the overall system.
+2) **Integration Testing**: Unit testing ensures that all the modules have been tested and each of them work  properly and individually. Unit testing does not guarantee that when these modules will be integrated then also they will work fine. Integration testing uncovers errors that arises when modules are integrated to build the overall system.
 
 <img src="https://kithnkin0508.files.wordpress.com/2017/05/what-is-integrationtesting.png" height="" width="">
 
@@ -65,18 +63,15 @@ There are two types of integration testing as follow:
 1. Top-down integration
 2. Bottom-up integration
 
-We will discuss them deeply in the course software testing.
-
-3. **Validation testing**: Software validation is achieved through a series of black-box tests that demonstrate conformity with requirements. In validation testing, plan and procedures ensure that:
+3) **Validation testing**: Software validation is achieved through a series of black-box tests that demonstrate conformity with requirements. In validation testing, plan and procedures ensure that:
 1. All functional requirements are fulfilled.
 2. All the required characteristics are achieved.
 3. Documentation is done correctly. 
 
 <img src="https://www.professionalqa.com/assets/images/v-model.png" height="" width="">
 
-We will discuss them deeply in the course software testing.
 
-4. **System Testing**: System testing means testing the entire software. The goal of system testing is to see if the software meets its requirements. System testing includes a series of different tests to fully exercise the computer-based system. Although each test has a different phase, all work to verify that system elements have been properly integrated and perform allocated functions.
+4) **System Testing**: System testing means testing the entire software. The goal of system testing is to see if the software meets its requirements. System testing includes a series of different tests to fully exercise the computer-based system. Although each test has a different phase, all work to verify that system elements have been properly integrated and perform allocated functions.
 
 System testing involves the following types of testing:
 1. Recovery testing 
@@ -86,7 +81,8 @@ System testing involves the following types of testing:
 
 <img src="https://cdn.educba.com/academy/wp-content/uploads/2019/05/Types-of-System-Testing-3.png" height="" width="">
 
-We will discuss them deeply in the course software testing.
+
+This chapter contains only the basics of software testing. If you like to study this topic in brief then you can see the separate software testing course that will be available soon.
 
 ## Summary
 
