@@ -50,9 +50,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 
          3. Agile Methods       4. Project Planning
 
-         5. Software Design
- 
-                                6. Software Testing(basics)  
+         5. Software Design     6. Software Testing(basics)  
 
 ## Support
 For any query plz mail at vaibhavpratapsingh22@gmail.com
