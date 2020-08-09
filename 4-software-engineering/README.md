@@ -21,7 +21,7 @@ It is about the planning of the project in this we will study how the cost of so
 
 ## Chapter 5 - Software Designing
 
-In this we will learn about how to represent client requirement , as described in the SRS document into a form that is easy to implement using programming languages.
+In this we will start with the objective of software designing then we will discuss about object-oriented concepts and unified modeling language(UML) and different types of UML diagrams. 
 
 ## Chapter 6 - Software Testing
 This chapter deals with the basics of software testing.  In this we have studied about software testing forms, strategies. If you are interested to study it in brief then plz stay tuned as we will add a new separate course for software testing in which we will study each and every topic in detail.
