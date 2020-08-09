@@ -49,6 +49,8 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
          1. Introduction        2. Development Models
 
          3. Agile Methods       4. Project Planning
+
+         5. Software Design
  
 ## Support
 For any query plz mail at vaibhavpratapsingh22@gmail.com
