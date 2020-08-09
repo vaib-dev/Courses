@@ -17,23 +17,19 @@ A Basic difference in Verification and Validation Testing is as shown:
 <img src="https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2019/07/Verification-Vs-Validation.jpg" height="" width="">
 
 ## Software Testing Strategies
-Software testing strategies integrates software test case design techniques into a well-planned series of steps that result in the successful construction of software. Any test strategy incorporate test planning, test case design, test execution, and the resultant data collection and evaluation. General characteristics of these strategies are:
+Software testing strategies integrates software test case design techniques into a well-planned series of steps that result in the successful construction of software. Any test strategy incorporate test planning, test case design, test execution, and the resultant data collection and evaluation.
 
-1. **Testing begins at the module level and work outwards**
+ General characteristics of these strategies are:
 
-    Test which are carried out, are done at the module level where major functionality is tested and it works towards the integration of the entire system.
+1. **Testing begins at the module level and work outwards**: Test which are carried out, are done at the module level where major functionality is tested and it works towards the integration of the entire system.
 
-2. **Different testing techniques are appropriate at different points in time**
-
-   Different testing techniques are to be used under different circumstances. circumstances mean the levels at which testing is being done.
+2. **Different testing techniques are appropriate at different points in time**: Different testing techniques are to be used under different circumstances. circumstances mean the levels at which testing is being done.
 
 3. **The developer of the software conducts testing and if the project is big then there is a testing team**
 
-4. **Debugging and testing are all together different processes**
+4. **Debugging and testing are all together different processes**: As testing aims to find errors whereas debugging is the process of fixing those errors.
 
-   As testing aims to find errors whereas debugging is the process of fixing those errors.
-
-In order to conduct a proper testing, the following order should be performed as shown:
+*In order to conduct a proper testing, the following order should be performed as shown:*
 
 <img src="https://www.guru99.com/images/1/System-Testing.png" height="" width="">
 
@@ -89,6 +85,8 @@ System testing involves the following types of testing:
 2. Security testing
 3. Stress testing
 4. Performance testing
+
+<img src="https://cdn.educba.com/academy/wp-content/uploads/2019/05/Types-of-System-Testing-3.png" height="" width="">
 
 We will discuss them deeply in the course software testing.
 
