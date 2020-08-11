@@ -48,10 +48,6 @@ There are mainly seven types of database that are discussed and shown below:
 4. **Data integrity**: This is ensured in databases by using various constraints for data. Data integrity in databases makes sure that the data is accurate and consistent in a database.
 
 5) **Cloud Database**: A type of database where data is stored in a virtual environment and executes over the cloud computing platform. It provides users with various cloud computing services (Software as a Service(SaaS), Platform as a Service(PaaS), Infrastructure as a service (IaaS), etc.) for accessing the database.
-
-
-
-
 ## Database Management System
 The Database management system is a software which is used to manage the database. For example: MySQL, Oracle, etc are a very popular commercial database which is used in different applications. DBMS provides an interface to perform various operations like database creation, storing data in it, updating data, creating a table in the database and a lot more.
 It provides protection and security to the database. In the case of multiple users, it also maintains data consistency.
