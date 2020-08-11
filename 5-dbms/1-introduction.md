@@ -1,6 +1,5 @@
 # Chapter 1 - Introduction
 
-## What is Database?
 **E.F. Codd** invented the database in 1970. A database is an organized collection of data that it can be easily accessed and managed. You can organize data into tables, rows, columns, and index it to make it easier to find relevant information. Database handlers create a database in such a way that only one set of software program provide access of data to all the users.
 
 The main purpose of the database is to operate a large amount of information by storing, retrieving, and managing data.
@@ -80,4 +79,3 @@ In this chapter we have discussed about database, its types and importance of da
 In the next chapter we will start with Data Modeling.
 
  ![Chapter-1](https://img.shields.io/static/v1?label=Finished&message=Introduction&color=green) ![Chapter-1](https://img.shields.io/static/v1?label=Source&message=www.javatpoint.com&color=blue)![Chapter-1](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=yellow)
-
