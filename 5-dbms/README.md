@@ -4,7 +4,7 @@ A database management system refers to the technology for creating and managing 
 
 ## Chapter 1 - Introduction
 
-In this chapter we will discuss about database, data management system, DBMS types, its uses and advantages of using DBMS.
+We will learn about Database, data management system, DBMS types, its uses and advantages of using DBMS.
 
 ## Chapter 2 - Data Modeling
 
