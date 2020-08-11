@@ -73,7 +73,7 @@ It provides protection and security to the database. In the case of multiple use
 
 ## Summary
 
-In this chapter we have discussed about database, its types and importance of database. Then we have a brief introduction to Database Management System(DBMS) and its advantages.
+In this chapter, we have discussed the database, its types and importance of database. Then we had a brief introduction to Database Management System(DBMS) and its advantages.
 
 In the next chapter we will start with Data Modeling.
 
