@@ -1,3 +1,3 @@
 # Challenge 1: Class Diagram
 
-<img src="https://user-images.githubusercontent.com/54719422/89885780-3158fd80-dbe9-11ea-8f00-6b332fef28f0.png" height="" width="">
+<img src="https://user-images.githubusercontent.com/54719422/89905636-0c27b780-dc08-11ea-9d2f-0f05e6371cb6.png" height="" width="">
