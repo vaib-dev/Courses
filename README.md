@@ -45,6 +45,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
 
 ## [Software Engineering](4-software-engineering)
 Here, you will learn software engineering principles that are applicable to the breadth of large-scale software systems. The course explores topics such as agile development,project planning, testing, design, and more.                        
+                        
                         CONTENTS
                         
          1. Introduction        2. Development Models
