@@ -8,11 +8,11 @@ In this chapter we will discuss about database, data management system, DBMS typ
 
 ## Chapter 2 - Data Modeling
 
-## Chapter 3- Database Architecture
+## Chapter 3 - Database Architecture
 
-## Chapter 4- RDBMS
+## Chapter 4 - RDBMS
 
-## Chapter 5-  Extensions of DBMS
+## Chapter 5 - Extensions of DBMS
 
 ## Chapter 6 - ORDBMS
 
