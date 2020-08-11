@@ -26,4 +26,9 @@ In this we will start with the objective of software designing then we will disc
 ## Chapter 6 - Software Testing
 This chapter deals with the basics of software testing.  In this we have studied about software testing forms, strategies. If you are interested to study it in brief then plz stay tuned as we will add a new separate course for software testing in which we will study each and every topic in detail.
 
+## Challenges
+### challenge-1: UML Class Diagram
+
+Provide an example of UML class diagram which shows a domain model for online shopping. The purpose of the diagram is to introduce some common terms, "dictionary" for online shopping - Customer, Web User, Account, Shopping Cart, Product, Order, Payment, etc. and relationships between. It could be used as a common ground between business analysts and software developers.
+
 ![edit2](https://img.shields.io/static/v1?label=Introduction&message=Software-Engineering&color=orange)![edit](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=<COLOR>)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
