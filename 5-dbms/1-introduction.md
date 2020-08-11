@@ -38,7 +38,6 @@ There are mainly seven types of database that are discussed and shown below:
 <img src="https://image2.slideserve.com/4935970/hierarchical-database-model-n.jpg" height="" width="">
 
 ## Importance and Applications
-The various reasons a database is important are −
 
 1. **Manages large amounts of data**: A database stores and manages a large amount of data on a daily basis. This would not be possible using any other tool such as a spreadsheet as they would simply not work.
 
