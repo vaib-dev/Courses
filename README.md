@@ -1,13 +1,6 @@
 # Courses
 
-Welcome to the GitHub , Data Structure and Algorithm course here U will learn :-
-
-1. Various Popular Data Structures and their Algorithms.
-1. Develop your Analytical skills on Data Structure and use then efficiently.
-1. Learn Recursive Algorithms.
-1. Learn about various Sorting and Searching Algorithms
-1. Implementation of Data Structures using C .
-1. Working with Git and GitHub from scratch.
+## Welcome!
 
 ## [GitHub](1-github)
 This course will comprehensively cover the GitHub hosting service as a companion to the Github Desktop source control tool, which means no prior knowledge or experience is required. 
@@ -25,16 +18,16 @@ This course will comprehensively cover the GitHub hosting service as a companion
 
                       CONTENTS
                       
-    1. Linked List  2. Doublylinklist  3. Graph 
+    1. Linked List  2. Doubly-linklist  3. Graph 
 
     4. Heap         5. Queue           6. Stack
     
-    7. Trees 
+    7. Tree 
 
 ## [Algorithms](3-algorithms)  
  
 Apply basic algorithmic techniques such as greedy algorithms, searching, sorting and dynamic programming to solve programming challenges.
-Apply graph and string algorithms to solve real-world challenges: finding shortest paths.
+Apply graph and string algorithms to solve real-world challenges: finding the shortest paths.
 
                      CONTENTS
                      
