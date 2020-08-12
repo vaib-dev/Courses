@@ -37,7 +37,7 @@ There are mainly seven types of database that are discussed and shown below:
 
 <img src="https://image2.slideserve.com/4935970/hierarchical-database-model-n.jpg" height="" width="">
 
-## Importance and Applications
+## Importance  
 
 1. **Manages large amounts of data**: A database stores and manages a large amount of data on a daily basis. This would not be possible using any other tool such as a spreadsheet as they would simply not work.
 
@@ -47,7 +47,19 @@ There are mainly seven types of database that are discussed and shown below:
 
 4. **Data integrity**: This is ensured in databases by using various constraints for data. Data integrity in databases makes sure that the data is accurate and consistent in a database.
 
-5) **Cloud Database**: A type of database where data is stored in a virtual environment and executes over the cloud computing platform. It provides users with various cloud computing services (Software as a Service(SaaS), Platform as a Service(PaaS), Infrastructure as a service (IaaS), etc.) for accessing the database.
+5. **Cloud Database**: A type of database where data is stored in a virtual environment and executes over the cloud computing platform. It provides users with various cloud computing services (Software as a Service(SaaS), Platform as a Service(PaaS), Infrastructure as a service (IaaS), etc.) for accessing the database.
+
+## Applications
+Although there are many applications of the database, below there are some of them:
+
+1. **Banking**: Banks consists of different databases like customer information, accounts, loans and banking associations.
+2. **Airlines**: This also have many databases like reservation,cancellation, schedule information, staff and passenger information etc.
+3. **University**: Database has records of students, courses and results with grades or marks.
+
+4. **Telecommunication**: In this we have the database consisting of information of communication network, records of cell phone, etc.
+
+5. **Sales**: Database has customer product and procedure information. 
+
 ## Database Management System
 The Database management system is a software which is used to manage the database. For example: MySQL, Oracle, etc are a very popular commercial database which is used in different applications. DBMS provides an interface to perform various operations like database creation, storing data in it, updating data, creating a table in the database and a lot more.
 It provides protection and security to the database. In the case of multiple users, it also maintains data consistency.
