@@ -10,14 +10,13 @@ Relational algebra is a procedural query language. It gives a step by step proce
 It is denoted by sigma (σ).
 
        Notation:  σ p(r)
-       Where:
-        σ is used for selection prediction
-        r is used for relation(table name)
-        p is used as a propositional logic
-         formula which may use connectors like: 
-         AND OR and NOT. These relational can use 
-         as relational operators like =, ≠, ≥, <, 
-         >, ≤.
+ Where: σ is used for selection prediction
+   r is used for relation(table name)
+   p is used as a propositional logic
+    formula which may use connectors like: 
+    AND OR and NOT. These relational can use 
+    as relational operators like =, ≠, ≥, <, 
+    >, ≤.
    For example: **LOAN Relation**
    
    | BRANCH_NAME | LOAN_NO | AMOUNT |
@@ -26,9 +25,7 @@ It is denoted by sigma (σ).
    | Redwood     | L-23    | 2000   |
    | Ontario     | L-15    | 1500   |
    
-   **Input**:
-   
-   σ BRANCH_NAME="Ontario" (LOAN)  
+   **Input**: σ BRANCH_NAME="Ontario" (LOAN)  
    **Output**:
 
 | BRANCH_NAME | LOAN_NO | AMOUNT |
@@ -38,8 +35,7 @@ It is denoted by sigma (σ).
 It is denoted by ∏.
  
        Notation: ∏ A1, A2, An (r)   
-       Where:
-       A1, A2, A3 is used as an attribute(column) name of relation r.
+   Where: A1, A2, A3 is used as an attribute(column) name of relation r.
 
    Example: **CUSTOMER RELATION**
    
@@ -49,9 +45,8 @@ It is denoted by ∏.
    | Smith   | North   | Rye      |
    | Hays    | Main    | Harrison |
    
-   **Input**:
-   
-   ∏ NAME, CITY (CUSTOMER)  
+   **Input**: ∏ NAME, CITY (CUSTOMER)  
+  
    **Output**:
    | NAME    | CITY     |
    |---------|----------|
@@ -62,9 +57,10 @@ It is denoted by ∏.
 It eliminates the duplicate tuples(rows). It is denoted by ∪.
 
        Notation: R ∪ S   
-       A union operation must hold the following condition:
-       1.R and S must have the attribute of the same number.
-       2.Duplicate tuples are eliminated automatically.
+   A union operation must hold the following condition:
+    1. R and S must have the attribute of the same number.
+    2. Duplicate tuples are eliminated automatically.
+   
    Example: **DEPOSITOR RELATION**
    
    | CUSTOMER_NAME | ACCOUNT_NO |
@@ -81,11 +77,9 @@ It eliminates the duplicate tuples(rows). It is denoted by ∪.
    | Smith         | L-23    |
    | Hayes         | L-15    |
    
-   **Input**:
+   **Input**: ∏ CUSTOMER_NAME (BORROW) ∪ ∏ CUSTOMER_NAME    (DEPOSITOR)  
    
-   ∏ CUSTOMER_NAME (BORROW) ∪ ∏ CUSTOMER_NAME    (DEPOSITOR)  
-   Output:
-   
+   **Output**:
    | CUSTOMER_NAME |
    |---------------|
    | Johnson       |
@@ -95,14 +89,14 @@ It eliminates the duplicate tuples(rows). It is denoted by ∪.
    
 4. **Set Intersection**: Suppose there are two tuples R and S. The set intersection operation contains all tuples that are in both R & S.
 It is denoted by intersection ∩.
-Notation: R ∩ S   
+
+       Notation: R ∩ S   
+
 Example: Using the above **DEPOSITOR table** and **BORROW table**.
 
-   **Input**:
+   **Input**: ∏ CUSTOMER_NAME (BORROW) ∩ ∏ CUSTOMER_NAME (DEPOSITOR)  
    
-   ∏ CUSTOMER_NAME (BORROW) ∩ ∏ CUSTOMER_NAME    (DEPOSITOR)  
    **Output**:
-   
    | CUSTOMER_NAME |
    |---------------|
    | Smith         |
@@ -113,12 +107,9 @@ It is denoted by intersection minus (-).
         Notation: R - S  
    Example: Using the above **DEPOSITOR table** and **BORROW table**.
 
-   **Input**:
-   
-   ∏ CUSTOMER_NAME (BORROW) - ∏ CUSTOMER_NAME    (DEPOSITOR)  
+   **Input**: ∏ CUSTOMER_NAME (BORROW) - ∏ CUSTOMER_NAME    (DEPOSITOR)  
    
    **Output**:
-   
    | CUSTOMER_NAME |
    |:--------------: |
    | Jackson       |
@@ -127,8 +118,7 @@ It is denoted by intersection minus (-).
 It is denoted by X.
        
        Notation: E X D  
-   Example:
-   **EMPLOYEE**
+   Example: **EMPLOYEE**
    | EMP_ID | EMP_NAME | EMP_DEPT |
    |--------|----------|----------|
    | 1      | Smith    | A        |
@@ -141,9 +131,8 @@ It is denoted by X.
    | A       | Marketing |
    | B       | Sales     |
   
-   **Input**:
+   **Input**: EMPLOYEE X DEPARTMENT  
    
-   EMPLOYEE X DEPARTMENT  
    **Output**:
    
    | EMP_ID | EMP_NAME | EMP_DEPT | DEPT_NO |    DEPT_NAME |
@@ -154,7 +143,9 @@ It is denoted by X.
    | 2      | Harry    | C        | B       |    Sales    |
    | 3      | John     | B        | A       |    Marketing|
    | 3      | John     | B        | B       |    Sales    |
-7. **Rename Operation**: The rename operation is used to rename the output relation. It is denoted by rho (ρ).
+7. **Rename Operation**: The rename operation is used to rename the output relation.
+
+       Notation: ρ (rho)
 
    Example: We can use the rename operator to rename STUDENT relation to STUDENT1.
 
@@ -167,11 +158,11 @@ Semantic modeling can be represented in two forms:
 
 1. **Using entity Concepts and Terminology and UML**: We can build a model either with the help of Entity Concepts or with the help of UML. UML diagrams are discussed in software engineering course in detail. ER model are discussed later in this chapter. 
 
-<img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/examples/entityrelationshipdiagram.svg" height="" width="">
+   <img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/examples/entityrelationshipdiagram.svg" height="" width="">
 
 2. **Logical data modeling using the Relational Model**: We can also represent the semantic model using Relational model. A relational model is nothing but a table of values. Every row in the table represents a collection of related data values. These rows in the table denote a real-world entity or relationship.
 
-<img src="https://binaryterms.com/wp-content/uploads/2019/11/Relational-Model-diagram.jpg" height="" width="">
+   <img src="https://binaryterms.com/wp-content/uploads/2019/11/Relational-Model-diagram.jpg" height="" width="">
 
 ## ER Model
 ER model stands for an Entity-Relationship model. It is a high-level data model. This model is used to define the data elements and relationship for a specified system. It develops a conceptual design for the database. It also develops a very simple and easy to design view of data. In ER modeling, the database structure is portrayed as a diagram called an entity-relationship diagram.
@@ -182,30 +173,35 @@ ER model stands for an Entity-Relationship model. It is a high-level data model.
 
 1. **Entity**:
 An entity may be any object, class, person or place. In the ER diagram, an entity can be represented as rectangles.
-<img src="https://www.studytonight.com/dbms/images/er-entity.png" height="" width="">
+<img src="https://creately.com/blog/wp-content/uploads/2012/03/Attributes-ER-Diagrams.jpeg" height="" width="">
 
    a. **Weak Entity**- An entity that depends on another entity called a weak entity. The weak entity doesn't contain any key attribute of its own. The weak entity is represented by a double rectangle.
+
+   <img src="https://media.geeksforgeeks.org/wp-content/uploads/Database-Management-System-ER-Model-20.png" height="" width="">
+
 2. **Attribute**- The attribute is used to describe the property of an entity. Eclipse is used to represent an attribute.
-<img src="https://www.studytonight.com/dbms/images/er-attributes.png" height="" width="">
+
+   <img src="https://d3n817fwly711g.cloudfront.net/blog/wp-content/uploads/2012/03/Attributes-ER-Diagrams.jpeg" height="" width="">
 
    a. **Key Attribute**- The key attribute is used to represent the main characteristics of an entity. It represents a primary key. The key attribute is represented by an ellipse with the text underlined.
 
-<img src="https://www.studytonight.com/dbms/images/er-key-attr.png" height="" width="">
+   <img src="https://beginnersbook.com/wp-content/uploads/2015/04/ER_diagram_key_attribute.png" height="" width="">
 
    b. **Composite Attribute**- An attribute that composed of many other attributes is known as a composite attribute. The composite attribute is represented by an ellipse, and those ellipses are connected with an ellipse.
 
-   <img src="https://www.studytonight.com/dbms/images/er-composite-attr.png" height="" width="">
+   <img src="https://media.geeksforgeeks.org/wp-content/uploads/Database-Management-System-ER-Model-4.png" height="" width="">
 
    c. **Multi-valued Attribute**- An attribute can have more than one value. These attributes are known as a multi-valued attribute. The double oval is used to represent multi-valued attribute.
 
-<img src="https://www.studytonight.com/dbms/images/er-multi-attr.png" height="" width="">
+   <img src="https://i.stack.imgur.com/B2lxV.png" height="" width="">
 
    d. **Derived Attribute**- An attribute that can be derived from other attribute is known as a derived attribute. It can be represented by a dashed ellipse.
 
    <img src="https://www.gatevidyalay.com/wp-content/uploads/2018/06/Derived-Attributes-Example.png" height="" width="">
 
 3. **Relationship**- A relationship is used to describe the relation between entities. Diamond or rhombus is used to represent the relationship.
-<img src="https://www.studytonight.com/dbms/images/relationship-example.jpg" height="" width="">
+
+   <img src="https://www.studytonight.com/dbms/images/relationship-example.jpg" height="" width="">
 
    Types of relationship are as follows:
 
