@@ -2,7 +2,6 @@
 
 ## Relational Algebra
 Relational algebra is a procedural query language. It gives a step by step process to obtain the result of the query. It uses operators to perform queries.
-
 ### Types of Relational operation
 
 <img src="https://static.javatpoint.com/dbms/images/dbms-relational-algebra.png" height="" width="">
@@ -19,18 +18,17 @@ It is denoted by sigma (σ).
          AND OR and NOT. These relational can use 
          as relational operators like =, ≠, ≥, <, 
          >, ≤.
-
-For example: **LOAN Relation**
-
-| BRANCH_NAME | LOAN_NO | AMOUNT |
-|-------------|---------|--------|
-| Downtown    | L-17    | 1000   |
-| Redwood     | L-23    | 2000   |
-| Ontario     | L-15    | 1500   |
-Input:
-
-σ BRANCH_NAME="Ontario" (LOAN)  
-Output:
+   For example: **LOAN Relation**
+   
+   | BRANCH_NAME | LOAN_NO | AMOUNT |
+   |-------------|---------|--------|
+   | Downtown    | L-17    | 1000   |
+   | Redwood     | L-23    | 2000   |
+   | Ontario     | L-15    | 1500   |
+   **Input**:
+   
+   σ BRANCH_NAME="Ontario" (LOAN)  
+   **Output**:
 
 | BRANCH_NAME | LOAN_NO | AMOUNT |
 |-------------|---------|--------|
@@ -42,22 +40,22 @@ It is denoted by ∏.
        Where:
        A1, A2, A3 is used as an attribute(column) name of relation r.
 
-Example: **CUSTOMER RELATION**
-
-| NAME    | STREET  | CITY     |
-|---------|---------|----------|
-| Jones   | Main    | Harrison |
-| Smith   | North   | Rye      |
-| Hays    | Main    | Harrison |
-**Input**:
-
-∏ NAME, CITY (CUSTOMER)  
-**Output**:
-| NAME    | CITY     |
-|---------|----------|
-| Jones   | Harrison |
-| Smith   | Rye      |
-| Hays    | Harrison |
+   Example: **CUSTOMER RELATION**
+   
+   | NAME    | STREET  | CITY     |
+   |---------|---------|----------|
+   | Jones   | Main    | Harrison |
+   | Smith   | North   | Rye      |
+   | Hays    | Main    | Harrison |
+   **Input**:
+   
+   ∏ NAME, CITY (CUSTOMER)  
+   **Output**:
+   | NAME    | CITY     |
+   |---------|----------|
+   | Jones   | Harrison |
+   | Smith   | Rye      |
+   | Hays    | Harrison |
 3. **Union Operation**: Suppose there are two tuples(rows) R and S. The union operation contains all the tuples that are either in R or S or both in R & S.
 It eliminates the duplicate tuples(rows). It is denoted by ∪.
 
@@ -65,95 +63,94 @@ It eliminates the duplicate tuples(rows). It is denoted by ∪.
        A union operation must hold the following condition:
        1.R and S must have the attribute of the same number.
        2.Duplicate tuples are eliminated automatically.
-Example:
-
-**DEPOSITOR RELATION**
-
-| CUSTOMER_NAME | ACCOUNT_NO |
-|---------------|------------|
-| Johnson       | A-101      |
-| Smith         | A-121      |
-| Mayes         | A-321      |
-
-**BORROW RELATION**
-
-| CUSTOMER_NAME | LOAN_NO |
-|---------------|---------|
-| Jones         | L-17    |
-| Smith         | L-23    |
-| Hayes         | L-15    |
-**Input**:
-
-∏ CUSTOMER_NAME (BORROW) ∪ ∏ CUSTOMER_NAME (DEPOSITOR)  
-Output:
-
-| CUSTOMER_NAME |
-|---------------|
-| Johnson       |
-| Smith         |
-| Hayes         |
-| Mayes         |
-
+   Example: **DEPOSITOR RELATION**
+   
+   | CUSTOMER_NAME | ACCOUNT_NO |
+   |---------------|------------|
+   | Johnson       | A-101      |
+   | Smith         | A-121      |
+   | Mayes         | A-321      |
+   
+   **BORROW RELATION**
+   
+   | CUSTOMER_NAME | LOAN_NO |
+   |---------------|---------|
+   | Jones         | L-17    |
+   | Smith         | L-23    |
+   | Hayes         | L-15    |
+   **Input**:
+   
+   ∏ CUSTOMER_NAME (BORROW) ∪ ∏ CUSTOMER_NAME    (DEPOSITOR)  
+   Output:
+   
+   | CUSTOMER_NAME |
+   |---------------|
+   | Johnson       |
+   | Smith         |
+   | Hayes         |
+   | Mayes         |
+   
 4. **Set Intersection**: Suppose there are two tuples R and S. The set intersection operation contains all tuples that are in both R & S.
 It is denoted by intersection ∩.
 Notation: R ∩ S   
 Example: Using the above **DEPOSITOR table** and **BORROW table**.
 
-**Input**:
-
-∏ CUSTOMER_NAME (BORROW) ∩ ∏ CUSTOMER_NAME (DEPOSITOR)  
-**Output**:
-
-| CUSTOMER_NAME |
-|---------------|
-| Smith         |
-| Jones         |
+   **Input**:
+   
+   ∏ CUSTOMER_NAME (BORROW) ∩ ∏ CUSTOMER_NAME    (DEPOSITOR)  
+   **Output**:
+   
+   | CUSTOMER_NAME |
+   |---------------|
+   | Smith         |
+   | Jones         |
 5. **Set Difference**: Suppose there are two tuples R and S. The set intersection operation contains all tuples that are in R but not in S.
 It is denoted by intersection minus (-).
       
         Notation: R - S  
-Example: Using the above **DEPOSITOR table** and **BORROW table**.
-**Input**:
-
-∏ CUSTOMER_NAME (BORROW) - ∏ CUSTOMER_NAME (DEPOSITOR)  
-**Output**:
-
-| CUSTOMER_NAME |
-|:--------------: |
-| Jackson       |
-| Hayes         |
+   Example: Using the above **DEPOSITOR table** and **BORROW table**.
+   **Input**:
+   
+   ∏ CUSTOMER_NAME (BORROW) - ∏ CUSTOMER_NAME    (DEPOSITOR)  
+   
+   **Output**:
+   
+   | CUSTOMER_NAME |
+   |:--------------: |
+   | Jackson       |
+   | Hayes         |
 6. **Cartesian product**: The Cartesian product is used to combine each row in one table with each row in the other table. It is also known as a cross product.
 It is denoted by X.
        
        Notation: E X D  
-Example:
-**EMPLOYEE**
-| EMP_ID | EMP_NAME | EMP_DEPT |
-|--------|----------|----------|
-| 1      | Smith    | A        |
-| 2      | Harry    | C        |
-| 3      | John     | B        |
-**DEPARTMENT**
-| DEPT_NO | DEPT_NAME |
-|---------|-----------|
-| A       | Marketing |
-| B       | Sales     |
-**Input**:
-
-EMPLOYEE X DEPARTMENT  
-**Output**:
-
-| EMP_ID | EMP_NAME | EMP_DEPT | DEPT_NO | DEPT_NAME |
-|--------|----------|----------|---------|-----------|
-| 1      | Smith    | A        | A       | Marketing|
-| 1      | Smith    | A        | B       | Sales    |         |
-| 2      | Harry    | C        | A       | Marketing|
-| 2      | Harry    | C        | B       | Sales    |
-| 3      | John     | B        | A       | Marketing|
-| 3      | John     | B        | B       | Sales    |
+   Example:
+   **EMPLOYEE**
+   | EMP_ID | EMP_NAME | EMP_DEPT |
+   |--------|----------|----------|
+   | 1      | Smith    | A        |
+   | 2      | Harry    | C        |
+   | 3      | John     | B        |
+   **DEPARTMENT**
+   | DEPT_NO | DEPT_NAME |
+   |---------|-----------|
+   | A       | Marketing |
+   | B       | Sales     |
+   **Input**:
+   
+   EMPLOYEE X DEPARTMENT  
+   **Output**:
+   
+   | EMP_ID | EMP_NAME | EMP_DEPT | DEPT_NO |    DEPT_NAME |
+   |--------|----------|----------|---------|   -----------|
+   | 1      | Smith    | A        | A       |    Marketing|
+   | 1      | Smith    | A        | B       |    Sales    |         |
+   | 2      | Harry    | C        | A       |    Marketing|
+   | 2      | Harry    | C        | B       |    Sales    |
+   | 3      | John     | B        | A       |    Marketing|
+   | 3      | John     | B        | B       |    Sales    |
 7. **Rename Operation**: The rename operation is used to rename the output relation. It is denoted by rho (ρ).
 
-Example: We can use the rename operator to rename STUDENT relation to STUDENT1.
+   Example: We can use the rename operator to rename STUDENT relation to STUDENT1.
 
 ## Semantic Modeling
 Semantic Modeling is nothing but a way to represent complex data or a big data in the form of relationships. Before we get into the model, let's look at a simple relationship between an artist and an album. A given artist has a relationship to an album because they record the album. This can be expressed as follows:
@@ -166,7 +163,7 @@ Semantic modeling can be represented in two forms:
 
 <img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/examples/entityrelationshipdiagram.svg" height="" width="">
 
-2. **Logical data modelling using the Relational Model**: We can also represent semantic model using Relational model. A relational model is nothing but a table of values. Every row in the table represents a collection of related data values. These rows in the table denote a real-world entity or relationship.
+2. **Logical data modeling using the Relational Model**: We can also represent the semantic model using Relational model. A relational model is nothing but a table of values. Every row in the table represents a collection of related data values. These rows in the table denote a real-world entity or relationship.
 
 <img src="https://www.researchgate.net/publication/6130193/figure/fig3/AS:667608747610143@1536181737968/Relational-model-design-of-the-database-On-a-conceptual-level-the-database-is.png" height="" width="">
 
@@ -179,28 +176,73 @@ ER model stands for an Entity-Relationship model.It is a high-level data model. 
 
 1. **Entity**:
 An entity may be any object, class, person or place. In the ER diagram, an entity can be represented as rectangles.
+<img src="https://www.studytonight.com/dbms/images/er-entity.png" height="" width="">
 
    a. **Weak Entity**- An entity that depends on another entity called a weak entity. The weak entity doesn't contain any key attribute of its own. The weak entity is represented by a double rectangle.
 
 2. **Attribute**- The attribute is used to describe the property of an entity. Eclipse is used to represent an attribute.
+<img src="https://www.studytonight.com/dbms/images/er-attributes.png" height="" width="">
 
    a. **Key Attribute**- The key attribute is used to represent the main characteristics of an entity. It represents a primary key. The key attribute is represented by an ellipse with the text underlined.
 
+<img src="https://www.studytonight.com/dbms/images/er-key-attr.png" height="" width="">
+
    b. **Composite Attribute**- An attribute that composed of many other attributes is known as a composite attribute. The composite attribute is represented by an ellipse, and those ellipses are connected with an ellipse.
+
+   <img src="https://www.studytonight.com/dbms/images/er-composite-attr.png" height="" width="">
 
    c. **Multi-valued Attribute**- An attribute can have more than one value. These attributes are known as a multi-valued attribute. The double oval is used to represent multi-valued attribute.
 
+<img src="https://www.studytonight.com/dbms/images/er-multi-attr.png" height="" width="">
+
    d. **Derived Attribute**- An attribute that can be derived from other attribute is known as a derived attribute. It can be represented by a dashed ellipse.
 
-3. **Relationship**- A relationship is used to describe the relation between entities. Diamond or rhombus is used to represent the relationship.Types of relationship are as follows:
+3. **Relationship**- A relationship is used to describe the relation between entities. Diamond or rhombus is used to represent the relationship.
+<img src="https://www.studytonight.com/dbms/images/relationship-example.jpg" height="" width="">
+
+   Types of relationship are as follows:
 
    a. **One-to-One Relationship**- When only one instance of an entity is associated with the relationship, then it is known as one to one relationship.
 
+   <img src="https://www.studytonight.com/dbms/images/one-to-one-example.jpg" height="" width="">
+
    b. **One-to-many relationship**- When only one instance of the entity on the left, and more than one instance of an entity on the right associates with the relationship then this is known as a one-to-many relationship.
+
+   <img src="https://www.studytonight.com/dbms/images/one-to-many-example.jpg" height="" width="">
 
    c. **Many-to-one relationship**- When more than one instance of the entity on the left, and only one instance of an entity on the right associates with the relationship then it is known as a many-to-one relationship.
 
+   <img src="https://www.studytonight.com/dbms/images/many-to-one.jpg" height="" width="">
+
     d. **Many-to-many relationship**- When more than one instance of the entity on the left, and more than one instance of an entity on the right associates with the relationship then it is known as a many-to-many relationship.
 
+    <img src="https://www.studytonight.com/dbms/images/many-to-many-example.jpg" height="" width="">
 
+### Mapping
+A mapping constraint is a data constraint that expresses the number of entities to which another entity can be related via a relationship set.
+It is most useful in describing the relationship sets that involve more than two entity sets.
+For binary relationship set R on an entity set A and B, there are four possible mapping cardinalities. These are as follows: 
+1. **One-to-one**: In one-to-one mapping, an entity in E1 is associated with at most one entity in E2, and an entity in E2 is associated with at most one entity in E1.
+2. **One-to-many**: In one-to-many mapping, an entity in E1 is associated with any number of entities in E2, and an entity in E2 is associated with at most one entity in E1.
+3. **Many-to-one**: In one-to-many mapping, an entity in E1 is associated with at most one entity in E2, and an entity in E2 is associated with any number of entities in E1.
 
+4. **Many-to-many**: In many-to-many mapping, an entity in E1 is associated with any number of entities in E2, and an entity in E2 is associated with any number of entities in E1.
+
+## Enhanced ER Model
+Enhanced entity-relationship diagrams are advanced database diagrams very similar to regular ER diagrams which represents requirements and complexities of complex databases. There are mainly three types of EER as follows:
+
+1. **Generalization**: Generalization is a process of generalizing an entity which contains generalized attributes or properties of generalized entities. The entity that is created will contain the common features. Generalization is a Bottom up process.
+<img src="https://www.studytonight.com/dbms/images/generalization.jpg" height="" width="">
+
+2. **Specialization**: Specialization is a process of identifying subsets of an entity that shares different characteristics. It breaks an entity into multiple entities from higher level (super class) to lower level (sub class) or we can say by applying Top-down approach.
+<img src="https://www.studytonight.com/dbms/images/specialization.jpg" height="" width="">
+
+3. **Composition**: Composition is a form of aggregation that represents an association between entities, where there is a strong ownership between the 'whole' and the 'part'. For example, a tree and a branch have a composition relationship.
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/aggregation.png" height="" width="">
+
+## Summary
+Above we have discussed about relation data model, semantic modeling and its forms. Then we started with the ER diagrams begging with its terminology and learned upto drawing EER.
+
+In the upcoming chapter we will have an overview on SQL language. So stay safe and stay tuned!
+
+![Chapter-1](https://img.shields.io/static/v1?label=Finished&message=Data-Modeling&color=green) ![Chapter-1](https://img.shields.io/static/v1?label=Source&message=www.javatpoint.com&color=blue)![Chapter-1](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=yellow)
