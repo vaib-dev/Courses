@@ -63,6 +63,8 @@ Generally there are three types of operators in SQL:
 
 2. SQL Comparison Operators
 
+Let's take two variables "a" and "b" that are valued 50 and 100.
+
 | Operator | Description                                                                                                                        | Example            |
 |----------|------------------------------------------------------------------------------------------------------------------------------------|--------------------|
 | =        | Examine both operands value that are equal or not,if yes condition become true.                                                    | (a=b) is not true  |
@@ -72,7 +74,7 @@ Generally there are three types of operators in SQL:
 | <        | Examines the left operand value is less than right Operand, if yes condition becomes true                                          | (a                 |
 | >=       | Examines that the value of left operand is greater than or equal to the value of right operand or not,if yes condition become true | (a>=b) is not true |
 | <=       | Examines that the value of left operand is less than or equal to the value of right operand or not, if yes condition becomes true  | (a<=b) is true     |
-| !<       | Examines that the left operand value is not less than the right operand value                                                      | (a!                |
+| !<       | Examines that the left operand value is not less than the right operand value                                                      | (a!<b) is not true                |
 | !>       | Examines that the value of left operand is not greater than the value of right operand                                             | (a!>b) is true     |
 
 3. SQL Logical Operators
