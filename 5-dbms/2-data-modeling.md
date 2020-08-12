@@ -150,13 +150,11 @@ It is denoted by X.
    Example: We can use the rename operator to rename STUDENT relation to STUDENT1.
 
 ## Semantic Modeling
-Semantic Modeling is nothing but a way to represent complex data or a big data in the form of relationships. Before we get into the model, let's look at a simple relationship between an artist and an album. A given artist has a relationship to an album because they record the album. This can be expressed as follows:
+Semantic Modeling is nothing but a way to represent complex data or a big data in the form of relationships. Semantic modeling is used to design a model for database. "Semantic" term means the what would be the relations, elements of the model and "semantic modeling" means organizing all the semantics into a well structured model.
 
-<img src="https://study.com/cimages/multimages/16/semantic_model_artist_example.png" height="" width="">
+### Semantic modeling can be represented in two forms:
 
-Semantic modeling can be represented in two forms:
-
-1. **Using entity Concepts and Terminology and UML**: We can build a model either with the help of Entity Concepts or with the help of UML. UML diagrams are discussed in software engineering course in detail. ER model are discussed later in this chapter. 
+1. **Using entity Concepts and Terminology and UML**: We can build a semantic model with the help of Entity Concepts and UML. In the below image we have different classes connected by different entity relations.
 
    <img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/examples/entityrelationshipdiagram.svg" height="" width="">
 
@@ -224,14 +222,12 @@ An entity may be any object, class, person or place. In the ER diagram, an entit
 ## Enhanced ER Model
 Enhanced entity-relationship diagrams are advanced database diagrams very similar to regular ER diagrams which represents requirements and complexities of complex databases. There are mainly three types of EER as follows:
 
-1. **Generalization**: Generalization is a process of generalizing an entity which contains generalized attributes or properties of generalized entities. The entity that is created will contain the common features. Generalization is a Bottom up process.
-<img src="https://www.studytonight.com/dbms/images/generalization.jpg" height="" width="">
+1. **Generalization**: Generalization is a process of generalizing an entity which contains generalized attributes or properties of generalized entities. The entity that is created will contain common features. Generalization is a Bottom-up approach.It is a form of abstraction that specifies two or more entities (sub class) having common characters that can be generalized into one single entity (super class) at higher level hiding all the differences.
+   
+2. **Specialization**: Specialization is a process of identifying subsets of an entity that shares different characteristics. It breaks an entity into multiple entities from higher level (super class) to lower level (sub class) or we can say by applying Top-down approach. In  Top-down approach, we first define the super class and then sub class and then their attributes and relationships.  It maximizes the difference between the members of an entity by identifying the unique characteristic or attributes of each member. It defines one or more sub class for the super class and also forms the superclass/subclass relationship
 
-2. **Specialization**: Specialization is a process of identifying subsets of an entity that shares different characteristics. It breaks an entity into multiple entities from higher level (super class) to lower level (sub class) or we can say by applying Top-down approach.
-<img src="https://www.studytonight.com/dbms/images/specialization.jpg" height="" width="">
+3. **Composition**: A Composition is a form of aggregation that represents an association between entities, where there is a strong ownership between the 'whole' and the 'part'. For example, we have three entities like job, staff and showroom. So these three entities are connected through an relation and these all entities are stored into a big entity named company which will be managed managed by a single entity called manager. In the above example the three entities namely job, staff and showroom became a part of "whole" entity named company that is managed by a manager.  
 
-3. **Composition**: Composition is a form of aggregation that represents an association between entities, where there is a strong ownership between the 'whole' and the 'part'. For example, a tree and a branch have a composition relationship.
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/aggregation.png" height="" width="">
 
 ## Summary
 Above we have discussed about relation data model, semantic modeling and its forms. Then we started with the ER diagrams begging with its terminology and learned upto drawing EER.
