@@ -25,6 +25,7 @@ It is denoted by sigma (σ).
    | Downtown    | L-17    | 1000   |
    | Redwood     | L-23    | 2000   |
    | Ontario     | L-15    | 1500   |
+   
    **Input**:
    
    σ BRANCH_NAME="Ontario" (LOAN)  
@@ -47,6 +48,7 @@ It is denoted by ∏.
    | Jones   | Main    | Harrison |
    | Smith   | North   | Rye      |
    | Hays    | Main    | Harrison |
+   
    **Input**:
    
    ∏ NAME, CITY (CUSTOMER)  
@@ -78,6 +80,7 @@ It eliminates the duplicate tuples(rows). It is denoted by ∪.
    | Jones         | L-17    |
    | Smith         | L-23    |
    | Hayes         | L-15    |
+   
    **Input**:
    
    ∏ CUSTOMER_NAME (BORROW) ∪ ∏ CUSTOMER_NAME    (DEPOSITOR)  
@@ -130,11 +133,13 @@ It is denoted by X.
    | 1      | Smith    | A        |
    | 2      | Harry    | C        |
    | 3      | John     | B        |
+  
    **DEPARTMENT**
    | DEPT_NO | DEPT_NAME |
    |---------|-----------|
    | A       | Marketing |
    | B       | Sales     |
+  
    **Input**:
    
    EMPLOYEE X DEPARTMENT  
