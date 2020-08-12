@@ -1,5 +1,5 @@
 # Chapter 2- Data Modeling
-
+Data models define how the logical structure of a database is modeled. Data Models are fundamental entities to introduce abstraction in a DBMS. Data models define how data is connected to each other and how they are processed and stored inside the system.
 ## Relational Algebra
 Relational algebra is a procedural query language. It gives a step by step process to obtain the result of the query. It uses operators to perform queries.
 ### Types of Relational operation
@@ -179,7 +179,6 @@ An entity may be any object, class, person or place. In the ER diagram, an entit
 <img src="https://www.studytonight.com/dbms/images/er-entity.png" height="" width="">
 
    a. **Weak Entity**- An entity that depends on another entity called a weak entity. The weak entity doesn't contain any key attribute of its own. The weak entity is represented by a double rectangle.
-
 2. **Attribute**- The attribute is used to describe the property of an entity. Eclipse is used to represent an attribute.
 <img src="https://www.studytonight.com/dbms/images/er-attributes.png" height="" width="">
 
@@ -196,6 +195,8 @@ An entity may be any object, class, person or place. In the ER diagram, an entit
 <img src="https://www.studytonight.com/dbms/images/er-multi-attr.png" height="" width="">
 
    d. **Derived Attribute**- An attribute that can be derived from other attribute is known as a derived attribute. It can be represented by a dashed ellipse.
+
+   <img src="https://www.gatevidyalay.com/wp-content/uploads/2018/06/Derived-Attributes-Example.png" height="" width="">
 
 3. **Relationship**- A relationship is used to describe the relation between entities. Diamond or rhombus is used to represent the relationship.
 <img src="https://www.studytonight.com/dbms/images/relationship-example.jpg" height="" width="">
@@ -214,9 +215,9 @@ An entity may be any object, class, person or place. In the ER diagram, an entit
 
    <img src="https://www.studytonight.com/dbms/images/many-to-one.jpg" height="" width="">
 
-    d. **Many-to-many relationship**- When more than one instance of the entity on the left, and more than one instance of an entity on the right associates with the relationship then it is known as a many-to-many relationship.
+   d. **Many-to-many relationship**- When more than one instance of the entity on the left, and more than one instance of an entity on the right associates with the relationship then it is known as a many-to-many relationship.
 
-    <img src="https://www.studytonight.com/dbms/images/many-to-many-example.jpg" height="" width="">
+   <img src="https://www.studytonight.com/dbms/images/many-to-many-example.jpg" height="" width="">
 
 ### Mapping
 A mapping constraint is a data constraint that expresses the number of entities to which another entity can be related via a relationship set.
@@ -227,7 +228,6 @@ For binary relationship set R on an entity set A and B, there are four possible 
 3. **Many-to-one**: In one-to-many mapping, an entity in E1 is associated with at most one entity in E2, and an entity in E2 is associated with any number of entities in E1.
 
 4. **Many-to-many**: In many-to-many mapping, an entity in E1 is associated with any number of entities in E2, and an entity in E2 is associated with any number of entities in E1.
-
 ## Enhanced ER Model
 Enhanced entity-relationship diagrams are advanced database diagrams very similar to regular ER diagrams which represents requirements and complexities of complex databases. There are mainly three types of EER as follows:
 
