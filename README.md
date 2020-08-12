@@ -10,6 +10,7 @@ Welcome to the GitHub , Data Structure and Algorithm course here U will learn :-
 1. Working with Git and GitHub from scratch.
 
 ## [GitHub](1-github)
+This course will comprehensively cover the GitHub hosting service as a companion to the Github Desktop source control tool, which means no prior knowledge or experience is required. 
                        CONTENTS
 
     1. Aboutgit      2. Repository        3. Clone
@@ -43,6 +44,7 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
                   
 
 ## [Software Engineering](4-software-engineering)
+Here, you will learn software engineering principles that are applicable to the breadth of large-scale software systems. The course explores topics such as agile development,project planning, testing, design, and more.                        
                         
                         CONTENTS
                         
@@ -51,6 +53,13 @@ Apply graph and string algorithms to solve real-world challenges: finding shorte
          3. Agile Methods       4. Project Planning
 
          5. Software Design     6. Software Testing 
+
+## [Database Management System(DBMS)](5-dbms)   
+As we know information is not useful if not organized. So in this course, we will study database, Database Management System (DBMS) , relational data management system, data modeling and many more to present data in an organized form.
+
+                         CONTENTS
+
+           1. Introduction              
 
 ## Support
 For any query plz mail at vaibhavpratapsingh22@gmail.com
