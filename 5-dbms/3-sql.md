@@ -16,14 +16,14 @@ SQL statements are started with any of the SQL commands/keywords like SELECT, IN
 
 ### Why semicolon is used after SQL statements:
 
-Semicolon is used to separate SQL statements. It is a standard way to separate SQL statements in a database system in which more than one SQL statements are used in the same call.
+A Semicolon is used to separate SQL statements. It is a standard way to separate SQL statements in a database system in which more than one SQL statements are used in the same call.
 
 ## SQL Commands
-These are the some important SQL command:
+These are some important SQL command:
 
 1. **SELECT**: it extracts data from a database.
-2. **UPDATE**: it updates data in database.
-3. **DELETE**: it deletes data from database.
+2. **UPDATE**: it updates data in the database.
+3. **DELETE**: it deletes data from the database.
 4. **CREATE TABLE**: it creates a new table.
 5. **ALTER TABLE**: it is used to modify the
   table.
@@ -44,3 +44,35 @@ Data types mainly classified into three categories for every database.
 * String Data types
 * Numeric Data types
 * Date and time Data types
+
+
+## SQL Operators
+SQL statements generally contain some reserved words or characters that are used to perform operations such as comparison and arithmetical operations etc. These reserved words or characters are known as operators.
+
+Generally there are three types of operators in SQL:
+
+1. SQL Arithmetic Operators
+
+| Operators | Descriptions| Examples|
+|-----------|-------------------------------------------------------------------------|--------------------|
+| Add(+)            | It is used to add containing values of both operands                    | a+b will give 150  |
+| Subtract(-)            | It subtracts right hand operand from left hand operand | a-b will give -50  |
+| Multiply(*)            | It multiply both operand's values | a*b will give 5000 |
+| Divide(/)            | It divides left hand operand by right hand operand | b/a will give 2    |
+| Modulus(%)            | It divides left hand operand by right hand operand and returns reminder | b%a will give 0    |
+
+2. SQL Comparison Operators
+
+| Operator | Description                                                                                                                        | Example            |
+|----------|------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| =        | Examine both operands value that are equal or not,if yes condition become true.                                                    | (a=b) is not true  |
+| !=       | This is used to check the value of both operands equal or not,if not condition become true.                                        | (a!=b) is true     |
+| < >      | Examines the operand's value equal or not, if values are not equal condition is true                                               | (a<>b) is true     |
+| >        | Examine the left operand value is greater than right Operand, if yes condition becomes true                                        | (a>b) is not true  |
+| <        | Examines the left operand value is less than right Operand, if yes condition becomes true                                          | (a                 |
+| >=       | Examines that the value of left operand is greater than or equal to the value of right operand or not,if yes condition become true | (a>=b) is not true |
+| <=       | Examines that the value of left operand is less than or equal to the value of right operand or not, if yes condition becomes true  | (a<=b) is true     |
+| !<       | Examines that the left operand value is not less than the right operand value                                                      | (a!                |
+| !>       | Examines that the value of left operand is not greater than the value of right operand                                             | (a!>b) is true     |
+
+3. SQL Logical Operators
