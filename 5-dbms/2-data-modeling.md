@@ -185,11 +185,11 @@ ER model stands for an Entity-Relationship model. It is a high-level data model.
 
    d) **Derived Attribute**- An attribute that can be derived from other attribute is known as a derived attribute. It can be represented by a dashed ellipse. Age is a derived attribute in below figure.
 
-   <img src="https://user-images.githubusercontent.com/54719422/90041897-9266fb00-dce7-11ea-8955-6e08011625aa.png" height="" width="">
+   <img src="https://user-images.githubusercontent.com/54719422/90041897-9266fb00-dce7-11ea-8955-6e08011625aa.png" height="350" width="600">
 
 3. **Relationship**- A relationship is used to describe the relation between entities. Diamond or rhombus is used to represent the relationship.
 
-   <img src="https://user-images.githubusercontent.com/54719422/90044127-d0b1e980-dcea-11ea-9a4c-0f3154552aa1.png" height="" width="">
+   <img src="https://user-images.githubusercontent.com/54719422/90044127-d0b1e980-dcea-11ea-9a4c-0f3154552aa1.png" height="350" width="600">
 
    a) **One-to-One Relationship**- When only one instance of an entity is associated with the relationship, then it is known as one to one relationship.
 
