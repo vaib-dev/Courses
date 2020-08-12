@@ -112,6 +112,7 @@ It is denoted by intersection minus (-).
       
         Notation: R - S  
    Example: Using the above **DEPOSITOR table** and **BORROW table**.
+
    **Input**:
    
    ∏ CUSTOMER_NAME (BORROW) - ∏ CUSTOMER_NAME    (DEPOSITOR)  
@@ -164,16 +165,16 @@ Semantic Modeling is nothing but a way to represent complex data or a big data i
 
 Semantic modeling can be represented in two forms:
 
-1. **Using entity Concepts and Terminology and UML**: We can build a model either with the help of Entity Concepts or with the help of UML diagram. UML diagrams are discussed in software engineering course in detail. ER diagrams are discussed later in this chapter. 
+1. **Using entity Concepts and Terminology and UML**: We can build a model either with the help of Entity Concepts or with the help of UML. UML diagrams are discussed in software engineering course in detail. ER model are discussed later in this chapter. 
 
 <img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/examples/entityrelationshipdiagram.svg" height="" width="">
 
 2. **Logical data modeling using the Relational Model**: We can also represent the semantic model using Relational model. A relational model is nothing but a table of values. Every row in the table represents a collection of related data values. These rows in the table denote a real-world entity or relationship.
 
-<img src="https://www.researchgate.net/publication/6130193/figure/fig3/AS:667608747610143@1536181737968/Relational-model-design-of-the-database-On-a-conceptual-level-the-database-is.png" height="" width="">
+<img src="https://binaryterms.com/wp-content/uploads/2019/11/Relational-Model-diagram.jpg" height="" width="">
 
 ## ER Model
-ER model stands for an Entity-Relationship model.It is a high-level data model. This model is used to define the data elements and relationship for a specified system. It develops a conceptual design for the database. It also develops a very simple and easy to design view of data. In ER modeling, the database structure is portrayed as a diagram called an entity-relationship diagram.
+ER model stands for an Entity-Relationship model. It is a high-level data model. This model is used to define the data elements and relationship for a specified system. It develops a conceptual design for the database. It also develops a very simple and easy to design view of data. In ER modeling, the database structure is portrayed as a diagram called an entity-relationship diagram.
 
 ### Component of ER Diagram
 
