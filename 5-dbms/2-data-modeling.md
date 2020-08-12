@@ -219,15 +219,6 @@ An entity may be any object, class, person or place. In the ER diagram, an entit
 
    <img src="https://www.studytonight.com/dbms/images/many-to-many-example.jpg" height="" width="">
 
-### Mapping
-A mapping constraint is a data constraint that expresses the number of entities to which another entity can be related via a relationship set.
-It is most useful in describing the relationship sets that involve more than two entity sets.
-For binary relationship set R on an entity set A and B, there are four possible mapping cardinalities. These are as follows: 
-1. **One-to-one**: In one-to-one mapping, an entity in E1 is associated with at most one entity in E2, and an entity in E2 is associated with at most one entity in E1.
-2. **One-to-many**: In one-to-many mapping, an entity in E1 is associated with any number of entities in E2, and an entity in E2 is associated with at most one entity in E1.
-3. **Many-to-one**: In one-to-many mapping, an entity in E1 is associated with at most one entity in E2, and an entity in E2 is associated with any number of entities in E1.
-
-4. **Many-to-many**: In many-to-many mapping, an entity in E1 is associated with any number of entities in E2, and an entity in E2 is associated with any number of entities in E1.
 ## Enhanced ER Model
 Enhanced entity-relationship diagrams are advanced database diagrams very similar to regular ER diagrams which represents requirements and complexities of complex databases. There are mainly three types of EER as follows:
 
