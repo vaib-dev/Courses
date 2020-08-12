@@ -71,7 +71,7 @@ Let's take two variables "a" and "b" that are valued 50 and 100.
 | !=       | This is used to check the value of both operands equal or not,if not condition become true.                                        | (a!=b) is true     |
 | < >      | Examines the operand's value equal or not, if values are not equal condition is true                                               | (a<>b) is true     |
 | >        | Examine the left operand value is greater than right Operand, if yes condition becomes true                                        | (a>b) is not true  |
-| <        | Examines the left operand value is less than right Operand, if yes condition becomes true                                          | (a                 |
+| <        | Examines the left operand value is less than right Operand, if yes condition becomes true                                          | (a<b) is true                 |
 | >=       | Examines that the value of left operand is greater than or equal to the value of right operand or not,if yes condition become true | (a>=b) is not true |
 | <=       | Examines that the value of left operand is less than or equal to the value of right operand or not, if yes condition becomes true  | (a<=b) is true     |
 | !<       | Examines that the left operand value is not less than the right operand value                                                      | (a!<b) is not true                |
