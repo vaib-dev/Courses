@@ -53,28 +53,8 @@ Generally there are three types of operators in SQL:
 
 1. SQL Arithmetic Operators
 
-| Operators | Descriptions| Examples|
-|-----------|-------------------------------------------------------------------------|--------------------|
-| Add(+)            | It is used to add containing values of both operands                    | a+b will give 150  |
-| Subtract(-)            | It subtracts right hand operand from left hand operand | a-b will give -50  |
-| Multiply(*)            | It multiply both operand's values | a*b will give 5000 |
-| Divide(/)            | It divides left hand operand by right hand operand | b/a will give 2    |
-| Modulus(%)            | It divides left hand operand by right hand operand and returns reminder | b%a will give 0    |
-
 2. SQL Comparison Operators
 
-Let's take two variables "a" and "b" that are valued 50 and 100.
 
-| Operator | Description                                                                                                                        | Example            |
-|----------|------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| =        | Examine both operands value that are equal or not,if yes condition become true.                                                    | (a=b) is not true  |
-| !=       | This is used to check the value of both operands equal or not,if not condition become true.                                        | (a!=b) is true     |
-| < >      | Examines the operand's value equal or not, if values are not equal condition is true                                               | (a<>b) is true     |
-| >        | Examine the left operand value is greater than right Operand, if yes condition becomes true                                        | (a>b) is not true  |
-| <        | Examines the left operand value is less than right Operand, if yes condition becomes true                                          | (a<b) is true                 |
-| >=       | Examines that the value of left operand is greater than or equal to the value of right operand or not,if yes condition become true | (a>=b) is not true |
-| <=       | Examines that the value of left operand is less than or equal to the value of right operand or not, if yes condition becomes true  | (a<=b) is true     |
-| !<       | Examines that the left operand value is not less than the right operand value                                                      | (a!<b) is not true                |
-| !>       | Examines that the value of left operand is not greater than the value of right operand                                             | (a!>b) is true     |
 
 3. SQL Logical Operators
