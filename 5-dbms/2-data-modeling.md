@@ -158,71 +158,51 @@ Semantic Modeling is nothing but a way to represent complex data or a big data i
 
    <img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/examples/entityrelationshipdiagram.svg" height="" width="">
 
-2. **Logical data modeling using the Relational Model**: We can also represent the semantic model using Relational model. A relational model is nothing but a table of values. Every row in the table represents a collection of related data values. These rows in the table denote a real-world entity or relationship.
+2. **Logical data modeling using the Relational Model**: We can also represent the semantic model using a Relational model. A relational model is nothing but a table of values. Every row in the table represents a collection of related data values. These rows in the table denote a real-world entity or relationship.
 
    <img src="https://binaryterms.com/wp-content/uploads/2019/11/Relational-Model-diagram.jpg" height="" width="">
 
 ## ER Model
-ER model stands for an Entity-Relationship model. It is a high-level data model. This model is used to define the data elements and relationship for a specified system. It develops a conceptual design for the database. It also develops a very simple and easy to design view of data. In ER modeling, the database structure is portrayed as a diagram called an entity-relationship diagram.
+ER model stands for an Entity-Relationship model. It is a high-level data model. This model is used to define the data elements and relationships for a specified system. It develops a conceptual design for the database. It also develops a very simple and easy to design view of data. In ER modeling, the database structure is portrayed as a diagram called an entity-relationship diagram.
 
-### Component of ER Diagram
+### Components of ER Model
 
 <img src="https://static.javatpoint.com/dbms/images/dbms-er-model-concept-diagram.png" height="" width="">
 
-1. **Entity**:
-An entity may be any object, class, person or place. In the ER diagram, an entity can be represented as rectangles.
-<img src="https://creately.com/blog/wp-content/uploads/2012/03/Attributes-ER-Diagrams.jpeg" height="" width="">
+1. **Entity**: In database administration, an entity can be a single thing, person, place, or object.
 
-   a. **Weak Entity**- An entity that depends on another entity called a weak entity. The weak entity doesn't contain any key attribute of its own. The weak entity is represented by a double rectangle.
+   a) **Strong Entity**- Strong entity is that which is independent. In the ER diagram, an entity can be represented as rectangles. For eg customer acts as an entity shown in below diagram.
 
-   <img src="https://media.geeksforgeeks.org/wp-content/uploads/Database-Management-System-ER-Model-20.png" height="" width="">
+   b) **Weak Entity**- An entity that depends on another entity is called a weak entity. The weak entity doesn't contain any key attribute of its own. The weak entity is represented by a double rectangle. For eg Bank_Account acts a weak entity in below diagram.
 
-2. **Attribute**- The attribute is used to describe the property of an entity. Eclipse is used to represent an attribute.
+2. **Attribute**- The attribute is used to describe the property of an entity. Eclipse is used to represent an attribute. Id, Name, Number, Street, City acts an attribute in below diagram. 
 
-   <img src="https://d3n817fwly711g.cloudfront.net/blog/wp-content/uploads/2012/03/Attributes-ER-Diagrams.jpeg" height="" width="">
+   a) **Key Attribute**- The key attribute is used to represent the main characteristics of an entity. It represents a primary key. The key attribute is represented by an ellipse with the text underlined. RollNo acts as an primary key in below figure.
 
-   a. **Key Attribute**- The key attribute is used to represent the main characteristics of an entity. It represents a primary key. The key attribute is represented by an ellipse with the text underlined.
+   b) **Composite Attribute**- An attribute that composed of many other attributes is known as a composite attribute. The composite attribute is represented by an ellipse, and those ellipses are connected with an ellipse.
 
-   <img src="https://beginnersbook.com/wp-content/uploads/2015/04/ER_diagram_key_attribute.png" height="" width="">
+   c) **Multi-valued Attribute**- An attribute can have more than one value. These attributes are known as a multi-valued attribute. The double oval is used to represent multi-valued attribute. Parts is a multi-valued-attribute in below diagram.
 
-   b. **Composite Attribute**- An attribute that composed of many other attributes is known as a composite attribute. The composite attribute is represented by an ellipse, and those ellipses are connected with an ellipse.
+   d) **Derived Attribute**- An attribute that can be derived from other attribute is known as a derived attribute. It can be represented by a dashed ellipse. Age is a derived attribute in below figure.
 
-   <img src="https://media.geeksforgeeks.org/wp-content/uploads/Database-Management-System-ER-Model-4.png" height="" width="">
-
-   c. **Multi-valued Attribute**- An attribute can have more than one value. These attributes are known as a multi-valued attribute. The double oval is used to represent multi-valued attribute.
-
-   <img src="https://i.stack.imgur.com/B2lxV.png" height="" width="">
-
-   d. **Derived Attribute**- An attribute that can be derived from other attribute is known as a derived attribute. It can be represented by a dashed ellipse.
-
-   <img src="https://www.gatevidyalay.com/wp-content/uploads/2018/06/Derived-Attributes-Example.png" height="" width="">
+   <img src="https://user-images.githubusercontent.com/54719422/90041897-9266fb00-dce7-11ea-8955-6e08011625aa.png" height="" width="">
 
 3. **Relationship**- A relationship is used to describe the relation between entities. Diamond or rhombus is used to represent the relationship.
 
-   <img src="https://www.studytonight.com/dbms/images/relationship-example.jpg" height="" width="">
+   <img src="https://user-images.githubusercontent.com/54719422/90044127-d0b1e980-dcea-11ea-9a4c-0f3154552aa1.png" height="" width="">
 
-   Types of relationship are as follows:
+   a) **One-to-One Relationship**- When only one instance of an entity is associated with the relationship, then it is known as one to one relationship.
 
-   a. **One-to-One Relationship**- When only one instance of an entity is associated with the relationship, then it is known as one to one relationship.
+   b) **One-to-many relationship**- When only one instance of the entity on the left, and more than one instance of an entity on the right associates with the relationship then this is known as a one-to-many relationship.
 
-   <img src="https://www.studytonight.com/dbms/images/one-to-one-example.jpg" height="" width="">
+   c) **Many-to-one relationship**- When more than one instance of the entity on the left, and only one instance of an entity on the right associates with the relationship then it is known as a many-to-one relationship.
 
-   b. **One-to-many relationship**- When only one instance of the entity on the left, and more than one instance of an entity on the right associates with the relationship then this is known as a one-to-many relationship.
-
-   <img src="https://www.studytonight.com/dbms/images/one-to-many-example.jpg" height="" width="">
-
-   c. **Many-to-one relationship**- When more than one instance of the entity on the left, and only one instance of an entity on the right associates with the relationship then it is known as a many-to-one relationship.
-
-   <img src="https://www.studytonight.com/dbms/images/many-to-one.jpg" height="" width="">
-
-   d. **Many-to-many relationship**- When more than one instance of the entity on the left, and more than one instance of an entity on the right associates with the relationship then it is known as a many-to-many relationship.
-
-   <img src="https://www.studytonight.com/dbms/images/many-to-many-example.jpg" height="" width="">
+   d) **Many-to-many relationship**- When more than one instance of the entity on the left, and more than one instance of an entity on the right associates with the relationship then it is known as a many-to-many relationship.
 
 ## Enhanced ER Model
 Enhanced entity-relationship diagrams are advanced database diagrams very similar to regular ER diagrams which represents requirements and complexities of complex databases. There are mainly three types of EER as follows:
 
-1. **Generalization**: Generalization is a process of generalizing an entity which contains generalized attributes or properties of generalized entities. The entity that is created will contain common features. Generalization is a Bottom-up approach.It is a form of abstraction that specifies two or more entities (sub class) having common characters that can be generalized into one single entity (super class) at higher level hiding all the differences.
+1. **Generalization**: Generalization is a process of generalizing an entity which contains generalized attributes or properties of generalized entities. The entity that is created will contain common features. Generalization is a Bottom-up approach. It is a form of abstraction that specifies two or more entities (sub class) having common characters that can be generalized into one single entity (super class) at higher level hiding all the differences.
    
 2. **Specialization**: Specialization is a process of identifying subsets of an entity that shares different characteristics. It breaks an entity into multiple entities from higher level (super class) to lower level (sub class) or we can say by applying Top-down approach. In  Top-down approach, we first define the super class and then sub class and then their attributes and relationships.  It maximizes the difference between the members of an entity by identifying the unique characteristic or attributes of each member. It defines one or more sub class for the super class and also forms the superclass/subclass relationship
 
