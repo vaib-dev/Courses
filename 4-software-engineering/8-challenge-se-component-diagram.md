@@ -1,3 +1,3 @@
 # Challenge 2- Component Diagram
 
-<img src="https://user-images.githubusercontent.com/54719422/90114692-b3276300-dd70-11ea-9d12-a748965e67e4.png" height="" width="">
+<img src="https://user-images.githubusercontent.com/54719422/90155462-f7cef080-dda8-11ea-8206-6c06dbacf716.png" height="" width="">
