@@ -202,7 +202,7 @@ It has no duplicates and data arranged in ascending order by default. Syntax:
 
 This chapter gives you an overview of SQL language. We have discussed SQL commands, its syntax, components, data types and constraints. Later we discussed about SQL index and SQL set operations.
 
-The chapter will be about Database Architecture.
+The next chapter will be about Database Architecture.
 
 ![Chapter-1](https://img.shields.io/static/v1?label=Finished&message=SQL&color=green) ![Chapter-1](https://img.shields.io/static/v1?label=Source&message=www.javatpoint.com&color=blue)![Chapter-1](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=yellow)
 
