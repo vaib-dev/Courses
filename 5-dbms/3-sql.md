@@ -7,16 +7,6 @@ SQL is just a query language; it is not a database. To perform SQL queries, you 
 SQL follows some unique set of rules and guidelines called syntax. Here, we are providing all the basic SQL syntax.
 
 SQL is not case sensitive. Generally, SQL keywords are written in uppercase. In this language statements are dependent on text lines. We can place a single SQL statement on one or multiple text lines. Through this language, you get an access to perform most of the action in a database with SQL statements. SQL depends on relational algebra and tuple relational calculus.
-## SQL statement
-SQL statements are started with any of the SQL commands/keywords like SELECT, INSERT, UPDATE, DELETE, ALTER, DROP etc. and the statement ends with a semicolon (;).
-
-### Example of SQL statement:
-
-    SELECT "column_name" FROM "table_name";  
-
-### Why semicolon is used after SQL statements:
-
-A Semicolon is used to separate SQL statements. It is a standard way to separate SQL statements in a database system in which more than one SQL statements are used in the same call.
 
 ## SQL Commands
 These are some important SQL command:
@@ -99,6 +89,18 @@ a) **DATE**:	It is used to specify date      format YYYY-MM-DD. Its supported ra
 
 b) **DATETIME(fsp)**:	It is used to specify date and time combination. Its format is YYYY-MM-DD hh:mm:ss. Its supported range is from '1000-01-01 00:00:00' to 9999-12-31 23:59:59'.
 
+## SQL statement
+SQL statements are started with any of the SQL commands/keywords like SELECT, INSERT, UPDATE, DELETE, ALTER, DROP etc. and the statement ends with a semicolon (;).
+
+### Example of SQL statement:
+
+    SELECT "column_name" FROM "table_name";  
+
+### Why semicolon is used after SQL statements?
+
+A Semicolon is used to separate SQL statements. It is a standard way to separate SQL statements in a database system in which more than one SQL statements are used in the same call.
+
+
 ## SQL Constraints
 Constraints are the rules that we can apply on the type of data in a table. That is, we can specify the limit on the type of data that can be stored in a particular column in a table using constraints. The available constraints in SQL are:
 
@@ -135,3 +137,72 @@ In SQL, DELETE statement is used to delete rows from a table. We can use WHERE c
 In SQL, Rename table is used to rename an old row name to a new name. Firstle we have to use ALTER command which enables us to edit a table without changing the data present inside the table. Syntax:
 
     ALTER TABLE table_name RENAME TO new_table_name;
+
+## SQL Index
+Indexes are special lookup tables. It is used to retrieve data from the database very fast.
+An Index is used to speed up select queries and where clauses. But it shows down the data input with insert and update statements. Indexes can be created or dropped without affecting the data.
+An index in a database is just like an index in the back of a book. For example, When you reference all pages in a book that discusses a certain topic, you first have to refer to the index, which alphabetically lists all the topics and then referred to one or more specific page numbers.
+
+### 1. Create Index statement
+It is used to create an index on a table. It allows duplicate value. Syntax:
+
+    CREATE INDEX index_name  
+    ON table_name (column1, column2, ...);  
+
+### 2. Unique Index statement
+It is used to create a unique index on a table. It does not allow duplicate value. Syntax:
+
+    CREATE UNIQUE INDEX index_name  
+    ON table_name (column1, column2, ...);      
+
+### 3. Drop Index Statement
+It is used to delete an index in a table. Syntax:
+
+    DROP INDEX index_name;      
+
+## SQL Set Operation
+The SQL Set operation is used to combine the two or more SQL SELECT statements.
+
+Types of Set Operation
+### 1. Union
+The SQL Union operation is used to combine the result of two or more SQL SELECT queries.
+In the union operation, all the number of datatype and columns must be same in both the tables on which UNION operation is being applied.
+The union operation eliminates the duplicate rows from its result.Syntax:
+
+    SELECT column_name FROM table1  
+    UNION  
+    SELECT column_name FROM table2;  
+
+### 2. UnionAll
+
+Union All operation is equal to the Union operation. It returns the set without removing duplication and sorting the data. Syntax:
+
+    SELECT column_name FROM table1  
+    UNION ALL  
+    SELECT column_name FROM table2;  
+
+### 3. Intersect
+
+It is used to combine two SELECT statements. The Intersect operation returns the common rows from both the SELECT statements. In the Intersect operation, the number of datatype and columns must be the same. It has no duplicates and it arranges the data in ascending order by default. Syntax:
+
+    SELECT column_name FROM table1  
+    INTERSECT  
+    SELECT column_name FROM table2; 
+
+### 4. Minus    
+
+It combines the result of two SELECT statements. Minus operator is used to display the rows which are present in the first query but absent in the second query.
+It has no duplicates and data arranged in ascending order by default. Syntax:
+
+    SELECT column_name FROM table1  
+    MINUS  
+    SELECT column_name FROM table2;  
+
+## Summary
+
+This chapter gives you an overview of SQL language. We have discussed SQL commands, its syntax, components, data types and constraints. Later we discussed about SQL index and SQL set operations.
+
+The chapter will be about Database Architecture.
+
+![Chapter-1](https://img.shields.io/static/v1?label=Finished&message=SQL&color=green) ![Chapter-1](https://img.shields.io/static/v1?label=Source&message=www.javatpoint.com&color=blue)![Chapter-1](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=yellow)
+
