@@ -2,9 +2,11 @@
 
 ## Introduction
 
+_An [agile] framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value._
+
 Scrum is a framework that helps teams work together. Much like a rugby team (where it gets its name) training for the big game, Scrum encourages teams to learn through experiences, self-organize while working on a complex problem, and reflect on their wins and losses to continuously improve and have an effective team collaboration.
 
-While the Scrum I’m talking about is most frequently used by software development teams, its principles and lessons can be applied to all kinds of teamwork. This is one of the reasons Scrum is so popular. Often thought of as an agile project management framework, Scrum describes a set of meetings, tools, and roles that work in concert to help teams structure and manage their work.
+Though it has its roots in software development, today Scrum refers to a lightweight framework that is used in every industry to deliver complex, innovative products and services that truly delight customers. It is simple to understand, but difficult to master.
 
 This article will cover, the definition of Scrum. This definition consists of Scrum’s roles, events, artifacts, and the rules that bind them together.
 
@@ -23,8 +25,6 @@ People often think Scrum and agile are the same thing because Scrum is centered 
 <img src="images\framework.JPG">
 
 Scrum implements the scientific method of empiricism. Scrum replaces a programmed algorithmic approach with a heuristic one, with respect for people and self-organization to deal with unpredictability and solving complex problems. Scrum is structured to help teams naturally adapt to changing conditions and user requirements, with re-prioritization built into the process and short release cycles so your team can constantly learn and improve. It acknowledges that the team doesn’t know everything at the start of a project and will evolve through experience.
-
-While Scrum is structured, it is not entirely rigid. Its execution can be tailored to the needs of any organization. There are many theories about how exactly scrum teams must work in order to be successful. We’ve learned that clear communication, transparency, and a dedication for continuous improvement should always remain at the center of whatever framework you choose.
 
 ## Scrum Principles - 3 Pillars of Empirical Process Control
 
@@ -80,17 +80,11 @@ Scrum defines four events (sometimes called ceremonies) that occur inside each S
 
 ### What is a Sprint in Scrum?
 
-A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work. Sprints are at the very heart of scrum and agile methodologies, and getting sprints right will help your agile team ship better software with fewer headaches.
+Scrum Teams work in short timeframes called sprints. Sprints can be as short as one week or as long as one month. Sprints happen one right after the other, with no breaks, to maintain a steady project cadence.
 
-During the Sprint:
+Each sprint begins with a plan and ends with a review of the work completed and an additional review of the way in which the team worked together.
 
-No changes are made that would endanger the Sprint Goal;
-Quality goals do not decrease; and,
-Scope may be clarified and re-negotiated between the Product Owner and Development Team as more is learned.
-
-Each Sprint may be considered a project with no more than a one-month horizon. Like projects, Sprints are used to accomplish something. Each Sprint has a goal of what is to be built, a design and flexible plan that will guide building it, the work, and the resultant product increment.
-
-When a Sprint’s horizon is too long the definition of what is being built may change, complexity may rise, and risk may increase. Sprints enable predictability by ensuring inspection and adaptation of progress toward a Sprint Goal at least every calendar month. Sprints also limit risk to one calendar month of cost.
+During each sprint, the entire Scrum Team works together to complete one or more increments of a larger overall product or project. Each completed increment must be potentially releasable, meaning that it could theoretically be delivered as is. In other words, each increment must be fully tested and fully approved by the end of the sprint.
 
 ### What is Sprint Planning?
 
@@ -145,6 +139,22 @@ The entire Scrum Team attends the sprint review. Any stakeholders, senior manage
 
 #### How Long Should Sprint Reviews Last?
 
-_Sprint reviews are limited to a maximum of four hours_
+The general rule of thumb is to allow one hour for sprint review per every one week of sprint length. That means teams should timebox sprint review to two hours for a two-week sprint and four hours for a one-month sprint.
 
-The general rule of thumb is to allow one hours for sprint review per every one week of sprint length. That means teams should timebox sprint review to two hours for a two-week sprint and four hours for a one-month sprint.
+### Sprint Retrospective
+
+#### What Happens in a Sprint Retrospective?
+
+Sprint retrospectives focus on the process. During a sprint retrospective the Scrum Team discusses what went right and areas for improvement in the Sprint. They make tangible plans for how to improve their own process, tools and relationships.
+
+#### What Is the Difference between Sprint Reviews & Sprint Retrospectives?
+
+Sprint reviews focus on the product. Sprint Retrospectives focus on the process.
+
+#### Who Should Attend a Sprint Retrospective?
+
+Sprint retrospectives are for the Scrum Team, which would include the development team, ScrumMaster, and product owner. In practice, product owners are recommended but not mandatory attendees.
+
+#### How Long Should Sprint Retrospectives Last?
+
+The general guidance is to allow 45 minutes for each week of sprint length. So a two-week sprint would cap the sprint retrospective at an hour and a half; a four-week sprint at three hours.
