@@ -8,14 +8,18 @@ We will learn about Database, data management system, DBMS types, its uses and a
 
 ## Chapter 2 - Data Modeling
 
-## Chapter 3 - Database Architecture
+This chapter tells us about relation data model (relational algebra), Semantic Modeling using entity, UML and Relational Model. Then we have briefly discussed ER and EER models. 
 
-## Chapter 4 - RDBMS
+## Chapter 3 - SQL
 
-## Chapter 5 - Extensions of DBMS
+## Chapter 4 - Database Architecture
 
-## Chapter 6 - ORDBMS
+## Chapter 5 - RDBMS
 
-## Chapter 7 - Advanced Management of Data
+## Chapter 6 - Extensions of DBMS
 
-## Chapter 8 - MongoDB
+## Chapter 7 - ORDBMS
+
+## Chapter 8 - Advanced Management of Data
+
+## Chapter 9 - MongoDB
