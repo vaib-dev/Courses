@@ -14,12 +14,10 @@ Steps to generate a pull request are as follow:
 
 **Below image shows how to create a pull request**
 
-![Pull request](https://guides.github.com/activities/hello-world/pr-tab.gif)
-
+<img src="https://guides.github.com/activities/hello-world/pr-tab.gif" height="250" width="">
 
 
 **When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button.**
 
+<img src="https://guides.github.com/activities/hello-world/create-pr.png" height="250" width="">
 
-
-![Pull request](https://guides.github.com/activities/hello-world/create-pr.png)
