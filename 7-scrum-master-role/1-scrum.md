@@ -70,7 +70,7 @@ The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Ma
 
 ## Scrum Events
 
-Prescribed events are used in Scrum to create regularity and to minimize the need for meetings not defined in Scrum. All events are time-boxed. Once a Sprint begins, its duration is fixed and cannot be shortened or lengthened. The remaining events may end whenever the purpose of the event is achieved, ensuring an appropriate amount of time is spent without allowing waste in the process. The Scrum Events are:
+Scrum defines four events (sometimes called ceremonies) that occur inside each Sprint: .
 
 - Sprint
 - Sprint Planning
@@ -96,16 +96,37 @@ When a Sprint’s horizon is too long the definition of what is being built may 
 
 Sprint planning is an event in scrum that kicks off the sprint. The purpose of sprint planning is to define what can be delivered in the sprint and how that work will be achieved. Sprint planning is done in collaboration with the whole scrum team.
 
-Sprint Planning is time-boxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter. The Scrum Master ensures that the event takes place and that attendants understand its purpose. The Scrum Master teaches the Scrum Team to keep it within the time-box.
+#### What Happens in Sprint Planning?
+
+During Sprint Planning, the entire Scrum Team collaborates and discusses the desired high-priority work for the Sprint and defines the Sprint Goal. The ScrumMaster’s role is primarily to facilitate the meeting. The Product Owner describes the objective of the Sprint and also answers questions from the Development Team about execution and acceptance criteria / criteria of satisfaction. The development team has the final say in how much of the high-priority work it can accomplish during the Sprint.
+
+#### Who attends Sprint Planning?
+
+Sprint planning involves the entire Scrum Team: the development team, product owner, and ScrumMaster.
+
+#### How long should Sprint Planning Last?
+
+Sprint planning is limited to a maximum of eight hours.
+
+The general rule of thumb is to allow two hours of sprint planning for every one week of sprint length. That means teams should timebox sprint planning to four hours for a two-week sprint and eight hours for a one-month sprint.
 
 Sprint Planning answers the following:
 
-What can be delivered in the Increment resulting from the upcoming Sprint?
-
-How will the work needed to deliver the Increment be achieved?
+- What can be delivered in the Increment resulting from the upcoming Sprint?
+- How will the work needed to deliver the Increment be achieved?
 
 Work is selected from the Product Backlog and pulled into the Sprint Backlog. Now remember that the work in the Sprint Backlog is not a commitment, it is a forecast. The only container of a Sprint is its time box, not the work planned for the Sprint.
 
 #### Sprint Goal
 
 The Sprint Goal is an objective set for the Sprint that can be met through the implementation of Product Backlog. It provides guidance to the Development Team on why it is building the Increment. It is created during the Sprint Planning meeting. The Sprint Goal gives the Development Team some flexibility regarding the functionality implemented within the Sprint. As the Development Team works, it does so with the Sprint Goal always in mind.
+
+### Daily Scrum
+
+#### What Happens in a Daily Scrum?
+
+The Development Team meets for 15 minutes (or less) every day of the Sprint to inspect progress toward the Sprint Goal. They describe for each other how their own work is going, ask for help when needed, and consider whether they are still on track to meet the Sprint Goal. This is not a status meeting but is instead an opportunity for the Development Team to inspect and adapt the product and process on a daily basis.
+
+#### Who Attends the Daily Scrum?
+
+The mandatory participants at the Daily Scrum are the development team and the ScrumMaster. The product owner is invited but doesn’t have to attend.
