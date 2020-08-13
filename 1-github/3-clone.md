@@ -8,5 +8,4 @@ Unlike forking, you won’t be able to pull down changes from the original repos
 
 To clone a repository, head over to the main page of a project and click the Clone or download button to get the the repository’s HTTPS or SSH URL. Then, you can perform the clone using the git clone command in your command line interface of choice.
 
-
 <img src="https://user-images.githubusercontent.com/535655/26943215-c26a60fe-4c52-11e7-8788-2b10cdb8053f.png" height="350" width="450">
