@@ -4,10 +4,8 @@
 
 _An [agile] framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value._
 
-Scrum is a framework that helps teams work together. Much like a rugby team (where it gets its name) training for the big game, Scrum encourages teams to learn through experiences, self-organize while working on a complex problem, and reflect on their wins and losses to continuously improve and have an effective team collaboration.
-
-Though it has its roots in software development, today Scrum refers to a lightweight framework that is used in every industry to deliver complex, innovative products and services that truly delight customers. It is simple to understand, but difficult to master.
-
+Scrum is a framework that helps teams work together. Much like a rugby team (where it gets its name) training for the big game, Scrum encourages teams to learn through experiences, self-organize while working on a complex problem, and reflect on their wins and losses to continuously improve and have an effective team collaboration.\
+Though it has its roots in software development, today Scrum refers to a lightweight framework that is used in every industry to deliver complex, innovative products and services that truly delight customers. It is simple to understand, but difficult to master.\
 This article will cover, the definition of Scrum. This definition consists of Scrum’s roles, events, artifacts, and the rules that bind them together.
 
 **Scrum is:**\
