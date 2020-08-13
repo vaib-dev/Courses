@@ -130,3 +130,21 @@ The Development Team meets for 15 minutes (or less) every day of the Sprint to i
 #### Who Attends the Daily Scrum?
 
 The mandatory participants at the Daily Scrum are the development team and the ScrumMaster. The product owner is invited but doesn’t have to attend.
+
+### Sprint Review
+
+#### What Happens in a Sprint Review?
+
+Sprint reviews focus on the product being development, specifically on the potentially shippable product increment created during the sprint. During a sprint review, the Scrum Team invites stakeholders to discuss what was completed during the Sprint. They adapt the Product Backlog as needed based on this feedback. The Product Owner has the option to release any of the completed functionality.
+
+Though a demo might be part of this meeting, the primary purpose of the Sprint Review is the inspect and adapt capability provided by the discussion.
+
+#### Who Attends a Sprint Review?
+
+The entire Scrum Team attends the sprint review. Any stakeholders, senior managers, and other affected departments (e.g., marketing, customer support) are invited to attend and give feedback. Scrum teams should invite as many people as the room can hold--diverse feedback is essential for creating excellent products.
+
+#### How Long Should Sprint Reviews Last?
+
+_Sprint reviews are limited to a maximum of four hours_
+
+The general rule of thumb is to allow one hours for sprint review per every one week of sprint length. That means teams should timebox sprint review to two hours for a two-week sprint and four hours for a one-month sprint.
