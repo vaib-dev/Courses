@@ -13,9 +13,13 @@
 9. Click Confirm merge.
 10. Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
 
-![Merge your pull request](https://user-images.githubusercontent.com/5396286/56090826-fa31e980-5ed9-11e9-9ccd-e8ae3ec77764.png)
+<img src="https://user-images.githubusercontent.com/5396286/56090826-fa31e980-5ed9-11e9-9ccd-e8ae3ec77764.png" height="250" width="">
 
-![Merge your pull request](https://github.blog/wp-content/uploads/2016/09/3b06b4ee-81b1-11e6-96f8-f7b34eb30b05.png?fit=1556%2C778)
+
+<img src="https://github.blog/wp-content/uploads/2016/09/3b06b4ee-81b1-11e6-96f8-f7b34eb30b05.png?fit=1556%2C778" height="250" width="">
+
+
+
 
 # Push
 
