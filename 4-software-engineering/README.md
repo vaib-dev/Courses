@@ -31,4 +31,7 @@ This chapter deals with the basics of software testing.  In this we have studied
 
 Provide an example of UML class diagram which shows a domain model for online shopping. The purpose of the diagram is to introduce some common terms, "dictionary" for online shopping - Customer, Web User, Account, Shopping Cart, Product, Order, Payment, etc. and relationships between. It could be used as a common ground between business analysts and software developers.
 
+### Challenge-2: Component Diagram
+Provide a component diagram for online shopping. The diagram shows "white-box" view of the internal structure of three related subsystems - WebStore, Warehouses, and Accounting. In UML «Subsystem» is a standard component stereotype for larger components, usually containing some smaller components.
+
 ![edit2](https://img.shields.io/static/v1?label=Introduction&message=Software-Engineering&color=orange)![edit](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=<COLOR>)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
