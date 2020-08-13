@@ -20,7 +20,7 @@ This article will cover, the definition of Scrum. This definition consists of Sc
 
 People often think Scrum and agile are the same thing because Scrum is centered around continuous improvement, which is a core principle of agile. However, Scrum is a framework for getting work done, where agile is a mindset. You can’t really “go agile”, as it takes dedication from the whole team to change the way they think about delivering value to your customers. But you can use a framework like Scrum to help you start thinking that way and to practice building agile principles into your everyday communication and work.
 
-![](/images/Scrum_Framework.JPG)
+<img src="images\framework.jpg">
 
 Scrum implements the scientific method of empiricism. Scrum replaces a programmed algorithmic approach with a heuristic one, with respect for people and self-organization to deal with unpredictability and solving complex problems. Scrum is structured to help teams naturally adapt to changing conditions and user requirements, with re-prioritization built into the process and short release cycles so your team can constantly learn and improve. It acknowledges that the team doesn’t know everything at the start of a project and will evolve through experience.
 
@@ -64,4 +64,48 @@ Scrum teams consistently seek out new ideas and opportunities to learn. Agile te
 
 Scrum team members demonstrate respect to one another, to the product owner, to stakeholders, and to the ScrumMaster. Agile teams know that their strength lies in how well they collaborate, and that everyone has a distinct contribution to make toward completing the work of the sprint. They respect each other’s ideas, give each other permission to have a bad day once in a while, and recognize each other’s accomplishments.
 
+## The Roles of the Scrum Team
+
+The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master. Scrum Teams are self-organizing and cross-functional. Self-organizing teams choose how best to accomplish their work, rather than being directed by others outside the team. Cross-functional teams have all competencies needed to accomplish the work without depending on others not part of the team. The team model in Scrum is designed to optimize flexibility, creativity, and productivity.
+
 ## Scrum Events
+
+Prescribed events are used in Scrum to create regularity and to minimize the need for meetings not defined in Scrum. All events are time-boxed. Once a Sprint begins, its duration is fixed and cannot be shortened or lengthened. The remaining events may end whenever the purpose of the event is achieved, ensuring an appropriate amount of time is spent without allowing waste in the process. The Scrum Events are:
+
+- Sprint
+- Sprint Planning
+- Daily Scrum
+- Sprint Review
+- Sprint Retrospective
+
+### What is a Sprint in Scrum?
+
+A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work. Sprints are at the very heart of scrum and agile methodologies, and getting sprints right will help your agile team ship better software with fewer headaches.
+
+During the Sprint:
+
+No changes are made that would endanger the Sprint Goal;
+Quality goals do not decrease; and,
+Scope may be clarified and re-negotiated between the Product Owner and Development Team as more is learned.
+
+Each Sprint may be considered a project with no more than a one-month horizon. Like projects, Sprints are used to accomplish something. Each Sprint has a goal of what is to be built, a design and flexible plan that will guide building it, the work, and the resultant product increment.
+
+When a Sprint’s horizon is too long the definition of what is being built may change, complexity may rise, and risk may increase. Sprints enable predictability by ensuring inspection and adaptation of progress toward a Sprint Goal at least every calendar month. Sprints also limit risk to one calendar month of cost.
+
+### What is Sprint Planning?
+
+Sprint planning is an event in scrum that kicks off the sprint. The purpose of sprint planning is to define what can be delivered in the sprint and how that work will be achieved. Sprint planning is done in collaboration with the whole scrum team.
+
+Sprint Planning is time-boxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter. The Scrum Master ensures that the event takes place and that attendants understand its purpose. The Scrum Master teaches the Scrum Team to keep it within the time-box.
+
+Sprint Planning answers the following:
+
+What can be delivered in the Increment resulting from the upcoming Sprint?
+
+How will the work needed to deliver the Increment be achieved?
+
+Work is selected from the Product Backlog and pulled into the Sprint Backlog. Now remember that the work in the Sprint Backlog is not a commitment, it is a forecast. The only container of a Sprint is its time box, not the work planned for the Sprint.
+
+#### Sprint Goal
+
+The Sprint Goal is an objective set for the Sprint that can be met through the implementation of Product Backlog. It provides guidance to the Development Team on why it is building the Increment. It is created during the Sprint Planning meeting. The Sprint Goal gives the Development Team some flexibility regarding the functionality implemented within the Sprint. As the Development Team works, it does so with the Sprint Goal always in mind.
