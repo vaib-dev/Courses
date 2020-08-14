@@ -54,3 +54,22 @@ Ordered Indexing is of three types −
 <img src=https://www.tutorialspoint.com/dbms/images/multi_level_index.png height="" width="">
 
 ## Data Backup
+The purpose of the backup is to create a copy of data that can be recovered in the event of a primary data failure. Primary data failures can be the result of hardware or software failure, data corruption, or a human-caused event, such as a malicious attack (virus or malware), or accidental deletion of data.
+### 1.Full backups
+The most basic and complete type of backup operation is a full backup. As the name implies, this type of backup makes a copy of all data to another set of media, such as a disk or tape. The primary advantage to performing a full backup during every operation is that a complete copy of all data is available with a single set of media. This results in a minimal time to restore data, a metric known as a recovery time objective. However, the disadvantages are that it takes longer to perform a full backup than other types (sometimes by a factor of 10 or more), and it requires more storage space.
+
+Thus, full backups are typically run only periodically. Data centers that have a small amount of data (or critical applications) may choose to run a full backup daily, or even more often in some cases. Typically, backup operations employ a full backup in combination with either incremental or differential backups.
+
+<img src="https://www.nakivo.com/blog/wp-content/uploads/2017/11/full-backup.png" height="" width="">
+
+### 2.Incremental backups
+An incremental backup operation will result in copying only the data that has changed since the last backup operation of any type. An organization typically uses the modified time stamp on files and compares it to the time stamp of the last backup. Backup applications track and record the date and time that backup operations occur in order to track files modified since these operations.
+
+Because an incremental backup will only copy data since the last backup of any type, an organization may run it as often as desired, with only the most recent changes stored. The benefit of an incremental backup is that it copies a smaller amount of data than a full.Thus, these operations will complete faster, and require less media to store the backup.
+
+<img src="https://www.nakivo.com/blog/wp-content/uploads/2017/11/incremental-backup.png" height="" width="">
+
+### 3.Differential backups
+A differential backup operation is similar to an incremental the first time it is performed, in that it will copy all data changed from the previous backup. However, each time it is run afterwards, it will continue to copy all data changed since the previous full backup. Thus, it will store more data than an incremental on subsequent operations, although typically far less than a full backup. Moreover, differential backups require more space and time to complete than incremental backups, although less than full backups.
+
+<img src="https://www.handybackup.net/images/features/differential-backup-scheme.png" height="" width="">
