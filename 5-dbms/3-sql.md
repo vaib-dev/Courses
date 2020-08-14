@@ -164,6 +164,7 @@ It is used to delete an index in a table. Syntax:
     DROP INDEX index_name;      
 
 ## SQL Joins
+The SQL Joins clause is used to combine records from two or more tables in a database. A JOIN is a means for combining fields from two tables by using values common to each. There are four types of joins as follow:
 1. **INNER JOIN**: The INNER JOIN keyword selects all rows from both the tables as long as the condition satisfies. This keyword will create the result-set by combining all rows from both the tables where the condition satisfies i.e value of the common field will be same. Syntax:
 
        SELECT table1.column1,table1.column2,table2.  column1,...
