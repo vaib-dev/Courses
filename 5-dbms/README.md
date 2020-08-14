@@ -11,6 +11,7 @@ We will learn about Database, data management system, DBMS types, its uses and a
 This chapter tells us about relation data model (relational algebra), Semantic Modeling using entity, UML and Relational Model. Then we have briefly discussed ER and EER models. 
 
 ## Chapter 3 - SQL
+This chapter provides you an overview on SQL language. We shall discuss about its syntax, components, data-types, and many more topics. 
 
 ## Chapter 4 - Database Architecture
 
