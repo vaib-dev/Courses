@@ -48,7 +48,9 @@ Ordered Indexing is of three types −
 <img src=https://www.tutorialspoint.com/dbms/images/sparse_index.png height="" width="">
 
 
-**Multi-level Index or B^+ Index**: Index records comprise search-key values and data pointers. Multilevel index is stored on the disk along with the actual database files. As the size of the database grows, so does the size of the indices. There is an immense need to keep the index records in the main memory so as to speed up the search operations. If single-level index is used, then a large size index cannot be kept in memory which leads to multiple disk accesses.
+**Multi-level Index**: Index records comprise search-key values and data pointers. Multilevel index is stored on the disk along with the actual database files. As the size of the database grows, so does the size of the indices. There is an immense need to keep the index records in the main memory so as to speed up the search operations. If single-level index is used, then a large size index cannot be kept in memory which leads to multiple disk accesses.
 
 
 <img src=https://www.tutorialspoint.com/dbms/images/multi_level_index.png height="" width="">
+
+## Data Backup
