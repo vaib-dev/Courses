@@ -14,7 +14,7 @@ _Lightweight, Simple to understand, Difficult to master_
 ## Scrum Framework
 
 People often think Scrum and agile are the same thing because Scrum is centered around continuous improvement, which is a core principle of agile. However, Scrum is a framework for getting work done, where agile is a mindset. You can’t really “go agile”, as it takes dedication from the whole team to change the way they think about delivering value to your customers. But you can use a framework like Scrum to help you start thinking that way and to practice building agile principles into your everyday communication and work.
-<img src="images\framework.JPG">
+![framework](https://user-images.githubusercontent.com/63605352/90230101-516f0380-de19-11ea-9e2d-3ea8bbc1cdf7.JPG)
 Scrum implements the scientific method of empiricism. Scrum replaces a programmed algorithmic approach with a heuristic one, with respect for people and self-organization to deal with unpredictability and solving complex problems. Scrum is structured to help teams naturally adapt to changing conditions and user requirements, with re-prioritization built into the process and short release cycles so your team can constantly learn and improve. It acknowledges that the team doesn’t know everything at the start of a project and will evolve through experience.
 
 ## Scrum Principles - 3 Pillars of Empirical Process Control
