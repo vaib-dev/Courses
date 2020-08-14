@@ -36,12 +36,6 @@ The values and principles of the ‘Manifesto for Agile Software Development’ 
 11. Best architectures, requirements, and designs emerge from self-organizing teams
 12. Regularly, the team reflects on how to become more effective, and adjusts accordingly
 
-## Scrum
+## Chapter 1-Scrum
 
 Scrum is a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.
-
-## Scrum Master Role
-
-The Scrum Master is responsible for promoting and supporting Scrum. Scrum Masters do this by helping everyone understand Scrum theory, practices, rules, and values.
-
-The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team
