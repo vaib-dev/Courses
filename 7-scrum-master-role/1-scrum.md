@@ -25,11 +25,13 @@ When deviations occur, the process or product should be adjusted as soon as poss
 
 ### Scrum Values
 
-**Commitment**: The Scrum value of commitment is essential for building an agile culture. Scrum teams work together as a unit. This means that Scrum and agile teams trust each other to follow through on what they say they are going to do. When team members aren’t sure how work is going, they ask. Agile teams only agree to take on tasks they believe they can complete, so they are careful not to overcommit.\
 **Courage**: The Scrum value of courage is critical to an agile team’s success. Scrum teams must feel safe enough to say no, to ask for help, and to try new things. Agile teams must be brave enough to question the status quo when it hampers their ability to succeed.\
 **Focus**: The Scrum value of focus is one of the best skills Scrum teams can develop. Focus means that whatever Scrum teams start they finish--so agile teams are relentless about limiting the amount of work in process (limit WIP).\
-**Openness**: Scrum teams consistently seek out new ideas and opportunities to learn. Agile teams are also honest when they need help.\
-**Respect**: Scrum team members demonstrate respect to one another, to the product owner, to stakeholders, and to the ScrumMaster. Agile teams know that their strength lies in how well they collaborate, and that everyone has a distinct contribution to make toward completing the work of the sprint. They respect each other’s ideas, give each other permission to have a bad day once in a while, and recognize each other’s accomplishments.
+**Commitment**: The Scrum value of commitment is essential for building an agile culture. Scrum teams work together as a unit. This means that Scrum and agile teams trust each other to follow through on what they say they are going to do. When team members aren’t sure how work is going, they ask. Agile teams only agree to take on tasks they believe they can complete, so they are careful not to overcommit.
+![values](https://user-images.githubusercontent.com/63605352/90254547-344f2a80-de43-11ea-974a-34e2129d9d50.png)
+
+**Respect**: Scrum team members demonstrate respect to one another, to the product owner, to stakeholders, and to the ScrumMaster. Agile teams know that their strength lies in how well they collaborate, and that everyone has a distinct contribution to make toward completing the work of the sprint. They respect each other’s ideas, give each other permission to have a bad day once in a while, and recognize each other’s accomplishments.\
+**Openness**: Scrum teams consistently seek out new ideas and opportunities to learn. Agile teams are also honest when they need help.
 
 ## Scrum Team
 
@@ -38,6 +40,8 @@ Scrum defines three roles: ScrumMaster, Product Owner, and Development Team. Tog
 **Product Owner Role & Responsibilities**:- The Product Owner defines the what--as in what the product will look like and what features it should contain. The Product Owner is expected to incorporate stakeholder feedback to create the highest value product increments each and every sprint. Product Owners maintain the product backlog and ensures that everyone knows the priorities.\
 **Development Team Role & Responsibilities**:- The Development Team decides how to accomplish the work set forth by the Product Owner. Development Teams are structured and empowered to organize and manage their own work. The resulting synergy optimizes overall efficiency and effectiveness.\
 **ScrumMaster Role & Responsibilities**:- The ScrumMaster helps the Scrum Team perform at their highest level. They also protect the team from both internal and external distractions. ScrumMasters hold the Scrum Team accountable to their working agreements, Scrum values, and to the Scrum framework itself.
+
+![scrum_flow_de](https://user-images.githubusercontent.com/63605352/90254935-d66f1280-de43-11ea-8c1c-14d50438f754.png)
 
 ## Scrum Artifacts
 
@@ -143,6 +147,6 @@ The general guidance is to allow 45 minutes for each week of sprint length. So a
 
 ## Summary
 
-_Now that you know a bit more about what Scrum is and how it works, you might be wondering how to get started with Scrum. We recommend some combination of Scrum training and agile coaching from a Certified Scrum Trainer® (CST®) or Scrum Alliance Certified Agile CoachSM (CEC or CTC) to transform your workplace._
+Now that you know a bit more about what Scrum is and how it works, you might be wondering how to get started with Scrum. We recommend some combination of Scrum training and agile coaching from a Certified Scrum Trainer® (CST®) or Scrum Alliance Certified Agile CoachSM (CEC or CTC) to transform your workplace.
 
-_Transitioning to an agile framework such as Scrum requires a new mindset and overall cultural adjustments. And like all change, it doesn't come easy. But when teams and organizations fully commit to Scrum, they'll discover a new sense of flexibility, creativity, and inspiration - all of which will lead to greater results._
+Transitioning to an agile framework such as Scrum requires a new mindset and overall cultural adjustments. And like all change, it doesn't come easy. But when teams and organizations fully commit to Scrum, they'll discover a new sense of flexibility, creativity, and inspiration - all of which will lead to greater results.
