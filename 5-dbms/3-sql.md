@@ -108,6 +108,9 @@ Constraints are the rules that we can apply on the type of data in a table. That
 2. **UNIQUE**: This constraint when specified with a column, tells that all the values in the column must be unique. That is, the values in any row of a column must not be repeated.
 3. **PRIMARY KEY**: A primary key is a field which can uniquely identify each row in a table. And this constraint is used to specify a field in a table as primary key.
 4. **FOREIGN KEY**: A Foreign key is a field which can uniquely identify each row in a another table. And this constraint is used to specify a field as Foreign key.
+
+5. **COMPOSITE KEY**: A primary key having two or more attributes is called composite key. It is a combination of two or more columns.
+
 5. **CHECK**: This constraint helps to validate the values of a column to meet a particular condition. That is, it helps to ensure that the value stored in a column meets a specific condition.
 6. **DEFAULT**: This constraint specifies a default value for the column when no value is specified by the user.
 
