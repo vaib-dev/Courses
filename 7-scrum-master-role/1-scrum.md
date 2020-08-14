@@ -20,28 +20,22 @@ Scrum implements the scientific method of empiricism. Scrum replaces a programme
 ## Scrum Principles - 3 Pillars of Empirical Process Control
 
 **Transparency**\
-To make decisions, people need visibility into the process and the current state of the product. To ensure everyone understands what they are seeing, participants in an empirical process must share one language
-
+To make decisions, people need visibility into the process and the current state of the product. To ensure everyone understands what they are seeing, participants in an empirical process must share one language\
 **Inspection**\
-To prevent deviation from the desired process or end product, people need to inspect what is being created, and how, at regular intervals. Inspection should occur at the point of work but should not get in the way of that work.
-
+To prevent deviation from the desired process or end product, people need to inspect what is being created, and how, at regular intervals. Inspection should occur at the point of work but should not get in the way of that work.\
 **Adaptation**\
 When deviations occur, the process or product should be adjusted as soon as possible.
 
 ## Scrum Values
 
 **Commitment**\
-The Scrum value of commitment is essential for building an agile culture. Scrum teams work together as a unit. This means that Scrum and agile teams trust each other to follow through on what they say they are going to do. When team members aren’t sure how work is going, they ask. Agile teams only agree to take on tasks they believe they can complete, so they are careful not to overcommit.
-
+The Scrum value of commitment is essential for building an agile culture. Scrum teams work together as a unit. This means that Scrum and agile teams trust each other to follow through on what they say they are going to do. When team members aren’t sure how work is going, they ask. Agile teams only agree to take on tasks they believe they can complete, so they are careful not to overcommit.\
 **Courage**\
-The Scrum value of courage is critical to an agile team’s success. Scrum teams must feel safe enough to say no, to ask for help, and to try new things. Agile teams must be brave enough to question the status quo when it hampers their ability to succeed.
-
+The Scrum value of courage is critical to an agile team’s success. Scrum teams must feel safe enough to say no, to ask for help, and to try new things. Agile teams must be brave enough to question the status quo when it hampers their ability to succeed.\
 **Focus**\
-The Scrum value of focus is one of the best skills Scrum teams can develop. Focus means that whatever Scrum teams start they finish--so agile teams are relentless about limiting the amount of work in process (limit WIP).
-
+The Scrum value of focus is one of the best skills Scrum teams can develop. Focus means that whatever Scrum teams start they finish--so agile teams are relentless about limiting the amount of work in process (limit WIP).\
 **Openness**\
-Scrum teams consistently seek out new ideas and opportunities to learn. Agile teams are also honest when they need help.
-
+Scrum teams consistently seek out new ideas and opportunities to learn. Agile teams are also honest when they need help.\
 **Respect**\
 Scrum team members demonstrate respect to one another, to the product owner, to stakeholders, and to the ScrumMaster. Agile teams know that their strength lies in how well they collaborate, and that everyone has a distinct contribution to make toward completing the work of the sprint. They respect each other’s ideas, give each other permission to have a bad day once in a while, and recognize each other’s accomplishments.
 
