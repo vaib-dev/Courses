@@ -6,9 +6,4 @@ Agile methodology is a type of project management process, mainly used for softw
 
 Scrum is a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.
 
-In this chapter we will deal with:
-
-    Contents
-    1. Scrum Framework
-    2. Scrum Team
-    3. Scrum Events
+In this chapter we will deal with the overall framework of Scrum and we will see how all are there in Scrum Team and what all events take place in Scrum.
