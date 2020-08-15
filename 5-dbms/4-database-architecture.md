@@ -121,6 +121,8 @@ States through which a transaction goes during its lifetime. These are the state
 
 Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. To handle a deadlock situation we have three different scenarios as follow:
 
+<img src="https://user-images.githubusercontent.com/54719422/90315369-a3f31180-df38-11ea-9213-d8f4618fd74a.png" height="" width="">
+
 ### Deadlock Avoidance 
 
 When a database is stuck in a deadlock, It is always better to avoid the deadlock rather than restarting or aborting the database. Deadlock avoidance method is suitable for smaller database whereas deadlock prevention method is suitable for larger database.
@@ -131,11 +133,40 @@ When a transaction waits indefinately to obtain a lock, The database managememt 
 
 Wait-for-graph is one of the methods for detecting the deadlock situation. This method is suitable for smaller database. In this method a graph is drawn based on the transaction and their lock on the resource. If the graph created has a closed loop or a cycle, then there is a deadlock.
 
-### Deadlock prevention –
+### Deadlock prevention
 For large database, deadlock prevention method is suitable. A deadlock can be prevented if the resources are allocated in such a way that deadlock never occur. The DBMS analyzes the operations whether they can create deadlock situation or not, If they do, that transaction is never allowed to be executed.
 
-Deadlock prevention mechanism proposes two schemes :
+Deadlock prevention mechanism proposes two schemes:
 
 **Wait-Die Scheme**: In this scheme, If a transaction request for a resource that is locked by other transaction, then the DBMS simply checks the timestamp of both transactions and allows the older transaction to wait until the resource is available for execution.
 
-**Wound Wait Scheme**: In this scheme, if an older transaction requests for a resource held by younger transaction, then older transaction forces younger transaction to kill the transaction and release the resource. The younger transaction is restarted with minute delay but with same timestamp. If the younger transaction is requesting a resource which is held by older one, then younger transaction is asked to wait till older releases it.
+**Wound-Wait Scheme**: In this scheme, if older transactions requests for a resource held by younger transaction, then older transaction forces younger transaction to kill the transaction and release the resource. The younger transaction is restarted with minute delay but with same timestamp. If the younger transaction is requesting a resource which is held by older one, then younger transaction is asked to wait till older releases it.
+
+### Concurrent modifications
+
+Several applications or users often need to share the same data source. This sharing can lead to problems if they try to access a record concurrently, that is, if they try to process the same data source record at the same time. To ensure the integrity of a data source, concurrent transactions must execute as if they were isolated from each other. The changes of one transaction to a data source must be concealed from all other transactions until that transaction is committed. To do otherwise, runs the risk of open transactions being exposed to interim inconsistent images of the data source, and consequently, corrupting the data source.
+
+To prevent users from corrupting the data in this way, the database management system (DBMS) must coordinate concurrent access. The concurrency control protocol can be divided into three categories:
+
+1. **Lock based protocol**: Lock-based Protocols
+Database systems equipped with lock-based protocols use a mechanism by which any transaction cannot read or write data until it acquires an appropriate lock on it. There are four types of lock protocols available:
+
+   a) Simplistic Lock Protocol: These protocols allow transactions to obtain a lock on every object before a 'write' operation is performed. Transactions may unlock the data item after completing the ‘write’ operation.
+
+   b) Pre-claiming Lock Protocol: These protocols evaluate their operations and create a list of data items on which they need locks. Before initiating an execution, the transaction requests the system for all the locks it needs beforehand. If all the locks are granted, the transaction executes and releases all the locks when all its operations are over. If all the locks are not granted, the transaction rolls back and waits until all the locks are granted.
+   
+   c) Two-Phase Locking 2PL: This locking protocol divides the execution phase of a transaction into three parts. In the first part, when the transaction starts executing, it seeks permission for the locks it requires. The second part is where the transaction acquires all the locks. As soon as the transaction releases its first lock, the third phase starts. In this phase, the transaction cannot demand any new locks; it only releases the acquired locks. Two-phase locking has two phases, one is *growing*, where all the locks are being acquired by the transaction; and the second phase is *shrinking*, where the locks held by the transaction are being released.
+
+    d) Strict Two-Phase Locking: The first phase of Strict-2PL is same as 2PL. After acquiring all the locks in the first phase, the transaction continues to execute normally. But in contrast to 2PL, Strict-2PL does not release a lock after using it. Strict-2PL holds all the locks until the commit point and releases all the locks at a time. 
+
+
+2. **Time-stamp protocol**: Timestamp-based Protocols
+The most commonly used concurrency protocol is the timestamp based protocol. This protocol uses either system time or logical counter as a timestamp. Every transaction has a timestamp associated with it, and the ordering is determined by the age of the transaction. A transaction created at 0002 clock time would be older than all other transactions that come after it.
+
+3. **Validation based protocol**: The timestamp-ordering protocol ensures serializability(it is the classical concurrency scheme. It ensures that a schedule for executing concurrent transactions is equivalent to one that executes the transactions serially in some order) among transactions in their conflicting read and write operations. This is the responsibility of the protocol system that the conflicting pair of tasks should be executed according to the timestamp values of the transactions.
+
+## Summary
+
+We learned about the Database Architecture. It includes Design Phases like Conceptual Design, Logical Design, Physical Design. Then we discussed about Database Storages, Database Backup, Database Transaction Handling. 
+
+In the upcoming chapter we will start with Relational Database Management System(RDBMS).
