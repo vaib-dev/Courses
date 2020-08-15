@@ -15,6 +15,8 @@ This chapter provides you an overview on SQL language. We shall discuss about it
 
 ## Chapter 4 - Database Architecture
 
+In this we will learn different phases of database architecture, database storage, database backup and at last database transaction handling.
+
 ## Chapter 5 - RDBMS
 
 ## Chapter 6 - Extensions of DBMS
