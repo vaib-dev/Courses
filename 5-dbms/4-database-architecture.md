@@ -75,7 +75,11 @@ A differential backup operation is similar to an incremental the first time it i
 <img src="https://www.handybackup.net/images/features/differential-backup-scheme.png" height="" width="">
 
 ## Database Transaction Handling
-A transaction is a single logical unit of work which accesses and possibly modifies the contents of a database. Transactions access data using read and write operations. In order to maintain consistency in a database, before and after the transaction, certain properties are followed. These are called **ACID** properties. ACID stands for:
+A transaction is a single logical unit of work which accesses and possibly modifies the contents of a database. Transactions access data using read and write operations. In order to maintain consistency in a database, before and after the transaction, certain properties are followed known as **ACID** properties.
+
+### Acid Properties
+
+ ACID is an abbreviation for Atomicity, Consistency, Isolation, and Durability which are properties to maintain data consistency. Transactions are a set of SQL statements used to modify the data in the database. Transactions perform read and write operations on the database. To maintain the consistency in data we use ACID properties as explained below.
 
 <img src="https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/acid.png" height="" width="">
 
@@ -96,7 +100,21 @@ States through which a transaction goes during its lifetime. These are the state
 
 1. **Active State**: When the instructions of the transaction is running then the transaction is in active state. If all the read and write operations are performed without any error then it goes to “partially committed state”, if any instruction fails it goes to “failed state”.
 2. **Partially Committed**: After completion of all the read and write operation the changes are made in main memory or local buffer. If the the changes are made permanent on the Data Base then state will change to “committed state” and in case of failure it will go to “failed state”.
-3.**Failed State**: When any instruction of the transaction fails it goes to “failed state” or if failure occurs in making permanent change of data on Data Base.
-4.**Aborted State**: After having any type of failure the transaction goes from “failed state” to “aborted state” and in before states the changes are only made to local buffer or main memory and hence these changes are deleted or rollback.
+
+3. **Failed State**: When any instruction of the transaction fails it goes to “failed state” or if failure occurs in making permanent change of data on Data Base.
+4. **Aborted State**: After having any type of failure the transaction goes from “failed state” to “aborted state” and in before states the changes are only made to local buffer or main memory and hence these changes are deleted or rollback.
 5. **Committed Stage**: It is the stage when the changes are made permanent on the Data Base and transaction is complete and therefore terminated in “terminated state”.
 6. **Terminated State**: If there is any roll back or the transaction come from “committed state” then the system is consistent and ready for new transaction and the old transaction is terminated.
+
+
+## Deadlock
+
+Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. 
+
+### Deadlock Avoidance 
+
+When a database is stuck in a deadlock, It is always better to avoid the deadlock rather than restarting or aborting the database. Deadlock avoidance method is suitable for smaller database whereas deadlock prevention method is suitable for larger database.
+One method of avoiding deadlock is using application consistent logic.  Another method for avoiding deadlock is to apply both row level locking mechanism and READ COMMITTED isolation level. However, It does not guarantee to remove deadlocks completely.
+
+
+
