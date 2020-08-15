@@ -1,4 +1,4 @@
-# Database Architecture
+# Chapter 4- Database Architecture
 The DBMS design depends upon its architecture. The basic client/server architecture is used to deal with a large number of PCs, web servers, database servers and other components that are connected with networks.
 The client/server architecture consists of many PCs and a workstation which are connected via the network.
 DBMS architecture depends upon how users are connected to the database to get their request done.
