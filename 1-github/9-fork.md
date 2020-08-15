@@ -8,4 +8,5 @@ According to help.github.com, a ‘fork’ is a personal copy of another user's 
 Forks allow you to freely make changes to a project without affecting the original, enabling limitless opportunities for experimentation and learning from other people’s work. 
 
 A forked project also remains attached to the original, allowing you to submit a pull request to the original's author to update with your changes, ensuring you’re always working off a recent or up-to-date codebase.
-![fork](https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png" height="" width="" >
