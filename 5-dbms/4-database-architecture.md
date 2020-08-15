@@ -59,27 +59,27 @@ In this, a hash function can choose any of the column value to generate the addr
 
 a) **Bucket** − A hash file stores data in bucket format. Bucket is considered a unit of storage. A bucket typically stores one complete disk block, which in turn can store one or more records.
 
-b) **Hash Function** − A hash function, h, is a mapping function that maps all the set of search-keys K to the address where actual records are placed. It is a function from search keys to bucket addresses.
+b) **Hash Function** − A hash function (h), is a mapping function that maps all the set of search-keys (K) to the address where actual records are placed. It is a function from search keys to bucket addresses.
 
 <img src="https://static.javatpoint.com/dbms/images/dbms-hashing_2.png" height="" width="">
 
 ## Data Backup
 The purpose of the backup is to create a copy of data that can be recovered in the event of a primary data failure. Primary data failures can be the result of hardware or software failure, data corruption, or a human-caused event, such as a malicious attack (virus or malware), or accidental deletion of data.
-### 1.Full backups
+### 1. Full backups
 The most basic and complete type of backup operation is a full backup. As the name implies, this type of backup makes a copy of all data to another set of media, such as a disk or tape. The primary advantage to performing a full backup during every operation is that a complete copy of all data is available with a single set of media. This results in a minimal time to restore data, a metric known as a recovery time objective. However, the disadvantages are that it takes longer to perform a full backup than other types (sometimes by a factor of 10 or more), and it requires more storage space.
 
 Thus, full backups are typically run only periodically. Data centers that have a small amount of data (or critical applications) may choose to run a full backup daily, or even more often in some cases. Typically, backup operations employ a full backup in combination with either incremental or differential backups.
 
 <img src="https://www.nakivo.com/blog/wp-content/uploads/2017/11/full-backup.png" height="" width="">
 
-### 2.Incremental backups
+### 2. Incremental backups
 An incremental backup operation will result in copying only the data that has changed since the last backup operation of any type. An organization typically uses the modified time stamp on files and compares it to the time stamp of the last backup. Backup applications track and record the date and time that backup operations occur in order to track files modified since these operations.
 
 Because an incremental backup will only copy data since the last backup of any type, an organization may run it as often as desired, with only the most recent changes stored. The benefit of an incremental backup is that it copies a smaller amount of data than a full.Thus, these operations will complete faster, and require less media to store the backup.
 
 <img src="https://www.nakivo.com/blog/wp-content/uploads/2017/11/incremental-backup.png" height="" width="">
 
-### 3.Differential backups
+### 3. Differential backups
 A differential backup operation is similar to an incremental the first time it is performed, in that it will copy all data changed from the previous backup. However, each time it is run later, it will continue to copy all data changed since the previous full backup. Thus, it will store more data than an incremental on subsequent operations, although typically far less than a full backup. Moreover, differential backups require more space and time to complete than incremental backups, although less than full backups.
 
 <img src="https://www.handybackup.net/images/features/differential-backup-scheme.png" height="" width="">
@@ -119,12 +119,23 @@ States through which a transaction goes during its lifetime. These are the state
 
 ## Deadlock
 
-Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. 
+Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. To handle a deadlock situation we have three different scenarios as follow:
 
 ### Deadlock Avoidance 
 
 When a database is stuck in a deadlock, It is always better to avoid the deadlock rather than restarting or aborting the database. Deadlock avoidance method is suitable for smaller database whereas deadlock prevention method is suitable for larger database.
 One method of avoiding deadlock is using application consistent logic.  Another method for avoiding deadlock is to apply both row level locking mechanism and READ COMMITTED isolation level. However, It does not guarantee to remove deadlocks completely.
 
+### Deadlock Detection 
+When a transaction waits indefinately to obtain a lock, The database managememt system should detect whether the transaction is involved in a deadlock or not. 
 
+Wait-for-graph is one of the methods for detecting the deadlock situation. This method is suitable for smaller database. In this method a graph is drawn based on the transaction and their lock on the resource. If the graph created has a closed loop or a cycle, then there is a deadlock.
 
+### Deadlock prevention –
+For large database, deadlock prevention method is suitable. A deadlock can be prevented if the resources are allocated in such a way that deadlock never occur. The DBMS analyzes the operations whether they can create deadlock situation or not, If they do, that transaction is never allowed to be executed.
+
+Deadlock prevention mechanism proposes two schemes :
+
+**Wait-Die Scheme**: In this scheme, If a transaction request for a resource that is locked by other transaction, then the DBMS simply checks the timestamp of both transactions and allows the older transaction to wait until the resource is available for execution.
+
+**Wound Wait Scheme**: In this scheme, if an older transaction requests for a resource held by younger transaction, then older transaction forces younger transaction to kill the transaction and release the resource. The younger transaction is restarted with minute delay but with same timestamp. If the younger transaction is requesting a resource which is held by older one, then younger transaction is asked to wait till older releases it.
