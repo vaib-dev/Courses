@@ -13,10 +13,10 @@ Scrum implements the scientific method of empiricism. Scrum replaces a programme
 
 ### Scrum Principles
 
-![scrum-three-pillars](https://miro.medium.com/max/875/1*aG4Rf5IhJjZNant5dhD3Uw.png)
+<p align="center"> <img width="650" height="450" src="https://miro.medium.com/max/875/1*aG4Rf5IhJjZNant5dhD3Uw.png"></p>
 
-1. **Transparency**: To make decisions, people need visibility into the process and the current state of the product. To ensure everyone understands what they are seeing, participants in an empirical process must share one language\
-2. **Inspection**: To prevent deviation from the desired process or end product, people need to inspect what is being created, and how, at regular intervals. Inspection should occur at the point of work but should not get in the way of that work.\
+1. **Transparency**: To make decisions, people need visibility into the process and the current state of the product. To ensure everyone understands what they are seeing, participants in an empirical process must share one language.
+2. **Inspection**: To prevent deviation from the desired process or end product, people need to inspect what is being created, and how, at regular intervals. Inspection should occur at the point of work but should not get in the way of that work.
 3. **Adaptation**: When deviations occur, the process or product should be adjusted as soon as possible.
 
 ### Scrum Values
@@ -34,35 +34,27 @@ Scrum implements the scientific method of empiricism. Scrum replaces a programme
 
 Scrum defines three roles: ScrumMaster, Product Owner, and Development Team. Together all three roles make up a Scrum Team.
 
-**Product Owner**: The Product Owner defines the what--as in what the product will look like and what features it should contain. The Product Owner is expected to incorporate stakeholder feedback to create the highest value product increments each and every sprint. Product Owners maintain the product backlog and ensures that everyone knows the priorities.
-**Development Team**: The Development Team decides how to accomplish the work set forth by the Product Owner. Development Teams are structured and empowered to organize and manage their own work. The resulting synergy optimizes overall efficiency and effectiveness.\
-**Scrum Master**: The ScrumMaster helps the Scrum Team perform at their highest level. They also protect the team from both internal and external distractions. ScrumMasters hold the Scrum Team accountable to their working agreements, Scrum values, and to the Scrum framework itself.
+1. **Product Owner**: The Product Owner defines the what--as in what the product will look like and what features it should contain. The Product Owner is expected to incorporate stakeholder feedback to create the highest value product increments each and every sprint. Product Owners maintain the product backlog and ensures that everyone knows the priorities.
+2. **Development Team**: The Development Team decides how to accomplish the work set forth by the Product Owner. Development Teams are structured and empowered to organize and manage their own work. The resulting synergy optimizes overall efficiency and effectiveness.
+3. **Scrum Master**: The ScrumMaster helps the Scrum Team perform at their highest level. They also protect the team from both internal and external distractions. ScrumMasters hold the Scrum Team accountable to their working agreements, Scrum values, and to the Scrum framework itself.
 
-![scrumteam](https://user-images.githubusercontent.com/63605352/90327201-771f1880-df91-11ea-9c0d-5e840d0b54e7.jpg)
-
+<p align="center"> <img width="450" height="" src="https://user-images.githubusercontent.com/63605352/90327201-771f1880-df91-11ea-9c0d-5e840d0b54e7.jpg">
+   
 ## Scrum Artifacts
 
 Scrum defines three artifacts: Product Backlog, Sprint Backlog, and a potentially releasable product increment
 
-1. **Product Backlog**\: The Product Backlog is an ordered list of everything that is known to be needed in a product. It is constantly evolving and is never complete.
+1. **Product Backlog**: The Product Backlog is an ordered list of everything that is known to be needed in a product. It is constantly evolving and is never complete.
 
-2. **Sprint Backlog**\: The Sprint Backlog is a list of everything that the team commits to achieve in a given Sprint. Once created, no one can add to the Sprint Backlog except the Development Team.
+2. **Sprint Backlog**: The Sprint Backlog is a list of everything that the team commits to achieve in a given Sprint. Once created, no one can add to the Sprint Backlog except the Development Team.
 
    If the Development Team needs to drop an item from the Sprint Backlog, they must negotiate it with the Product Owner. During this negotiation, the ScrumMaster should work with the Development Team and Product Owner to try to find ways to create some smaller increment of an item rather than drop it altogether.
 
-3. **Potentially Releasable Product Increment**\: At the end of every Sprint, the team must complete a product increment that is potentially releasable, meaning that meets their agreed-upon definition of done. (An example might be fully tested and fully approved.)
+3. **Potentially Releasable Product Increment**: At the end of every Sprint, the team must complete a product increment that is potentially releasable, meaning that meets their agreed-upon definition of done. (An example might be fully tested and fully approved.)
 
 ## Scrum Events
 
-Scrum defines four events (sometimes called ceremonies) that occur inside each Sprint:
-
-- Sprint
-- Sprint Planning
-- Daily Scrum
-- Sprint Review
-- Sprint Retrospective
-
-### 1. Sprint
+### Sprint
 
 Scrum Teams work in short timeframes called sprints. Sprints can be as short as one week or as long as one month. Sprints happen one right after the other, with no breaks, to maintain a steady project cadence.
 
@@ -70,7 +62,9 @@ Each sprint begins with a plan and ends with a review of the work completed and 
 
 During each sprint, the entire Scrum Team works together to complete one or more increments of a larger overall product or project. Each completed increment must be potentially releasable, meaning that it could theoretically be delivered as is. In other words, each increment must be fully tested and fully approved by the end of the sprint.
 
-### 2. Sprint Planning
+Scrum defines four events (sometimes called ceremonies) that occur inside each Sprint:
+
+### 1. Sprint Planning
 
 Sprint planning is an event in scrum that kicks off the sprint. The purpose of sprint planning is to define what can be delivered in the sprint and how that work will be achieved. Sprint planning is done in collaboration with the whole scrum team.
 
@@ -88,16 +82,16 @@ Work is selected from the Product Backlog and pulled into the Sprint Backlog. No
 **Sprint Goal**\
 The Sprint Goal is an objective set for the Sprint that can be met through the implementation of Product Backlog. It provides guidance to the Development Team on why it is building the Increment. It is created during the Sprint Planning meeting. The Sprint Goal gives the Development Team some flexibility regarding the functionality implemented within the Sprint. As the Development Team works, it does so with the Sprint Goal always in mind.
 
-### 3. Daily Scrum
+### 2. Daily Scrum
 
 The Daily Scrum is a 15-minute time-boxed event for the Development Team to synchronize activities and create a plan for the next 24 hours. The Daily Scrum is held every day of the Sprint. At it, the Development Team plans work for the next 24 hours. This optimizes team collaboration and performance by inspecting the work since the last Daily Scrum and forecasting upcoming Sprint work. The Daily Scrum is held at the same time and place each day to reduce complexity.\
 This is not a status meeting but is instead an opportunity for the Development Team to inspect and adapt the product and process on a daily basis.
 
 The Scrum Master ensures that the Development Team has the meeting, but the Development Team is responsible for conducting the Daily Scrum. The Scrum Master teaches the Development Team to keep the Daily Scrum within the 15-minute time-box. The Daily Scrum is an internal meeting for the Development Team. If others are present, the Scrum Master ensures that they do not disrupt the meeting.
 
-<img align="center" width="450" height="" src="https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2018/07/sprint.png">\
+<p align="center"> <img width="450" height="" src="https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2018/07/sprint.png"></p>
 
-### 4. Sprint Review
+### 3. Sprint Review
 
 A Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed. There could have been a single deployment or many deployments during a Sprint which lead up to that Increment to be inspected.
 
@@ -109,7 +103,7 @@ The entire Scrum Team attends the sprint review. Any stakeholders, senior manage
 
 This is at most a four-hour meeting for one-month Sprints. For shorter Sprints, the event is usually shorter. The Scrum Master ensures that the event takes place and that attendees understand its purpose. The Scrum Master teaches everyone involved to keep it within the time-box.
 
-### 5. Sprint Retrospective
+### 4. Sprint Retrospective
 
 The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint. They make tangible plans for how to improve their own process, tools and relationships.
 
