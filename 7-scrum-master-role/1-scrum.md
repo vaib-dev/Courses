@@ -1,4 +1,4 @@
-# Scrum
+# Chapter 1 - Scrum
 
 Scrum is the most widely used and popular agile framework. The term agile describes a specific set of foundational principles and values for organizing and managing complex work.\
 The term Scrum comes from a 1986 Harvard Business Review article in which authors Hirotaka Takeuchi and Ikujiro Nonaka made an analogy comparing high-performing, cross-functional teams to the scrum formation used by rugby teams. Though it has its roots in software development, today Scrum refers to a lightweight framework that is used in every industry to deliver complex, innovative products and services that truly delight customers. It is simple to understand, but difficult to master
