@@ -84,6 +84,30 @@ A differential backup operation is similar to an incremental the first time it i
 
 <img src="https://www.handybackup.net/images/features/differential-backup-scheme.png" height="" width="">
 
+
+### RAID
+
+Redundant Arrays of Independent Disks is a technique which makes use of a combination of multiple disks instead of using a single disk for increased performance, data redundancy or both. The term was coined by David Patterson, Garth A. Gibson, and Randy Katz at the University of California, Berkeley in 1987.
+
+Data redundancy, although taking up extra space, adds to disk reliability. This means, in case of disk failure, if the same data is also backed up onto another disk, we can retrieve the data and go on with the operation. On the other hand, if the data is spread across just multiple disks without the RAID technique, the loss of a single disk can affect the entire data.
+
+**RAID 0**: RAID level 0 provides data stripping, i.e., a data can place across multiple disks. It is based on stripping that means if one disk fails then all data in the array is lost. This level doesn't provide fault tolerance but increases the system performance.
+
+**RAID 1**: This level is called mirroring of data as it copies the data from drive 1 to drive 2. It provides 100% redundancy in case of a failure.
+
+**RAID 2**: It consists of bit-level striping using hamming code parity. In this level, each data bit in a word is recorded on a separate disk and ECC code of data words is stored on different set disks. Due to its high cost and complex structure, this level is not commercially used. This same performance can be achieved by RAID 3 at a lower cost.
+
+**RAID 3**: RAID 3 consists of byte-level striping with dedicated parity. In this level, the parity information is stored for each disk section and written to a dedicated parity drive. In case of drive failure, the parity drive is accessed, and data is reconstructed from the remaining devices. Once the failed drive is replaced, the missing data can be restored on the new drive. In this level, data can be transferred in bulk. Thus high-speed data transmission is possible.
+
+**RAID 4**: RAID 4 consists of block-level stripping with a parity disk. Instead of duplicating data, the RAID 4 adopts a parity-based approach. This level allows recovery of at most 1 disk failure due to the way parity works. In this level, if more than one disk fails, then there is no way to recover the data. Level 3 and level 4 both are required at least three disks to implement RAID.
+
+**RAID 5**: RAID 5 is a slight modification of the RAID 4 system. The only difference is that in RAID 5, the parity rotates among the drives.
+It consists of block-level striping with DISTRIBUTED parity. Same as RAID 4, this level allows recovery of at most 1 disk failure. If more than one disk fails, then there is no way for data recovery.
+
+**RAID 6**: This level is an extension of RAID 5. It contains block-level stripping with 2 parity bits.
+In RAID 6, you can survive 2 concurrent disk failures. Suppose you are using RAID 5, and RAID 1. When your disks fail, you need to replace the failed disk because if simultaneously another disk fails then you won't be able to recover any of the data, so in this case RAID 6 plays its part where you can survive two concurrent disk failures before you run out of options.
+
+
 ## Database Transaction Handling
 A transaction is a single logical unit of work which accesses and possibly modifies the contents of a database. Transactions access data using read and write operations. In order to maintain consistency in a database, before and after the transaction, certain properties are followed known as **ACID** properties.
 
@@ -119,6 +143,8 @@ States through which a transaction goes during its lifetime. These are the state
 
 ## Deadlock
 
+<img src="https://hackernoon.com/hn-images/1*mdFN-uFWVcwP9Ur9P5NV_w.png" height="200" width="350">
+
 Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. To handle a deadlock situation we have three different scenarios as follow:
 
 <img src="https://user-images.githubusercontent.com/54719422/90315369-a3f31180-df38-11ea-9213-d8f4618fd74a.png" height="" width="">
@@ -144,11 +170,12 @@ Deadlock prevention mechanism proposes two schemes:
 
 ## Concurrent modifications
 
-Several applications or users often need to share the same data source. This sharing can lead to problems if they try to access a record concurrently, that is, if they try to process the same data source record at the same time. To ensure the integrity of a data source, concurrent transactions must execute as if they were isolated from each other. The changes of one transaction to a data source must be concealed from all other transactions until that transaction is committed. To do otherwise, runs the risk of open transactions being exposed to interim inconsistent images of the data source, and consequently, corrupting the data source.
+Whenever, the same data is accessed by many users or applications this situation is called concurrency. To resolve this problem we need to process the same data as if it is isolated from each other. This means, if multiple transactions takes place at a same time then first we will complete the instructions of first task then only we will move to next task. Through, this there will be no conflicts. But some times we have to run multiple transactions at a same time. To solve this problem we have concurrency control protocol. The concurrency control protocol can be divided into three categories:
 
-To prevent users from corrupting the data in this way, the database management system (DBMS) must coordinate concurrent access. The concurrency control protocol can be divided into three categories:
+1. **Time-stamp protocol**: Time-stamp based Protocols
+The most commonly used concurrency protocol is the timestamp based protocol. This protocol uses either system time or logical counter as a timestamp. Every transaction has a timestamp associated with it, and the ordering is determined by the age of the transaction. A transaction created at 0002 clock time would be older than all other transactions that come after it.
 
-1. **Lock based protocol**: Lock-based Protocols
+2. **Lock based protocol**: Lock-based Protocols
 Database systems equipped with lock-based protocols use a mechanism by which any transaction cannot read or write data until it acquires an appropriate lock on it. There are four types of lock protocols available:
 
    a) Simplistic Lock Protocol: These protocols allow transactions to obtain a lock on every object before a 'write' operation is performed. Transactions may unlock the data item after completing the ‘write’ operation.
@@ -159,14 +186,10 @@ Database systems equipped with lock-based protocols use a mechanism by which any
 
     d) Strict Two-Phase Locking: The first phase of Strict-2PL is same as 2PL. After acquiring all the locks in the first phase, the transaction continues to execute normally. But in contrast to 2PL, Strict-2PL does not release a lock after using it. Strict-2PL holds all the locks until the commit point and releases all the locks at a time. 
 
-
-2. **Time-stamp protocol**: Timestamp-based Protocols
-The most commonly used concurrency protocol is the timestamp based protocol. This protocol uses either system time or logical counter as a timestamp. Every transaction has a timestamp associated with it, and the ordering is determined by the age of the transaction. A transaction created at 0002 clock time would be older than all other transactions that come after it.
-
 3. **Validation based protocol**: The timestamp-ordering protocol ensures serializability(it is the classical concurrency scheme. It ensures that a schedule for executing concurrent transactions is equivalent to one that executes the transactions serially in some order) among transactions in their conflicting read and write operations. This is the responsibility of the protocol system that the conflicting pair of tasks should be executed according to the timestamp values of the transactions.
 
 ## Summary
 
 We learned about the Database Architecture. It includes Design Phases like Conceptual Design, Logical Design, Physical Design. Then we discussed about Database Storages, Database Backup, Database Transaction Handling. 
 
-In the upcoming chapter we will start with Relational Database Management System(RDBMS).
+In the next chapter, we will start with the Relational Database Management System (RDBMS).
