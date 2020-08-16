@@ -23,7 +23,8 @@ Scrum implements the scientific method of empiricism. Scrum replaces a programme
 
 1. **Courage**: The Scrum value of courage is critical to an agile team’s success. Scrum teams must feel safe enough to say no, to ask for help, and to try new things. Agile teams must be brave enough to question the status quo when it hampers their ability to succeed.
 2. **Focus**: The Scrum value of focus is one of the best skills Scrum teams can develop. Focus means that whatever Scrum teams start they finish--so agile teams are relentless about limiting the amount of work in process (limit WIP).
-3. **Commitment**: The Scrum value of commitment is essential for building an agile culture. Scrum teams work together as a unit. This means that Scrum and agile teams trust each other to follow through on what they say they are going to do. When team members aren’t sure how work is going, they ask. Agile teams only agree to take on tasks they believe they can complete, so they are careful not to overcommit.
+3. **Commitment**: The Scrum value of commitment is essential for building an agile culture. Scrum teams work together as a unit. This means that Scrum and agile teams trust each other to follow through on what they say they are going to do. When team members aren’t sure how work is going, they ask. Agile teams only agree to take on tasks they believe they can complete, so they are careful not to overcommit.\
+
    ![values](https://user-images.githubusercontent.com/63605352/90254547-344f2a80-de43-11ea-974a-34e2129d9d50.png)
 
 4. **Respect**: Scrum team members demonstrate respect to one another, to the product owner, to stakeholders, and to the ScrumMaster. Agile teams know that their strength lies in how well they collaborate, and that everyone has a distinct contribution to make toward completing the work of the sprint. They respect each other’s ideas, give each other permission to have a bad day once in a while, and recognize each other’s accomplishments.
@@ -69,7 +70,7 @@ Each sprint begins with a plan and ends with a review of the work completed and 
 
 During each sprint, the entire Scrum Team works together to complete one or more increments of a larger overall product or project. Each completed increment must be potentially releasable, meaning that it could theoretically be delivered as is. In other words, each increment must be fully tested and fully approved by the end of the sprint.
 
-### 2. Sprint Planning?
+### 2. Sprint Planning
 
 Sprint planning is an event in scrum that kicks off the sprint. The purpose of sprint planning is to define what can be delivered in the sprint and how that work will be achieved. Sprint planning is done in collaboration with the whole scrum team.
 
