@@ -142,10 +142,11 @@ States through which a transaction goes during its lifetime. These are the state
 
 
 ## Deadlock
+Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. 
 
-<img src="https://hackernoon.com/hn-images/1*mdFN-uFWVcwP9Ur9P5NV_w.png" height="200" width="350">
+<p align="center"><img src="https://hackernoon.com/hn-images/1*mdFN-uFWVcwP9Ur9P5NV_w.png" height="300" width="350"></p>
 
-Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. To handle a deadlock situation we have three different scenarios as follow:
+**To handle a deadlock situation we have three different scenarios as follow:**
 
 <img src="https://user-images.githubusercontent.com/54719422/90315369-a3f31180-df38-11ea-9213-d8f4618fd74a.png" height="" width="">
 
