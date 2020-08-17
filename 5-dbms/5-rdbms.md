@@ -105,7 +105,9 @@ RIGHT JOIN is similar to LEFT JOIN. This join returns all the rows of the table 
 ### ORDBMS
 An Object-relational model is a combination of Object-oriented database model and a Relational database model. So, it supports objects, classes, inheritance etc. just like Object Oriented models and has support for data types, tabular structures etc. like the Relational data model.
 
-One of the major goals of Object-relational data model is to close the gap between relational databases and the object-oriented practices frequently used in many programming languages such as C++, C#, Java etc. The advantages of the Object Relational model are −
+One of the major goals of Object-relational data model is to close the gap between relational databases and the object-oriented practices frequently used in many programming languages such as C++, C#, Java etc.
+
+The advantages of the Object Relational model are:
 
 1. **Inheritance**: The Object Relational data model allows its users to inherit objects, tables etc. so that they can extend their functionality. Inherited objects contains new attributes as well as the attributes that were inherited. 
 
@@ -136,4 +138,4 @@ Disadvantages of Object-Relational model:
 
    Above we discussed about the relational data management system(RDBMS), types of normalization, types of joins, advanced database application, limitations of RDBMS.
 
-   In the next chapter, we will discuss about Extensions of DBMS,
+   In the next chapter, we will discuss about Extensions of DBMS.
