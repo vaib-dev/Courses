@@ -122,7 +122,7 @@ Relational Database Management System is very useful in DBMS. However, it does h
  ### 3. Cost
   One of the main disadvantages of the relational database management system is high cost. The relational databases are expensive to set up and also the maintenance of the databases is also expensive. 
   
-### 4.Isolated information
+### 4. Isolated information
    Because the relational databases use a large number of tables, there are higher chances that some information can be forgotten when it is transformed from one location to another location. This is the main problem in the large-scale organization in which there is a large amount of data of the employees, accounts and financial data. Isolation of information problem arises when the organization has different database systems.
 
    ## Summary
