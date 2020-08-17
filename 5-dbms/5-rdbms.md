@@ -1,4 +1,4 @@
-# Chapter -5 RDBMS
+# Chapter - 5 RDBMS
 
 RDBMS stands for Relational Database Management Systems. All modern database management systems like SQL, MS SQL Server, IBM DB2, ORACLE, My-SQL and Microsoft Access are based on RDBMS. Data is represented in terms of tuples (rows) and attribute(column) in RDBMS. Relational database is most commonly used database. It contains number of tables and each table has its own primary key. Due to a collection of organized set of tables, data can be accessed easily in RDBMS.
 
