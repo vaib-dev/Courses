@@ -112,7 +112,7 @@ RIGHT JOIN is similar to LEFT JOIN. This join returns all the rows of the table 
 
 4. **Customer Relationship Management system (CRM)**: A  is another example of a database application that has been customized to manage the marketing, sales, and support relationships between a business and it's customers. The ultimate goal is to maximize sales, minimize costs and foster strategic customer relationships.
 
-## The limitations of relational DBMS
+## Limitations of RDBMS
 Relational Database Management System is very useful in DBMS. However, it does have some disadvantages. Some of those are as follows:
 ### 1. The abundance of information
  The advances in the complexity of the information can cause drawbacks for the relational database management system. Relational databases are designed in order to organize the data with the use of common characteristics. 
