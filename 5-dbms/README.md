@@ -2,8 +2,6 @@
 
 A database management system refers to the technology for creating and managing databases. DBMS is a software tool to organize (create, retrieve, update, and manage) data in a database. The main aim of a DBMS is to supply a way to store up and retrieve database information that is both convenient and efficient.
 
-<img src="https://www.hamzavisolutions.com/wp-content/uploads/2017/10/DBMS.jpg">
-
 ## Chapter 1 - Introduction
 
 We will learn about Database, data management system, DBMS types, its uses and advantages of using DBMS.
