@@ -13,6 +13,7 @@ Then, once the developer gets his or her part of the code working properly, he o
 All of these changes are then tracked and can be reverted if need be.
 
 **Workflow of GitHub is as shown**
+
 ![GitHub](https://miro.medium.com/max/1248/1*IelAxduwS_YtpsrlRe1d0Q.png)
 
 ## What Is Git?

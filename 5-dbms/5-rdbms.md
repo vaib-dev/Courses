@@ -119,7 +119,7 @@ A SQL Join statement is used to combine data or rows from two or more tables bas
  <p align="center"><img src="https://www.engagebay.com/blog/wp-content/uploads/2019/01/CRM-Database-Cover-960x675.jpg" height="300" width="350"></p>
 
 
-## The limitations of relational DBMS
+## Limitations of RDBMS
 Relational Database Management System is very useful in DBMS. However, it does have some disadvantages. Some of those are as follows:
 ### 1. The abundance of information
  The advances in the complexity of the information can cause drawbacks for the relational database management system. Relational databases are designed in order to organize the data with the use of common characteristics. 
