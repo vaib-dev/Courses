@@ -102,27 +102,18 @@ RIGHT JOIN is similar to LEFT JOIN. This join returns all the rows of the table 
  FULL JOIN creates the result-set by combining result of both LEFT JOIN and RIGHT JOIN. The result-set will contain all the rows from both the tables. The rows for which there is no matching, the result-set will contain NULL values.
 
 ##  Advance Database Applications
-### ORDBMS
-An Object-relational model is a combination of Object-oriented database model and a Relational database model. So, it supports objects, classes, inheritance etc. just like Object Oriented models and has support for data types, tabular structures etc. like the Relational data model.
+ Below are some of the applications of advance database:
 
-One of the major goals of Object-relational data model is to close the gap between relational databases and the object-oriented practices frequently used in many programming languages such as C++, C#, Java etc.
+1. **Geographic Information Systems (GIS)**: A geographic information system (GIS) is a framework for gathering, managing, and analyzing data. Rooted in the science of geography, GIS integrates many types of data. It analyzes spatial location and organizes layers of information into visualizations using maps and 3D scenes.
 
-The advantages of the Object Relational model are:
+2. **Computer Aided Design(CAD)**: CAD software is used to increase the productivity of the designer, improve the quality of design, improve communications through documentation, and to create a database for manufacturing. CAD output is often in the form of electronic files for print, machining, or other manufacturing operations.
 
-1. **Inheritance**: The Object Relational data model allows its users to inherit objects, tables etc. so that they can extend their functionality. Inherited objects contains new attributes as well as the attributes that were inherited. 
+3. **Network Management System(NAS)**: An NMS is a system designed for monitoring, maintaining, and optimizing a network. It includes both hardware and software, but most often an NMS refers to the software used to manage a network.
 
-2. **Complex Data Types**: Complex data types can be formed using existing data types. This is useful in Object relational data model as complex data types allow better manipulation of the data.
-
-3. **Extensibility**: The functionality of the system can be extended in Object-relational data model. This can be achieved using complex data types as well as advanced concepts of object-oriented model such as inheritance.
-
-Disadvantages of Object-Relational model:
-
-1. The object-relational data model can get quite complicated and difficult to handle at times as it is a combination of the Object-oriented data model and Relational data model and utilizes the functionalities of both of them.
-
-2. Why should we make a separate model which is almost same as RDBMS, to solve this some companies has added object-oriented features in RDBMS only.
+4. **Customer Relationship Management system (CRM)**: A  is another example of a database application that has been customized to manage the marketing, sales, and support relationships between a business and it's customers. The ultimate goal is to maximize sales, minimize costs and foster strategic customer relationships.
 
 ## The limitations of relational DBMS
-
+Relational Database Management System is very useful in DBMS. However, it does have some disadvantages. Some of those are as follows:
 ### 1. The abundance of information
  The advances in the complexity of the information can cause drawbacks for the relational database management system. Relational databases are designed in order to organize the data with the use of common characteristics. 
 
