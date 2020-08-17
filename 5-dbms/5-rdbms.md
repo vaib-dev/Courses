@@ -28,7 +28,7 @@ In the 2NF, relational must be in 1NF. In the second normal form, all non-key at
 A relation will be in 3NF if it is in 2NF and not contain any transitive partial dependency.
 3NF is used to reduce the data duplication. It is also used to achieve the data integrity. If there is no transitive dependency for non-prime attributes, then the relation must be in third normal form.
 
-**Example**:
+**Example**: Let's have a Employee details table of a company which contains complete imformation of the employee.
 
 <img src="https://user-images.githubusercontent.com/54719422/90362383-1d484c80-e07e-11ea-90c4-d907ef9956eb.png" height="" width="">
 
@@ -40,7 +40,7 @@ Candidate key:
 >{EMP_ID}
 
 Non-prime attributes: 
->In the given table, all attributes except EMP_ID are non-prime.
+> all attributes except EMP_ID are non-prime.
 
 Here, EMP_STATE & EMP_CITY dependent on EMP_ZIP and EMP_ZIP dependent on EMP_ID. The non-prime attributes (EMP_STATE, EMP_CITY) transitively dependent on super key(EMP_ID). It violates the rule of third normal form.
 
@@ -87,6 +87,8 @@ Now, this is in BCNF because left side part of both the functional dependencies 
 
 A SQL Join statement is used to combine data or rows from two or more tables based on a common field between them. Different types of Joins are:
 
+<img src="https://cdn.mindmajix.com/blog/images/db-01_2119.png" height="" width="">
+
 ### 1. INNER JOIN
 The INNER JOIN keyword selects all rows from both the tables as long as the condition satisfies. This keyword will create the result-set by combining all rows from both the tables where the condition satisfies i.e value of the common field will be same.
 
@@ -100,7 +102,7 @@ RIGHT JOIN is similar to LEFT JOIN. This join returns all the rows of the table 
  FULL JOIN creates the result-set by combining result of both LEFT JOIN and RIGHT JOIN. The result-set will contain all the rows from both the tables. The rows for which there is no matching, the result-set will contain NULL values.
 
 ##  Advance Database Applications
-### 1. ORDBMS
+### ORDBMS
 An Object-relational model is a combination of Object-oriented database model and a Relational database model. So, it supports objects, classes, inheritance etc. just like Object Oriented models and has support for data types, tabular structures etc. like the Relational data model.
 
 One of the major goals of Object-relational data model is to close the gap between relational databases and the object-oriented practices frequently used in many programming languages such as C++, C#, Java etc. The advantages of the Object Relational model are −
