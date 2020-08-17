@@ -85,32 +85,39 @@ Now, this is in BCNF because left side part of both the functional dependencies 
 
 ## Joins
 
-A SQL Join statement is used to combine data or rows from two or more tables based on a common field between them. Different types of Joins are:
+A SQL Join statement is used to combine data or rows from two or more tables based on a common field between them. Types of joins are shown below in picture:
 
 <p align="center"><img src="https://cdn.mindmajix.com/blog/images/db-01_2119.png" height="300" width="400"></p>
-
-### 1. INNER JOIN
-The INNER JOIN keyword selects all rows from both the tables as long as the condition satisfies. This keyword will create the result-set by combining all rows from both the tables where the condition satisfies i.e value of the common field will be same.
-
-### 2. LEFT JOIN
-This join returns all the rows of the table on the left side of the join and matching rows for the table on the right side of join. The rows for which there is no matching row on right side, the result-set will contain null. LEFT JOIN is also known as LEFT OUTER JOIN.
-
-### 3. RIGHT JOIN
-RIGHT JOIN is similar to LEFT JOIN. This join returns all the rows of the table on the right side of the join and matching rows for the table on the left side of join. The rows for which there is no matching row on left side, the result-set will contain null. RIGHT JOIN is also known as RIGHT OUTER JOIN.
-
-### 4. FULL JOIN
- FULL JOIN creates the result-set by combining result of both LEFT JOIN and RIGHT JOIN. The result-set will contain all the rows from both the tables. The rows for which there is no matching, the result-set will contain NULL values.
 
 ##  Advance Database Applications
  Below are some of the applications of advance database:
 
-1. **Geographic Information Systems (GIS)**: A geographic information system (GIS) is a framework for gathering, managing, and analyzing data. Rooted in the science of geography, GIS integrates many types of data. It analyzes spatial location and organizes layers of information into visualizations using maps and 3D scenes.
+### 1. Geographic Information Systems (GIS)
+ 
+ A geographic information system (GIS) is a framework for gathering, managing, and analyzing data. Rooted in the science of geography, GIS integrates many types of data. It analyzes spatial location and organizes layers of information into visualizations using maps and 3D scenes.
 
-2. **Computer Aided Design(CAD)**: CAD software is used to increase the productivity of the designer, improve the quality of design, improve communications through documentation, and to create a database for manufacturing. CAD output is often in the form of electronic files for print, machining, or other manufacturing operations.
+<p align="center"><img src="https://media.nationalgeographic.org/assets/photos/000/322/32282.jpg" height="300" width="400"></p>
 
-3. **Network Management System(NAS)**: An NMS is a system designed for monitoring, maintaining, and optimizing a network. It includes both hardware and software, but most often an NMS refers to the software used to manage a network.
 
-4. **Customer Relationship Management system (CRM)**: A  is another example of a database application that has been customized to manage the marketing, sales, and support relationships between a business and it's customers. The ultimate goal is to maximize sales, minimize costs and foster strategic customer relationships.
+### 2. Computer Aided Design(CAD)
+
+ CAD software is used to increase the productivity of the designer, improve the quality of design, improve communications through documentation, and to create a database for manufacturing. CAD output is often in the form of electronic files for print, machining, or other manufacturing operations.
+
+ <p align="center"><img src="https://image.slidesharecdn.com/cadandcam-130913120130-phpapp02/95/cad-and-cam-7-638.jpg?cb=1379073734" height="300" width="350"></p>
+
+
+### 3. Network Management System(NMS)
+ An NMS is a system designed for monitoring, maintaining, and optimizing a network. It includes both hardware and software, but most often an NMS refers to the software used to manage a network.
+
+ <p align="center"><img src="https://www.lantechcom.co.za/global/eng/Support/img/TT_SNMP1.png" height="300" width="350"></p>
+
+
+### 4. Customer Relationship Management system (CRM)
+
+ A  is another example of a database application that has been customized to manage the marketing, sales, and support relationships between a business and it's customers. The ultimate goal is to maximize sales, minimize costs and foster strategic customer relationships.
+
+ <p align="center"><img src="https://www.engagebay.com/blog/wp-content/uploads/2019/01/CRM-Database-Cover-960x675.jpg" height="300" width="350"></p>
+
 
 ## The limitations of relational DBMS
 Relational Database Management System is very useful in DBMS. However, it does have some disadvantages. Some of those are as follows:
@@ -122,7 +129,7 @@ Relational Database Management System is very useful in DBMS. However, it does h
  ### 3. Cost
   One of the main disadvantages of the relational database management system is high cost. The relational databases are expensive to set up and also the maintenance of the databases is also expensive. 
   
-### 4.Isolated information
+### 4. Isolated information
    Because the relational databases use a large number of tables, there are higher chances that some information can be forgotten when it is transformed from one location to another location. This is the main problem in the large-scale organization in which there is a large amount of data of the employees, accounts and financial data. Isolation of information problem arises when the organization has different database systems.
 
    ## Summary

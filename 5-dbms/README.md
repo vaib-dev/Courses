@@ -19,7 +19,7 @@ In this we will learn different phases of database architecture, database storag
 
 ## Chapter 5 - RDBMS
 
-Here, we discussed about RDBMS, normalization, joins, advance database applications and the major limitations of RDBMS.
+Here, we discussed about RDBMS, normalization, advance database applications and the major limitations of RDBMS.
 
 ## Chapter 6 - Extensions of DBMS
 
