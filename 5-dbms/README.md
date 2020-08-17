@@ -2,6 +2,8 @@
 
 A database management system refers to the technology for creating and managing databases. DBMS is a software tool to organize (create, retrieve, update, and manage) data in a database. The main aim of a DBMS is to supply a way to store up and retrieve database information that is both convenient and efficient.
 
+<img src="https://www.hamzavisolutions.com/wp-content/uploads/2017/10/DBMS.jpg">
+
 ## Chapter 1 - Introduction
 
 We will learn about Database, data management system, DBMS types, its uses and advantages of using DBMS.
@@ -19,7 +21,7 @@ In this we will learn different phases of database architecture, database storag
 
 ## Chapter 5 - RDBMS
 
-Here we discussed about RDBMS, normalization, joins, advance database applications and the major limitations of RDBMS.
+Here, we discussed about RDBMS, normalization, joins, advance database applications and the major limitations of RDBMS.
 
 ## Chapter 6 - Extensions of DBMS
 
