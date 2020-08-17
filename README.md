@@ -53,8 +53,11 @@ As we know information is not useful if not organized. So in this course, we wil
                          CONTENTS
 
            1. Introduction        2. Data Modeling  
-
+            
            3. SQL                 4. Database Architecture
+            
+           5. RDBMS 
+
 
 ## Support
 For any query plz mail at vaibhavpratapsingh22@gmail.com
