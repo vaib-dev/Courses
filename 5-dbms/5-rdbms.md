@@ -87,7 +87,7 @@ Now, this is in BCNF because left side part of both the functional dependencies 
 
 A SQL Join statement is used to combine data or rows from two or more tables based on a common field between them. Different types of Joins are:
 
-<img src="https://cdn.mindmajix.com/blog/images/db-01_2119.png" height="" width="">
+<p align="center"><img src="https://cdn.mindmajix.com/blog/images/db-01_2119.png" height="300" width="400"></p>
 
 ### 1. INNER JOIN
 The INNER JOIN keyword selects all rows from both the tables as long as the condition satisfies. This keyword will create the result-set by combining all rows from both the tables where the condition satisfies i.e value of the common field will be same.
