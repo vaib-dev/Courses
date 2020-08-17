@@ -13,10 +13,14 @@ Normalization is the process of organizing the data in the database. Normalizati
 A relation will be 1NF if it contains an atomic value.
 It states that an attribute of a table cannot hold multiple values. It must hold only single-valued attribute. First normal form disallows the multi-valued attribute, composite attribute, and their combinations. In 1NF every column should contain the value of the same domain and order of rows and column are irrelevant.
 
-<img src="https://user-images.githubusercontent.com/54719422/90340181-f5240380-e013-11ea-865e-f6bca2e12191.png" height="" width=""></p>
+**Example**: Relation EMPLOYEE is not in 1NF because of multi-valued attribute EMP_PHONE.
+
+<img src="https://user-images.githubusercontent.com/54719422/90362135-854a6300-e07d-11ea-9f6d-2d288ec45294.png" height="" width="">
 
 ### 2. Second Normal Form (2NF)
 In the 2NF, relational must be in 1NF. In the second normal form, all non-key attributes are fully functional dependent on the primary key.
+
+**Example**: Let's assume, a school can store the data of teachers and the subjects they teach. In a school, a teacher can teach more than one subject.
 
 <img src="https://user-images.githubusercontent.com/54719422/90361730-93e44a80-e07c-11ea-977d-68118442d769.png" height="" width=""><img src="https://user-images.githubusercontent.com/54719422/90361776-aeb6bf00-e07c-11ea-9235-951ae1443393.png" height="" width="">
 
@@ -24,13 +28,60 @@ In the 2NF, relational must be in 1NF. In the second normal form, all non-key at
 A relation will be in 3NF if it is in 2NF and not contain any transitive partial dependency.
 3NF is used to reduce the data duplication. It is also used to achieve the data integrity. If there is no transitive dependency for non-prime attributes, then the relation must be in third normal form.
 
-<img src="" height="" width="">
+**Example**:
+
+<img src="https://user-images.githubusercontent.com/54719422/90362383-1d484c80-e07e-11ea-90c4-d907ef9956eb.png" height="" width="">
+
+Super key in the table above:
+
+>{EMP_ID}, {EMP_ID, EMP_NAME}, {EMP_ID, EMP_NAME, EMP_ZIP}....so on  
+
+Candidate key: 
+>{EMP_ID}
+
+Non-prime attributes: 
+>In the given table, all attributes except EMP_ID are non-prime.
+
+Here, EMP_STATE & EMP_CITY dependent on EMP_ZIP and EMP_ZIP dependent on EMP_ID. The non-prime attributes (EMP_STATE, EMP_CITY) transitively dependent on super key(EMP_ID). It violates the rule of third normal form.
+
+That's why we need to move the EMP_CITY and EMP_STATE to the new <EMPLOYEE_ZIP> table, with EMP_ZIP as a Primary key.
+
+<img src="https://user-images.githubusercontent.com/54719422/90362499-67313280-e07e-11ea-8986-71f361b23303.png" height="" width="">
 
 ### 4. Boyce Codd normal form (BCNF)
 BCNF is the advance version of 3NF. It is stricter than 3NF. A table is in BCNF if every functional dependency X → Y, X is the super key of the table.
 For BCNF, the table should be in 3NF, and for every FD, LHS is super key.
 
-<img src="" height="" width="">
+Example: Let's assume there is a company where employees work in more than one department.
+
+<img src="https://user-images.githubusercontent.com/54719422/90363160-c6dc0d80-e07f-11ea-9999-7e8d101944b2.png" height="" width="">
+
+Functional dependencies are as follows:
+
+>EMP_ID  →  EMP_COUNTRY  
+EMP_DEPT  →   {DEPT_TYPE, EMP_DEPT_NO}  
+
+Candidate key:
+> {EMP-ID, EMP-DEPT}
+
+The table is not in BCNF because neither EMP_DEPT nor EMP_ID alone are keys.
+
+To convert the given table into BCNF, we decompose it into three tables:
+
+<img src="https://user-images.githubusercontent.com/54719422/90363161-c80d3a80-e07f-11ea-85e5-9879ca2ea563.png" height="" width="">
+
+Functional dependencies:
+
+>EMP_ID   →    EMP_COUNTRY  
+EMP_DEPT   →   {DEPT_TYPE, EMP_DEPT_NO}  
+
+Candidate keys:
+
+>For the first table: EMP_ID                           
+For the second table: EMP_DEPT          
+For the third table: {EMP_ID, EMP_DEPT}
+
+Now, this is in BCNF because left side part of both the functional dependencies is a key.
 
 ## Joins
 
