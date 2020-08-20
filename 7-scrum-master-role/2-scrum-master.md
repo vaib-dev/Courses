@@ -45,7 +45,7 @@ The Scrum Master helps the Scrum Team perform at their highest level. They also 
 
 Scrum Master has four focus points: This is divided into two parts, first part is called as Team Coaching, which is focused on (1) The Development team and (2) PO. The second part is called as System's coaching which focuses on (3) Organisation and (4) Development Practices.
 
-<p align="center"> <img width="" height="" src="https://less.works/img/structure/scrum-master-focus-over-time.png"></p>
+<p align="center"> <img width="" height="" src="https://user-images.githubusercontent.com/63605352/90793093-96a89f00-e30b-11ea-8dae-08e9dc0ba567.png"></p>
 
 Let's take a look at this chart and the logic behind.
 
