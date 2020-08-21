@@ -52,10 +52,15 @@ As we know information is not useful if not organized. So in this course, we wil
 
                          CONTENTS
 
-           1. Introduction        2. Data Modeling      
+           1. Introduction        2. Data Modeling  
+            
+           3. SQL                 4. Database Architecture
+            
+           5. RDBMS 
+
 
 ## Support
 For any query plz mail at vaibhavpratapsingh22@gmail.com
 
 
-![edit2](https://img.shields.io/static/v1?label=topic&message=Introduction&color=orange)![edit](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=<COLOR>)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+![edit2](https://img.shields.io/static/v1?label=Topic&message=Introduction&color=orange)![edit](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=<COLOR>)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
