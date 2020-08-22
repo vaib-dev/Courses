@@ -6,7 +6,7 @@ Facilitation can be driven by an external role that is dedicated to facilitation
 
 ## Who is a Facilitator?
 
-The facilitator, is someone who helps a group of people understand and achieve their objectives by promoting collaboration, optimizing the process and creating synergy within the team. In doing so, the facilitator remains "neutral", meaning he/she does not take a particular position in the discussion.
+A facilitator is an individual who uses self-awareness, self-management, group awareness, and group process to enable teams understand and achieve their objectives by promoting collaboration, optimizing the process and creating synergy within the team. In doing so, the facilitator remains "neutral", meaning he/she does not take a particular position in the discussion.
 
 What a facilitator does is plan, guide and manage a group event to ensure that the group's objectives are met effectively, with clear thinking, good participation and full buy-in from everyone who is involved.
 
@@ -15,6 +15,8 @@ Unlike coaching, facilitation always involves a group of people, although the fa
 ## Why do we need a Facilitator?
 
 Maximizing collective intelligence comes at a cost because there will be many differences in the room. There will be people with different needs, that comes from different experience and background. There will be people with different views and thoughts that come from their different position and roles in the organization. Even though all voices must be heard but not all voice has the same scale of quality. A great SM is able to maximize collective intelligence from these differences and many voices. So we need facilitation because there are many voices and we want to maximize that into powerful collective intelligence. By default, the SM facilitates the Scrum events: Sprint Planning, Daily Scrum, Sprint Review and Sprint Retrospectives or even a Product Backlog refinement session.\
+
+Facilitation matters. It is more than just sticky notes and dots for voting. It is a craft. Our reality is socially constructed, which means that how we talk to and with one another—the words we use, the way we speak, the metaphors that describe our ideas—all inform the effectiveness or ineffectiveness of our work. Teams do not typically have the ability or skill to talk with each other productively without practice. This is the promise of facilitation. \
 Now that we have discussed the why and the what, let’s discuss the flow of facilitation.
 
 <p align="center"> <img width="" height="" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/A58BD878-E8B0-4EFA-99E8-D2A3C5DD3CC4%203.png"></p>
@@ -65,3 +67,7 @@ So far we’ve discussed the flow of facilitation and we’ve learned that poor 
    Many SM are only seen as the team’s babysitter or ceremony organizer because they do not know how to use every facilitated event as a mutual learning opportunity. And that is also a reason why many organizations view the Scrum Master becoming less valuable in the long run because they're not getting value from the SM.
 
 These qualities will distinguish a great SM from a Scrum Master as an event organizer or SM as the master of ceremonies.
+
+## The Art and Science of Facilitation
+
+Facilitation is both an art and a science. The science comes from what we know about how people think, how groups behave and teams develop.The art is how the facilitator learns to dance in the moment: seeing what’s happening in a group, hearing what’s behind the way the group talks with one another, listening for what’s not being said, and letting the magic of the group’s collective intelligence organically emerge.
