@@ -44,7 +44,7 @@ Now let's have a look at the services which are offered by SM to the team and or
     - Causing change that increases productivity
     - Working with other SMs to increase the effectiveness of the application of Scrum in the organization.
 
-## The Responsibilities of a Scrum Master
+## Scrum Master Responsibility
 
 The scrum master is the team role responsible for ensuring the team lives agile values and principles and follows the processes and practices that the team agreed they would use. The responsibilities of this role include:
 
@@ -84,7 +84,7 @@ SM should re-visit the approach if there are no change or small improvements aft
 A System Coach is skilled in understanding the entire lifecycle of a product and how an organization can benefit from coordination and collaboration between teams, not only delivery teams but functional teams across the business.
 
 3. **Focus on the Organization**\
-   The Focus of SM on the Organization is initially high because focusing only on the team is going to create local optimization, Working with the leadership to create an organization that supports autonomy, cross-functionality, and, iterative development as it is very essential initially as a result of this, the focus of SM shifts from coaching the PO and Development Team. For the SM it is about observing outside the scrum team and product owner and begin reviewing the organization as a whole and what can be improved or added or implemented (possible process that started in the team which can benefit other teams or departments). I personally think that this section requires SMs to swarm with other SMs to share methods, insights or even issues that will help the other, same as learn. It is at this section wherein SMs will have a larger time frame in evaluating what to do next, specially when he already sees what to improve on or the issue in the organization.
+   The Focus of SM on the organization is initially high because focusing only on the team is going to create local optimization, and SM also needs to understand the system first in which his team is gonna work. Once,he is familiar with the system - he reduces the attention from there and focuses on team back. Working with the leadership to create an organization that supports autonomy, cross-functionality, and, iterative development as it is very essential initially as a result of this, the focus of SM shifts from coaching the PO and Development Team. For the SM it is about observing outside the scrum team and product owner and begin reviewing the organization as a whole and what can be improved or added or implemented (possible process that started in the team which can benefit other teams or departments). I personally think that this section requires SMs to swarm with other SMs to share methods, insights or even issues that will help the other, same as learn. It is at this section wherein SMs will have a larger time frame in evaluating what to do next, specially when he already sees what to improve on or the issue in the organization.
 
 4. **Focus on the Development Practices**\
     This refers to the different practices that can be implemented based on collective observation and decision between the organization or in the team itself. In order to provide insight of any practices, one must learn or analyze before proposing it, especially to a large team. The focus of SM on Development Practices go high as the Scrum Team becomes self facilitating because as parts of system evolve in the right direction, it is important that a system as whole also prepares in the right direction. This is extremely essential to sustain the dynamics. \
@@ -100,41 +100,48 @@ Measuring the performance of SM is not an easy job, It's like measuring a psycho
 1. **SATISFACTION**\
    First one is Satisfaction metric, this we can measure by How happy is the Scrum Team and what is the trend? It's no longer a secret these days that people's satisfaction is the best indicator of future performance. You can use the satisfaction metric over a longer period of time to ensure that the SM supports the team in growing and makes the life of the Scrum Team in the company easier.\
    Let's look at the metrics: _What?_ Increase of Individual and team happiness.\
-   _Why_ Improve team performance
+   _Why?_ Improve team performance
    _How?_ Daily happiness index on the door or happiness radar at the end of sprint. This is generally tracked using NIKO calender.
-   <p align="center"> <img width="" height="" src="https://www.agilealliance.org/wp-content/uploads/2015/12/Niko-NikoCalendar.png"></p>
+   <p align="center"> <img width="500" height="" src="https://www.agilealliance.org/wp-content/uploads/2015/12/Niko-NikoCalendar.png"></p>
 2. **CUSTOMER VALUE**\
    This metric deals with how do you measure the value towards your customer. Let's have a look at the metric: _What?_ Increase in Customer value\
    _Why?_ Foster feedback culture & focus on customer satisfaction\
-   _How?_ Option 1: Net Promoter Score
-   <p align="center"> <img width="" height="" src="https://mk0netigatenetpsta9l.kinstacdn.com/wp-content/uploads/2017/06/Net-Promoter-Score-Promoters-Detractors-Passives-1024x646.png"></p>
-   Option 2: Stakeholder feedback in Sprint Review
+   _How?_ Option 1: Stakeholder feedback in Sprint Review & Option 2: Net Promoter Score
+   <p align="center"> <img width="" height="400" src="https://cdn2.vectorstock.com/i/1000x1000/27/06/net-promoter-score-formula-with-promoters-vector-21302706.jpg"></p>
 3. **PREDICTABILITY**\
    Through this metric we can have a look at What did the Scrum Team commit to during the sprint planning, how much they actually going to deliver and how much did they actually deliver at the end of the Sprint. So let's have a look why and how can we do that: _What?_ Improvement of predictability\
+   _Why_ Improve on living the Scrum value i.e Commitment\
    _How?_ Commitment during Sprint Planning vs. finished deliverables at the end of the Sprint\
-   _Why_ Improve on living the Scrum value i.e Commitment
+   For ex. Team made a commitment of 20 Sp vs. Delivered 16 Sp
+   This can help the organization to identify how much is the Scrum Team committed to the Sprint goal.
 4. **STABILITY AND THE TREND TOWARDS THE DELIVERY OF FUNCTIONAL SOFTWARE**\
    This is an important metric, through which you can measure, _What?_ is the success rate of delivering working software at the end of a sprint? You could simplify that notion to the number of stories you deliver to your customer every week. If you don't deliver, you've accomplished nothing. Also note that word, _valuable_. The rate of delivery is meaningless if the software isn’t valuable to the users.\
    _Why?_ At the end of the day, if you can’t identify the outcome that benefits the business, then creating software for the sake of software is a waste of company money. Every member of the team should be fully versed and informed of how every item in every sprint contributes to an outcome that has business value.
    _How?_ To measure this type of metric, survey the team to be sure everyone has the same understanding. Some teams even use a point system to track and reward. Usually, there is a direct correlation between those who actively listen and ask questions.
    <p align="center"> <img width="" height="" src="https://b2twordpress-m4gv95qiadjztm1nqbkl.netdna-ssl.com/wp-content/uploads/2019/01/Agile-Challenges_720.jpg"></p>
-5. **UNDERSTANDING COLLECTIVE INTELLIGENCE**\
-   Lastly, The biggest hurdle in being a successful SM is the tendency to want to solve problems for other people. Don't get me wrong, as a SM you have to help out when the situation calls for it. Still, you should use the group's collective intelligence to ensure that the team is solving problems on its own. Let's see: _What?_ Increase of self-reflection of the team\
-   _Why?_ Foster self-organization & mindest of continuous improvement\
-   _How?_ Increase the number of impediments(ideas for continuos improvement) voiced by the team itself\
-   Another most common way to check this with a SM is by asking what the team's biggest problem was over the past week and how the team solved it.
-
+5. **COST OF DELAY**\
+   Through this metric we can have a look at how much money we could or we have saved by removing impediments.
+   _What?_ Reduce waste in the organization\
+   _Why?_ Increase productivity of the team and value flow within the organization\
+   _How_ € saved by removing impediments
+   <p align="center"> <img width="" height="" src="https://www.scaledagileframework.com/wp-content/uploads/2018/04/WSJF_F02-WP2.png"></p>
 6. **ROI OF A SCRUM MASTER**\
     Here, we will see how to track the results through which SMs can be held accountable. Let us see the metrics:\
     _What?_ Increase the meeting efficiency\
     _Why?_ Facilitation of Meetings\
-   _How?_ Cost of average team member \* minutes saved due to meetings becoming more efficient = how much money the SM is saving the organiztion
-
+   _How?_ Cost of average team member \* minutes saved due to meetings becoming more efficient = how much money the SM is saving the organization
+   For ex. 40000€ \* 20min = 8000000€ saved by SM for the organization.
+7. **INTERNAL COST**\
+ Let's see how much internal cost are SM decreasing: _What?_ Decrease of internal cost\
+ _Why_ Increase the productivity of the Scrum Team\
+ _How?_ € per story point = costs per sprint /amount of story points achieved\
+ For Ex:- €12 000 per 2-week sprint cost(assuming 8 hours a day)/ 15 (approx) = 800€ per story points can be saved by increasing the productivity of the Scrum Team.
+   <p align="center"> <img width="" height="" src="https://www.researchgate.net/profile/Hazura_Zulzalil/publication/235009023/figure/fig2/AS:667777438339102@1536221956757/elocity-graph-in-agile-Figure-1-shows-velocity-of-an-agile-team-in-10-iterations.ppm"></p>
 All in all, the best KPI is how quickly the SM Master can make himself superfluous without him or she losing value. If the Scrum Team works really self-organized over time and does not need the SM because the team members themselves behave like a SM, then the SM has achieved his goal!
 
 ## Summary
 
-To summarize, The Scrum Master acts as the protector of the team, making sure that everyone is on the right track, and the project is up and running. Scrum master plays a pivotal role in balancing the interests of the other two scrum-roles: the product owner and the development team. To balance these two different forces, the Scrum Master should be cooperative and supportive. Usually, the Scrum Master doesn’t stand between the product owner and the team, rather he/she helps in developing a clear communication and results in timely and high-quality project deliveries.
+To summarize, Scrum Master acts as the protector of the team, making sure that everyone is on the right track, and the project is up and running. Scrum master plays a pivotal role in balancing the interests of the other two scrum-roles: the product owner and the development team. To balance these two different forces, the Scrum Master should be cooperative and supportive. Usually, the Scrum Master doesn’t stand between the product owner and the team, rather he/she helps in developing clear communication and results in timely and high-quality project deliveries.
 
 In this article, I've presented ideas and suggestions for devising metrics to measure the performance of the scrum master. Many of these can be captured, reported, and analyzed within the tools and processes the teams are already employing for their development work.
 
