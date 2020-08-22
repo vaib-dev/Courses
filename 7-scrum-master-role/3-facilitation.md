@@ -17,8 +17,7 @@ Unlike coaching, facilitation always involves a group of people, although the fa
 Maximizing collective intelligence comes at a cost because there will be many differences in the room. There will be people with different needs, that comes from different experience and background. There will be people with different views and thoughts that come from their different position and roles in the organization. Even though all voices must be heard but not all voice has the same scale of quality. A great SM is able to maximize collective intelligence from these differences and many voices. So we need facilitation because there are many voices and we want to maximize that into powerful collective intelligence. By default, the SM facilitates the Scrum events: Sprint Planning, Daily Scrum, Sprint Review and Sprint Retrospectives or even a Product Backlog refinement session.\
 Now that we have discussed the why and the what, let’s discuss the flow of facilitation.
 
-<p align="center"> <img width="" height="" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/A58BD878-E8B0-4EFA-99E8-D2A3C5DD3CC4%203.png
-"></p>
+<p align="center"> <img width="" height="" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/A58BD878-E8B0-4EFA-99E8-D2A3C5DD3CC4%203.png"></p>
 
 ## The how: the flow of a facilitated event
 
