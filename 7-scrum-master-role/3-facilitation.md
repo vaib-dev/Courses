@@ -16,10 +16,11 @@ Unlike coaching, facilitation always involves a group of people, although the fa
 
 Maximizing collective intelligence comes at a cost because there will be many differences in the room. There will be people with different needs, that comes from different experience and background. There will be people with different views and thoughts that come from their different position and roles in the organization. Even though all voices must be heard but not all voice has the same scale of quality. A great SM is able to maximize collective intelligence from these differences and many voices. So we need facilitation because there are many voices and we want to maximize that into powerful collective intelligence. By default, the SM facilitates the Scrum events: Sprint Planning, Daily Scrum, Sprint Review and Sprint Retrospectives or even a Product Backlog refinement session.
 
-Facilitation matters. It is more than just sticky notes and dots for voting. It is a craft. Our reality is socially constructed, which means that how we talk to and with one another—the words we use, the way we speak, the metaphors that describe our ideas—all inform the effectiveness or ineffectiveness of our work. Teams do not typically have the ability or skill to talk with each other productively without practice. This is the promise of facilitation. \
-Now that we have discussed the why and the what, let’s discuss the art and science of facilitation.
+Facilitation matters. It is more than just sticky notes and dots for voting. It is a craft. Our reality is socially constructed, which means that how we talk to and with one another—the words we use, the way we speak, the metaphors that describe our ideas—all inform the effectiveness or ineffectiveness of our work. Teams do not typically have the ability or skill to talk with each other productively without practice. This is the promise of facilitation.
 
 <p align="center"> <img width="" height="" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/A58BD878-E8B0-4EFA-99E8-D2A3C5DD3CC4%203.png"></p>
+
+Now that we have discussed the why and the what, let’s discuss the art and science of facilitation.
 
 ## The Art and Science of Facilitation
 
