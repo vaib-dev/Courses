@@ -20,16 +20,16 @@ Some Basic Premises of Facilitation:
 
 ### Facilitation requires an understanding of the following:
 
-- **Community** – what are the guiding norms of the community with whom you are facilitating a discussion? Facilitation creates the time and space that honors the voices of individuals as people and members of a group.
-- **Observation** – The facilitator becomes a guide on the journey with the group. By observing and reflecting while facilitating a discussion, the facilitator can support the group and notice what contributions she or he may need to make to assist participants in arriving at a turning point.
-- **Flexibility** – Facilitators must be ready for non-linear discussion. People may go around and around. They may sit back and relax, but then all of a sudden become incredibly engaged. When facilitators are flexible, they can best guide discussion.
-- **Imagination** – Facilitators permit participants to use their imagination to brainstorm. However, they fill an important role of grounding conversation when ideas become toot abstract or when time is of the essence. Permit your participants to share information and imagine the possibilities, but remember that you have a set amount of time to thoroughly explore a topic.
-- **Patience** – one of the most frustrating parts of facilitating a conversation, particularly when you are knowledgeable about a topic, is that you have to be patient and understand that it may take others longer to arrive at a conclusion. Facilitators cannot lose their cool or make quick judgments. They need to be patient.
-- **Balance** – Effective facilitation balances the challenging and supportive of others. The voices of the individual and organization are heard and respected. Some other balances you may recognize: community vs. chapter; detail orientation vs. imagination.
-- **Affirmation** – Good facilitators affirm individuals and recognize the ideas of others. When participants let their barriers down and become themselves, this is an important step to affirm. You must also affirm yourself as a facilitator that you must be true.
-- **Silence** – Arguably the hardest thing for a facilitator is to permit silence. It is not your job to fill “dead air”. Silence is not always to be interpreted as such. In fact, within the minds of participants, the thoughts may be quite loud. Good facilitators make sure that all that are participating are INVOLVED. Those who are frequently silent need to be asked what their opinion is while maintaining respect for their silence.
-- **Challenge** – Facilitation, very literally, means “making things easier”, however, facilitators must challenge their participants to think differently and explore other options. This is not confrontational, but rather it provides alternative options to the participant. Participants in the process of group discussion accept the challenge of owning the process. They are responsible for the discussion and must have ownership in making sure that all participants have a comfortable experience.
-- **Connections** – As the facilitator connects with others and helps them connect with themselves, meaning begins to emerge. On particularly difficult topics, the connection may take longer for some. Facilitators will learn to recognize when participants begin to “get it”. They will make the connection in partnership with the participant.
+- **Community**: What are the guiding norms of the community with whom you are facilitating a discussion? Facilitation creates the time and space that honors the voices of individuals as people and members of a group.
+- **Observation**: The facilitator becomes a guide on the journey with the group. By observing and reflecting while facilitating a discussion, the facilitator can support the group and notice what contributions she or he may need to make to assist participants in arriving at a turning point.
+- **Flexibility**: Facilitators must be ready for non-linear discussion. People may go around and around. They may sit back and relax, but then all of a sudden become incredibly engaged. When facilitators are flexible, they can best guide discussion.
+- **Imagination**: Facilitators permit participants to use their imagination to brainstorm. However, they fill an important role of grounding conversation when ideas become toot abstract or when time is of the essence. Permit your participants to share information and imagine the possibilities, but remember that you have a set amount of time to thoroughly explore a topic.
+- **Patience**: one of the most frustrating parts of facilitating a conversation, particularly when you are knowledgeable about a topic, is that you have to be patient and understand that it may take others longer to arrive at a conclusion. Facilitators cannot lose their cool or make quick judgments. They need to be patient.
+- **Balance**: Effective facilitation balances the challenging and supportive of others. The voices of the individual and organization are heard and respected. Some other balances you may recognize: community vs. chapter; detail orientation vs. imagination.
+- **Affirmation**: Good facilitators affirm individuals and recognize the ideas of others. When participants let their barriers down and become themselves, this is an important step to affirm. You must also affirm yourself as a facilitator that you must be true.
+- **Silence**: Arguably the hardest thing for a facilitator is to permit silence. It is not your job to fill “dead air”. Silence is not always to be interpreted as such. In fact, within the minds of participants, the thoughts may be quite loud. Good facilitators make sure that all that are participating are INVOLVED. Those who are frequently silent need to be asked what their opinion is while maintaining respect for their silence.
+- **Challenge**: Facilitation, very literally, means “making things easier”, however, facilitators must challenge their participants to think differently and explore other options. This is not confrontational, but rather it provides alternative options to the participant. Participants in the process of group discussion accept the challenge of owning the process. They are responsible for the discussion and must have ownership in making sure that all participants have a comfortable experience.
+- **Connections**: As the facilitator connects with others and helps them connect with themselves, meaning begins to emerge. On particularly difficult topics, the connection may take longer for some. Facilitators will learn to recognize when participants begin to “get it”. They will make the connection in partnership with the participant.
 
 ## Who is a Facilitator?
 
@@ -51,7 +51,7 @@ Now that we have discussed the why and the what, let’s discuss the flow of fac
 
 To facilitate an event well, you must first understand the group's desired outcome, and the background and context of the meeting or event.
 
-### 1. The input:
+### 1. The input
 
 Effective facilitation requires knowing the input.
 
@@ -60,7 +60,7 @@ Effective facilitation requires knowing the input.
 - Before the event start, we need to understand what is the goal of the facilitated event. Scrum Teams who start their Sprint Planning with a Sprint Goal may use this as the goal of the Sprint Planning.
 - The last thing that we need to understand is to understand the context of the event. Is it for generating a solution? Or just to generate ideas and explore new possibilities? Is it for alignment or is it a conflict between individuals? Without understanding the context of the facilitated event, we as a SM can not facilitate the event effectively.
 
-### 2. The facilitated event itself:
+### 2. The facilitated event itself
 
 After all of the inputs are known and placed on the table, the facilitated event happens. After this facilitated event, the group should come up with choices to be made. In this facilitated event the SM must:
 
@@ -79,11 +79,11 @@ Keep everyone engaged. Being able to sense the room is very important for the SM
 
   Stay neutral and unbiased. The SM must stay neutral and unbiased throughout the facilitated event otherwise it will lower the quality of the decision that will be made by the group. The SM must not have any interest or preferences in the solution offered by a group of people. The SM must focus on the idea given by the person rather than his/her position in the organization. The SM must not pick sides, for example favoring the solution from the boss because he/she is in the room or not listening to someone's idea because he/she is on the lower pay grade.
 
-### 3. Free and Informed choices:
+### 3. Free and Informed choices
 
 Free choices mean that each choice placed on the table are testable by logics from people outside of the group. The choices are neither self-serving nor self-sealing certain individuals for their advantage. Informed choices mean that everyone understood that the choices are not generated under influence or even manipulation. Everyone understood that all choices are made with integrity given the situation. The SM needs that all of the choices are free and informed.
 
-### 4. The outcome:
+### 4. The outcome
 
 Outcome of this facilitated event is a high-quality decision that is owned by everyone. What that means is everyone is holding each other accountable for the decision made. This high-quality decision is transparent to everybody and tangible, which means the quality of the decision can be measured.
 
@@ -93,24 +93,24 @@ A SM should facilitate by creating a "container" for the team to fill up with th
 
 So far we’ve discussed the flow of facilitation and we’ve learned that poor quality facilitator is one of the reasons the group of people came up with poor quality decisions. So what does a high-quality facilitator look like? Here are some qualities I found important to be an effective facilitator:
 
-### 1. Trustworthy:
+### 1. Trustworthy
 
 That means SM act on integrity and is not easily swayed away by anyone. Let us look at an example here: Once Tim was been pushed to the wall by a middle-manager of his company once where he told Tim to hide important information during a facilitated event because if that information is exposed during the event it may risk his position.Hiding this information will lower the quality of the decision made. In this case, if Tim just listened and manipulate the event as he wants it to be, He will lose the trust of the team. A Scrum Master as a facilitator needs to be professional and stand on code-of-ethics.
 
-### 2. Objective and neutral:
+### 2. Objective and neutral
 
 Not only the SM should be trustworthy, but they must also be neutral and unbiased. What that means is that they should not have any self-interest in the outcome of the facilitated event and has no preferences offered by the team.
 
-### 3. Has effective behavior:
+### 3. Has effective behavior
 
 As a facilitator, the SM should have effective behavior. That means the SM is an excellent communicator, fluid, and creative throughout the facilitated event. Having effective behavior means that they do not bring their emotion to the facilitated event nor invite everyone to bring their emotions because emotions make the quality discussion looks fuzzy.
 
-### 4. Ability to increase group effectiveness collaborating together:
+### 4. Ability to increase group effectiveness collaborating together
 
 A great SM is not only facilitating the event to come up with a high-quality decision but at the same time, they also can increase the team's effectiveness collaborating during the facilitated events.\
 This requires knowledge in group dynamics, knowing when something is outside of the group’s norm. For ex, when somebody in the room starts becoming silent after a word is being mentioned, what does that mean? Understanding group dynamics also mean at the same time the SM needs to be dynamic during the event and courageous to cancel her original plan for the event when something changes during the event. To be dynamic, the SM needs to have many facilitation tools under her belt!
 
-### 5. Ability to create a mutual learning environment:
+### 5. Ability to create a mutual learning environment
 
 A good SM can make every facilitated event as a mutual learning opportunity, whether that is a Sprint Planning, Sprint Review, the Daily Scrum, or even the non-built-in Scrum events. Every facilitated event is an opportunity for everyone to learn from each other.\
 Many SM are only seen as the team’s babysitter or ceremony organizer because they do not know how to use every facilitated event as a mutual learning opportunity. And that is also a reason why many organizations view the SM becoming less valuable in the long run because they're not getting value from the SM.
@@ -128,8 +128,6 @@ So, until here we saw the structure of facilitation, but how can you get better 
 5.  Ask for feedback from other participants you trust on how you can smooth the rough edges.
 
 <p align="center"> <img width="" height="" src="https://www.trg-inc.com/wp-content/uploads/2019/06/FTP-graphic-facilitation-by-Kat-Haugh-e1565282021774.png"></p>
-
-This was all about facilitation now to summarize,
 
 ## Summary
 
