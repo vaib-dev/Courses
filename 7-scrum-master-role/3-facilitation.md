@@ -1,6 +1,6 @@
 # Chapter 3 - Facilitation
 
-Facilitation is about creating the space for what’s needed to help people show up as their most naturally creative selves, voice their point of view authentically, hear different perspectives, develop a shared vision for the future, and decide on a direction forward. Facilitation does not fall for impossible outcomes in unrealistic time frames. It does not stand for unequal participation. It is for creating engaging and connected spaces where all voices are heard.
+Facilitation very literally means “making things easier”, it allows us to arrive to a consensus for a common group without a feeling of compromise. Facilitation is about providing a proper group thinking environment where the participants can openly share their ideas, without the fear of being criticized. It is to make them Think about the problem and let them collaboratively make decisions to solve their problem.
 
 Facilitation can be driven by an external role that is dedicated to facilitation (a facilitator) or by the group members themselves. let’s first discuss the art and science of facilitation.
 
@@ -20,18 +20,18 @@ Some Basic Premises of Facilitation:
 
 ### Facilitation requires an understanding of the following:
 
-- **Community**: What are the guiding norms of the community with whom you are facilitating a discussion? Facilitation creates the time and space that honors the voices of individuals as people and members of a group.
+- **Community**: What are the guiding norms of the community with whom you are facilitating a discussion?
 - **Observation**: The facilitator becomes a guide on the journey with the group. By observing and reflecting while facilitating a discussion, the facilitator can support the group and notice what contributions she or he may need to make to assist participants in arriving at a turning point.
 - **Flexibility**: Facilitators must be ready for non-linear discussion. People may go around and around. They may sit back and relax, but then all of a sudden become incredibly engaged. When facilitators are flexible, they can best guide discussion.
-- **Imagination**: Facilitators permit participants to use their imagination to brainstorm. However, they fill an important role of grounding conversation when ideas become toot abstract or when time is of the essence. Permit your participants to share information and imagine the possibilities, but remember that you have a set amount of time to thoroughly explore a topic.
+- **Imagination**: Facilitators permit participants to use their imagination to brainstorm. However, they fill an important role of grounding conversation when ideas become toot abstract or when time is of the essence.
 - **Patience**: one of the most frustrating parts of facilitating a conversation, particularly when you are knowledgeable about a topic, is that you have to be patient and understand that it may take others longer to arrive at a conclusion. Facilitators cannot lose their cool or make quick judgments. They need to be patient.
-- **Balance**: Effective facilitation balances the challenging and supportive of others. The voices of the individual and organization are heard and respected. Some other balances you may recognize: community vs. chapter; detail orientation vs. imagination.
+- **Balance**: Effective facilitation balances the challenging and supportive of others. The voices of the individual and organization are heard and respected.
 - **Affirmation**: Good facilitators affirm individuals and recognize the ideas of others. When participants let their barriers down and become themselves, this is an important step to affirm. You must also affirm yourself as a facilitator that you must be true.
-- **Silence**: Arguably the hardest thing for a facilitator is to permit silence. It is not your job to fill “dead air”. Silence is not always to be interpreted as such. In fact, within the minds of participants, the thoughts may be quite loud. Good facilitators make sure that all that are participating are INVOLVED. Those who are frequently silent need to be asked what their opinion is while maintaining respect for their silence.
-- **Challenge**: Facilitation, very literally, means “making things easier”, however, facilitators must challenge their participants to think differently and explore other options. This is not confrontational, but rather it provides alternative options to the participant. Participants in the process of group discussion accept the challenge of owning the process. They are responsible for the discussion and must have ownership in making sure that all participants have a comfortable experience.
-- **Connections**: As the facilitator connects with others and helps them connect with themselves, meaning begins to emerge. On particularly difficult topics, the connection may take longer for some. Facilitators will learn to recognize when participants begin to “get it”. They will make the connection in partnership with the participant.
+- **Silence**: Arguably the hardest thing for a facilitator is to permit silence. Good facilitators make sure that all that are participating are INVOLVED. Those who are frequently silent need to be asked what their opinion is while maintaining respect for their silence.
+- **Challenge**: They must challenge their participants to think differently and explore other options. Participants in the process of group discussion accept the challenge of owning the process. They are responsible for the discussion and must have ownership in making sure that all participants have a comfortable experience.
+- **Connections**: As the facilitator connects with others and helps them connect with themselves, meaning begins to emerge. Facilitators will learn to recognize when participants begin to “get it”.
 
-## Who is a Facilitator?
+## Facilitator
 
 A facilitator is an individual who uses self-awareness, self-management, group awareness, and group process to enable teams to understand and achieve their objectives by promoting collaboration, optimizing the process, and creating synergy within the team. In doing so, the facilitator remains "neutral", meaning he/she does not take a particular position in the discussion.
 
@@ -39,7 +39,7 @@ What a facilitator does is plan, guide and manage a group event to ensure that t
 
 Unlike coaching, facilitation always involves a group of people, although the facilitated event can be used as an opportunity for the SM to coach the team to increase their effectiveness in collaborating in generating collective intelligence. Here, a question might arrive Why do we need a facilitator, this we will see in the next section.
 
-### Why do we need a Facilitator?
+### The need of a Facilitator
 
 Maximizing collective intelligence comes at a cost because there will be many differences in the room. There will be people with different needs, that comes from different experience and background. There will be people with different views and thoughts that come from their different position and roles in the organization. Even though all voices must be heard but not all voice has the same scale of quality. A great SM can maximize collective intelligence from these differences and many voices. So we need facilitation because there are many voices and we want to maximize that into powerful collective intelligence. By default, the SM facilitates the Scrum events: Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospectives, or even a Product Backlog refinement session.
 
@@ -47,7 +47,7 @@ Facilitation matters. It is more than just sticky notes and dots for voting. It 
 
 Now that we have discussed the why and the what, let’s discuss the flow of facilitation.
 
-## The how: the flow of a facilitated event
+## The flow of a facilitated event
 
 To facilitate an event well, you must first understand the group's desired outcome, and the background and context of the meeting or event.
 
@@ -85,11 +85,11 @@ Free choices mean that each choice placed on the table are testable by logics fr
 
 ### 4. The outcome
 
-Outcome of this facilitated event is a high-quality decision that is owned by everyone. What that means is everyone is holding each other accountable for the decision made. This high-quality decision is transparent to everybody and tangible, which means the quality of the decision can be measured.
+The outcome of this facilitated event is a high-quality decision that is owned by everyone. What that means is everyone is holding each other accountable for the decision made. This high-quality decision is transparent to everybody and tangible, which means the quality of the decision can be measured.
 
 A SM should facilitate by creating a "container" for the team to fill up with their ideas and innovations. The container, often a set of agenda questions or some other lightweight (and flexible) structure, gives the team just enough of a frame to stay on their purpose and promotes an environment for richer interaction, a place where fantastic ideas can be heard. The coach creates the container; the team creates the content." Now let us see some of the traits of a high-quality facilitator in the next section.
 
-## The who: high-quality facilitator
+## Traits of a high-quality facilitator
 
 So far we’ve discussed the flow of facilitation and we’ve learned that poor quality facilitator is one of the reasons the group of people came up with poor quality decisions. So what does a high-quality facilitator look like? Here are some qualities I found important to be an effective facilitator:
 
@@ -119,18 +119,16 @@ These qualities will distinguish a great SM from a SM as an event organizer or S
 
 ## How can you improve your facilitation skills?
 
-So, until here we saw the structure of facilitation, but how can you get better at facilitating meetings outside of just doing it? Maybe you’re a junior SM trying to take the next step to lead team meetings. Maybe you’re advanced in your career but you either don’t find your meetings productive or—the worst!—catch people falling asleep while you’re talking. Here are some suggestions on how to improve:
+So, until here we saw the structure of facilitation, but how can you get better at facilitating meetings? Here are some suggestions on how to improve:
 
-1.  Over prepare: Make sure you know the meeting topics backward and forwards. Anticipate questions that the team or other meeting participants may ask you. Imagine you’re preparing for a big political speech or testifying in court. What would you need to know to do well?
-2.  Practice in a safe environment: Hold a mock facilitation session with a teammate. Pretend they are the client and have them ask you difficult questions while you’re running the meeting so you can figure out how to respond on the fly.
-3.  Co-facilitate with experienced facilitators: On-the-job learning from seasoned veterans is probably the most effective way to level up your skills. Strive to design facilitation processes together with other facilitators, and you will encounter different perspectives on how to design an effective group process. Co-facilitate discussions and you will gain first-hand experience in observing how different strategies work to manage conversations.
-4.  Take training: in meeting facilitation and emotional intelligence. These types of courses will help you get better at reading the room. Should you spend more time on a particular topic? Or do people seem annoyed by how slowly the meeting is proceeding? Looking at body language for in-person meetings can be a powerful indicator. For phone meetings, pay close attention to tone.
+1.  Over prepare: Make sure you know the meeting topics backward and forwards.
+2.  Practice in a safe environment: Hold a mock facilitation session with a teammate.
+3.  Co-facilitate with experienced facilitators: On-the-job learning from seasoned veterans is probably the most effective way to level up your skills and you will gain first-hand experience in observing how different strategies work to manage conversations.
+4.  Take training: in meeting facilitation and emotional intelligence. These types of courses will help you get better at reading the room.
 5.  Ask for feedback from other participants you trust on how you can smooth the rough edges.
 
 <p align="center"> <img width="" height="" src="https://www.trg-inc.com/wp-content/uploads/2019/06/FTP-graphic-facilitation-by-Kat-Haugh-e1565282021774.png"></p>
 
 ## Summary
 
-At the end of the day, facilitation is more of an art than a science. The more you do it, the more sophisticated your skills will become! In many ways, the best facilitation training is being on the job as a facilitator.
-
-Facilitation is like a complex dance of polarities. When teams come together to collaborate, topics and decisions are rarely black and white with a clear “right” answer. At any given time, when you are leading a group from a facilitative position, you are interweaving different ideas and perspectives, creating a rich and textured network of ideas that serve to deepen understanding and seek diversity. You are helping the group define the shades of gray so that they can make more informed decisions.
+At the end of the day, facilitation is more of an art than a science. It is like a complex dance of polarities. The Facilitator should know the importance of why and how they are facilitating the event and who their audience is. All of these will help them to become high-quality facilitator. At last this is a continuous learning process and the more you do it, the more sophisticated your skills will become! In many ways, the best facilitation training is being on the job as a facilitator.
