@@ -1,7 +1,6 @@
 # Chapter 4 - Team Building
 
-Over the past few years, we've seen businesses moving away from competitive work environments to workplaces where collaboration and co-operation between staff is seen as the key to company-wide success. As part of this change more and more companies are undertaking regular team building activities. Improving productivity is one of the most common goals of team building activities.\
-But Before we see what is team building, let's quickly recap on what is Team?
+Over the past few years, we've seen businesses moving away from competitive work environments to workplaces where collaboration and co-operation between staff is seen as the key to company-wide success. As part of this change more and more companies are undertaking regular team building activities. Improving productivity is one of the most common goals of team building activities. But Before we see what is team building, let's quickly recap on what is Team?
 
 ## What is Team?
 
@@ -13,7 +12,7 @@ An individual cannot perform all tasks on his own. He needs the support as well 
 This is the process of turning a group of individual contributing employees into a cohesive team. A group of people organized to work together to meet the needs of their customers by accomplishing their purpose and goals.\
 Team building is a technique used for improving the efficiency and performance of the workgroups through various activities. It involves a lot of skills, analysis and observation for forming a strong and capable team. The whole sole motive here is to achieve the organization's vision and objectives.
 
-<p align="center"> <img width="550" height="" src="https://user-images.githubusercontent.com/63605352/91078020-4f3f4d00-e642-11ea-90cf-408c1ce0fc2a.jpg"></p>
+<p align="center"> <img width="700" height="" src="https://user-images.githubusercontent.com/63605352/91078020-4f3f4d00-e642-11ea-90cf-408c1ce0fc2a.jpg"></p>
 Looking at all the benefits of Team Building, you must be wondering, How to Build a Great Team?
 
 ### How to Build a Great Team?
@@ -52,21 +51,22 @@ In the figure below, you can see a Team Canvas showing all the details which we 
 
 With so many people working remotely now, Talking about Virtual Team building activities make sense, so here are different activities that you can use with your team.
 
-### 1. Two truths and a lie
+### 1. Two Truths and a Lie
 
 This activity you can do at the start of a virtual meeting to create quick, personal connections with your co-workers.\
 Two truths and one lie is a classic icebreaker activity. Each team member presents three statements about themselves: two truths and one that is false. The team can then take turns to recognize what’s true and what the lie is.
 After everyone has guessed, the speaker reveals their lie. To make the game even more fun, add some healthy competition with a points system that’s recorded digitally or by the manager with a pen and paper. The person with the most correct guesses will grab the win!
 
-### 2. Community Coffee Breaks
+### 2. Building a Storyline
+
+Everyone loves a good story, right? Building a storyline is one of the oldest and most fun team building activities.\
+Here’s how it goes, step by step: Get the entire group to virtually “form a circle” on a video call and start the process like this: The first person begins the story with one opening sentence and another incomplete one. For example: “On Mark’s first day at his awesome new job, his car broke down. At first, he felt helpless, but then he…” \
+The next individual completes the previous line and adds another incomplete sentence. This way, each member of the team contributes until everyone has had a turn. Aim to develop a comprehensive story structure by the end of the game! Not only does building a storyline force teams to use their creative juices, it also helps them listen to each other and improve team cooperation. The best part? These collaborative and listening skills are the building blocks for clear and effective communication in a remote team!
+
+### 3. Community Coffee Breaks
 
 A community coffee break is an easy but effective way to catch up with your team members. Schedule a 15-minutes period every day or week when folks on your team can join a video chat held via your team management software.\
 Use those 15 minutes to enjoy a cup of coffee and talk. Your conversations can be work-related or they can be purely for fun and entertainment, just like they might be if you were having a coffee break at the office together.
-
-### 3. Building a storyline
-
-Everyone loves a good story, right? Building a storyline is one of the oldest and most fun team building activities. Here’s how it goes, step by step: Get the entire group to virtually “form a circle” on a video call and start the process like this: The first person begins the story with one opening sentence and another incomplete one. For example: “On Mark’s first day at his awesome new job, his car broke down. At first, he felt helpless, but then he…” \
-The next individual completes the previous line and adds another incomplete sentence. This way, each member of the team contributes until everyone has had a turn. Aim to develop a comprehensive story structure by the end of the game! Not only does building a storyline force teams to use their creative juices, it also helps them listen to each other and improve team cooperation. The best part? These collaborative and listening skills are the building blocks for clear and effective communication in a remote team!
 
 ## Making High Performing Teams
 
