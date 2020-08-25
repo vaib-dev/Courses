@@ -111,6 +111,6 @@ BFILEs are having read-only datatypes. The database allows read-only byte stream
 
 ## Summary
 
-Above we learned about ORDBMS and its functions or we can say features like Row & Reference types,User-defined types, Supertype / Subtype relationships, User-defined procedures, Table Inheritance, Collection Types and Large objects.
+Above we learned about ORDBMS and its functions or we can say features like Row & Reference types, User-defined types, Supertype / Subtype relationships, User-defined procedures, Table Inheritance, Collection Types and Large objects.
 
 In the next chapter we will learn about advance management of data.
