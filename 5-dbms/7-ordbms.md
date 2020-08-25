@@ -55,7 +55,7 @@ It encourages modular implementation of your data model.
 
 There are two types of table inheritance as follow:
 
-## 1. STI(Single Table Inheritance)
+## 1. STI (Single Table Inheritance)
 
 Single table inheritance is a way to emulate object-oriented inheritance in a object-relational database. When mapping from a database table to an object in an object-oriented language, a field in the database identifies what class in the hierarchy the object belongs to. All fields of all the classes are stored in the same table, hence the name "Single Table Inheritance". 
 
@@ -63,7 +63,7 @@ We use STI when the Subclasses have the same fields/columns but different behavi
 
 <img src="https://cayenne.apache.org/docs/3.0/images/single-table-inheritance.png" height="" width="">
 
-### 2. MTI(Multi Table Inheritance)
+### 2. MTI (Multi Table Inheritance)
 
 Multiple inheritance is a feature of some object-oriented computer programming languages in which an object or class can inherit characteristics and features from more than one parent object or parent class.
 
@@ -72,10 +72,11 @@ We use MTI when the Subclasses have vastly different fields/columns but share co
 <img src="https://danchak99.files.wordpress.com/2014/07/er_10061.jpg" height="" width="">
 
 ## Collection Types
+Collection types are the common variations of data collections, such as:
 
 ### 1. Nested Tables
-- Nested table is a table within a table.
-- An ordered group of items of type TABLE are called nested tables.
+ An ordered group of items of type TABLE are called nested tables. Nested table is a table within a table and some of its properties are:
+
 - Nested tables can contain multiple columns.
 - Nested tables are unbounded, ie., it can grow in size. In other words, we don’t specify the maximum size as we do for other data types.
 - Within the database, nested tables can be considered one-column database tables. Oracle stores the rows of a nested table in no particular order. But, when you retrieve the nested table into a PL/SQL variable, the rows are given consecutive subscripts starting at 1. That gives you array-like access to individual rows.
@@ -83,8 +84,7 @@ We use MTI when the Subclasses have vastly different fields/columns but share co
 
 ### 2. VARRAY (Varrying Array)
 
-- VARRAY is one of the collection data types in Oracle to store column(s) that contain multiple values. That is, an attribute of type VARRAY is a multi-valued attribute.
-   - For example, assume a customer with multiple phone numbers. To store all phone numbers as part of single record, we would use VARRAY. 
+VARRAY is one of the collection data types in Oracle to store column(s) that contain multiple values. That is, an attribute of type VARRAY is a multi-valued attribute. For example, assume a customer with multiple phone numbers. To store all phone numbers as part of single record, we would use VARRAY. Some properties of VARRAY are: 
 - Unlike nested tables, VARRAY has a limit. In other words, we use VARRAY attributes to store limited number of entries. It has a limit like other data types NUMBER, CHAR etc.
 - We cannot access the individual VARRAY elements using array_name[1] like format. But it can be accessed in PL/SQL using array_name[] format.
 - The values that are stored under a VARRAY attribute is stored in-line, that is in the same tablespace as the other data in its row of the same table.
