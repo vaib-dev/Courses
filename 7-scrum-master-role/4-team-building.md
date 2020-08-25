@@ -63,10 +63,10 @@ After everyone has guessed, the speaker reveals their lie. To make the game even
 A community coffee break is an easy but effective way to catch up with your team members. Schedule a 15-minutes period every day or week when folks on your team can join a video chat held via your team management software.\
 Use those 15 minutes to enjoy a cup of coffee and talk. Your conversations can be work-related or they can be purely for fun and entertainment, just like they might be if you were having a coffee break at the office together.
 
-### 3.The perfect vacation
+### 3. Building a storyline
 
-This is another short activity that’s great for developing your team’s listening skills. Participants are asked to grab a partner each. For the next step, each duo gets on a personal call and tells their partner about their perfect vacation – if they had unlimited time and money. After everyone is done, all the team members’ get together on a call and try to explain their partner’s dream vacation as accurately as possible! Since you’re describing your partner’s vacation, you’re forced to really listen and might even realize how both of you share similar interests.\
-There are a lot of different activities and games are available online which you can try with the team. One of the most important benefits of a properly planned team building activity is greater collaboration between employees. Collaboration is about knowing who has what knowledge (or can answer to a question), trusting them and their experience and being able to get access to that person when you need it.
+Everyone loves a good story, right? Building a storyline is one of the oldest and most fun team building activities. Here’s how it goes, step by step: Get the entire group to virtually “form a circle” on a video call and start the process like this: The first person begins the story with one opening sentence and another incomplete one. For example: “On Mark’s first day at his awesome new job, his car broke down. At first, he felt helpless, but then he…” \
+The next individual completes the previous line and adds another incomplete sentence. This way, each member of the team contributes until everyone has had a turn. Aim to develop a comprehensive story structure by the end of the game! Not only does building a storyline force teams to use their creative juices, it also helps them listen to each other and improve team cooperation. The best part? These collaborative and listening skills are the building blocks for clear and effective communication in a remote team!
 
 ## Making High Performing Teams
 
