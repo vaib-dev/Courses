@@ -1,7 +1,7 @@
 # Chapter - 7 ORDBMS
 An object-relational database management system (ORDBMS) is a database management system with that is similar to a relational database, except that it has an object-oriented database model. This system supports objects, classes and inheritance in database schemas and query language.
 
-<img src="https://1.bp.blogspot.com/-nKW9boFHquA/VD_luiDggfI/AAAAAAAABLU/avo9JLWYHtI/s1600/ordbms.jpg" height="" width="">
+<p align="center"><img src="https://1.bp.blogspot.com/-nKW9boFHquA/VD_luiDggfI/AAAAAAAABLU/avo9JLWYHtI/s1600/ordbms.jpg" height="" width=""></p>
 
 Object-relational database management systems provide a middle ground between relational and object-oriented databases. In an ORDBMS, data is manipulated using queries in a query language. These systems bridge the gap between conceptual data modeling techniques such as entity-relationship diagrams and object-relational mapping using classes and inheritance. ORDBMS is also support data model extensions with custom data types and methods. This allows developers to raise the abstraction levels at which problem domains are viewed.
 
@@ -45,7 +45,7 @@ There are two criteria that help the designer determine when to use subtypes and
 
 2. The different kinds or types of instances should have one or more attributes that are unique to that kind or type of instance.
 
-<img src="http://www.myreadingroom.co.in/images/stories/docs/dbms/Entity%20Supertypes%20and%20Subtypes.JPG" height="" width="" alt="Sorry, Network Error">
+<p align="center"><img src="https://user-images.githubusercontent.com/54719422/91187240-947c8100-e70d-11ea-85df-a63d572956af.jpg" height="" width=""></p>
 
 ## Table Inheritance
  Tables that are defined on named row types support table inheritance. Table inheritance is the property that allows a table to inherit the behavior (constraints, storage options, triggers) from the super-table above it in the table hierarchy. A table hierarchy is the relationship that you can define among tables in which sub-tables inherit the behavior of super-tables. A table inheritance provides the following advantages:
@@ -55,13 +55,13 @@ It encourages modular implementation of your data model.
 
 There are two types of table inheritance as follow:
 
-## 1. STI (Single Table Inheritance)
+### 1. STI (Single Table Inheritance)
 
 Single table inheritance is a way to emulate object-oriented inheritance in a object-relational database. When mapping from a database table to an object in an object-oriented language, a field in the database identifies what class in the hierarchy the object belongs to. All fields of all the classes are stored in the same table, hence the name "Single Table Inheritance". 
 
 We use STI when the Subclasses have the same fields/columns but different behavior. A good indication, that STI is right is when the different subclasses have the same fields/columns but different methods. 
 
-<img src="https://cayenne.apache.org/docs/3.0/images/single-table-inheritance.png" height="" width="">
+<p align="center"><img src="https://cayenne.apache.org/docs/3.0/images/single-table-inheritance.png" height="" width=""></p>
 
 ### 2. MTI (Multi Table Inheritance)
 
@@ -69,7 +69,7 @@ Multiple inheritance is a feature of some object-oriented computer programming l
 
 We use MTI when the Subclasses have vastly different fields/columns but share common behavior. When subclasses have vastly different fields/columns, placing them all in a single table will have a lot of null columns, which is ultimately a waste of space, conceptually confusing, and reduces the effectiveness of indices. 
 
-<img src="https://danchak99.files.wordpress.com/2014/07/er_10061.jpg" height="" width="">
+<p align="center"><img src="https://danchak99.files.wordpress.com/2014/07/er_10061.jpg" height="" width=""></p>
 
 ## Collection Types
 Collection types are the common variations of data collections, such as:
@@ -77,20 +77,20 @@ Collection types are the common variations of data collections, such as:
 ### 1. Nested Tables
  An ordered group of items of type TABLE are called nested tables. Nested table is a table within a table and some of its properties are:
 
-- Nested tables can contain multiple columns.
-- Nested tables are unbounded, ie., it can grow in size. In other words, we don’t specify the maximum size as we do for other data types.
-- Within the database, nested tables can be considered one-column database tables. Oracle stores the rows of a nested table in no particular order. But, when you retrieve the nested table into a PL/SQL variable, the rows are given consecutive subscripts starting at 1. That gives you array-like access to individual rows.
-- A nested table can be either used in a PL/SQL block to declare as a variable temporarily or as a column of a table which can persistently store the data in the database. 
+- Nested tables can contain multiple columns
+- Nested tables are unbounded, ie., it can grow in size. In other words, we don’t specify the maximum size as we do for other data types
+- Within the database, nested tables can be considered one-column database tables. Oracle stores the rows of a nested table in no particular order. But, when you retrieve the nested table into a PL/SQL variable, the rows are given consecutive subscripts starting at 1. That gives you array-like access to individual rows
+- A nested table can be either used in a PL/SQL block to declare as a variable temporarily or as a column of a table which can persistently store the data in the database
 
 ### 2. VARRAY (Varrying Array)
 
 VARRAY is one of the collection data types in Oracle to store column(s) that contain multiple values. That is, an attribute of type VARRAY is a multi-valued attribute. For example, assume a customer with multiple phone numbers. To store all phone numbers as part of single record, we would use VARRAY. Some properties of VARRAY are: 
-- Unlike nested tables, VARRAY has a limit. In other words, we use VARRAY attributes to store limited number of entries. It has a limit like other data types NUMBER, CHAR etc.
-- We cannot access the individual VARRAY elements using array_name[1] like format. But it can be accessed in PL/SQL using array_name[] format.
-- The values that are stored under a VARRAY attribute is stored in-line, that is in the same tablespace as the other data in its row of the same table.
+- Unlike nested tables, VARRAY has a limit. In other words, we use VARRAY attributes to store limited number of entries. It has a limit like other data types NUMBER, CHAR etc
+- We cannot access the individual VARRAY elements using array_name like format. But it can be accessed in PL/SQL using array_name format
+- The values that are stored under a VARRAY attribute is stored in-line, that is in the same tablespace as the other data in its row of the same table
 - VARRAY can be created as either
-   -   an array of particular data type like NUMBER,  CHAR, VARCHAR, etc. 
-   - or an array of user defined data types.
+   -   an array of particular data type like NUMBER,  CHAR, VARCHAR, etc 
+   - or an array of user defined data types
 
 ## Large Objects
 Large Objects(LOBs) are a collection of data-types which is designed to hold a large amount of data. A LOB is able to hold up to maximum size ranging from 8 terabytes to 128 terabytes, depending upon how your database is configured. Storing data into LOBs helps you to manipulate & access data efficiently in your own application. Large Objects are suitable for above last two kinds of data: semi-structured & unstructured data. Large objects features allow you to store these two kinds of data in the database as well as in operating system files that are usually accessed from the database.
