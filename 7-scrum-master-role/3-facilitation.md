@@ -20,16 +20,7 @@ Some Basic Premises of Facilitation:
 
 ### Facilitation requires an understanding of the following:
 
-- **Community**: What are the guiding norms of the community with whom you are facilitating a discussion?
-- **Observation**: The facilitator becomes a guide on the journey with the group. By observing and reflecting while facilitating a discussion, the facilitator can support the group and notice what contributions she or he may need to make to assist participants in arriving at a turning point.
-- **Flexibility**: Facilitators must be ready for non-linear discussion. People may go around and around. They may sit back and relax, but then all of a sudden become incredibly engaged. When facilitators are flexible, they can best guide discussion.
-- **Imagination**: Facilitators permit participants to use their imagination to brainstorm. However, they fill an important role of grounding conversation when ideas become toot abstract or when time is of the essence.
-- **Patience**: one of the most frustrating parts of facilitating a conversation, particularly when you are knowledgeable about a topic, is that you have to be patient and understand that it may take others longer to arrive at a conclusion. Facilitators cannot lose their cool or make quick judgments. They need to be patient.
-- **Balance**: Effective facilitation balances the challenging and supportive of others. The voices of the individual and organization are heard and respected.
-- **Affirmation**: Good facilitators affirm individuals and recognize the ideas of others. When participants let their barriers down and become themselves, this is an important step to affirm. You must also affirm yourself as a facilitator that you must be true.
-- **Silence**: Arguably the hardest thing for a facilitator is to permit silence. Good facilitators make sure that all that are participating are INVOLVED. Those who are frequently silent need to be asked what their opinion is while maintaining respect for their silence.
-- **Challenge**: They must challenge their participants to think differently and explore other options. Participants in the process of group discussion accept the challenge of owning the process. They are responsible for the discussion and must have ownership in making sure that all participants have a comfortable experience.
-- **Connections**: As the facilitator connects with others and helps them connect with themselves, meaning begins to emerge. Facilitators will learn to recognize when participants begin to “get it”.
+The facilitator becomes a guide on the journey with the group by observing and reflecting while facilitating a discussion, they can support the group and notice what contributions she or he may need to make to assist participants in arriving at a turning point. When facilitators are flexible, they can best guide discussion. Effective facilitation balances the challenging and supportive of others. The voices of the individual and organization are heard and respected. They cannot lose their cool or make quick judgments. Patience is the key for facilitating an event. Lastly, Good facilitators make sure that all that are participating are INVOLVED.
 
 ## Facilitator
 
