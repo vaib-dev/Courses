@@ -1,4 +1,4 @@
-# Chapter -7 ORDBMS
+# Chapter - 7 ORDBMS
 An object-relational database management system (ORDBMS) is a database management system with that is similar to a relational database, except that it has an object-oriented database model. This system supports objects, classes and inheritance in database schemas and query language.
 
 <img src="https://1.bp.blogspot.com/-nKW9boFHquA/VD_luiDggfI/AAAAAAAABLU/avo9JLWYHtI/s1600/ordbms.jpg" height="" width="">
