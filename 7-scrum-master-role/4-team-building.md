@@ -64,23 +64,86 @@ This also includes details and information on other market participants and comp
 
 Especially when team members are confronted with agile procedures for the first time, it is extremely important to take away colleagues' fears. Often a dangerous half-knowledge and myths about Scrum or Kanban buzz around the room.
 
-As part of team building, you should work out and record the following things:
-
-1. List of team members with their roles and contact information
-2. Team name
-3. Team motto
-4. Team values ​​(e.g. respect, trust, etc.)
-5. Rules of cooperation
-6. How are decisions made in the team?
-7. How should conflicts be resolved?
-8. To Celebrate as a Team
+As part of team building, you should work out and record the following things: List of team members with their roles and contact information, Team name, Team motto, Team values ​​(e.g. respect, trust, etc.), Rules of cooperation, How are decisions made in the team?, How should conflicts be resolved?, and To Celebrate as a Team.
 
 In the figure below, you can see a Team Canvas showing all the details which we discussed and you can also use something like this for your Team Kick-off meeting.
 
-<p align="center"> <img width="" height="" src="https://www.plays-in-business.com/wp-content/uploads/2015/10/team-canvas-example-short.jpg"></p>
+<p align="center"> <img width="550" height="" src="https://www.plays-in-business.com/wp-content/uploads/2015/10/team-canvas-example-short.jpg"></p>
 
 ## Team Building Activities
 
-With so many people working remotely now,
+With so many people working remotely now, Talking about Remote Team Buidling Activities make sense, so here are 10 different activities which you can use with your team.
 
-One of the most important benefits of a properly planned team building activity is greater collaboration between employees. Collaboration is about knowing who has what knowledge (or can answer to a question), trusting them and their experience and being able to get access to that person when you need it.\
+<p align="center"> <img width="550" height="" src="https://user-images.githubusercontent.com/63605352/91168376-d4277680-e6d5-11ea-9480-bc812f32ac59.jpg"></p>
+One of the most important benefits of a properly planned team building activity is greater collaboration between employees. Collaboration is about knowing who has what knowledge (or can answer to a question), trusting them and their experience and being able to get access to that person when you need it.
+
+## Making High Performing Teams
+
+To make a high performing time you need a team which should possess all the skills necessary to get the job done and entails shared accountability. Here are some key elements which can be used to make a team perform at higher-level.
+
+### 1. Build upon a solid foundation
+
+Incorporating common values in Scrum teams is crucial to create a culture of work that is collaborative in the first place. It forms a solid foundation that brings together all team members and fosters integration. Collaboration simply means to work together to accomplish a task. Agile methodologies stress the benefits of working with cross-functional teams rather than working in functional silos. It promotes frequent communication and cooperation between team members which helps to avoid any misunderstandings and to get things done faster. By this we will create a team self-organizing and self-managing
+
+### 2. Establish strong engineering practices
+
+Beyond keeping the team together, it's really important to build the sequence of the best engineering practices like code reviews, continuous integration and deployment, sharing the codebase between all the software developers higher-level coding standard to which all the programmers adhere. High-performing Scrum teams are aware that strong engineering fundamentals are crucial for delivering great digital products.
+
+### 3. Ensure continuous mentoring
+
+To support individual team member’s development, there is a huge need for creating an environment where the peers can learn from each other. Pair-programming sessions, TILs, code reviews, and feedback - these are some of the instruments you can use on a daily basis as encouragement to share the knowledge across the teams. Mentoring is not just an activity for a junior member to learn from seniors. Everyone from the team can learn from each other to unlock their power as a whole to tackle diverse and sophisticated work. This will motivate them to share experiences across the team because they have a common goal - to deliver their work with the highest quality.
+
+### 4. Create a cross-functional team
+
+High-performing teams comprise individuals with a broad set of skills that are necessary to effectively accomplish the work from their backlog. Team members must be open and highly motivated and the team must have both the authority and the accountability to achieve the goals they have been given. The key aspect here is that the high-performance team should be able to deliver the results of their work by combining their respective skills and talents.
+
+### 5. Communicate the big picture and goal
+
+Team members work better when they know how their work is aligned with the overall goal and when it contributes to the bigger picture. It is not about picking up stories from the backlog without understanding what value it brings to the entire vision. This approach is not effective. It is important to invest time in communicating the bigger picture, the current priorities and goals to the team in order to increase engagement and ownership.
+
+### 6. Empower the team with decision-making
+
+For the team to work effectively, the team members should be empowered to make their own decisions. As mentioned before they need to be presented with the bigger picture in order to set up their own goals in alignment with the overall goal. The team needs to understand what work is to be done but they are given the freedom to find their own solutions and ways of working.\
+In essence, those six elements are crucial while setting-up the teams, however it takes some time and effort to build a high-performing team with the strong fundamentals and broad set of skills. There are some models through which you can identify how your team's development and how are they doing and in which state they are in. Let us see Tuckman's model of team development
+
+## Tuckman's model of team development
+
+Agile/Scrum and other teams go through stages of development, and Bruce Tuckman established a popular framework on the subject. According to Tuckman, all phases—Forming, Storming, Norming, Performing and Adjourning—are necessary for the team to grow, tackle problems, find solutions, plan work, and deliver results.\
+This model explains that as the team develops maturity and ability, relationships establish, and the leader changes leadership style.
+
+<p align="center"> <img width="600" height="" src="https://blog.infodiagram.com/wp-content/uploads/2018/06/gr_dev_1.jpg"></p>
+
+Let's see what involvement is needed from a leader(SM) during these phases.
+
+### Forming
+
+As the leader, you play a dominant role in this stage, because team members’ roles and responsibilities aren’t clear. I recommend having personal talks with all the team members to find out their personal goals and interests in the project. That is essential information for a leader on further stages.
+
+### Storming
+
+Here you have to reduce tension within your team, manage conflicts, stay committed to the team goal, and lead by example. If things go worse and conflicts are often, organize a feedback session or a hot chair exercise with an external moderator. This stage requires the maximum of the leader’s attention and involvement.
+
+### Norming
+
+Motivate team members with first results, show them that you are on the right track, encourage them to move to the performing stage. It is huge for nutritioning motivation to show the first results. People understand that the painful storming stage was not in vain and start to value each other and the project even more.
+
+### Performing
+
+Here you can delegate much of your work and can concentrate on developing team members. Here is your time to improve your talent development, mentoring and coaching skills because your team manages all working process without your direct involvement.\
+How cool is this — to know what each one of the team members is capable of and fully rely on the team. And for the team leader, it is so amazing to see the team running like clockwork.
+
+### Adjourning
+
+Facilitate the values reinvention and experience reflection. Also, the work of the team leader is to suggest the ways to stay in touch with other team members even after the project. An intense experience you all got through working together is a great bonding tool.
+
+The main task of a leader is to shorten the storming stage and prolong the performing stage as much as it’s possible. This is the key to high team performance. Still there might be some clear patterns in the behavioral tendencies which might stop the team to perform at their best level and to deal with those dysfunctions we have a model through which you can identify the problems the team is facing as SM and help the team to improve their performance. Let's have a look at the model
+
+## 5 Dysfunctions of a Team model
+
+The five dysfunctions are stacked in a pyramid and are hierarchical. Without building a strong foundation on the bottom, there is no achieving the higher-level goals.
+
+<p align="center"> <img width="" height="" src="https://user-images.githubusercontent.com/63605352/91165931-d982c200-e6d1-11ea-81a6-6549a0fa8ce8.png"></p>
+
+## Summary
+
+After all, what makes a good team great is the ability to focus on the common goal which brings all the team members together and increases their engagement, interactions and communication. It is also essential to instill positivity in team members and encourage them to share their knowledge and thoughts across the team. These are the fuels of productivity which help the team grow continuously.
