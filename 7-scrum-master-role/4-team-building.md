@@ -20,7 +20,7 @@ Looking at all the benefits of Team Building, you must be wondering, How to Buil
 Team building is not a one-time act. It is a step by step process which aims at bringing a desirable change in the organization. Teams are usually formed for a particular task or projects.\
 Forming a great team requires a lot of skills and presence of mind. The person responsible for team building must be able to find out the strengths and weaknesses of the team members and create the right mix of people with different skill sets. He must focus on developing strong interpersonal relations and trust among the team members.\
 They must encourage communication and interaction among the team members and also reduce stress with the help of various team-building activities. They must clearly define the goals and objectives of the organization to the team members.\
-In Agile when you are starting a new project with a new team there is a special meeting which is held by Scrum Master and Product Owner with the team, the meeting is called as **Agile Project Kick-off Meeting**
+In Agile when you are starting a new project with a new team there is a special meeting which is held by Scrum Master and Product Owner with the team, the meeting is called as **Agile Project Kick-off Meeting.**
 
 ## Agile Project Kick-Off Meeting
 
@@ -45,7 +45,7 @@ This also includes details and information on other market participants and comp
 As part of team building, you should work out and record the following things: List of team members with their roles and contact information, Team name, Team motto, Team values ​​(e.g. respect, trust, etc.), Rules of cooperation, How are decisions made in the team?, How should conflicts be resolved?, and How to Celebrate as a Team?.\
 In the figure below, you can see a Team Canvas showing all the details which we discussed and you can also use something like this for your Team Kick-off meeting.
 
-<p align="center"> <img width="700" height="" src="https://www.plays-in-business.com/wp-content/uploads/2015/10/team-canvas-example-short.jpg"></p>
+<p align="center"> <img width="800" height="" src="https://www.plays-in-business.com/wp-content/uploads/2015/10/team-canvas-example-short.jpg"></p>
 
 ## Team Building Activities
 
@@ -78,7 +78,7 @@ To make a high performing time you need a team which should possess all the skil
 4. Create a cross-functional team: High-performing teams comprise individuals with a broad set of skills that are necessary to effectively accomplish the work from their backlog. Team members must be open and highly motivated and the team must have both the authority and the accountability to achieve the goals they have been given. The key aspect here is that the high-performance team should be able to deliver the results of their work by combining their respective skills and talents.
 5. Communicate the big picture and goal: Team members work better when they know how their work is aligned with the overall goal and when it contributes to the bigger picture. It is not about picking up stories from the backlog without understanding what value it brings to the entire vision. This approach is not effective. It is important to invest time in communicating the bigger picture, the current priorities, and goals to the team to increase engagement and ownership.
 6. Empower the team with decision-making: For the team to work effectively, the team members should be empowered to make their own decisions. The team needs to understand what work is to be done but they are given the freedom to find their own solutions and ways of working.\
-   In essence, those six elements are crucial while setting-up the teams, however it takes some time and effort to build a high-performing team with the strong fundamentals and broad set of skills. There are some models through which you can identify how your team's development and how are they doing and in which state they are in. Let us see Tuckman's model of team development
+   In essence, those six elements are crucial while setting-up the teams, however it takes some time and effort to build a high-performing team with the strong fundamentals and broad set of skills. There are some models through which you can identify how your team's development and how are they doing and in which state they are in. Let us see Tuckman's model of team development.
 
 ### Tuckman's model of team development
 
@@ -87,7 +87,7 @@ This model explains that as the team develops maturity and ability, relationship
 
 <p align="center"> <img width="600" height="" src="https://blog.infodiagram.com/wp-content/uploads/2018/06/gr_dev_1.jpg"></p>
 
-The main task of a leader is to shorten the storming stage and prolong the performing stage as much as it’s possible. This is the key to high team performance. Still there might be some clear patterns in the behavioral tendencies which might stop the team to perform at their best level and to deal with those dysfunctions we have a model through which you can identify the problems the team is facing as SM and help the team to improve their performance. Let's have a look at the model
+The main task of a leader is to shorten the storming stage and prolong the performing stage as much as it’s possible. This is the key to high team performance. Still there might be some clear patterns in the behavioral tendencies which might stop the team to perform at their best level and to deal with those dysfunctions we have a model through which you can identify the problems the team is facing as SM and help the team to improve their performance. Let's have a look at the model.
 
 ### 5 Dysfunctions of a Team model
 
