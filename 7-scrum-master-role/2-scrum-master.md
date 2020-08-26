@@ -6,7 +6,7 @@ Other tasks in day-to-day business are, to conduct retrospectives with the whole
 
 ## Roles of a Scrum Master
 
-The SM helps the Scrum Team perform at their highest level. They also protect the team from both internal and external distractions. SMs hold the Scrum Team accountable to their working agreements, Scrum values, and to the Scrum framework itself. (ref. [Ch.1](https://github.com/Vaibhavpratapsingh22/Courses/blob/sm-scrum/7-scrum-master-role/1-scrum.md))
+The SM helps the Scrum Team perform at their highest level. They also protect the team from both internal and external distractions. SMs hold the Scrum Team accountable to their working agreements, Scrum values, and to the Scrum framework itself. (ref. [Ch.1](https://github.com/Vaibhavpratapsingh22/Courses/blob/master/7-scrum-master-role/1-scrum.md))
 
 For many Scrum Masters, protecting means shielding the team from outside distractions and interferences. These distractions and interferences come in different forms but most of them are from other humans. Here are the most common ones:
 
@@ -61,7 +61,7 @@ SM has four focus points: This is divided into two parts, first part is called a
 
 Let's take a look at this chart and the logic behind.
 
-### Team Coaching
+### 1. Team Coaching
 
 Team coaching helps teams reach their goals, while creating a sustainable environment that cultivates long-term excellence and success. The team coaching process helps teams align around a common purpose, establish inspiring spirit and vision, define clear roles, commit to team accountability, make powerful choices and take affirmative action.
 
@@ -79,7 +79,7 @@ Team coaching helps teams reach their goals, while creating a sustainable enviro
 
 SM should re-visit the approach if there are no change or small improvements after a dozen of sprints. One way to track is through observation as sprint goes by and constant communication. If the SM has evaluate that both the PO and team are self-sustaining, it is time to look on the second section.
 
-### System Coaching
+### 2. System Coaching
 
 A System Coach is skilled in understanding the entire lifecycle of a product and how an organization can benefit from coordination and collaboration between teams, not only delivery teams but functional teams across the business.
 
