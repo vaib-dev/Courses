@@ -1,6 +1,6 @@
 # Chapter -7 Advance Management OF Data
 
-Here we will discuss advance management of data to facilitate efficient and scalable analysis of large amounts of data through DDBMS and NoSQL.
+In this chapter we shall discuss advance management of data to facilitate efficient and scalable analysis of large amounts of data through DDBMS and NoSQL.
 
 ## Distributed Database Management System(DDBMS)
 A distributed database is basically a database that is not limited to one system, it is spread over different sites, i.e, on multiple computers or over a network of computers. A distributed database system is located on various sited that don’t share physical components. This is required when a particular database needs to be accessed by various users globally. It needs to be managed such that for the users it looks like one single database. There are two types:
