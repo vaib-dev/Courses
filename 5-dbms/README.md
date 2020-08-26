@@ -27,4 +27,6 @@ Here, we discussed about RDBMS, normalization, advance database applications and
 
 ## Chapter 8 - Advanced Management of Data
 
+We will learn about AMD which includes Distributed Data Management System(DDBMS) and NoSQL. 
+
 ## Chapter 9 - MongoDB

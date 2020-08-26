@@ -115,3 +115,62 @@ It basically made user unaware about the existence of fragments it may be the ve
 
 5. Improved Performance: We can achieve inter-query and intr-query parallelism by executing multiple queries at different sites by breaking up a query into a number of sub-queries that basically executes in parallel which basically leads to improvement in performance.
 
+## NoSQL Databases
+
+### Structured data 
+Structured data is data whose elements are addressable for effective analysis. It has been organized into a formatted repository that is typically a database. It concerns all data which can be stored in database SQL in a table with rows and columns. They have relational keys and can easily be mapped into pre-designed fields. Today, those data are most processed in the development and simplest way to manage information. Example: Relational data. 
+ 
+### Semi-Structured data 
+Semi-structured data is information that does not reside in a relational database but that have some organizational properties that make it easier to analyze. With some process, you can store them in the relation database (it could be very hard for some kind of semi-structured data), but Semi-structured exist to ease space. Example: XML data. 
+
+### CAP Theorem
+
+CAP Theorem is a concept that a distributed database system can only have 2 of the 3: Consistency, Availability and Partition Tolerance. CAP Theorem is very important in the Big Data world, especially when we need to make trade off’s between the three, based on our unique use case. On this blog, I will try to explain each of these concepts and the reasons for the trade off. I will avoid using specific examples as DBMS are rapidly evolving.
+
+1. **Partition Tolerance**: This condition states that the system continues to run, despite the number of messages being delayed by the network between nodes. A system that is partition-tolerant can sustain any amount of network failure that doesn’t result in a failure of the entire network. Data records are sufficiently replicated across combinations of nodes and networks to keep the system up through intermittent outages. When dealing with modern distributed systems, Partition Tolerance is not an option. It’s a necessity. Hence, we have to trade between Consistency and Availability.
+
+<p align="center"><img src="https://miro.medium.com/max/700/1*qVoJNWH1osbrnOizRivF1A.png" height="" width=""></p>
+
+
+2. **High Consistency**: This condition states that all nodes see the same data at the same time. Simply put, performing a read operation will return the value of the most recent write operation causing all nodes to return the same data. A system has consistency if a transaction starts with the system in a consistent state, and ends with the system in a consistent state. In this model, a system can (and does) shift into an inconsistent state during a transaction, but the entire transaction gets rolled back if there is an error during any stage in the process. In the image, we have 2 different records (“Bulbasaur” and “Pikachu”) at different timestamps. The output on the third partition is “Pikachu”, the latest input. However, the nodes will need time to update and will not be Available on the network as often.
+
+<p align="center"><img src="https://miro.medium.com/max/700/1*UnG2G7_h0kqI9IHtnUk3qg.png" height="" width=""></p>
+
+
+3. **High Availability**: This condition states that every request gets a response on success/failure. Achieving availability in a distributed system requires that the system remains operational 100% of the time. Every client gets a response, regardless of the state of any individual node in the system. This metric is trivial to measure: either you can submit read/write commands, or you cannot. Hence, the databases are time independent as the nodes need to be available online at all times. This means that, unlike the previous example, we do not know if “Pikachu” or “Bulbasaur” was added first. The output could be either one. Hence why, high availability isn’t feasible when analyzing streaming data at high frequency.
+
+<p align= "center"><img src="https://miro.medium.com/max/700/1*ABrjUrZAY6V1hEkFPYvC7A.png" height="" width=""></p>
+
+
+## Types of NoSQL Systems
+### 1. Key-Value 
+Data is stored in key/value pairs. It is designed in such a way to handle lots of data and heavy load.
+Key-value pair storage databases store data as a hash table where each key is unique, and the value can be a JSON, BLOB(Binary Large Objects), string, etc.
+4 Types of NoSQL Databases
+Key-value stores store everything as a key and a value.
+The value in a key-value store can be anything: a string, a number, but also an entirely new set of key-value pairs encapsulated in an object. 
+
+**Examples**: Redis, Voldemort, Riak, and Amazon’s DynamoDB.
+
+### 2. Document-Oriented 
+Document stores are one step up in complexity from key-value stores: a document store does assume a certain document structure that can be specified with a schema. Document stores appear the most natural among the NoSQL database types because they’re designed to store everyday documents as is, and they allow for complex querying and calculations on this often already aggregated form of data. The way things are stored in a relational database makes sense from a normalization point of view: everything should be stored only once and connected via foreign keys. Document stores care little about normalization as long as the data is in a structure that makes sense. A relational data model doesn’t always fit well with certain business cases.
+
+**Examples**: Amazon SimpleDB, CouchDB, MongoDB, Riak, Lotus Notes are popular Document originated DBMS systems.
+
+### 3. Column-based
+Column-oriented databases work on columns and are based on BigTable paper by Google. Every column is treated separately. The values of single column databases are stored contiguously.
+They deliver high performance on aggregation queries like SUM, COUNT, AVG, MIN, etc. as the data is readily available in a column.
+
+**Examples**: Column-based NoSQL databases are widely used to manage data warehouses, business intelligence, CRM, Library card catalogs, HBase, Cassandra, HBase, Hypertable are examples of a column-based database.
+
+### 4. Graph-Based
+A graph type database stores entities as well the relations amongst those entities. The entity is stored as a node with the relationship as edges. An edge gives a relationship between nodes. Every node and edge has a unique identifier. Compared to a relational database where tables are loosely connected, a Graph database is a multi-relational in nature. Traversing relationships as fast as they are already captured into the DB, and there is no need to calculate them.
+Graph base databases mostly used for social networks, logistics, spatial data.
+
+**Examples**: Neo4J, Infinite Graph, OrientDB, FlockDB are some popular graph-based databases.
+
+## Summary
+
+The chapter contains Distributed Database Management System(DDBMS), advantaged of DDBMS, NoSQL databases and types of NoSQL systems .
+
+In the next chapter we will learn MongoDB.
