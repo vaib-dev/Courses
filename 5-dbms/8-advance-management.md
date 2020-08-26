@@ -58,44 +58,39 @@ The following factors encourage moving over to DDBMS:
 
 5. **Support for Multiple Application Software**: Most organizations use a variety of application software each with its specific database support. DDBMS provides a uniform functionality for using the same data among different platforms.
 
-## Scalability
+### Scalability
 Scalability refers to the capability of a system to handle a growing amount of work, or its potential to perform more total work in the same elapsed time when processing power is expanded to accommodate growth. A system is said to be scalable if it can increase its workload and throughput when additional resources are added. There are two broad categories for scaling database systems: vertical scaling and horizontal scaling.
 
 <p align="center"><img src="https://bitpanda-academy.imgix.net/nulld4cb2f71-953b-4308-8edc-63408bc35a1b/bitpanda-academy-intermediate-15-scaling-infographic.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&w=2100" height="" width=""></p>
 
-### 1. Vertical scaling 
-Vertical scaling, also known as scaling up, is the process of adding resources, such as memory or more powerful CPUs to an existing server. Removing the memory or changing to a less powerful CPU is known as scaling down.
+1. **Vertical scaling**: Vertical scaling, also known as scaling up, is the process of adding resources, such as memory or more powerful CPUs to an existing server. Removing the memory or changing to a less powerful CPU is known as scaling down.
 
    Adding or replacing resources to a system typically results in performance gains, but realizing such gains often requires reconfiguration and downtime. Furthermore, there are limitations to the number of additional resources that can be applied to a single system, as well as to the software that uses the system.
 
-### 2. Horizontal scaling 
-Horizontal scaling sometimes referred to as scaling out, is the process of adding more hardware to a system. This typically means adding nodes (new servers) to an existing system.
+2. **Horizontal scaling**: Horizontal scaling sometimes referred to as scaling out, is the process of adding more hardware to a system. This typically means adding nodes (new servers) to an existing system.
 
-## Network Partitioning(NP)
+### Network Partitioning(NP)
 A network partition refers to network decomposition into relatively independent subnets for their separate optimization as well as network split due to the failure of network devices. In both cases the partition-tolerant behavior of subnets is expected. This means that even after the network is partitioned into multiple sub-systems, it still works correctly.
 
 For example, in a network with multiple subnets where nodes A and B are located in one subnet and nodes C and D are in another, a partition occurs if the network switch device between the two subnets fails. In that case nodes A and B can no longer communicate with nodes C and D, but all nodes A-D work the same as before.
 
-## Partition Tolerance
+### Partition Tolerance
 Partition Tolerance is a guarantee that the system continues to operate despite arbitrary message loss or failure of part of the system. In other words, even if there is a network outage in the data center and some of the computers are unreachable, still the system continues to perform properly.
 
-## Fragmentation
-Fragmentation is the task of dividing a table into a set of smaller tables. The subsets of the table are called fragments. Fragmentation can be of three types: horizontal, vertical, and hybrid (combination of horizontal and vertical). Horizontal fragmentation can further be classified into two techniques: primary horizontal fragmentation and derived horizontal fragmentation.
+### Data  Fragmentation
+Data Fragmentation is the task of dividing a table into a set of smaller tables. The subsets of the table are called fragments. Fragmentation can be of three types: horizontal, vertical, and hybrid (combination of horizontal and vertical). Horizontal fragmentation can further be classified into two techniques: primary horizontal fragmentation and derived horizontal fragmentation.
 
 Fragmentation should be done in a way so that the original table can be reconstructed from the fragments. This is needed so that the original table can be reconstructed from the fragments whenever required. This requirement is called “re-constructiveness.” Fregmentation is divided into three categories as follow:
 
-### 1. Vertical Fragmentation
-In vertical fragmentation, the fields or columns of a table are grouped into fragments. In order to maintain re-constructiveness, each fragment should contain the primary key field(s) of the table. Vertical fragmentation can be used to enforce privacy of data.
+1. **Vertical Fragmentation**: In vertical fragmentation, the fields or columns of a table are grouped into fragments. In order to maintain re-constructiveness, each fragment should contain the primary key field(s) of the table. Vertical fragmentation can be used to enforce privacy of data.
 
 <p align="center"><img src="https://i.stack.imgur.com/9OlRZ.jpg" height="" width="" ></p>
 
-### 2. Horizontal Fragmentation
-Horizontal fragmentation groups the tuples of a table in accordance to values of one or more fields. Horizontal fragmentation should also confirm to the rule of reconstructiveness. Each horizontal fragment must have all columns of the original base table.
+**2. Horizontal Fragmentation**: Horizontal fragmentation groups the tuples of a table in accordance to values of one or more fields. Horizontal fragmentation should also confirm to the rule of reconstructiveness. Each horizontal fragment must have all columns of the original base table.
 
 <p align="ceneter"><img src="https://i.stack.imgur.com/wXunq.jpg" height="" width=""></p>
 
-### 3. Hybrid Fragmentation
-In hybrid fragmentation, a combination of horizontal and vertical fragmentation techniques are used. This is the most flexible fragmentation technique since it generates fragments with minimal extraneous information. However, reconstruction of the original table is often an expensive task.
+**3. Hybrid Fragmentation**: In hybrid fragmentation, a combination of horizontal and vertical fragmentation techniques are used. This is the most flexible fragmentation technique since it generates fragments with minimal extraneous information. However, reconstruction of the original table is often an expensive task.
 
 Hybrid fragmentation can be done in two alternative ways −
 
@@ -116,6 +111,8 @@ It basically made user unaware about the existence of fragments it may be the ve
 5. Improved Performance: We can achieve inter-query and intr-query parallelism by executing multiple queries at different sites by breaking up a query into a number of sub-queries that basically executes in parallel which basically leads to improvement in performance.
 
 ## NoSQL Databases
+NoSQL is an umbrella term to describe any alternative system to traditional SQL databases. NoSQL databases are all quite different from SQL databases. They all use a data model that has a different structure than the traditional row-and-column table model used with relational database management systems (RDBMSs).
+
 
 ### Structured data 
 Structured data is data whose elements are addressable for effective analysis. It has been organized into a formatted repository that is typically a database. It concerns all data which can be stored in database SQL in a table with rows and columns. They have relational keys and can easily be mapped into pre-designed fields. Today, those data are most processed in the development and simplest way to manage information. Example: Relational data. 
@@ -143,6 +140,7 @@ CAP Theorem is a concept that a distributed database system can only have 2 of t
 
 
 ## Types of NoSQL Systems
+NoSQL Databases are mainly categorized into four types: Key-value pair, Column-oriented, Graph-based and Document-oriented. Every category has its unique attributes and limitations. Let's discuss about them one by one:
 ### 1. Key-Value 
 Data is stored in key/value pairs. It is designed in such a way to handle lots of data and heavy load.
 Key-value pair storage databases store data as a hash table where each key is unique, and the value can be a JSON, BLOB(Binary Large Objects), string, etc.
