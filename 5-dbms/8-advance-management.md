@@ -1,4 +1,4 @@
-# Chapter -7 Advance Management OF Data
+# Chapter -8 Advance Management OF Data
 
 In this chapter we shall discuss advance management of data to facilitate efficient and scalable analysis of large amounts of data through DDBMS and NoSQL.
 
@@ -92,7 +92,7 @@ Fragmentation should be done in a way so that the original table can be reconstr
 
 **3. Hybrid Fragmentation**: In hybrid fragmentation, a combination of horizontal and vertical fragmentation techniques are used. This is the most flexible fragmentation technique since it generates fragments with minimal extraneous information. However, reconstruction of the original table is often an expensive task.
 
-Hybrid fragmentation can be done in two alternative ways −
+Hybrid fragmentation can be done in two alternative ways:
 
 1. By generating a set of horizontal fragments; then generate vertical fragments from one or more of the horizontal fragments.
 
