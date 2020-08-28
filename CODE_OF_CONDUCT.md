@@ -1,15 +1,19 @@
-# Contributor Covenant Code of Conduct
+# Contributor Code of Conduct
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. 
+## Scope
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. 
 
-## Our Standards
+## About Us
+We as learners, learn new things from each other everyday and present before you the best of it.    
 
-Maintaining  a positive environment in spirit of teamwork. Using welcoming language and avoiding any other conduct which could reasonably be considered inappropriate as per professional ethics.
+## Our Workflow
+We work in a very simple manner so that it is easy to understand by contributors new and existing both. We all stay connected through social networks like whatsapp, zoom, google meets, skype. On these platforms we do open discussions and share our ideas freely and resolve the problems collectively with the help and support of each other.  
 
 ## Our Responsibilities
+Existing contributors have the right and responsibility to  edit comments, commits, code, issues, and other contributions. 
 
-Project maintainers have the right and responsibility to  edit comments, commits, code, issues, and other contributions.
+## New Contributor Rights
+New contributors can read, ask questions and suggest better ideas if any.
 
 ## Enforcement
 For any kind of support, complaint and query mail us at vaibhavpratapsingh22@gmail.com. 
