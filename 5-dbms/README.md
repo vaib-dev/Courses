@@ -31,4 +31,6 @@ ORDBMS is a DBMS based on the Relational model and object-oriented database mode
 
 ## Chapter 8 - Advanced Management of Data
 
+We will learn about AMD which includes Distributed Data Management System(DDBMS) and NoSQL. 
+
 ## Chapter 9 - MongoDB
