@@ -95,54 +95,13 @@ Now the question comes to the mind is How to measure the performance of a SM? Is
 
 ## Scrum Master Performance Metrics
 
-Measuring the performance of SM is not an easy job, It's like measuring a psychotherapist without knowing what and how they are doing! You can't just measure your SM the same way you do with others. It's just a totally different kind of job. And by measuring it the way you get used to you only bringing harm and decreasing their effectiveness. Here we will discuss different KPIs (Key Performance Indicator):
-
-1. **SATISFACTION**\
-   First one is Satisfaction metric, this we can measure by How happy is the Scrum Team and what is the trend? It's no longer a secret these days that people's satisfaction is the best indicator of future performance. You can use the satisfaction metric over a longer period of time to ensure that the SM supports the team in growing and makes the life of the Scrum Team in the company easier.\
-   Let's look at the metrics: _What?_ Increase of Individual and team happiness.\
-   _Why?_ Improve team performance
-   _How?_ Daily happiness index on the door or happiness radar at the end of sprint. This is generally tracked using NIKO calender.
-   <p align="center"> <img width="500" height="" src="https://www.agilealliance.org/wp-content/uploads/2015/12/Niko-NikoCalendar.png"></p>
-2. **CUSTOMER VALUE**\
-   This metric deals with how do you measure the value towards your customer. Let's have a look at the metric: _What?_ Increase in Customer value\
-   _Why?_ Foster feedback culture & focus on customer satisfaction\
-   _How?_ Option 1: Stakeholder feedback in Sprint Review & Option 2: Net Promoter Score
-   <p align="center"> <img width="" height="400" src="https://cdn2.vectorstock.com/i/1000x1000/27/06/net-promoter-score-formula-with-promoters-vector-21302706.jpg"></p>
-3. **PREDICTABILITY**\
-   Through this metric we can have a look at What did the Scrum Team commit to during the sprint planning, how much they actually going to deliver and how much did they actually deliver at the end of the Sprint. So let's have a look why and how can we do that: _What?_ Improvement of predictability\
-   _Why_ Improve on living the Scrum value i.e Commitment\
-   _How?_ Commitment during Sprint Planning vs. finished deliverables at the end of the Sprint\
-   For ex. Team made a commitment of 20 Sp vs. Delivered 16 Sp
-   This can help the organization to identify how much is the Scrum Team committed to the Sprint goal.
-4. **STABILITY AND THE TREND TOWARDS THE DELIVERY OF FUNCTIONAL SOFTWARE**\
-   This is an important metric, through which you can measure, _What?_ is the success rate of delivering working software at the end of a sprint? You could simplify that notion to the number of stories you deliver to your customer every week. If you don't deliver, you've accomplished nothing. Also note that word, _valuable_. The rate of delivery is meaningless if the software isn’t valuable to the users.\
-   _Why?_ At the end of the day, if you can’t identify the outcome that benefits the business, then creating software for the sake of software is a waste of company money. Every member of the team should be fully versed and informed of how every item in every sprint contributes to an outcome that has business value.
-   _How?_ To measure this type of metric, survey the team to be sure everyone has the same understanding. Some teams even use a point system to track and reward. Usually, there is a direct correlation between those who actively listen and ask questions.
-   <p align="center"> <img width="" height="" src="https://b2twordpress-m4gv95qiadjztm1nqbkl.netdna-ssl.com/wp-content/uploads/2019/01/Agile-Challenges_720.jpg"></p>
-5. **COST OF DELAY**\
-   Through this metric we can have a look at how much money we could or we have saved by removing impediments.
-   _What?_ Reduce waste in the organization\
-   _Why?_ Increase productivity of the team and value flow within the organization\
-   _How_ € saved by removing impediments
-   <p align="center"> <img width="" height="" src="https://www.scaledagileframework.com/wp-content/uploads/2018/04/WSJF_F02-WP2.png"></p>
-6. **ROI OF A SCRUM MASTER**\
-    Here, we will see how to track the results through which SMs can be held accountable. Let us see the metrics:\
-    _What?_ Increase the meeting efficiency\
-    _Why?_ Facilitation of Meetings\
-   _How?_ Cost of average team member \* minutes saved due to meetings becoming more efficient = how much money the SM is saving the organization
-   For ex. 40000€ \* 20min = 8000000€ saved by SM for the organization.
-7. **INTERNAL COST**\
- Let's see how much internal cost are SM decreasing: _What?_ Decrease of internal cost\
- _Why_ Increase the productivity of the Scrum Team\
- _How?_ € per story point = costs per sprint /amount of story points achieved\
- For Ex:- €12 000 per 2-week sprint cost(assuming 8 hours a day)/ 15 (approx) = 800€ per story points can be saved by increasing the productivity of the Scrum Team.
-   <p align="center"> <img width="" height="" src="https://www.researchgate.net/profile/Hazura_Zulzalil/publication/235009023/figure/fig2/AS:667777438339102@1536221956757/elocity-graph-in-agile-Figure-1-shows-velocity-of-an-agile-team-in-10-iterations.ppm"></p>
-All in all, the best KPI is how quickly the SM Master can make himself superfluous without him or she losing value. If the Scrum Team works really self-organized over time and does not need the SM because the team members themselves behave like a SM, then the SM has achieved his goal!
+Measuring the performance of SM is not an easy job, It's like measuring a psychotherapist without knowing what and how they are doing! You can't just measure your SM the same way you do with others. It's just a different kind of job. And by measuring it the way you get used to you only bringing harm and decreasing their effectiveness.\
+There are a lot of KPIs in the market but the best KPI to measure is how quickly the SM Master can make himself superfluous without him or she losing value. If the Scrum Team is self-organizing over time and does not need the SM because the team members themselves behave like a SM, then the SM has achieved his goal! The KPIs are not discussed here and are taken as a separate challenge and will be discussed later.
 
 ## Summary
 
 To summarize, Scrum Master acts as the protector of the team, making sure that everyone is on the right track, and the project is up and running. Scrum master plays a pivotal role in balancing the interests of the other two scrum-roles: the product owner and the development team. To balance these two different forces, the Scrum Master should be cooperative and supportive. Usually, the Scrum Master doesn’t stand between the product owner and the team, rather he/she helps in developing clear communication and results in timely and high-quality project deliveries.
 
-In this article, I've presented ideas and suggestions for devising metrics to measure the performance of the scrum master. Many of these can be captured, reported, and analyzed within the tools and processes the teams are already employing for their development work.
+In this article, I've introduced the topic Scrum Metrics but I haven't presented any metrics yet, this is reserved for the challenge so stay tuned for it.
 
 Lastly, my two scents for SMs, Working software that adds value and satisfies the customer is what really counts. The team's success is the SM success - one does not succeed without the other.
