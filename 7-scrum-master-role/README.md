@@ -2,6 +2,10 @@
 
 This chapter contains the definition of Scrum. This definition consists of the Scrum roles, events, artifacts and the rules that connect them to one another. We will deal with the overall framework of Scrum, Scrum Team, and Scrum Events.
 
+## Chapter 2 - Scrum Master
+
+In this chapter we will talk about who is a Scrum Master and what are the roles and responsibilities of SM in detail. We will also deal with some focus areas which are important for SM and How do we measure the effectiveness of the SM with some metrics.
+
 ## Chapter 3 - Facilitation
 
 Now we are going to discuss one of the stances that the Scrum Master need to master, that is the **Facilitator** stance. This chapter deals with some topics like, what is a facilitator, how to facilitate the event, and how to be a high-quality facilitator and the Science of Facilitation.
