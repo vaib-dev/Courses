@@ -34,31 +34,31 @@ Now let us look at some characteristics of a great moderator.
 
 Perhaps the decisive achievement of moderation is therefore to move the colleagues in the teams from a technical understanding of the problem to a social understanding of the topics. To create this kind of mindset the SM needs to have these 8 most important qualities of a great moderator.
 
-### 1. Natural curiosity:
+### 1. Natural curiosity
 
 To any true moderator, phrases like "I don't know," "I guess so" and "I'm not sure" creates great opportunities. No accomplished moderator will allow any of these answers to be the final word - they need to know more, they need to understand why, and they can help the team articulate their thoughts comfortably.
 
-### 2. Ease in interacting with people:
+### 2. Ease in interacting with people
 
 They should be easily approachable and appreciate people and perspectives, and communicate empathically. Entry should be made easier for quieter participants; dominates are given a hint to become curious about the point of view of the others.
 
-### 3. Ability to remain impartial, open, and unbiased:
+### 3. Ability to remain impartial, open, and unbiased
 
 SM supports each party to be heard and taken seriously by the others with their personal concerns. He/she gives a trustable working environment where all problems can be raised without fear.
 
-### 4. Flexibility:
+### 4. Flexibility
 
 The Scrum Master should be flexible for adopting any change. There might be instances where things will not go as planned but as SM you should easily adapt the situation and help the team to find the best outcome from the meeting/ceremony.
 
-### 5. Strong verbal skills:
+### 5. Strong verbal skills
 
 Effective verbal communication skills include more than just talking. Verbal communication encompasses both how you deliver messages and how you receive them. SMs who can convey information clearly and effectively are highly valued by the team.
 
-### 6. Creating comfort and trust:
+### 6. Creating comfort and trust
 
 One way to build trust is to encourage your team members to see their colleagues as people. Think about creating situations that help them to share personal stories, and to bond. Do this by sharing your personal stories and your weakness with them.
 
-### 7. Be Enthusiastic and Attentive:
+### 7. Be Enthusiastic and Attentive
 
 A good moderation believes in inherenting kinetic energy in every person, Have a high energy level, pay attention to participants and recognize team dynamics. Team dynamics is about managing the relationships and participation of team members.
 
