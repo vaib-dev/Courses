@@ -61,7 +61,7 @@ The following factors encourage moving over to DDBMS:
 ### Scalability
 Scalability refers to the capability of a system to handle a growing amount of work, or its potential to perform more total work in the same elapsed time when processing power is expanded to accommodate growth. A system is said to be scalable if it can increase its workload and throughput when additional resources are added. There are two broad categories for scaling database systems: vertical scaling and horizontal scaling.
 
-<p align="center"><img src="https://bitpanda-academy.imgix.net/nulld4cb2f71-953b-4308-8edc-63408bc35a1b/bitpanda-academy-intermediate-15-scaling-infographic.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&w=2100" height="" width=""></p>
+<p align="center"><img src="https://bitpanda-academy.imgix.net/nulld4cb2f71-953b-4308-8edc-63408bc35a1b/bitpanda-academy-intermediate-15-scaling-infographic.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&w=2100" height="450 width="600"></p>
 
 1. **Vertical scaling**: Vertical scaling, also known as scaling up, is the process of adding resources, such as memory or more powerful CPUs to an existing server. Removing the memory or changing to a less powerful CPU is known as scaling down.
 
@@ -169,6 +169,6 @@ Graph base databases mostly used for social networks, logistics, spatial data.
 
 ## Summary
 
-The chapter contains Distributed Database Management System(DDBMS), advantaged of DDBMS, NoSQL databases and types of NoSQL systems .
+So at the end, we now about DDBMS i.e distributed database management system, its types and advantages. Then we learned about fragmentation, its types.Moving on we discussed network partitioning and partition tolerance. At last we learned about NoSQL, its types with some examples.
 
 In the next chapter we will learn MongoDB.
