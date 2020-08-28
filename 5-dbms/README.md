@@ -23,8 +23,14 @@ Here, we discussed about RDBMS, normalization, advance database applications and
 
 ## Chapter 6 - Extensions of DBMS
 
+Will be Updated soon.
+
 ## Chapter 7 - ORDBMS
 
+ORDBMS is a DBMS based on the Relational model and object-oriented database model. In this we will discuss its features and many more topics in detail. 
+
 ## Chapter 8 - Advanced Management of Data
+
+We will learn about AMD which includes Distributed Data Management System(DDBMS) and NoSQL. 
 
 ## Chapter 9 - MongoDB
