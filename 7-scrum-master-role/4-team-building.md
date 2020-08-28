@@ -15,7 +15,7 @@ Team building is a technique used for improving the efficiency and performance o
 <p align="center"> <img width="700" height="" src="https://user-images.githubusercontent.com/63605352/91078020-4f3f4d00-e642-11ea-90cf-408c1ce0fc2a.jpg"></p>
 Looking at all the benefits of Team Building, you must be wondering, How to Build a Great Team?
 
-### Build a Great Team
+### Building a Great Team
 
 Team building is not a one-time act. It is a step by step process which aims at bringing a desirable change in the organization. Teams are usually formed for a particular task or projects.\
 Forming a great team requires a lot of skills and presence of mind. The person responsible for team building must be able to find out the strengths and weaknesses of the team members and create the right mix of people with different skill sets. He must focus on developing strong interpersonal relations and trust among the team members.\
@@ -41,7 +41,7 @@ Now let us look at what is discussed in the meeting?
 Please, not like this! An effective kickoff meeting establishes trust and transparency among the participants. It aligns everyone on the vision of the project and adds perspective for both team members and clients. Here's how you can run an effective kickoff meeting:
 
 **1. Getting to know each other:** A kick-off is a good opportunity to get to know each other on a human level. Each person briefly describes what they did on their prior project, a personal success, and a professional success.\
-**2. Enthusiasm and motivation of those involved:** Let everyone in the meeting know you appreciate their presence and you are grateful to have them on board and look forward to working together on the project. This makes people feel like they are important and sets a tone of professionalism and courtesy.
+**2. Enthusiasm and motivation of those involved:** Let everyone in the meeting know you appreciate their presence and you are grateful to have them on board and look forward to working together on the project. This makes people feel like they are important and sets a tone of professionalism and courtesy.\
 **3. Scope / Deliverables:** The product owner shares high-level goals for the project over the coming period. Everyone participates in describing and documenting how success will be defined.\
 **4. Core and Desired Capabilities:** Each team member describes their core, existing capabilities followed by a list of any capabilities they would like to develop or improve during the coming project. This helps the team function as a collaborative unit throughout the project to get things done.\
 **5. Collaboration & Communication Plan:** Participants discuss responsibilities for communicating with those outside the team. They then draf working agreements for how they will communicate and identify the role of any tools.\
