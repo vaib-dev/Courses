@@ -169,6 +169,6 @@ Graph base databases mostly used for social networks, logistics, spatial data.
 
 ## Summary
 
-So at the end, we now about DDBMS i.e distributed database management system, its types and advantages. Then we learned about fragmentation, its types.Moving on we discussed network partitioning and partition tolerance. At last we learned about NoSQL, its types with some examples.
+So in the end, now we know what is DDBMS, Fragmentation, its types, and its advantages. We also discussed network partitioning and partition tolerance, and Lastly, we learned about NoSQL, its types with some examples.
 
 In the next chapter we will learn MongoDB.
