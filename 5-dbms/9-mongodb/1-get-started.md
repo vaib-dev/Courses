@@ -21,7 +21,7 @@ So now you are all set to download MongoDB, just click on download button and th
 
 ## Step-3 Installing MongoDB
 
-This is the most important part of the whole process. U have to follow the below mentioned steps very carefully. So now as you have successfully downloaded the MongoDB its time to install it.
+This is the most important part of the whole process. You have to follow the below-mentioned steps very carefully. So now as you have successfully downloaded the MongoDB its time to install it.
 
 ### 1. Run the MongoDB installer
 For example, from the Windows Explorer/File Explorer:
