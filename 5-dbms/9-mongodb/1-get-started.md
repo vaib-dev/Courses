@@ -8,14 +8,14 @@
   ## Step-2 Downloading MongoDB
   Now we will download MongoDB in our local system. Click on Try for free button present at the top-right corner of the website as shown. 
 
-  <img src="https://user-images.githubusercontent.com/54719422/91629607-0bed3180-e9e8-11ea-8c92-b85b5d36a003.png" height="" width="">
+  <p align="center"><img src="https://user-images.githubusercontent.com/54719422/91629607-0bed3180-e9e8-11ea-8c92-b85b5d36a003.png" height="300" width="800"></p>
 
   After clicking on Try Free then U will see three options 1. Cloud 2. On-Premises 3. Tools. We have to select the On-Premises option. Then select the MongoDB community server option as shown.
-  <img src="https://user-images.githubusercontent.com/54719422/91629671-a8afcf00-e9e8-11ea-9e31-430a9196449b.png" height="" width=""> 
+  <p align="center"><img src="https://user-images.githubusercontent.com/54719422/91629671-a8afcf00-e9e8-11ea-9e31-430a9196449b.png" height="300" width="700"></p> 
 
   Now u will see a box at the right side of your screen named Available Downloads. First the Version dropdown, select the latest version of MongoDB to download. In the Platform dropdown, select the operating system u are going to install. In the Package dropdown, select msi. Check all the options u selected twice before you click download.
   
-  <p align="center"><img src="https://user-images.githubusercontent.com/54719422/91629726-0cd29300-e9e9-11ea-9880-6f37bc7754c7.png" height="" width=""></p> 
+  <p align="center"><img src="https://user-images.githubusercontent.com/54719422/91629726-0cd29300-e9e9-11ea-9880-6f37bc7754c7.png" height="300" width=""></p> 
 
 So now you are all set to download MongoDB, just click on download button and the downloading will get started.
 
@@ -39,7 +39,7 @@ You can choose either the Complete (recommended for most users) or Custom setup 
 ### 2. Service Configuration
 Starting in MongoDB 4.0, you can set up MongoDB as a Windows service during the install or just install the binaries.
 
-<img src="https://user-images.githubusercontent.com/54719422/91629976-486e5c80-e9eb-11ea-88f4-77403fa9e75b.png" height-="" width="">
+<p align="center"><img src="https://user-images.githubusercontent.com/54719422/91629976-486e5c80-e9eb-11ea-88f4-77403fa9e75b.png" height-="" width=""></p>
 
 a) Select Install MongoDB as a Service MongoDB as a service.
 b) Run the service as Network Service user (Default).
