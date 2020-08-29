@@ -14,6 +14,3 @@ Existing contributors have the right and responsibility to  edit comments, commi
 
 ## New Contributor Rights
 New contributors can read, ask questions and suggest better ideas if any.
-
-## Enforcement
-For any kind of support, complaint and query mail us at vaibhavpratapsingh22@gmail.com. 
