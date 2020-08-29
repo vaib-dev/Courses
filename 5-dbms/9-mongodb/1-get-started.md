@@ -100,7 +100,7 @@ d) Once you’ve hit enter, you should see something like this:
 
 BOOM! you have successfully completed the setup and installation of MongoDB on your local system. 
 
-## Step-4 Getting Started with MongoDB
+## Step-6 Getting Started with MongoDB
 
 ### 1. Open your cmd prompt
 a) You can open cmd prompt by pressing **Windows+R**. This will display the run window at the bottom of your screen. Now just simply type cmd in the given space and press enter.
