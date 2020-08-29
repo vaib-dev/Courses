@@ -33,4 +33,6 @@ ORDBMS is a DBMS based on the Relational model and object-oriented database mode
 
 We will learn about AMD which includes Distributed Data Management System(DDBMS) and NoSQL. 
 
-## Chapter 9 - MongoDB
+## 9 - MongoDB
+### Chapter - 1 GEt Started
+We will learn how to install MongoDB on your local system. Believe me, this is going to be very easy if you follow the all steps as discussed.
