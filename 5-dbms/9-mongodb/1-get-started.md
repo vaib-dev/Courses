@@ -39,7 +39,7 @@ You can choose either the Complete (recommended for most users) or Custom setup 
 ### 2. Service Configuration
 Starting in MongoDB 4.0, you can set up MongoDB as a Windows service during the install or just install the binaries.
 
-<img src="https://user-images.githubusercontent.com/54719422/91629976-486e5c80-e9eb-11ea-88f4-77403fa9e75b.png" height-="" width="">
+<p align="center"><img src="https://user-images.githubusercontent.com/54719422/91629976-486e5c80-e9eb-11ea-88f4-77403fa9e75b.png" height-="" width=""></p>
 
 a) Select Install MongoDB as a Service MongoDB as a service.
 b) Run the service as Network Service user (Default).
