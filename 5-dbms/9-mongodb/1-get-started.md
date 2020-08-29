@@ -1,4 +1,4 @@
- # Installing MongoDB
+ # Chapter - 1 Installing MongoDB
 
   In this chapter we will install MongoDB 4.4 Community Edition on Windows using the default installation wizard. install MongoDB 4.4 Community Edition on Windows using the default installation wizard. Installing MongoDB in your system includes very simple steps as follows:
 
