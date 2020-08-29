@@ -10,14 +10,14 @@
 
   <img src="https://user-images.githubusercontent.com/54719422/91629607-0bed3180-e9e8-11ea-8c92-b85b5d36a003.png" height="" width="">
 
-  After clicking on Try Free then U will see three options 1. Cloud 2. On-Premises 3. Tools. We have to select On-Premises option. Then select MongoDB community server option as shown.
+  After clicking on Try Free then U will see three options 1. Cloud 2. On-Premises 3. Tools. We have to select the On-Premises option. Then select the MongoDB community server option as shown.
   <img src="https://user-images.githubusercontent.com/54719422/91629671-a8afcf00-e9e8-11ea-9e31-430a9196449b.png" height="" width=""> 
 
   Now u will see a box at the right side of your screen named Available Downloads. First the Version dropdown, select the latest version of MongoDB to download. In the Platform dropdown, select the operating system u are going to install. In the Package dropdown, select msi. Check all the options u selected twice before you click download.
   
   <p align="center"><img src="https://user-images.githubusercontent.com/54719422/91629726-0cd29300-e9e9-11ea-9880-6f37bc7754c7.png" height="" width=""></p> 
 
-So now you are all set to download mongoDB, just click on download button and the downloading will get started.
+So now you are all set to download MongoDB, just click on download button and the downloading will get started.
 
 ## Step-3 Installing MongoDB
 
@@ -41,7 +41,7 @@ Starting in MongoDB 4.0, you can set up MongoDB as a Windows service during the 
 
 <img src="https://user-images.githubusercontent.com/54719422/91629976-486e5c80-e9eb-11ea-88f4-77403fa9e75b.png" height-="" width="">
 
-a) Select Install MongoD as a Service MongoDB as a service.
+a) Select Install MongoDB as a Service MongoDB as a service.
 b) Run the service as Network Service user (Default).
 This is a Windows user account that is built-in to Windows.
 
@@ -83,7 +83,7 @@ f) Now copy the text given below and paste it in the vim editor:
 
 Copy this exact text and paste it in the vim editor.
 
-e) Now save and exit the editor press esc and then type **:wq!** as shown
+e) Now save and exit the editor press "esc" and then type **:wq!** as shown
 <img src="https://miro.medium.com/max/700/1*3JX8Tg3MxhoPqC65r1pfew.png" height="" width="">
 
 g) Congratulations! you have successfully completed the installation process.
@@ -121,11 +121,11 @@ BOOM! MongoDB is now running successfully.
 
 ### 2. Open A New cmd prompt Window
 
-Now in this new window type "mongo". This will run the mongoDB on your system.
+Now in this new window type "mongo". This will run the MongoDB on your system.
 
 <img src="https://user-images.githubusercontent.com/54719422/91631669-fdf3dc80-e9f8-11ea-8354-de0dc05ddbf7.png" height="" width="">
 
-So finally, now you can start playing with mongoDB commands.
+So finally, now you can start playing with MongoDB commands.
 
 
 ## Summary
