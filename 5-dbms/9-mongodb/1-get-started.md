@@ -126,8 +126,12 @@ Now in this new window type "mongo". This will run the MongoDB on your system.
 
 So finally, now you can start playing with MongoDB commands.
 
+## References
+ 1. https://docs.mongodb.com/guides/ 
+ 2. https://medium.com/@LondonAppBrewery/how-to-download-install-mongodb-on-windows-4ee4b3493514
 
 ## Summary
 In this chapter we have completed the installation and setup of the MongoDB on our local system.
 
 From next chapter we will start with the commands that are used in MongoDB.
+
