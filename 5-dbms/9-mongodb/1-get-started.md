@@ -129,6 +129,6 @@ So finally, now you can start playing with MongoDB commands.
 
 
 ## Summary
-In this chapter we have completed the installation, setup the MongoDB on our local system.
+In this chapter we have completed the installation and setup of the MongoDB on our local system.
 
 From next chapter we will start with the commands that are used in MongoDB.
