@@ -52,10 +52,10 @@ There are many ways to start with activities like warm-ups, fast pass or start-u
 **2. C2 - Concepts:** They absorb new information and process it: hearing, seeing, discussing, noting, reflecting, mind games and, above all, participating in short, quick repetition exercises.
 
 - Instructor delivers contents with brief lecture segments (10-20 minutes in length)
-- The instructor leads 1-3 minutes review activities between each lecture segment.
+- The instructor leads 1-3 minutes review activities between each lecture segment
 
 The participants must develop and apply the knowledge themselves. They should transform themselves from pure consumers into active learners. Concept maps, interactive lectures, or jigsaw activities can be used. The trainer only tells and explains the bare essentials. The participants can experience and try.\
-**3. C3 - Concrete practice:** A training which enables the participants to acquire the knowledge themselves, be it in collaboration with others, are regarded as good trainings. Learner uses:
+**3. C3 - Concrete practice:** A training which enables the participants to acquire the knowledge themselves, be it in collaboration with others, are regarded as good training. Learner can:
 
 - Practice a skill or a task using training content
 - Participate in extended active review of what is learned
@@ -69,12 +69,15 @@ Good training does not end with embarrassed silence after the question "Are ther
 
 As an Instructor, you lead the conclusion and celebration activities. The participants work out follow-up activities during the training and thus take the spirit and content of the training with them. It is important that the learning success is made transparent and that it is truly experienced and celebrated by the participants.
 
-Here is a Sample Training Map which you can use as a reference for your class,
+Here is a Sample Training Map which you can use as a reference for your team,
 
 <p align="center"> <img width="700" height="" src="https://user-images.githubusercontent.com/63605352/91640449-eb3fce80-ea1d-11ea-9fc8-18094c5d516a.png"></p>
 
 And here is a link where you can download the ([Template](https://user-images.githubusercontent.com/63605352/91640468-16c2b900-ea1e-11ea-985e-1b375def798d.png)).\
-As teachers, we need to be clear about what it is learners need to know to be able to demonstrate their learning of it. This seems simple enough. The knowledge it takes to do something is inseparable from the doing. The challenge for us arises in separating need - to - know from nice - to - know information, and not becoming sidetracked teaching content that has little to do with the learning.
 
-I have attached the PDF of the book, where you can find more information about this framework.
+I have also attached the PDF of the book, where you can find more information about this framework.
 [Training From the Back of the Room 65 Ways to Step Aside and Let Them Learn.pdf](https://github.com/Vaibhavpratapsingh22/Courses/files/5145338/Training.From.the.Back.of.the.Room.65.Ways.to.Step.Aside.and.Let.Them.Learn.pdf)
+
+## Summary
+
+For SM as a teacher, they need to be clear about what it is learners need to know to be able to demonstrate their learning of it. This seems simple enough. The knowledge it takes to do something is inseparable from the doing. The challenge for us arises in separating need - to - know from nice - to - know information, and not becoming sidetracked teaching content that has little to do with the learning. To help them with this situation the framework which we just saw will come in handy and they should try adjusting it as per the needs of the team.
