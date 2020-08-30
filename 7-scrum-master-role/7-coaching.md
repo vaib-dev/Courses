@@ -2,9 +2,9 @@
 
 Coaching has traditionally been associated with sports. Every top athlete has a coach. In the last few years, coaching has become applicable in every area, in business, and every aspect of life as well as sport. Now, it is quite normal for someone to see a coach to help them achieve their goals in their life and work. Coaching has been defined in many different ways but the essence of coaching is:
 
-- To help a person change in the way they wish and helping them go in the direction they want to go.
-- Coaching supports a person at every level in becoming who they want to be.
-- It builds awareness empowers choice and leads to change.
+- To help a person change in the way they wish and helping them go in the direction they want to go
+- Coaching supports a person at every level in becoming who they want to be
+- It builds awareness empowers choice and leads to change
 
 In short, the responsibility of a coach is not to tell the solution to the coachee but instead to guide them to discover the solution themselves. The coach need not be an expert in their coachee's field of work.
 
@@ -47,7 +47,7 @@ To describe the Scrum Master as a coach, three different perspectives can be use
 
 Coaching empowers and brings out the best in them. SM as a coach helps in unleashing a person’s or a team’s latent potential. This helps to maximize performance with the same amount of effort. It's about empowering people to learn to solve their problems rather than teaching them or solving problems for them. The SM as a coach helps the Scrum Team as well as the organization, adopt Scrum and enhance team and enterprise agility. There are many structures you can use for coaching, one of the structure I commonly use is the GROW model.
 
-<p align="center"> <img width="600" height="" src="https://www.slidesalad.com/wp-content/uploads/2020/04/GROW-Coaching-Model-Google-Slides-Templates-Diagrams-0001.jpg"></p>
+<p align="center"> <img width="600" height="" src="https://user-images.githubusercontent.com/63605352/91663948-2c9eaf80-eaec-11ea-98fb-3438fe2e42b8.jpg"></p>
 
 Now Let's look at the skills that make a Scrum Master an outstanding Scrum coach. SM can use these skills to check if (s)he is doing coaching in a way the chances of success will be the highest.
 
