@@ -149,6 +149,6 @@ Now from above we have learned and understood the operations of database and col
 <img src="https://user-images.githubusercontent.com/54719422/91654558-6ad5a800-eac7-11ea-936a-3b1250df95dd.png" height="" width="">
 
 ## Summary
-Now we learned the basic names and commands used in MongoDB and we can perform different experiments using these.
+Now we have learned how to create, drop databases and collections. So, now you can head over to your command prompt and try to implement the above mentioned commands.
 
 In the next chapter we will learn the CRUD operations used in mongoDB.
