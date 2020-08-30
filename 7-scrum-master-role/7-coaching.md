@@ -6,7 +6,7 @@ Coaching has traditionally been associated with sports. Every top athlete has a 
 - Coaching supports a person at every level in becoming who they want to be
 - It builds awareness empowers choice and leads to change
 
-In short, the responsibility of a coach is not to tell the solution to the coachee but instead to guide them to discover the solution themselves. The coach need not be an expert in their coachee's field of work.
+In short, the responsibility of a coach is not to tell the solution to the coachee but instead to guide them to discover the solution themselves. For this, The coach need not be an expert in their coachee's field of work.
 
 I have found it easier to explain to people what coaching is by explaining what coaching is not. To make the picture more clear let us see some common misinterpretations about coaching.
 
@@ -17,7 +17,11 @@ I have found it easier to explain to people what coaching is by explaining what 
 5. _Counseling_ - is to give professional help and advice to (someone) to resolve personal or professional problems.
 6. _Therapy_ - is working with the client who seeks relief from psychological or physical symptoms.
 
-Now as we have already seen what is coaching, you might be wondering who does the SM coaches.
+Now as we have already seen what is coaching, let's see what and Who a Scrum Master coaches.
+
+## Scrum Master as a Coach
+
+The Scrum Master supports and enables the dev team, the PO, and the organization through coaching to deliver the highest value to the customers, improve the ROI and develop adaptability within the organization.
 
 ## Scrum Master Coaches
 
