@@ -15,7 +15,7 @@ SM educates which boundaries framed the empirical process, what tools and practi
 
 When it comes to teaching, the primary focus for the SM is the Development team and Product Owner. But the SM should also ensure Scrum is understood by everyone else involved with the Scrum team. SM Teaches them:
 
-#### Team
+#### 1. Teach the Team:
 
 **1. Agile:** First thing SM should do is to take the team back to the core of Agile and Scrum within the first week of a new squad. Explaining the Agile manifesto and emphasize that in reality, the customer discovers what he wants, the developers discover how to build it and things will change along the way. Although some team members might have quite a lot of agile experience, it's about getting all on the same page.\
 **2. The core of Scrum:** Using Scrum can be compared with playing chess. You either play it as its rules state, or you don't. Scrum and chess don't fail or succeed. They are either played, or not. Some teams start using Scrum leaving out some of the parts of the framework. Teach them the framework in detail with stating why is it important to use it the way it is. If you want to refer to the ([Scrum Framework](https://github.com/Vaibhavpratapsingh22/Courses/blob/master/7-scrum-master-role/1-scrum.md)).\
