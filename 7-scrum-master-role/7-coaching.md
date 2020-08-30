@@ -47,7 +47,7 @@ To describe the Scrum Master as a coach, three different perspectives can be use
 
 Coaching empowers and brings out the best in them. SM as a coach helps in unleashing a person’s or a team’s latent potential. This helps to maximize performance with the same amount of effort. It's about empowering people to learn to solve their problems rather than teaching them or solving problems for them. The SM as a coach helps the Scrum Team as well as the organization, adopt Scrum and enhance team and enterprise agility. There are many structures you can use for coaching, one of the structure I commonly use is the GROW model.
 
-<p align="center"> <img width="600" height="" src="https://www.slidesalad.com/wp-content/uploads/2020/04/GROW-Coaching-Model-Google-Slides-Templates-Diagrams-0001.jpg"></p>
+<p align="center"> <img width="600" height="" src="https://user-images.githubusercontent.com/63605352/91663948-2c9eaf80-eaec-11ea-98fb-3438fe2e42b8.jpg"></p>
 
 Now Let's look at the skills that make a Scrum Master an outstanding Scrum coach. SM can use these skills to check if (s)he is doing coaching in a way the chances of success will be the highest.
 
