@@ -29,7 +29,7 @@ shopdb
 
 >show dbs\
 local     0.78125GB\
-test      0.23012GB\
+test      0.23012GB
 
 **Note**:Your created database (shopdb) is not present in list. To display database, you need to insert at least one document into it.
 
@@ -69,6 +69,9 @@ The database is now deleted successfully.
 
 
 ## Creating Collections
+On collections we can perform two operations as follows:
+
+### 1. Create Collection
 
 MongoDB db.createCollection(name, options) is used to create collection.
 
@@ -98,5 +101,49 @@ You can check the created collection by using the command show collections.
 mycollection\
 system.indexes
 
+### 2. Delete Collection
+
+In MongoDB db.collection.drop() is used to drop a collection from the database.
+
+**Syntax**: Basic syntax of drop() command is as follows:
+
+    db.COLLECTION_NAME.drop()
+
+**Example**: First, check the available collections into your database employeedb.
+
+>use employeedb\
+switched to db employeedb
+
+>show collections\
+mycol\
+mycollection\
+system.indexes\
+tutorialspoint
+
+>Now drop the collection with the name emp_details.
+
+>db.emp_details.drop()\
+true
+
+>Again check the list of collections into database.
+
+>show collections\
+mycol\
+system.indexes
+
+Now we have successfully deleted the emp_details collection. 
+
+**Note**: Drop() method will return true, if the selected collection is dropped successfully, otherwise it will return false.
+
+
+
 ## Practical 
 Now from above we have learned and understood the operations of database and collections. Now it's time to implement them on your system. As by implementing these commands the concept will get more clear and will be saved in the memory for a long period of time.
+
+### 1. Database Commands
+
+<img src="https://user-images.githubusercontent.com/54719422/91654231-c3f00c80-eac4-11ea-9c48-582d2fcee2e2.png " height="" width="">
+
+### 2. Collections Commands
+
+<img src="https://user-images.githubusercontent.com/54719422/91654558-6ad5a800-eac7-11ea-936a-3b1250df95dd.png" height="" width="">
