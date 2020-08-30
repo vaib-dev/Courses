@@ -17,19 +17,19 @@ Basic syntax of use DATABASE statement is as follows:
 
 **Example**: If you want to use a database with name <shopdb>, then use DATABASE statement would be as follows:
 
->use shopdb
-switched to db shopdb
+    use shopdb
+    switched to db shopdb
 
 **To check your currently selected database**: use the command db
 
->db
-shopdb
+    db
+    shopdb
 
 **If you want to check your databases list**: use the command show dbs.
 
->show dbs\
-local     0.78125GB\
-test      0.23012GB
+    show dbs
+    local     0.78125GB
+    test      0.23012GB
 
 **Note**:Your created database (shopdb) is not present in list. To display database, you need to insert at least one document into it.
 
@@ -46,24 +46,24 @@ This will delete the selected database. If you have not selected any database, t
 **Example**:
 First, check the list of available databases by using the command **show dbs**.
 
->show dbs\
-local      0.78125GB\
-shopdb       0.23012GB\
-test       0.23012GB
+    show dbs
+    local      0.78125GB
+    shopdb       0.23012GB
+    test       0.23012GB
 
-> If you want to delete new database <shopdb>, then dropDatabase() command would be as follows:
+If you want to delete new database <shopdb>, then dropDatabase() command would be as follows:
 
->use shopdb\
-switched to db shopdb\
->db.dropDatabase()
-
->{ "dropped" : "shopdb", "ok" : 1 }
-
->Now check list of databases.
-
->show dbs\
-local      0.78125GB\
-test       0.23012GB
+    use shopdb
+    switched to db shopdb
+    db.dropDatabase()
+    
+    { "dropped" : "shopdb", "ok" : 1 }
+    
+Now check list of databases.
+    
+    show dbs
+    local      0.78125GB
+    test       0.23012GB
 
 The database is now deleted successfully.
 
@@ -89,17 +89,17 @@ Options parameter is optional, so you need to specify only the name of the colle
 
 **Examples**: Basic syntax of createCollection() method without options is as follows:
 
->use test\
-switched to db test\
->db.createCollection("mycollection")\
-{ "ok" : 1 }
+    use test
+    switched to db test
+    db.createCollection("mycollection")
+    { "ok" : 1 }
 
 
 You can check the created collection by using the command show collections.
 
->show collections\
-mycollection\
-system.indexes
+    show collections
+    mycollection
+    system.indexes
 
 ### 2. Delete Collection
 
@@ -111,25 +111,25 @@ In MongoDB db.collection.drop() is used to drop a collection from the database.
 
 **Example**: First, check the available collections into your database employeedb.
 
->use employeedb\
-switched to db employeedb
+    use employeedb
+    switched to db employeedb
+    
+    show collections
+    mycol
+    mycollection
+    system.indexes
+    tutorialspoint
 
->show collections\
-mycol\
-mycollection\
-system.indexes\
-tutorialspoint
+Now drop the collection with the name emp_details.
 
->Now drop the collection with the name emp_details.
+    db.emp_details.drop()
+    true
 
->db.emp_details.drop()\
-true
+Again check the list of collections into database.
 
->Again check the list of collections into database.
-
->show collections\
-mycol\
-system.indexes
+    show collections
+    mycol
+    system.indexes
 
 Now we have successfully deleted the emp_details collection. 
 
@@ -142,7 +142,7 @@ Now from above we have learned and understood the operations of database and col
 
 ### 1. Database Commands
 
-<img src="https://user-images.githubusercontent.com/54719422/91654231-c3f00c80-eac4-11ea-9c48-582d2fcee2e2.png " height="" width="">
+<img src="https://user-images.githubusercontent.com/54719422/91664226-76e35900-eb0b-11ea-89e6-1eb3a3eef31c.png" height="" width="">
 
 ### 2. Collections Commands
 
