@@ -17,3 +17,7 @@ In this chapter, we are going to deal with what is Team Building, How does it wo
 ## Chapter 5 - Moderation
 
 This chapter will be dealing with the subject moderation, what is an event moderator, How to become a great moderator and also, Characteristics of a great moderator?
+
+## Chapter 7 - Coaching
+
+In this chapter we will talk about a very important part of Scrum Master's journey which is Coaching, we will see what is coaching, what is not, who does SM coach, and What. Few other qualities which a coach should possess like, Actively Listening and asking powerful questions.
