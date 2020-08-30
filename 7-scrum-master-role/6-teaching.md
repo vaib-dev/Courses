@@ -73,9 +73,9 @@ Here is a Sample Training Map which you can use as a reference for your team,
 
 <p align="center"> <img width="700" height="" src="https://user-images.githubusercontent.com/63605352/91640449-eb3fce80-ea1d-11ea-9fc8-18094c5d516a.png"></p>
 
-And here is a link where you can download the ([Template](https://user-images.githubusercontent.com/63605352/91640468-16c2b900-ea1e-11ea-985e-1b375def798d.png)).\
+And here is a link where you can download the ([Template](https://user-images.githubusercontent.com/63605352/91640468-16c2b900-ea1e-11ea-985e-1b375def798d.png)).
 
-I have also attached the PDF of the book, where you can find more information about this framework.
+I have also attached the PDF of the book, where you can find more information about this framework.\
 [Training From the Back of the Room 65 Ways to Step Aside and Let Them Learn.pdf](https://github.com/Vaibhavpratapsingh22/Courses/files/5145338/Training.From.the.Back.of.the.Room.65.Ways.to.Step.Aside.and.Let.Them.Learn.pdf)
 
 ## Summary
