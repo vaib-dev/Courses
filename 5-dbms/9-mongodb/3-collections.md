@@ -147,3 +147,8 @@ Now from above we have learned and understood the operations of database and col
 ### 2. Collections Commands
 
 <img src="https://user-images.githubusercontent.com/54719422/91654558-6ad5a800-eac7-11ea-936a-3b1250df95dd.png" height="" width="">
+
+## Summary
+Now we learned the basic names and commands used in MongoDB and we can perform different experiments using these.
+
+In the next chapter we will learn the CRUD operations used in mongoDB.
