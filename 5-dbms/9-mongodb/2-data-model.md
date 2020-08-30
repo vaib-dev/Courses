@@ -35,7 +35,7 @@ MongoDB provides two types of data models. Based on the requirement, you can use
 
 In this model, you can have (embed) all the related data in a single document, it is also known as de-normalized data model.
 
-**Example**: Assume we are getting the details of product in three different documents namely, product name, stock, price, and reviews you can embed all the three documents in a single one as shown below:
+**Example**: Assume we are getting the details of product in three different documents namely, product details, quality, and price you can embed all the three documents in a single one as shown below:
 
 
     {
@@ -84,6 +84,6 @@ In this model, you can refer the sub documents in the original document, using r
             Per_Box: "20rs(7pcs)"
       }
 ## Summary
-In this chapter we learnt about the some properties and the data model design of mongoDB.
+In this chapter we learnt about different properties and the data model design of mongoDB.
 
-In the next chapter we will learn about how to create collections in the database using MongoDB and will perform practical.
+In the next chapter we will learn about how to create collections in the database using MongoDB and will also perform practicals.
