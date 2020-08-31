@@ -6,7 +6,7 @@ So let's learn about these crud operations one by one as follow:
 ## 1. Inserting a document into a collection(Create)
 To insert data into MongoDB collection, you need to use MongoDB's insert() method. We can perform two operations in insert command as follow:
 
-### The insertOne() method
+### 1. The insertOne() method
 If you need to insert only one document into a collection you can use this method.
 
 **Syntax**: The basic syntax of insertOne() command is as follows:
@@ -25,7 +25,7 @@ If you need to insert only one document into a collection you can use this metho
 	}
     )
 
-### The insertMany() method
+### 2. The insertMany() method
 
 You can insert multiple documents using the insertMany() method. To this method you need to pass an array of documents.
 
@@ -63,12 +63,17 @@ You can insert multiple documents using the insertMany() method. To this method 
     	]
     )
 
+### Practical
+Now we will perform practical on our system.\
+**Description**: In the below image we first set the database to employeedb. Then we see that there is collection named emp_details. So we insertOne  document in the collection and then insertMany document in the collection as shown:
+<img src="https://user-images.githubusercontent.com/54719422/91700717-eac94400-eb93-11ea-9d56-8d8961d0159e.png" height="" width="">
+
 
 ## 2. Read Operations
 Read operations retrieve documents from a collection i.e. query a collection for documents. In MongoDB, when you execute find() method, then it displays all fields of a document. To limit this, you need to set a list of fields with value 1 or 0. 1 is used to show the field while 0 is used to hide the fields. MongoDB provides the following methods to read documents from a collection.
 
-### Syntax and Example with command
-Below we will see the syntax and example of read operation:
+### 1. Find() method
+Below we will see the syntax and example of find() method:
 
 **Syntax**: The syntax of find() command is as follow:
    
@@ -90,17 +95,26 @@ Following example will display the title of the document while querying the docu
 
 **Note**: _id field is always displayed while executing find() method, if you don't want this field, then you need to set it as 0.
 
-## Update Operations
-The update() method updates the values in the existing document.
+### Practical
 
-### Syntax and Example with command
-Below we will see the syntax and example of update operation:
+**Description**: In the image we have first performed the simple find() command without any parameters and then we have used the KEY parameter as discussed above.
+
+<img src="https://user-images.githubusercontent.com/54719422/91700850-18ae8880-eb94-11ea-8f16-625d019dbeb5.png" height="" width="">
+
+
+## Update Operations
+The update() method updates the values in the existing document. We can perform four operations using update() method:
+
+### 1. Update() method
+Below we have syntax of update method.
 
 **Syntax**: The basic syntax of update() method is as follows:
 
     db.COLLECTION_NAME.update(SELECTION_CRITERIA,UPDATED_DATA)
 
-### 1. findOneAndUpdate() method
+ The update() method can perform three different operations as discussed below:
+
+### 2. findOneAndUpdate() method
 The findOneAndUpdate() method updates the values in the existing document.
 
 **Syntax**: The basic syntax of findOneAndUpdate() method is as follows:
@@ -150,7 +164,7 @@ Following example updates the age and email values of the document with name 'Ra
      	"phone" : "9000012345"
       }
 
-### 2. updateOne() method
+### 3. updateOne() method
 This methods updates a single document which matches the given filter.
 
 **Syntax**: The basic syntax of updateOne() method is as follows:
@@ -165,7 +179,7 @@ This methods updates a single document which matches the given filter.
     )
 
 
-### 3. updateMany() method
+### 4. UpdateMany() method
 The updateMany() method updates all the documents that matches the given filter.
 
 **Syntax**: The basic syntax of updateMany() method is as follows:
@@ -180,6 +194,12 @@ The updateMany() method updates all the documents that matches the given filter.
     )
 
 
+### Practical
+In this practical we have performed all the update commands as discussed above. Firstly, we have used UpdateOne command by this we have added a new field in the document named salary. Then we use the find() method to see the updated document. Then we have set the salary of all the employees to 2000 who were having the salary grater then 500. Then we have again used the find method to see the changes.
+
+<img src="https://user-images.githubusercontent.com/54719422/91700862-1b10e280-eb94-11ea-94cf-24c05849bfd1.png" height="" width="">
+
+
 ## Delete Operations
 Delete operations remove documents from a collection. MongoDB's remove() method is used to remove a document from the collection. 
 
@@ -190,9 +210,12 @@ Remove method accepts two parameters. One is deletion criteria and second is jus
 
 * **justOne**: (Optional) if set to true or 1, then remove only one document
 
+### Remove() method
+Below we have syntax and example of remove() method:
+
 **Syntax**: Basic syntax of remove() method is as follows:
 
-    db.COLLECTION_NAME.remove(DELLETION_CRITTERIA)
+    db.COLLECTION_NAME.remove(DELETION_CRITERIA)
 
 **Example**: Consider the mycol collection has the following data:
 
@@ -208,25 +231,8 @@ Following example will remove all the documents whose title is 'MongoDB Overview
     {"_id" : ObjectId("507f191e810c19729de860e2"), "title" : "NoSQL Overview" }
     {"_id" : ObjectId("507f191e810c19729de860e3"),  "title" : "Tutorials Point Overview"
 
-## Practical
-
-### 1. Create Operations
-
-<img src="https://user-images.githubusercontent.com/54719422/91700717-eac94400-eb93-11ea-9d56-8d8961d0159e.png" height="" width="">
-
-
-### 2. Read Operations
-
-<img src="https://user-images.githubusercontent.com/54719422/91700850-18ae8880-eb94-11ea-8f16-625d019dbeb5.png" height="" width="">
-
-
-### 3. Update Operations
-
-<img src="https://user-images.githubusercontent.com/54719422/91700862-1b10e280-eb94-11ea-94cf-24c05849bfd1.png" height="" width="">
-
-
-
-### 4. Delete Operations
+### Practical
+In this practical we have removed the data of an employee using remove() method as we have discussed above. 
 
 <img src="https://user-images.githubusercontent.com/54719422/91700876-1ea46980-eb94-11ea-839a-7c041ddc6720.png" height="" width="">
 
