@@ -6,8 +6,7 @@ Coaching has traditionally been associated with sports. Every top athlete has a 
 - Coaching supports a person at every level in becoming who they want to be
 - It builds awareness empowers choice and leads to change
 
-In short, the responsibility of a coach is not to tell the solution to the coachee but instead to guide them to discover the solution themselves. For this, The coach need not be an expert in their coachee's field of work.
-
+In short, the responsibility of a coach is not to tell the solution to the coachee but instead to guide them to discover the solution themselves. For this, The coach need not be an expert in their coachee's field of work.\
 I have found it easier to explain to people what coaching is by explaining what coaching is not. To make the picture more clear let us see some common misinterpretations about coaching.
 
 1. **Consulting:** A consultant provides expertise and solves business problems, or develops business as a whole.
@@ -54,31 +53,32 @@ The Scrum Master coaches the people in the organization to develop a learning or
 - Coach the entire organization in product management with a focus on delivering ongoing business value
 - Support and promote the collaboration of the Scrum teams
 
-Coaching empowers and brings out the best in them. SM as a coach helps in unleashing a person’s or a team’s latent potential. This helps to maximize performance with the same amount of effort. It's about empowering people to learn to solve their problems rather than teaching them or solving problems for them. The SM as a coach helps the Scrum Team as well as the organization, adopt Scrum and enhance team and enterprise agility. There are several coaching models you as SM can refer to. We as a coach should know all the available coaching models. We need to know which one to use when.
+Coaching empowers and brings out the best in them. SM as a coach helps in unleashing a person’s or a team’s latent potential. This helps to maximize performance with the same amount of effort. It's about empowering people to learn to solve their problems rather than teaching them or solving problems for them. The SM as a coach helps the Scrum Team as well as the organization, adopt Scrum and enhance team and enterprise agility. Let's have a look at some models which you can use.
 
 ### Coaching Models
 
-**1. GROW MODEL:**
+There are several coaching models you as SM can refer to. We as a coach should know all the available coaching models. We need to know which one to use when.\
+**1. GROW MODEL:** is a coaching framework used in conversations, meetings and everyday leadership to unlock potential and possibilities. To read more on this model click [here](https://www.mindtools.com/pages/article/newLDR_89.htm).
 
 <p align="center"> <img width="600" height="" src="https://user-images.githubusercontent.com/63605352/91663948-2c9eaf80-eaec-11ea-98fb-3438fe2e42b8.jpg"></p>
 
-To read more on this model click [here](https://www.mindtools.com/pages/article/newLDR_89.htm).\
-**2. OSKAR MODEL:**
+**2. OSKAR MODEL:** Originating from the Solutions Focused Approach the OSKAR coaching model is a powerful framework to help your coaching sessions focus on solutions rather than problems.
 
 <p align="center"> <img width="500" height="350" src="https://i.pinimg.com/originals/83/ba/f3/83baf378c495cfb3e31ba9c9736b7c1b.jpg"></p>
 
 For more information on this model click [here](https://www.personal-coaching-information.com/oskar-coaching-model.html).\
-**3. ACHIEVE MODEL:**
-
-<p align="center"> <img width="500" height="" src="https://www.businessballs.com/pluginfile.php/22441/mod_accelerate/attachments/730/ACHIEVE.png"></p>
-
-Click [here](https://www.businessballs.com/coaching-and-mentoring/achieve-model/) for more info.\
+**3. ACHIEVE MODEL:** It is posited as a methodical and systematic framework for coaching, but with added flexibility and feedback-reactivity compared with GROW. Click [here](https://www.businessballs.com/coaching-and-mentoring/achieve-model/) for more info.\
 **4. SPACE MODEL:** is used in the cognitive-behavioral approaches to coaching. If you want to get more information on this particular model click [here](https://coachcampus.com/coach-portfolios/coaching-models/iani-bacula-space/).\
-**5. POSITIVE MODEL:** This is a model developed from the GROW and ACHIEVE models. To know more click [here](https://www.toolshero.com/management/positive-model-of-coaching/).
+**5. POSITIVE MODEL:** This is a model developed from the GROW and ACHIEVE models. To know more click [here](https://www.toolshero.com/management/positive-model-of-coaching/).\
+**6. SBI MODEL:** CCL’s widely-recognized model for delivering feedback, the Situation-Behavior-Impact Model (SBI), is proven to reduce the anxiety of delivering feedback and also reduce the defensiveness of the recipient. To read more about this model click [here](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-and-impact/).\
+**7. 5D MODEL:** It can be especially useful if the team has found a problem that they want to solve either in an ad hoc discussion or in a separate retrospective meeting. It consists of five phases: Define, Discover, Dream, Design and Deliver. You can run this as a guided discussion, or you can plan exercises to draw out the best ideas. Want to know more click [here](https://github.com/Vaibhavpratapsingh22/Courses/files/5150367/agile42-agile-coaching-guide.pdf).
 
-Now Let's look at the skills that make a Scrum Master an outstanding Scrum coach. SM can use these skills to check if (s)he is doing coaching in a way the chances of success will be the highest.
+<p align="center"> <img width="500" height="" src="https://user-images.githubusercontent.com/63605352/91722404-7cd44b00-eb9a-11ea-91a0-a4de8ab5bb55.JPG
+"></p>
 
 ### Skills for Scrum Master to be a Coach
+
+Now Let's look at the skills that make a Scrum Master an outstanding Scrum coach. SM can use these skills to check if (s)he is doing coaching in a way the chances of success will be the highest.
 
 <p align="center"> <img width="600" height="" src="https://user-images.githubusercontent.com/63605352/91661313-94003380-eadb-11ea-8c95-04370d5179bd.JPG"></p>
 
@@ -92,9 +92,9 @@ This Image explains what kind of listening happens at different levels. Acing th
 A powerful question is unbiased, clarifying, open-ended, inviting, challenging, solution-focused and empowering. By moving away from telling, answering, and solving, the coach takes a stance of asking powerful questions.\
 Being a great coach is NOT about giving the best advice, it's about asking the right questions. Asking Powerful questions Interrupts coachee's though pattern and forces them to shift from Telling to Thinking. Types of Powerful Questions: <p align="center"> <img width="500" height="" src="https://miro.medium.com/max/1880/1*8GnR645lylbn1hN7kJ4lOg.png"></p>
 
-**Art of Powerful Questions:** There is a great quote by Albert Einstein - “If I had an hour to solve a problem and my life depended on the solution, I would spend the first 55 minutes determining the proper question to ask, for once I know the proper question, I could solve the problem in less than five minutes.”\
+**3. Art of Powerful Questions:** There is a great quote by Albert Einstein - “If I had an hour to solve a problem and my life depended on the solution, I would spend the first 55 minutes determining the proper question to ask, for once I know the proper question, I could solve the problem in less than five minutes.”\
 Asking the powerful question is an art that has to be practiced, you cannot make a list of questions and use the same questions every time, but what you can do is listen so closely to your coachee in terms of what they are saying, even reflecting back to them. Doing this will interrupt their thought pattern and it will make them think clearly towards what they want to achieve, this is what asking the right yet powerful questions can do. If you want to read more about this topic then just click [here](https://umanitoba.ca/admin/human_resources/change/media/the-art-of-powerful-questions.pdf).
 
 ## Summary
 
-Coaching is one of the essential skills required for a Scrum Master to be effective. Here we say what is coaching and What is 'NOT'. Along with that, we saw skills which are important for SM to be a coach and finally a few coaching models which would be helpful in your coaching journey. To read more on what are the different types of coach SM is click [here](https://agileforgrowth.com/blog/scrummaster-coach/).
+Coaching is one of the essential skills required for a Scrum Master to be effective. Here we say what is coaching and What is 'NOT'. Along with that, we saw skills which are important for SM to be a coach and finally a few coaching models which would be helpful in your coaching journey.
