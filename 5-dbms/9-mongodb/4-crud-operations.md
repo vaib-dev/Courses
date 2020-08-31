@@ -13,9 +13,17 @@ If you need to insert only one document into a collection you can use this metho
 
     db.COLLECTION_NAME.insertOne(document)
 
-**For Example**: In the below example we are creating a document inside the users collections. We insert three fields that are name, age, status as shown: 
+**For Example**: In the below example we are creating a document inside the empDetails collections. We insert four fields that are First_Name, Last_Name, Date_Of_Birth, e_mail and phone as shown: 
 
-<img src="https://docs.mongodb.com/manual/_images/crud-annotated-mongodb-insertOne.bakedsvg.svg" height="" width="">
+    db.empDetails.insertOne(
+	{
+		First_Name: "Radhika",
+		Last_Name: "Sharma",
+		Date_Of_Birth: "1995-09-26",
+		e_mail: "radhika_sharma.123@gmail.com",
+		phone: "9848022338"
+	}
+    )
 
 ### The insertMany() method
 
@@ -59,9 +67,10 @@ You can insert multiple documents using the insertMany() method. To this method 
 ## 2. Read Operations
 Read operations retrieve documents from a collection i.e. query a collection for documents. In MongoDB, when you execute find() method, then it displays all fields of a document. To limit this, you need to set a list of fields with value 1 or 0. 1 is used to show the field while 0 is used to hide the fields. MongoDB provides the following methods to read documents from a collection.
 
-### Syntax and Examples
+### Syntax and Example with command
+Below we will see the syntax and example of read operation:
 
-**Syntax**:
+**Syntax**: The syntax of find() command is as follow:
    
     db.collection.find({},{KEY: 1 OR 0})   
 
@@ -83,6 +92,9 @@ Following example will display the title of the document while querying the docu
 
 ## Update Operations
 The update() method updates the values in the existing document.
+
+### Syntax and Example with command
+Below we will see the syntax and example of update operation:
 
 **Syntax**: The basic syntax of update() method is as follows:
 
@@ -145,7 +157,7 @@ This methods updates a single document which matches the given filter.
 
     db.COLLECTION_NAME.updateOne(<filter>, <update>)
 
-Example:
+**Example**: Assume we have created a collection named empDetails and inserted three documents in it, now we will update the age of radhika to '30' and email to 'radhika_newemail@gmail.com' shown below:
  
     db.empDetails.updateOne(
 	{First_Name: 'Radhika'},
@@ -160,7 +172,7 @@ The updateMany() method updates all the documents that matches the given filter.
 
     db.COLLECTION_NAME.update(<filter>, <update>)
 
-**Example**: 
+**Example**: Assume we have created a collection named empDetails and inserted three documents in it, now we will update the age of the employee greater than 25 and will set it to 0 as shown: 
 
     db.empDetails.updateMany(
 	{Age:{ $gt: "25" }},
@@ -169,7 +181,10 @@ The updateMany() method updates all the documents that matches the given filter.
 
 
 ## Delete Operations
-Delete operations remove documents from a collection. MongoDB's remove() method is used to remove a document from the collection. remove() method accepts two parameters. One is deletion criteria and second is justOne flag.
+Delete operations remove documents from a collection. MongoDB's remove() method is used to remove a document from the collection. 
+
+### Parameters
+Remove method accepts two parameters. One is deletion criteria and second is justOne flag as explained:
 
 * **deletion criteria**: (Optional) deletion criteria according to documents will be removed
 
@@ -192,3 +207,30 @@ Following example will remove all the documents whose title is 'MongoDB Overview
     db.mycol.find()
     {"_id" : ObjectId("507f191e810c19729de860e2"), "title" : "NoSQL Overview" }
     {"_id" : ObjectId("507f191e810c19729de860e3"),  "title" : "Tutorials Point Overview"
+
+## Practical
+
+### 1. Create Operations
+
+<img src="https://user-images.githubusercontent.com/54719422/91700717-eac94400-eb93-11ea-9d56-8d8961d0159e.png" height="" width="">
+
+
+### 2. Read Operations
+
+<img src="https://user-images.githubusercontent.com/54719422/91700850-18ae8880-eb94-11ea-8f16-625d019dbeb5.png" height="" width="">
+
+
+### 3. Update Operations
+
+<img src="https://user-images.githubusercontent.com/54719422/91700862-1b10e280-eb94-11ea-94cf-24c05849bfd1.png" height="" width="">
+
+
+
+### 4. Delete Operations
+
+<img src="https://user-images.githubusercontent.com/54719422/91700876-1ea46980-eb94-11ea-839a-7c041ddc6720.png" height="" width="">
+
+## Summary
+At last, we learnt all the CRUD operations in MongoDB that are create, read, update and delete a document. After this we also performed practicals on every command.
+
+In the chapter we will learn about sharding method in MongoDB.
