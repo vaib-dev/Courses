@@ -73,8 +73,8 @@ For more information on this model click [here](https://www.personal-coaching-in
 **6. SBI MODEL:** CCL’s widely-recognized model for delivering feedback, the Situation-Behavior-Impact Model (SBI), is proven to reduce the anxiety of delivering feedback and also reduce the defensiveness of the recipient. To read more about this model click [here](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-and-impact/).\
 **7. 5D MODEL:** It can be especially useful if the team has found a problem that they want to solve either in an ad hoc discussion or in a separate retrospective meeting. It consists of five phases: Define, Discover, Dream, Design and Deliver. You can run this as a guided discussion, or you can plan exercises to draw out the best ideas. Want to know more click [here](https://github.com/Vaibhavpratapsingh22/Courses/files/5150367/agile42-agile-coaching-guide.pdf).
 
-<p align="center"> <img width="500" height="" src="https://user-images.githubusercontent.com/63605352/91722404-7cd44b00-eb9a-11ea-91a0-a4de8ab5bb55.JPG
-"></p>
+![5d](https://user-images.githubusercontent.com/63605352/91741916-b49cbc00-ebb5-11ea-8d7c-f01364d2659f.JPG)
+
 
 ### Skills for Scrum Master to be a Coach
 
