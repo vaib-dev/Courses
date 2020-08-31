@@ -18,6 +18,10 @@ In this chapter, we are going to deal with what is Team Building, How does it wo
 
 This chapter will be dealing with the subject moderation, what is an event moderator, How to become a great moderator and also, Characteristics of a great moderator?
 
+## Chapter 6 - Teaching
+
+This chapter deals with one of the many stances of Scrum Master which is Teaching. I'll describe the definition of a teacher, the theoretical viewpoint, some practical examples of what a Scrum Master should teach, and Teaching frameworks.
+
 ## Chapter 7 - Coaching
 
 In this chapter we will talk about a very important part of Scrum Master's journey which is Coaching, we will see what is coaching, what is not, who does SM coach, and What. Few other qualities which a coach should possess like, Actively Listening and asking powerful questions.
