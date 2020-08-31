@@ -21,3 +21,7 @@ This chapter will be dealing with the subject moderation, what is an event moder
 ## Chapter 6 - Teaching
 
 This chapter deals with one of the many stances of Scrum Master which is Teaching. I'll describe the definition of a teacher, the theoretical viewpoint, some practical examples of what a Scrum Master should teach, and Teaching frameworks.
+
+## Chapter 8 - Scrum Master Anti-Patterns
+
+In this chapter, we will see some common anti-patterns of a Scrum Master.
