@@ -85,6 +85,7 @@ Now Let's look at the skills that make a Scrum Master an outstanding Scrum coach
 **1. Active Listening:** The success of all coaching conversations depends on the ability of the coach to listen deeply. It requires practice to listen to what people say. But to be able to listen to what is, it takes a whole lot of letting go. Such as shedding the internal biases, personal agenda, the need for winning, and silencing the inner self. This level of listening requires being in the moment. To explain it further, let's see the _"Active Listening Model"_.
 
 <p align="center"> <img width="" height="500" src="https://www.filepicker.io/api/file/QidCLZ25R3i8kqpTO77w"></p>
+
 This Image explains what kind of listening happens at different levels. Acing the three levels of listening is a vital condition for each coach. The most effective coaching takes place when the coach is at Level 2 and 3. There will be times when coaches will drop into their Level 1 place. As a coach, the key is to notice when you are listening at Level 1 and find your way back “over there” with the client. Sometimes all it takes is asking a provocative, curious question. To read more on this model click [here](https://coachfederation.org/blog/the-art-of-listening). That brings us to next skill.
 
 **2. Powerful Questioning:** The SM uses powerful questions to fuel coaching conversations. SM learns and practices this art of asking questions. What makes a powerful question?\
