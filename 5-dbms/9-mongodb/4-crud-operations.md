@@ -65,7 +65,7 @@ You can insert multiple documents using the insertMany() method. To this method 
 
 ### Practical
 Now we will perform practical on our system.\
-**Description**: In the below image we first set the database to employeedb. Then we see that there is collection named emp_details. So we insertOne  document in the collection and then insertMany document in the collection as shown:
+In the below image we first set the database to employeedb. Then we see that there is collection named emp_details. So we insertOne  document in the collection and then insertMany document in the collection as shown:
 <img src="https://user-images.githubusercontent.com/54719422/91700717-eac94400-eb93-11ea-9d56-8d8961d0159e.png" height="" width="">
 
 
