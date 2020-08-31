@@ -98,14 +98,14 @@ Below we will see the syntax and example of update operation:
 
 **Syntax**: The basic syntax of update() method is as follows:
 
-    db.COLLECTION_NAME.update(SELECTION_CRITERIA,     UPDATED_DATA)
+    db.COLLECTION_NAME.update(SELECTION_CRITERIA,UPDATED_DATA)
 
 ### 1. findOneAndUpdate() method
 The findOneAndUpdate() method updates the values in the existing document.
 
 **Syntax**: The basic syntax of findOneAndUpdate() method is as follows:
 
-    db.COLLECTION_NAME.findOneAndUpdate    (SELECTIOIN_CRITERIA, UPDATED_DATA)
+    db.COLLECTION_NAME.findOneAndUpdate(SELECTIOIN_CRITERIA, UPDATED_DATA)
 
 **Example**: Assume we have created a collection named empDetails and inserted three documents in it as shown below:
 
@@ -148,7 +148,7 @@ Following example updates the age and email values of the document with name 'Ra
      	"Age" : "30",
      	"e_mail" : "radhika_newemail@gmail.com",
      	"phone" : "9000012345"
-     }
+      }
 
 ### 2. updateOne() method
 This methods updates a single document which matches the given filter.
@@ -162,7 +162,7 @@ This methods updates a single document which matches the given filter.
     db.empDetails.updateOne(
 	{First_Name: 'Radhika'},
 	{ $set: { Age: '30',e_mail: 'radhika_newemail@gmail.com'}}
-)
+    )
 
 
 ### 3. updateMany() method
