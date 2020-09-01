@@ -25,3 +25,7 @@ This chapter deals with one of the many stances of Scrum Master which is Teachin
 ## Chapter 7 - Coaching
 
 In this chapter we will talk about a very important part of Scrum Master's journey which is Coaching, we will see what is coaching, what is not, who does SM coach, and What. Few other qualities which a coach should possess like, Actively Listening and asking powerful questions.
+
+## Chapter 8 - Scrum Master Anti-Patterns
+
+In this chapter, we will see some common anti-patterns of a Scrum Master. We'll discuss what kind of behavior is regarded as an anti-pattern for SM in different scenarios which also include Scrum Ceremonies.
