@@ -41,7 +41,7 @@ The choice of shard key affects the performance, efficiency, and scalability of 
 
 
 ## Sharding Strategies
-There are mainly three types of sharding strategies as follow:
+Sharding strategies allows us to fetch data from a shard in a easy and efficient way. There are mainly three types of sharding strategies as follow:
 
 ###  1. Consistent Hash Sharding
 
