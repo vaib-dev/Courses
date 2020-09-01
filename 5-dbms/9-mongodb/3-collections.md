@@ -10,8 +10,7 @@ We can perform two operations on database as follow:
 ### 1. Create Database
 In MongoDB we use **use DATABASE_NAME** is used to create database. The command will create a new database if it doesn't exist, otherwise it will return the existing database.
 
-**Syntax**:\
-Basic syntax of use DATABASE statement is as follows:
+**Syntax**: Basic syntax of use DATABASE statement is as follows:
 
     use database_name
 
@@ -81,11 +80,11 @@ MongoDB db.createCollection(name, options) is used to create collection.
 
 In the command, name is name of collection to be created. Options is a document and is used to specify configuration of collection.
 
-<img src="https://user-images.githubusercontent.com/54719422/91653711-b6388800-eac0-11ea-9335-59b8dc7137fa.png" height="" width="">
+<p align="center"><img src="https://user-images.githubusercontent.com/54719422/91653711-b6388800-eac0-11ea-9335-59b8dc7137fa.png" height="" width=""></p>
 
 Options parameter is optional, so you need to specify only the name of the collection. Following is the list of options you can use as shown:
 
-<img src="https://user-images.githubusercontent.com/54719422/91653771-28a96800-eac1-11ea-9056-efe10f48190a.png" height="" width="">
+<p align="center"><img src="https://user-images.githubusercontent.com/54719422/91653771-28a96800-eac1-11ea-9056-efe10f48190a.png" height="" width=""></p>
 
 **Examples**: Basic syntax of createCollection() method without options is as follows:
 
@@ -142,11 +141,11 @@ Now from above we have learned and understood the operations of database and col
 
 ### 1. Database Commands
 
-<img src="https://user-images.githubusercontent.com/54719422/91664226-76e35900-eb0b-11ea-89e6-1eb3a3eef31c.png" height="" width="">
+<p align="center"><img src="https://user-images.githubusercontent.com/54719422/91664226-76e35900-eb0b-11ea-89e6-1eb3a3eef31c.png" height="" width=""></p>
 
 ### 2. Collections Commands
 
-<img src="https://user-images.githubusercontent.com/54719422/91654558-6ad5a800-eac7-11ea-936a-3b1250df95dd.png" height="" width="">
+<p align="center"><img src="https://user-images.githubusercontent.com/54719422/91654558-6ad5a800-eac7-11ea-936a-3b1250df95dd.png" height="" width=""></p>
 
 ## Summary
 Now we have learned how to create, drop databases and collections. So, now you can head over to your command prompt and try to implement the above mentioned commands.
