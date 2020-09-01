@@ -100,7 +100,7 @@ Now we will perform practical on our system.\
 <img src="https://user-images.githubusercontent.com/54719422/91700850-18ae8880-eb94-11ea-8f16-625d019dbeb5.png" height="" width="">
 
 
-## Update Operations
+## 3. Update Operations
 The update() method updates the values in the existing document. We can perform four operations using update() method:
 
 ### 1. Update() method
