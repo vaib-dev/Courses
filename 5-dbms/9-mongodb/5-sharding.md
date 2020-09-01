@@ -77,8 +77,7 @@ Hash-based sharding, involves a value taken from newly written data — such as 
  In a sharded database architecture, sometimes a shard outgrows other shards and becomes unbalanced, which is also known as database hotspot. In this case any benefits of sharding the database is canceled out. The database would be likely need to be re-sharded to allow for a more even data distribution. Rebalancing has to be built in from the start otherwise while re-sharding, moving data from one shard to another shard requires lot of downtime.
 ### 3. Joining data from multiple shards
  To implement some complex functionalities we may need to pull lot of data from different sources spread across multiple shards. We can’t issue a query and get data from multiple shards. We need to issue multiple queries to different shards, get all the responses and merge them.
-### 4. No Native Support
- Sharding is not natively supported by every database engine. Because of this, sharding often requires a “roll your own”. This means that documentation for sharding or tips for troubleshooting problems are often difficult to find.
+
 
 
 ## Summary
