@@ -94,9 +94,8 @@ Following example will display the title of the document while querying the docu
 
 **Note**: _id field is always displayed while executing find() method, if you don't want this field, then you need to set it as 0.
 
-### Practical
-
-**Description**: In the image we have first performed the simple find() command without any parameters and then we have used the KEY parameter as discussed above.
+Now we will perform practical on our system.\
+ In the image we have first performed the simple find() command without any parameters and then we have used the KEY parameter as discussed above.
 
 <img src="https://user-images.githubusercontent.com/54719422/91700850-18ae8880-eb94-11ea-8f16-625d019dbeb5.png" height="" width="">
 
@@ -192,8 +191,7 @@ The updateMany() method updates all the documents that matches the given filter.
 	{ $set: { Age: '00'}}
     )
 
-
-### Practical
+Now we will perform practical on our system.\
 In this practical we have performed all the update commands as discussed above. Firstly, we have used UpdateOne command by this we have added a new field in the document named salary. Then we use the find() method to see the updated document. Then we have set the salary of all the employees to 2000 who were having the salary grater then 500. Then we have again used the find method to see the changes.
 
 <img src="https://user-images.githubusercontent.com/54719422/91700862-1b10e280-eb94-11ea-94cf-24c05849bfd1.png" height="" width="">
@@ -230,7 +228,7 @@ Following example will remove all the documents whose title is 'MongoDB Overview
     {"_id" : ObjectId("507f191e810c19729de860e2"), "title" : "NoSQL Overview" }
     {"_id" : ObjectId("507f191e810c19729de860e3"),  "title" : "Tutorials Point Overview"
 
-### Practical
+Now we will perform practical on our system.\
 In this practical we have removed the data of an employee using remove() method as we have discussed above. 
 
 <img src="https://user-images.githubusercontent.com/54719422/91700876-1ea46980-eb94-11ea-839a-7c041ddc6720.png" height="" width="">
