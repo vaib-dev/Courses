@@ -31,7 +31,7 @@ Basic syntax of use DATABASE statement is as follows:
     local     0.78125GB
     test      0.23012GB
 
-**Note**:Your created database (shopdb) is not present in list. To display database, you need to insert at least one document into it.
+**Note**: Your created database (shopdb) is not present in the list. To display a database, you need to insert at least one document into it.
 
 ### 2. Drop Database
 
