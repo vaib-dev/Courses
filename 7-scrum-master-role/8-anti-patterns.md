@@ -50,11 +50,11 @@ The Sprint is an event in itself that contains all the work and all the other ev
 
 **1. Flow disruption:** The SM allows stakeholders to disrupt the flow of the Scrum team during the Sprint. There are several possibilities of how stakeholders can interrupt the flow of the team during a Sprint. Any of the examples will impede the team’s productivity. The SM must prevent them from manifesting themselves:
 
-- The SM has a laissez-faire policy as far as access to the development team is concerned.
-- The SM does not oppose line managers taking team members off the team and assigning them other tasks.
-- The SM does not object when the management invites engineers to random meetings as subject matter experts.
-- The SM turns a blind eye to mid-Sprint changes of the Sprint Backlog lacking the approval of Scrum team.
-- Lastly, the SM allows either stakeholders or managers to turn the Daily Scrum into a reporting session.
+- The SM has a laissez-faire policy as far as access to the development team is concerned
+- The SM does not oppose line managers taking team members off the team and assigning them other tasks
+- The SM does not object when the management invites engineers to random meetings as subject matter experts
+- The SM turns a blind eye to mid-Sprint changes of the Sprint Backlog lacking the approval of Scrum team
+- Lastly, the SM allows either stakeholders or managers to turn the Daily Scrum into a reporting session
 
 **2. Assigning sub-tasks to developers:** The Scrum Master does not prevent the product owner or anyone else from assigning tasks directly to engineers. (The development team organizes itself without external intervention. And the Scrum Master is the shield of the team in that respect.)\
 **3. Defining technical solutions:** The engineer turned Scrum Master and is now ‘suggesting’ how the Scrum team is implementing issues.\
@@ -74,7 +74,7 @@ The final meeting in the Sprint is the Sprint Retrospective. This set of anti-pa
 **6. Bullying is accepted:** One or two team members are dominating the retrospective. This communication behavior is often a sign of either a weak or uninterested Scrum Master.\
 **7. Stakeholder alert:** The Scrum Master permits stakeholders to participate in the retrospective. The retrospective is off-limits to stakeholders, and the Scrum Master needs to enforce this rule.
 
-### Scrum Master Antipatterns that May Impair Your Team
+### Scrum Master Anti-Patterns that May Impair Your Team
 
 **1. Competes Against Other Teams:** SM who attempt to motivate the team by citing the performance of other teams within the same program or organization. This is an easy trap to fall into, but is potentially very damaging to team morale.\
 **2. Avoids Conflict:** It is human nature to feel a sense of security and safety, especially in a group setting. If the same issues/conflicts continue to surface within the team, it is very likely that the Scrum Master needs help to address them.\
