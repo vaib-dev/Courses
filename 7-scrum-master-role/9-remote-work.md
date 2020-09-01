@@ -11,7 +11,7 @@ The general intention for Scrum teams is that they are working in the same physi
 Collocation means members of the same development team that are located at the same physical location where face-to-face collaboration among the team members is possible and practiced. Team members seated in the same room may ask one another questions. The answers to which other members of the team may tune in to, contributing to a discussion where the topic is relevant to their work.
 
 <p align="center"> <img width="500" height="" src="https://vitalitychicago.com/wp-content/uploads/2016/10/Co-Located-Team_blog.jpg"></p>
-They benefit from instant feedback cycles and can hold impromptu meetings, which means they can more quickly smooth over misunderstandings and pick up the pace on quick deadlines. Also, employees don’t have to worry about persistent technical breakdowns, such as wifi outages and video call issues.
+They benefit from instant feedback cycles and can hold impromptu meetings, which means they can more quickly smooth over misunderstandings and pick up the pace on quick deadlines. Also, employees don’t have to worry about persistent technical breakdowns, such as wifi outages and video call issues. Let's look at the other way of working which is remotely.
 
 ### Remote Work
 
@@ -41,20 +41,20 @@ These are real problems. But not un-solvable ones. Let's walk through some strat
 
 ### Tips for Remote Work
 
-Agile has always been about colocation, about direct communication, physical boards, and all the other haptic and analog moments to create value in the digital realm. For your remote collaboration to work smoothly, you need a basic setup that offsets the distribution of team members. For starters, free tools are enough to get you started quickly.
+Agile has always been about colocation, about direct communication, physical boards, and all the other haptic and analog moments to create value in the digital realm. For your remote collaboration to work smoothly, you need a basic setup that offsets the distribution of team members. So, here are some important tips you should keep in mind.
 
 <p align="center"> <img width="500" height="" src="https://www.balena.io/blog/content/images/2020/03/remote-working-blog.png"></p>
 
 **1. Keep sessions short:** No one can effectively follow more than 3 to 4 hours of online sessions per day. Preferably, reduce the session length to 2-hour blocks per day and include frequent breaks and activities that entice the engagement of the participants. Have regular breaks to allow for leg stretching, too.\
 **2. Avoid hybrid meetings:** At the moment, the first remote team member joins, everyone joins the events via “dial-in,” too, no matter whether others are co-located or not. The reason for this is that a successful meeting requires an equal distribution of airtime and bandwidth among participants.\
-**3. Be the first one:** As the facilitator of an event, be up & running 5-10 minutes early to ensure, that the setup is working — remember VPN and firewall issues — and those early attendees are admitted to the event and feel appreciated.\
-**4. Working agreement:** Have a working agreement that addresses the basic rules of remote agile events such as mute yourself if you are not talking, or raise your hand if you want to talk, or that the video signal is always on. If the team is working remotely all the time, adding these to the team charter is a good practice. Otherwise, agree on the rules of the game at the beginning of the meeting.\
+**3. Be the first one:** As the facilitator of an event, be up & running 5-10 minutes early to ensure, that the setup is working - remember VPN and firewall issues - and those early attendees are admitted to the event and feel appreciated.\
+**4. Working agreement:** Have a working agreement that addresses the basic rules of remote scrum events such as mute yourself if you are not talking, or raise your hand if you want to talk, or that the video signal is always on. If the team is working remotely all the time, adding these to the team charter is a good practice. Otherwise, agree on the rules of the game at the beginning of the meeting.\
 **5. Prep the team:** You cannot expect that they are familiar with all the tools you will be using during a virtual event. If they feel overwhelmed technically, they may cognitively drop out of the session. Alternatively, you may need to spend much more time on technical issues than planned. Both cases result in an inferior experience.\
 **6. Privacy:** Discuss privacy or confidentiality issues in advance. For example, recording a video of a session might be a good idea if everyone is aware of it and not objecting. Otherwise, the idea of including everyone, giving them a voice, will fail from the start.\
 **7. Be always on:** Be strict with the “video is always on” policy. If you allow avatars instead, people will hide behind them, probably becoming distracted by another task, they decide to tackle. Humans are bad at multi-tasking.\
-**8. Workbooks:** Provide a briefing/workbook for your remote agile event in advance, detailing how to get access to the event technically, how to participate, its ground-rules, what preparation is expected from the participants, or providing the handouts the participants need for the planned session.\
+**8. Workbooks:** Provide a briefing/workbook for your remote scrum event in advance, detailing how to get access to the event technically, how to participate, its ground-rules, what preparation is expected from the participants, or providing the handouts the participants need for the planned session.\
 **9. Time zones:** Be mindful of time zones. Spreading a session over more than 4 to 6 time zones is challenging.\
-**10. Noise:** Make sure that attendees understand that it is vital for the success of the remote agile event that they participate from a quiet place, not the bean sack in the chill corner of the open office. No noise cancellation software can eliminate that level of background noise.\
+**10. Noise:** Make sure that attendees understand that it is vital for the success of the remote scrum event that they participate from a quiet place, not the bean sack in the chill corner of the open office. No noise cancellation software can eliminate that level of background noise.\
 **11. Chat:** Use a backchannel for group-wide and private communication, for example, the build-in chat of video-applications or Slack or MS Teams.
 
 <p align="center"> <img width="500" height="" src="https://miro.medium.com/max/875/0*6IKb9PsA0Qq1y3yS.jpg"></p>
