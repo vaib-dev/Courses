@@ -7,8 +7,7 @@ Shards are implemented by using clusters which are nothing but a group of MongoD
 
 The components of a Shard include:
 
-<img src="https://www.tutorialspoint.com/mongodb/images/sharding.png" height="" width="">
-
+<p alig="center"><img src="https://www.tutorialspoint.com/mongodb/images/sharding.png" height="" width=""></p>
 ### 1. A Shard
  This is the basic thing, and this is nothing but a MongoDB instance which holds the subset of the data. In production environments, all shards need to be part of replica sets.
 ### 2. Config server
@@ -19,13 +18,13 @@ The components of a Shard include:
 ## Sharded and Non-Sharded Collections
 A database can have a mixture of sharded and unsharded collections. Sharded collections are partitioned and distributed across the shards in the cluster. Unsharded collections are stored on a primary shard. Each database has its own primary shard.
 
-<img src="https://docs.mongodb.com/manual/_images/sharded-cluster-primary-shard.bakedsvg.svg" height="" width="">
+<p alig="center"><img src="https://docs.mongodb.com/manual/_images/sharded-cluster-primary-shard.bakedsvg.svg" height="" width=""></p>
 
 ## Shard Keys
 MongoDB uses the shard key to distribute the collection’s documents across shards. The shard key consists of a field or multiple fields in the documents. Documents in sharded collections can be missing the shard key fields. Missing shard key fields are treated as having null values when distributing the documents across shards but not when routing queries. 
 
 
-<img src="https://i2.wp.com/www.kenwalger.com/blog/wp-content/uploads/2017/06/ShardingExample.png?resize=600%2C366" height="" width="">
+<p alig="center"><img src="https://i2.wp.com/www.kenwalger.com/blog/wp-content/uploads/2017/06/ShardingExample.png?resize=600%2C366" height="" width=""></p>
 
 ### The Characteristics Of Shard Key
 
@@ -47,19 +46,19 @@ There are mainly three types of sharding strategies as follow:
 ###  1. Consistent Hash Sharding
 
 Hash-based sharding, involves a value taken from newly written data — such as customer ID number, a client application IP address, Zip Code etc and plugging it into hash function to determine which shards data should go to. Hash value is the shard ID used to determine which shard the incoming data will be stored on. To ensure that entries are placed in the correct shards and in a consistent manner, the values entered into the hash function should all come from the same column. This column is known as a shard key. A shard key should be static, meaning it shouldn’t contain values that might change over time.
-<img src="https://miro.medium.com/max/700/1*OURYaG-VDLTQF-PrbcO4XA.png" height="" width="">
+<p alig="center"><img src="https://miro.medium.com/max/700/1*OURYaG-VDLTQF-PrbcO4XA.png" height="" width=""></p>
 
  ### 2. Range Sharding
 
  Range-based sharding involves sharding the data based on the range of given values. Let’s say you have a database that stores information about the products, a product will be stored in a shard based on the price range it fall into. It is relatively easy to implement, as application code just reads which range the data falls into and writes it to the corresponding shard. The basic idea behind range sharding is shown in the figure below.
 
-<img src="https://miro.medium.com/max/700/1*1FCBTWUliqTM-VYNcd_YHA.png" height="" width="">
+<p alig="center"><img src="https://miro.medium.com/max/700/1*1FCBTWUliqTM-VYNcd_YHA.png" height="" width=""></p>
 
 
 ### 3. Directory Based Sharding
  Directory based sharding maintains a static lookup table which used to keep track of which shard holds which data. Data from the shard key is written to the lookup table along with whatever shard each respective row should be written to.
 
- <img src="https://miro.medium.com/max/700/1*Kp_0zXQVJTkAQSz3DLwHBw.png" height="" width="">
+ <p alig="center"><img src="https://miro.medium.com/max/700/1*Kp_0zXQVJTkAQSz3DLwHBw.png" height="" width=""></p>
 
 ## Advantages Of Sharding
 
@@ -77,8 +76,6 @@ Hash-based sharding, involves a value taken from newly written data — such as 
  In a sharded database architecture, sometimes a shard outgrows other shards and becomes unbalanced, which is also known as database hotspot. In this case any benefits of sharding the database is canceled out. The database would be likely need to be re-sharded to allow for a more even data distribution. Rebalancing has to be built in from the start otherwise while re-sharding, moving data from one shard to another shard requires lot of downtime.
 ### 3. Joining data from multiple shards
  To implement some complex functionalities we may need to pull lot of data from different sources spread across multiple shards. We can’t issue a query and get data from multiple shards. We need to issue multiple queries to different shards, get all the responses and merge them.
-
-
 
 ## Summary
 
