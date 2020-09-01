@@ -197,7 +197,7 @@ In this practical we have performed all the update commands as discussed above. 
 <img src="https://user-images.githubusercontent.com/54719422/91700862-1b10e280-eb94-11ea-94cf-24c05849bfd1.png" height="" width="">
 
 
-## Delete Operations
+## 4. Delete Operations
 Delete operations remove documents from a collection. MongoDB's remove() method is used to remove a document from the collection. 
 
 ### Parameters
