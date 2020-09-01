@@ -28,4 +28,4 @@ In this chapter we will talk about a very important part of Scrum Master's journ
 
 ## Chapter 8 - Scrum Master Anti-Patterns
 
-In this chapter, we will see some common anti-patterns of a Scrum Master.
+In this chapter, we will see some common anti-patterns of a Scrum Master. We'll discuss what kind of behavior is regarded as an anti-pattern for SM in different scenarios which also include Scrum Ceremonies.
