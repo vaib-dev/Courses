@@ -3,7 +3,7 @@ Replica set is a term used for defining a database cluster of multiple nodes wit
 
 In some cases, replication can provide increased read capacity as clients can send read operations to different servers. Maintaining copies of data in different data centers can increase data locality and availability for distributed applications. You can also maintain additional copies for dedicated purposes, such as disaster recovery, reporting, or backup.
 
-<p align="center"><img src="https://miro.medium.com/max/343/0*wB7K2aXtLjMPJY8i.png" height="" width=""></p
+<p align="center"><img src="https://miro.medium.com/max/343/0*wB7K2aXtLjMPJY8i.png" height="" width=""></p>
 
 ## How Replication Works In MongoDB
 
