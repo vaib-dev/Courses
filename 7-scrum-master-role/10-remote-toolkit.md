@@ -1,6 +1,6 @@
 # Chapter 10 - Remote Toolkit
 
-The options are truly endless when it comes to choosing tools for your remote team. After all, it's not a simple task to take an in-person office environment and recreate it virtually. From water cooler chats to daily stand-ups, many aspects of the traditional office need to be recreated so your team can work together with ease. We will see tools on Task management, some tools for how to do brainstorming remotely, and lastly, tools to facilitate meetings And retrospectives. For me what matters is choosing the tool which is the best fit for your team.\
+The options are truly endless when it comes to choosing tools for your remote team. After all, it's not a simple task to take an in-person office environment and recreate it virtually. From water cooler chats to daily stand-ups, many aspects of the traditional office need to be recreated so your team can work together with ease. We will see tools on Task management, some tools for how to do brainstorming remotely, and lastly, tools to facilitate meetings and retrospectives. For me what matters is choosing the tool which is the best fit for your team.\
 So let's start with some tools that can help you manage your task.
 
 ## JIRA
@@ -20,7 +20,7 @@ Now let's have a look at another Task management tool that is Trello.
 
 <p align="center"> <img width="700" height="" src="https://static.vince.run/screenshots/scrum_1.jpg"></p>
 
-As Trello can share thoughts, feedback, or ask questions directly on cards, it lets you be away from updated status meetings. As Trello even syncs well with mobile devices too, corresponding team individuals can receive comment notification either in the desktop application, mobile, or via email. Moreover, Trello mobility delivers extensive performance on Android and iOS devices and also in the Slack platform thus allowing for the execution of any operation from any place. To know more about Trello with scrum click [here](https://blog.trello.com/de/scrum-methode).
+As Trello can share thoughts, feedback, or ask questions directly on cards, it lets you be away from updated status meetings. As Trello even syncs well with mobile devices too, corresponding team individuals can receive comment notification either in the desktop application, mobile, or via email. Moreover, Trello mobility delivers extensive performance on in the Slack platform thus allowing for the execution of any operation from any place. To know more about Trello with scrum click [here](https://blog.trello.com/de/scrum-methode).
 
 ### Jira vs Trello
 
@@ -75,7 +75,8 @@ Google’s [Jamboard](https://gsuite.google.com/products/jamboard/) is a digital
 <p align="center"> <img width="700" height="" src="https://www.mindtools.com/blog/wp-content/uploads/2020/03/Google-Jamboard-Screenshot.jpg"></p>
 Starting Price - Free
 
-To check out the comparison of what all features and benefits are provided by these tools click [here](https://www.capterra.com/whiteboard-software/compare/203471-171956-128955/Jamboard-vs-Mural-vs-RealtimeBoard). Now let's talk about another very important software which enables people to collaborate in ways that haven't traditionally been possible that is GitHub.
+To check out the comparison of what all features and benefits are provided by these tools click [here](https://www.capterra.com/whiteboard-software/compare/203471-171956-128955/Jamboard-vs-Mural-vs-RealtimeBoard).\
+Now let's talk about another very important software which enables people to collaborate in ways that haven't traditionally been possible that is GitHub.
 
 ## GitHub
 
