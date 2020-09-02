@@ -29,3 +29,7 @@ In this chapter we will talk about a very important part of Scrum Master's journ
 ## Chapter 8 - Scrum Master Anti-Patterns
 
 In this chapter, we will see some common anti-patterns of a Scrum Master. We'll discuss what kind of behavior is regarded as an anti-pattern for SM in different scenarios which also include Scrum Ceremonies.
+
+## Chapter 9 - Remote Work
+
+This chapter deals with the most recent challenge which almost every working individual has faced due to the pandemic that is working remotely, in this chapter we will see what is the difference between remote and co-located working, some challenges faced during working remotely, and I will provide some tips to work remotely with few games which you can use in your Sprint Retrospective.
