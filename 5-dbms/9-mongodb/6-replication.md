@@ -3,17 +3,17 @@ Replica set is a term used for defining a database cluster of multiple nodes wit
 
 In some cases, replication can provide increased read capacity as clients can send read operations to different servers. Maintaining copies of data in different data centers can increase data locality and availability for distributed applications. You can also maintain additional copies for dedicated purposes, such as disaster recovery, reporting, or backup.
 
-<img src="https://miro.medium.com/max/343/0*wB7K2aXtLjMPJY8i.png" height="" width="">
+<p align="center"><img src="https://miro.medium.com/max/343/0*wB7K2aXtLjMPJY8i.png" height="" width=""></p
 
 ## How Replication Works In MongoDB
 
 The primary node receives all write operations. A replica set can have only one primary capable of confirming writes although in some circumstances, another mongod instance may transiently believe itself to also be primary. The primary node records all the changes to its data sets in its **operation log**, i.e. oplog.
 
-<img src="https://docs.mongodb.com/manual/_images/replica-set-read-write-operations-primary.bakedsvg.svg" height="" width="">
+<p align="center"><img src="https://docs.mongodb.com/manual/_images/replica-set-read-write-operations-primary.bakedsvg.svg" height="" width=""></p>
 
 The secondaries replicate the primary’s oplog and apply the operations to their data sets such that the secondaries’ data sets reflect the primary’s data set. In case some unexpected issue occurs, causing the primary database downtime (e.g. due to hardware failure or connection interruption), a new election process will be initiated automatically, helping to restore the normal application functioning, no manual intervention required. In such a way, replica set inherits the benefits of usual replication (like failover redundancy, increased data availability and read capacity, disaster recovery, etc.) and simultaneously eliminates the complexity of managing numerous databases separately.
 
-<img src="https://docs.mongodb.com/manual/_images/replica-set-trigger-election.bakedsvg.svg" height="" width="">
+<p align="center"><img src="https://docs.mongodb.com/manual/_images/replica-set-trigger-election.bakedsvg.svg" height="" width=""></p>
 
 The replica set cannot process write operations until the election completes successfully. The replica set can continue to serve read queries if such queries are configured to run on secondaries while the primary is offline. The median time before a cluster elects a new primary should not typically exceed 12 seconds. This includes time required to mark the primary as unavailable and call and complete an election. 
 
