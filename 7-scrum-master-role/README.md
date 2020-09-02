@@ -33,3 +33,7 @@ In this chapter, we will see some common anti-patterns of a Scrum Master. We'll 
 ## Chapter 9 - Remote Work
 
 This chapter deals with the most recent challenge which almost every working individual has faced due to the pandemic that is working remotely, in this chapter we will see what is the difference between remote and co-located working, some challenges faced during working remotely, and I will provide some tips to work remotely with few games which you can use in your Sprint Retrospective.
+
+## Chapter 10 - Remote Toolkit
+
+In this chapter, we will cover an overview of all the tools that are useful for you as a Scrum Master to work remotely. This toolkit will help you to start your project remotely.
