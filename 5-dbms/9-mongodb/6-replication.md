@@ -33,8 +33,8 @@ To avoid these fairly painful situations, you should expand your oplog as your d
 
 The correct size of oplog depends on two things:
 
-* How often you modify the data in your database. The more data you’re changing, the more operations you involve, and, therefore, the more you’re logging to the oplog.
-* The total amount of data you have.
+* How often you modify the data in your database. The more data you’re changing, the more operations you involve, and, therefore, the more you’re logging to the oplog
+* The total amount of data you have
 
 As long as you keep these factors in mind, anticipate correct oplog size, and expand your oplog when necessary, you should be able to avoid any of MongoDB’s most disruptive replication problems.
 
