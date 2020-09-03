@@ -70,11 +70,13 @@ This course will help you in learning how to use Scrum to optimize value, produc
 
            03. Facilitation        04. Team-building
 
-           05. Moderation		   06. Teaching
+           05. Moderation          06. Teaching
 
-    	   07. Coaching            08. Anti-Patterns
+           07. Coaching            08. Anti-Patterns
 
-    	   09. Remote Work         10. Remote Toolkit
+           09. Remote Work         02. Scrum Master
+
+           03. Facilitation        10. Remote Toolkit
 
 ## Support
 
