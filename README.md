@@ -5,7 +5,8 @@
 ## [GitHub](1-github)
 
 This course will comprehensively cover the GitHub hosting service as a companion to the Github Desktop source control tool, which means no prior knowledge or experience is required.
-CONTENTS
+
+    					CONTENTS
 
     1. Aboutgit      2. Repository        3. Clone
 
