@@ -60,7 +60,7 @@ As we know information is not useful if not organized. So in this course, we wil
 
            5. RDBMS
 
-## [Scrum Master](7-scrum-master-role)
+## [Scrum Master Role](7-scrum-master-role)
 
 This course will help you in learning how to use Scrum to optimize value, productivity, and the total cost of ownership of software products. Tools are provided to enable all of you to relate to behavioral shifts, work with people and teams, coach and facilitate techniques, and address the organization. We will learn about the role and various skills here.
 
