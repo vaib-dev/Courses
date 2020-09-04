@@ -37,3 +37,9 @@ This chapter deals with the most recent challenge which almost every working ind
 ## Chapter 10 - Remote Toolkit
 
 In this chapter, we will cover an overview of all the tools that are useful for you as a Scrum Master to work remotely. This toolkit will help you to start your project remotely.
+
+## Challenges
+
+### Challenge 1: Agile Estimation Workshop
+
+This workshop is conducted to help the teams understand what is estimation and different ways of estimating. 
