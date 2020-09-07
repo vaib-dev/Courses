@@ -5,12 +5,12 @@ A computer network is a group of computers that use a set of common communicatio
 The nodes of a computer network may be classified by many means as personal computers, servers, networking hardware, or general purpose hosts. They are identified by host-names and network addresses. Host-names serve as memorable labels for the nodes, rarely changed after initial assignment. Network addresses serve for locating and identifying the nodes by communication protocols such as the Internet Protocol. So now you are aware of what is computer network, lets first understand that how is data communicated between the computers.
 
 ## Data Communication
-Data Communication is defined as the exchange of data between two devices via some form of transmission media such as a cable, wire or it can be air or vacuum also. For a occurrence of data communication, communicating devices must be a part of an communication system made up of a combination of hardware or software devices and programs.
+Data Communication is defined as the exchange of data between two devices via some form of transmission media such as a cable, wire or it can be air or vacuum also. For a occurrence of data communication, communicating devices must be a part of an communication system made up of a combination of hardware or software devices and programs. An example of a data communication system is sending an e-mail. The user which send email act as sender, message is data which user wants to send, receiver is one whom user wants to send message, there are many protocols involved in this entire process, one of them is Simple Mail Transfer Protocol (SMTP), both sender and receiver must have an internet connection which uses a wireless medium to send and receive emai
 
 ### Data Communication System Components :
 There are mainly five components of a data communication system:
 
-<p text align="center"><img src="https://lh3.googleusercontent.com/proxy/fm0WtaNumwCgOthKnJoOEkERinMkmvnuMHLGWt_fvOHqaJriWa3L0bQA8UtAIX_FLcYKRArQGmZpsMYN9WHUjDEbfCr4KSBMO4Mg22KLOnXC1Ci43NJDPjUjBfPYL87ECvKF0JogXiU" height="" width=""></p>
+<p text align="center"><img src="https://miro.medium.com/max/1040/1*fP3Ttc2jUv-qk-jAiVQI1w.jpeg" height="" width=""></p>
 
 **1. Message:** For computers and other electronic devices, when messages are sent they take the form of analog or digital signals.
 Analog transmissions are broadcast as a wave and the protocol of the signal knows where each part of the wave corresponds to a particular part of data. so the peak of the wave may be an A, the trough of the wave B.
@@ -25,23 +25,22 @@ Digital transmission is via a series of voltage pushes, where a positive ‘push
 
 There are two ways to transmit:
 
-a) **Guided:** The message is sent directly to where it is supposed to go. Taking our non-computer analogy, this would be a letter. Only the receiver receives the sent data. In the case of computers. This is primarily via cables, such as Twisted Pair, Coax or Fibre Optics.\
-b) **Unguided:** The message is broadcast so that anyone can receive it, For non-computer analogy, this would be talking in a crowded (but quiet room, maybe a library!) anyone within range can receive the signal. For computers, this is primarily WiFi or Bluetooth.
+a) Guided: The message is sent directly to where it is supposed to go. Taking our non-computer analogy, this would be a letter. Only the receiver receives the sent data. In the case of computers. This is primarily via cables, such as Twisted Pair, Coax or Fibre Optics.
+
+b) Unguided: The message is broadcast so that anyone can receive it, For non-computer analogy, this would be talking in a crowded (but quiet room, maybe a library!) anyone within range can receive the signal. For computers, this is primarily WiFi or Bluetooth.
 
 These transmissions can be sent in three different modes:
 
-a) **Simplex:** only the sender can transmit.
-Half duplex, the sender and receiver can transmit but not at the same time.\
-b) **Full duplex:** both the sender and receiver can send at the same time.
+a) Simplex: only the sender can transmit.\
+b) Half duplex: the sender and receiver can transmit but not at the same time.\
+c) Full duplex: both the sender and receiver can send at the same time.
 
 **5. Set of rules (Protocol):** To govern data communications, various sets of rules had been already designed by the designers of the communication systems, which represent a kind of agreement between communicating devices. These are defined as protocol. If two different devices are connected but there is no protocol among them, there would not be any kind of communication between those two devices. Thus the protocol is necessary for data communication to take place.
-
-**Example of Data Communication:** A typical example of a data communication system is sending an e-mail. The user which send email act as sender, message is data which user wants to send, receiver is one whom user wants to send message, there are many protocols involved in this entire process, one of them is Simple Mail Transfer Protocol (SMTP), both sender and receiver must have an internet connection which uses a wireless medium to send and receive email.
 
 ## Networks
 So as now we know that how the data is transmitted from one computer to another, now the question arises what is a network?. Generally, networks are distinguished based on their geographical span. A network can be as small as distance between your mobile phone and its Bluetooth headphone and as large as the internet itself, covering the whole geographical world.
 
-### Types of networks:
+### Types of networks
 
 ### 1. Personal Area Network
 A Personal Area Network (PAN) is smallest network which is very personal to a user. This may include Bluetooth enabled devices or infra-red enabled devices. PAN has connectivity range up to 10 meters. PAN may include wireless computer keyboard and mouse, Bluetooth enabled headphones, wireless printers and TV remotes.
@@ -72,15 +71,15 @@ As the name suggests,the Wide Area Network (WAN) covers a wide area which may sp
 Distributed data processing is a computer-networking method in which multiple computers across different locations share computer-processing capability. This is in contrast to a single, centralized server managing and providing processing capability to all connected systems. Computers that comprise the distributed data-processing network are located at different locations but interconnected by means of wireless or satellite links.
 
 ### Network Criteria
-There are mainly six types of criteria that a network must provide:
+There are mainly five types of criteria that a network must provide:
 
 **1. Performance**: It is the defined as the rate of transferring error free data. It is measured by the Response Time. Response Time is the elasped time between the end of an inquiry and the beginning of a response. Request a file transfer and start the file transfer. Factors that affect Response Time are:
 
-a) **Number of Users**: More users on a network - slower the network will run\
-b) **Transmission Speed**: speed that data will be transmitted measured in bits per second (bps)\
-c) **Media Type**: Type of physical connection used to connect nodes together\
-d)  **Hardware Type**: Slow computers such as XT or fast such as Pentiums\
-e) **Software Program**: How well is the network operating system (NOS) written
+a) Number of Users: More users on a network - slower the network will run\
+b) Transmission Speed: speed that data will be transmitted measured in bits per second (bps)\
+c) Media Type: Type of physical connection used to connect nodes together\
+d) Hardware Type: Slow computers such as XT or fast such as Pentiums\
+e) Software Program: How well is the network operating system (NOS) written
 
 **2. Consistency**: Consistency is the predictability of response time and accuracy of data. The problems that occurs when your network has consistency issues:
 
@@ -135,7 +134,6 @@ Standards are essential in creating and maintaining an open and competitive mark
 2. **De jure**: Those standards that have been legislated by an officially recognized body are de jure standards. Examples of de jure standards include: ISO(International standard organization), ASCII(American Standard Code for Information Interchange), IEEE(Institute of Electrical and Electronics Engineers) etc.
 
 ## Summary
-
 Above we have covered data communication, networks and network criteria. At last, we have discussed about protocols and standards.
 
 In the next chapter we will learn about basic concepts of computer networks.
