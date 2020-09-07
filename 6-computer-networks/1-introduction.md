@@ -7,7 +7,7 @@ The nodes of a computer network may be classified by many means as personal comp
 ## Data Communication
 Data Communication is defined as the exchange of data between two devices via some form of transmission media such as a cable, wire or it can be air or vacuum also. For a occurrence of data communication, communicating devices must be a part of an communication system made up of a combination of hardware or software devices and programs. An example of a data communication system is sending an e-mail. The user which send email act as sender, message is data which user wants to send, receiver is one whom user wants to send message, there are many protocols involved in this entire process, one of them is Simple Mail Transfer Protocol (SMTP), both sender and receiver must have an internet connection which uses a wireless medium to send and receive emai
 
-### Data Communication System Components :
+### Data Communication System Components
 There are mainly five components of a data communication system:
 
 <p text align="center"><img src="https://miro.medium.com/max/1040/1*fP3Ttc2jUv-qk-jAiVQI1w.jpeg" height="" width=""></p>
