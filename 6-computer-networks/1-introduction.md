@@ -107,9 +107,7 @@ b) File Transfer Protocol (FTP): This application facilities transfer of files f
 
 c) Groupware: These applications are used to automate the administrative functions of a modern office for instance video conferencing and chatting. They facilitate the work of groups and improve on their productivity; they can be used to communicate, co-operate, coordinate, solve problems, compete, negotiate among others.
 
-**2. Standalone network application**:
-
-These are applications that run on stand-alone computers (computers not connected to any other). In order to extend their activity, they are rebuilt to run on network environments e.g. word processors, spreadsheets, database management systems, presentations graphics, project management etc. They function even when the computer is offline.
+**2. Standalone network application**: These are applications that run on stand-alone computers (computers not connected to any other). In order to extend their activity, they are rebuilt to run on network environments e.g. word processors, spreadsheets, database management systems, presentations graphics, project management etc. They function even when the computer is offline.
 
 ## Protocols and Standards
 
@@ -120,13 +118,13 @@ In computer networks, communication occurs between entities in different systems
 
 A protocol is a set of rules that govern data communications. A protocol defines what is communicated, how it is communicated, and when it is communicated. The key elements of a protocol are syntax, semantics, and timing.
 
-**1. Syntax**: The term syntax refers to the structure or format of the data, meaning the order in which they are presented. For example, a simple protocol might expect the first 8 bits of data to be the address of the sender, the second 8 bits to be the address of the receiver, and the rest of the stream to be the message itself.
+**1. Syntax:** The term syntax refers to the structure or format of the data, meaning the order in which they are presented. For example, a simple protocol might expect the first 8 bits of data to be the address of the sender, the second 8 bits to be the address of the receiver, and the rest of the stream to be the message itself.
 
 **2. Semantics**: The word semantics refers to the meaning of each section of bits. How is a particular pattern to be interpreted, and what action is to be taken based on that interpretation? For example, does an address identify the route to be taken or the final destination of the message?
 
 **3. Timing**: The term timing refers to two characteristics: when data should be sent and how fast they can be sent. For example, if a sender produces data at 100 Mbps but the receiver can process data at only 1 Mbps, the transmission will overload the receiver and some data will be lost.
 
-### 2.  Standards:
+### 2. Standards
 Standards are essential in creating and maintaining an open and competitive market for equipment manufacturers and in guaranteeing national and international interoperability of data and telecommunications technology and processes. Standards provide guidelines to manufacturers, vendors, government agencies, and other service providers to ensure the kind of inter-connectivity necessary in today's marketplace and in international communications. Data communication standards fall into two categories: de facto (meaning "by fact" or "by convention") and de jure (meaning "by law" or "by regulation") as discuused below:
 
 1. **De facto**: Standards that have not been approved by an organized body but have been adopted as standards through widespread use are de facto standards. De facto standards are often established originally by manufacturers who seek to define the functionality of a new product or technology. Examples of de facto standards include: the QWERTY keyboard, the Windows operating system.
