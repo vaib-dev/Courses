@@ -1,5 +1,5 @@
 # Chapter - 2 Basic Concepts
-A network is a collection of computers, servers, mainframes, network devices, peripherals, or other devices connected to one another to allow the sharing of data. An example of a network is the Internet, which connects millions of people all over the world. To the right is an example image of a home network with multiple computers and other network devices all connected.
+A network is a collection of computers, servers, mainframes, network devices, peripherals, or other devices connected to one another to allow the sharing of data. An example of a network is the Internet, which connects millions of people all over the world. To the right is an example image of a home network with multiple computers and other network devices all connected. Below we will study line configuration and its types, network topologies and its types, internetworks.
 
 ## Line Configuration
 A network is two or more devices connected through a link. A link is a communication pathway that transfer data from one device to another. Devices can be a computer, printer or any other device that is capable to send and receive data. For visualization purpose, imagine any link as a line drawn between two points.
@@ -35,7 +35,7 @@ More than two devices share the link that is the capacity of the channel is shar
 
 ## Network topologies 
 The term network topology describes the relationship of connected devices in terms of a geometric graph. Devices are represented as vertices, and their connections are represented as edges on the graph. It describes how many connections each device has, in what order, and it what sort of hierarchy.\
-There are six types of topologies as foolows:
+There are six types of topologies as follows:
 ### 1. Bus Topology
 Bus topology is the simplest kind of topology in which a common bus or channel is used for communication in the network. The bus is connected to various taps and droplines. Taps are the connectors, while droplines are the cables connecting the bus with the computer. In other words, there is only a single transmission line for all nodes.\
 When a sender sends a message, all other computers can hear it, but only the receiver accepts it(verifying the mac address attached with the data frame) and others reject it. Bus technology is mainly suited for small networks like LAN, etc.\
@@ -73,7 +73,7 @@ In a ring topology, if a token is free then the node can capture the token and a
 
 ### 3. Star Topology
 Star topology is a computer network topology in which all the nodes are connected to a centralized hub. The hub or switch acts as a middleware between the nodes. Any node requesting for service or providing service, first contact the hub for communication.\
-The central device(hub or switch) has point to point communication link(the dedicated link between the devices which can not be accessed by some other computer) with the devices. The central device then broadcast the message based on the central device used. The hub broadcasts the message, while the switch unicasts the messages by maintaining a switch table. Broadcasting increases unnecessary data traffic in the network.\
+The central device(hub or switch) has point to point communication link(the dedicated link between the devices which can not be accessed by some other computer) with the devices. The central device then broadcast the message based on the central device used. The hub broadcasts the message, while the switch unicasts the messages by maintaining a switch table. Broadcasting increases unnecessary data traffic in the network.
 
 **Advantages of Star topology**
 1. Centralized control.
