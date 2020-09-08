@@ -1,13 +1,12 @@
 # Chapter - 2 Basic Concepts
 A network is a collection of computers, servers, mainframes, network devices, peripherals, or other devices connected to one another to allow the sharing of data. An example of a network is the Internet, which connects millions of people all over the world. To the right is an example image of a home network with multiple computers and other network devices all connected.
 
-## Line Configuration in Computer Networks
+## Line Configuration
 A network is two or more devices connected through a link. A link is a communication pathway that transfer data from one device to another. Devices can be a computer, printer or any other device that is capable to send and receive data. For visualization purpose, imagine any link as a line drawn between two points.
 For communication to occur, two devices must be connected in some way to the same link at the same time. There are two possible types of connections:
 
 1. Point-to-Point Connection
 2. Multi-point Connection
-
 ### Point-to-Point Connection 
 
 A point-to-point connection provides a dedicated link between two devices.
@@ -23,7 +22,6 @@ topologies. It is also the simplest to establish and understand.
 
 
 ### Multi-point Connection 
-
 It is also called Multidrop configuration. In this connection two or more devices share a single link.
 More than two devices share the link that is the capacity of the channel is shared now. With shared capacity, there can be two possibilities in a Multipoint Line configuration:
 
@@ -72,7 +70,6 @@ In a ring topology, if a token is free then the node can capture the token and a
 3. Difficult to reconfigure(we have to break the ring)
 
 <p text align="center"><img src="https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/what-is-network-topology-and-types-of-network-topology-ring-topology-63f83d036a7b39dc.jpg" height="" width=""></p>
-
 
 ### 3. Star Topology
 Star topology is a computer network topology in which all the nodes are connected to a centralized hub. The hub or switch acts as a middleware between the nodes. Any node requesting for service or providing service, first contact the hub for communication.\
@@ -134,5 +131,16 @@ Hybrid Topology is the combination of multiple topologies in a computer network.
 1. Complex design
 2. Expensive to implement
 
-## InternetworkS
+## Internetworks
 
+Internetworking is the practice of connecting a computer network with other networks through the use of gateways that provide a common method of routing information packets between the networks. The resulting system of interconnected networks is called an internetwork, or simply an internet.
+
+The most notable example of internetworking is the Internet, a network of networks based on many underlying hardware technologies, but unified by an internetworking protocol standard, the Internet Protocol Suite, often also referred to as TCP/IP.
+
+## Summary
+
+At the end, we came to now the line conifgurations of networks, types of network topologies and internetworks.
+
+In the next chapter we shall study about The OSI Model.
+
+![edit2](https://img.shields.io/static/v1?label=Source&message=https://afteracademy.com&color=red)![edit](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=<COLOR>)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
