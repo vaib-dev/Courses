@@ -11,7 +11,7 @@ Content will be added soon.
 
 ## Chapter - 3 The OSI Model
 
-Content will be added soon.
+In this chapter we will study the OSI model and TCP/IP model.
 
 ## Chapter - 4 Transmission Media
 
