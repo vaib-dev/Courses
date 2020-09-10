@@ -19,26 +19,26 @@ This layer takes user input, and input from other applications to produce the da
 ### 2. Presentation layer
 The Presentation Layer represents the area that is independent of data representation at the application layer. In general, it represents the preparation or translation of application format to network format, or from network formatting to application format. In other words, the layer “presents” data for the application or the network.
 
- For example, if your company is in Delhi and wants to send some documents to a french company then this layer will convert your document language from English to French. Like this you will be able to send the data in the receiver understandable form. It also compress the data into lower space like if a document is of 10MB then after data compression the document will become of 5MB. To maintain the integrity of data before transmission data is encrypted. Encryption enhances the safety of the data. At the sender side data is encrypted and at the receiver side data is decrypted. SSL is used for the data encryption and decryption.
+ For example, if your company is in Delhi and wants to send some documents to a french company then this layer will convert your document language from English to French. Like this you will be able to send the data in the receiver understandable form. It also compress the data to reduce its size like, if a document is of 10MB then after data compression the document will become of 5MB, thus the speed of data transmission will be increased. To maintain the integrity of data before transmission, data is encrypted. Encryption enhances the safety of the data. At the sender side data is encrypted and at the receiver side data is decrypted. SSL is used for data encryption and decryption.
 
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/92610022-dcd29c00-f2d4-11ea-9e88-ea24b8ecd118.png"></p>
 
 ### 3. Session layer
 The session layer manages a session by initiating the opening and closing of sessions between end-user application processes. This layer also controls single or multiple connections for each end-user application, and directly communicates with both the presentation and the transport layers. The services offered by the session layer are generally implemented in application environments using remote procedure calls (RPCs).
 
-Sessions are most commonly implemented on Web browsers using protocols such as the Zone Information Protocol, the AppleTalk Protocol and the Session Control Protocol. These protocols also manage session restoration through checkpointing and recovery.
+Sessions are most commonly implemented on Web browsers using protocols such as the Zone Information Protocol, the AppleTalk Protocol and the Session Control Protocol. These protocols also manage session restoration through checkpointing and recovery. So that there will be no data loss during the transmission.
 
 The session layer supports full-duplex and half-duplex operations and creates procedures for checkpoint's, adjournment, restart and termination. The session layer is also responsible for synchronizing information from different sources. For example, sessions are implemented in live television programs in which the audio and video streams emerging from two different sources are merged together. This avoids overlapping and silent broadcast time.
 
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/92611522-84040300-f2d6-11ea-9271-0f3933129d9e.png"></p>
 
 ### 4. Transport layer
-The transport layer is the “traffic control” of networks. Some examples of protocols in this layer include TCP (Transmission Control Protocol) and UDP (User Datagram Protocol). The UDP is much faster than TCP but UDP does not provide any feedback that the data is successfully delivered or not whereas TCP provides feedback which means lost data can be re-transmitted in TCP.
+The transport layer is the “traffic control” of networks. Some examples of protocols in this layer include TCP (Transmission Control Protocol) and UDP (User Datagram Protocol). The UDP is much faster than TCP but UDP does not provide any feedback that the data is successfully delivered or not whereas TCP provides feedback which means lost data can be re-transmitted in TCP.\
 This layer controls host-to-host data transfer and dictates how much data to send at once, how fast to send it and who to send it to. It takes care of the data segmentation and reassembly, as well as flow and error control.
 
-**1. Data segmentation**: means dividing up the data into smaller chunks prior to transmission. It is needed when the data being sent is larger than the maximum transmission unit supported by the network, or anytime when sending smaller amounts of data at a time is beneficial. Upon receiving segmented data, the transport layer protocols will also take care of reassembling the data back to its original state.
+**1. Data segmentation**: It means dividing up the data into smaller chunks prior to transmission. It is needed when the data being sent is larger than the maximum transmission unit supported by the network, or anytime when sending smaller amounts of data at a time is beneficial. Upon receiving segmented data, the transport layer protocols will also take care of reassembling the data back to its original state.
 
-**2. Flow and error control** is also an important part of ensuring the proper functioning of a network. When too much data is being sent at a time, network congestions may happen. Then, it is up to the transport layer protocols to decide which data to send first and in what order to send them in to achieve maximum overall efficiency. Still, sometimes, data packets arrive corrupted or out of order. How to recover the original data if that happens is also the task of this layer.
+**2. Flow and error control**: It is also an important part of ensuring the proper functioning of a network. When too much data is being sent at a time, network congestions may happen. Then, it is up to the transport layer protocols to decide which data to send first and in what order to send them in to achieve maximum overall efficiency. Still, sometimes, data packets arrive corrupted or out of order. How to recover the original data if that happens is also the task of this layer.
 
 For example,  consider our mobile is connected to a server and server can transmit the data at a speed of 100MBps but our mobile can only process data maximum at 10MBps. Now if we are downloading a file from the server then it will start transmitting data at a speed of 100MBps but our phone can only process data at maximum 10MBps so in this case with the help of transport layer can tell the server to slow down data transmission rate to 10mbps similarly if server is sending the data at 5mbps then mobile phone tells the server to increase the speed to 10mbps with the help of this layer.  
 
@@ -50,7 +50,7 @@ In order to get from spot A to spot B on any complex network, data needs to be t
 For example, where is the server that stores the homepage of civicinstinct.com? Where on the network is it located? The IP protocol uniquely identifies devices on the network so that the destination of each transmission can be located.
 And in order for your browser to connect to a server across the country, there are a million paths that the data can take. Routing protocols help data travel on an efficient path to the destination.
 
-For example, computer A is connected to network-1 and computerB is connected to network-2. Now computer-B has requested to access facebook.com.  Now there is a reply from Facebook server in the form of packet which has to be delivered to computer-B only. Since in a network each system has a unique IP address. Network layer of Facebook server has already added the sender and receiver address on the packet. So based on IP address on packet the received data packet will first move to the network-2 and then to computer-B.  
+For example, computer A is connected to network-1 and computer B is connected to network-2. So, computer B has requested to access facebook.com.  Now there is a reply from Facebook server in the form of packet which has to be delivered to computer-B only. Since in a network each system has a unique IP address. Network layer of Facebook server has already added the sender and receiver address on the packet. So based on IP address on packet the received data packet will first move to the network-2 and then to computer-B as shown in the below picture.  
 
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/92609284-0939e880-f2d4-11ea-80b6-26d26c2523aa.png"></p>
 
@@ -69,14 +69,12 @@ And at last, we have the physical layer. The physical layer is the lowest layer 
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/92610697-a21d3380-f2d5-11ea-9706-21ef0a68dd06.png"></p>
 
 ### Advantages of the OSI Model
-Here, are major benefits/pros of using the OSI model :
-
+Here, are major benefits/pros of using the OSI model:
 
 1. Protocols can be replaced by new protocols when technology changes
 2. Provide support for connection-oriented services as well as connectionless service
 3. It is a standard model in computer networking
-4. Supports connectionless and connection-oriented services
-5. Offers flexibility to adapt to various types of protocols
+4. Offers flexibility to adapt to various types of protocols
 
 ### Disadvantages of the OSI Model
 Here are some cons/ drawbacks of using OSI Model:
@@ -89,13 +87,9 @@ Here are some cons/ drawbacks of using OSI Model:
 ## TCP/IP Model
 TCP/IP that is Transmission Control Protocol and Internet Protocol was developed by Department of Defence's Project Research Agency (ARPA, later DARPA) as a part of a research project of network interconnection to connect remote machines.
 
-The features that stood out during the research, which led to making the TCP/IP reference model were support for a flexible architecture. Adding more machines to a network was easy. The network was robust, and connections remained intact until the source and destination machines were functioning.
+The features that stood out during the research, which led to making the TCP/IP model were support for a flexible architecture. Adding more machines to a network was easy. The network was robust, and connections remained intact until the source and destination machines were functioning.
 The overall idea was to allow one application on one computer to talk to(send data packets) another application running on different computer.
 When TCP/IP arrived on the scene, it had to conform to the seven layers in the OSI model, but it made things easier on everyone by combining them into the following layers:
-1. Application layer
-2. Transport layer
-3. Internet layer
-4. Network access layer (Subnet)
 
 The following figure shows comparison and relationships of OSI and TCP/IP.
 
@@ -111,8 +105,8 @@ Transport layer builds on the network layer in order to provide data transport f
 
 It determines how much data should be sent where and at what rate. This layer builds on the message which are received from the application layer. It helps ensure that data units are delivered error-free and in sequence.
 
-Transport layer helps you to control the reliability of a link through flow control, error control, and segmentation or de-segmentation.
-The transport layer also offers an acknowledgment of the successful data transmission and sends the next data in case no errors occurred. TCP is the best-known example of the transport layer.
+Transport layer helps you to control the reliability of a link through flow control, error control, and segmentation or de-segmentation.\
+The transport layer also offers an acknowledgment of the successful data transmission and sends the next data in case no errors occurred. TCP is the best-known example of the transport layer although we also have UDP but TCP always stand above of UDP due to reliability factor.
 
 ### 3. Internet Layer
 An internet layer is a second layer of the TCP/IP model. It is also known as a network layer. The main work of this layer is to send the packets from any network, and any computer still they reach the destination irrespective of the route they take.
