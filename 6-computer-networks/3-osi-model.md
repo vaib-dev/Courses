@@ -28,7 +28,7 @@ The session layer manages a session by initiating the opening and closing of ses
 
 Sessions are most commonly implemented on Web browsers using protocols such as the Zone Information Protocol, the AppleTalk Protocol and the Session Control Protocol. These protocols also manage session restoration through checkpointing and recovery.
 
-The session layer supports full-duplex and half-duplex operations and creates procedures for checkpointing, adjournment, restart and termination. The session layer is also responsible for synchronizing information from different sources. For example, sessions are implemented in live television programs in which the audio and video streams emerging from two different sources are merged together. This avoids overlapping and silent broadcast time.
+The session layer supports full-duplex and half-duplex operations and creates procedures for checkpoint's, adjournment, restart and termination. The session layer is also responsible for synchronizing information from different sources. For example, sessions are implemented in live television programs in which the audio and video streams emerging from two different sources are merged together. This avoids overlapping and silent broadcast time.
 
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/92611522-84040300-f2d6-11ea-9271-0f3933129d9e.png"></p>
 
@@ -49,10 +49,10 @@ The network layer is the “post office” of networks. It takes care of the rou
 In order to get from spot A to spot B on any complex network, data needs to be transmitted across the network. But where is spot B? How does the data get there? These are all tasks that the network layer is responsible for.
 For example, where is the server that stores the homepage of civicinstinct.com? Where on the network is it located? The IP protocol uniquely identifies devices on the network so that the destination of each transmission can be located.
 And in order for your browser to connect to a server across the country, there are a million paths that the data can take. Routing protocols help data travel on an efficient path to the destination.
+
 For example, computer A is connected to network-1 and computerB is connected to network-2. Now computer-B has requested to access facebook.com.  Now there is a reply from Facebook server in the form of packet which has to be delivered to computer-B only. Since in a network each system has a unique IP address. Network layer of Facebook server has already added the sender and receiver address on the packet. So based on IP address on packet the received data packet will first move to the network-2 and then to computer-B.  
 
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/92609284-0939e880-f2d4-11ea-80b6-26d26c2523aa.png"></p>
-
 
 ### 6. Data Link layer
 Once the network layer identifies where to send the data, the data link layer takes care of the data transfer between neighbouring network elements. It ensures that the data transfer is error-free over the physical layer.\
@@ -117,9 +117,7 @@ The transport layer also offers an acknowledgment of the successful data transmi
 ### 3. Internet Layer
 An internet layer is a second layer of the TCP/IP model. It is also known as a network layer. The main work of this layer is to send the packets from any network, and any computer still they reach the destination irrespective of the route they take.
 
-The Internet layer offers the functional and procedural method for transferring variable length data sequences from one node to another with the help of various networks.
-
-Message delivery at the network layer does not give any guaranteed to be reliable network layer protocol.
+The Internet layer offers the functional and procedural method for transferring variable length data sequences from one node to another with the help of various networks. Message delivery at the network layer does not give any guaranteed to be reliable network layer protocol.
 
 ### 4. The Network Interface Layer
 Network Interface Layer is this layer of the four-layer TCP/IP model. This layer is also called a network access layer. It helps you to defines details of how data should be sent using the network.
