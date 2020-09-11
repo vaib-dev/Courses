@@ -7,7 +7,7 @@ We shall study about the definition of computer networks. Then we study in brief
 
 ## Chapter - 2 Basic Concepts
 
-
+Basic concepts includes topics like line configuration, types of network topologies and internetworks.
 
 ## Chapter - 3 The OSI Model
 

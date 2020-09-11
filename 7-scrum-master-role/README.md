@@ -42,4 +42,8 @@ In this chapter, we will cover an overview of all the tools that are useful for 
 
 ### Challenge 1: Agile Estimation Workshop
 
-This workshop is conducted to help the teams understand what is estimation and different ways of estimating. 
+This workshop is conducted to help the teams understand what is estimation and different ways of estimating.
+
+### Challenge 2: Coaching PO on good User Stories writing
+
+Here, Scrum Master will have a coaching session with Product Owner to help with writing good User stories for the team.
