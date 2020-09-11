@@ -1,13 +1,13 @@
 # Chapter - 4 Transmission Media
 A transmission medium is something that can mediate the propagation of signals for the purposes of telecommunication.\
-A communication channel that is used to carry the data from the transmitter to the receiver through the electromagnetic signals. The main function of this is to carry the data in the bits form through the Local Area Network (LAN). In data communication, it works like a physical path between the sender & the receiver. For instance, in a copper cable network the bits are available in the form of electrical signals whereas in a fiber network, the bits are available in the form of light pulses. The quality, as well as characteristics of data transmission, can be determined from the characteristics of medium & signal. The properties of different transmission media are delay, bandwidth, maintenance, cost, and easy installation.
+A communication channel is used to carry the data from the transmitter to the receiver through the electromagnetic signals. The main function of this is to carry the data in the bits form through the Local Area Network (LAN). In data communication, it works like a physical path between the sender & the receiver. For instance, in a copper cable network the bits are available in the form of electrical signals whereas in a fiber network, the bits are available in the form of light pulses. The quality, as well as characteristics of data transmission, can be determined from the characteristics of medium & signal. The properties of different transmission media are delay, bandwidth, maintenance, cost, and easy installation.
 
 There are two types of transmission medium and they are further divided as shown:
 
 <p text align="center"><img src="https://2.bp.blogspot.com/-E8JoKtDghuM/Wb4UARmOhKI/AAAAAAAABBI/BiLWG8-XwPEkG4_-q8n7rv1kk1NQLT6-wCLcBGAs/s1600/transmission-mediums.png" height="" width=""></p>
 
 ## 1. Guided Medium
-Guided transmission media are also called bounded media or wired media. They comprise cables or wires through which data is transmitted. They are called guided since they provide a physical conduit from the sender device to the receiver device. The signal traveling through these media are bounded by the physical limits of the medium.\
+Guided transmission media are also called bounded media or wired media. They comprise cables or wires through which data is transmitted. They are called guided since they provide a physical conduct from the sender device to the receiver device. The signal traveling through these media are bounded by the physical limits of the medium.\
 Twisted-pair and coaxial cable use metallic (copper) conductors that accept and transport signals in the form of electric current. Optical fiber is a cable that accepts and transports signals in the form of light.
 
 ### Twisted Pair Cable
@@ -46,9 +46,12 @@ Optical fibres use reflection to guide light through a channel. A glass or plast
 
 There are three modes of operation for optical fibers as discussed:
 
-1. **Multimode step-index fiber**: In this the density of the core remains constant from the center to the edges. A beam of light moves through this constant density in a straight line until it reaches the interface of the core and the cladding.
+1. **Single Mode**: Single mode uses step-index fibre and a highly focused source of light that limits beams to a small range of angles, all close to the horizontal. The single-mode fibre itself is manufactured with a much smaller diameter than that of multimode fibre, and with substantially lower density.
+The decrease in density results in a critical angle that is close enough to 90 degree to make the propagation of beams almost horizontal.
+
+2. **Multimode step-index fiber**: In this the density of the core remains constant from the center to the edges. A beam of light moves through this constant density in a straight line until it reaches the interface of the core and the cladding.
 The term step-index refers to the suddenness of this change, which contributes to the distortion of the signal as it passes through the fiber.
-2. **Multimode graded-index fiber**: In this distortion gets decreases through the cable. The word index here refers to the index of refraction. This index of refraction is related to the density. A graded-index fiber, therefore, is one with varying densities. Density is highest at the center of the core and decreases gradually to its lowest at the edge.
+3. **Multimode graded-index fiber**: In this distortion gets decreases through the cable. The word index here refers to the index of refraction. This index of refraction is related to the density. A graded-index fiber, therefore, is one with varying densities. Density is highest at the center of the core and decreases gradually to its lowest at the edge.
 
 <p text align="center"><img src="https://www.studytonight.com/computer-networks/images/bounded-transmission-media-9.png" height="" width=""></p>
 
@@ -59,9 +62,7 @@ Unguided medium transport electromagnetic waves without using a physical conduct
 The below figure shows the part of the electromagnetic spectrum, ranging from 3 kHz to 900 THz, used for wireless communication.
 
 ### Radio Waves
-Electromagnetic waves ranging in frequencies between 3 KHz and 1 GHz are normally called radio waves.
-
-Radio waves are omnidirectional. When an antenna transmits radio waves, they are propagated in all directions. This means that the sending and receiving antennas do not have to be aligned. A sending antenna send waves that can be received by any receiving antenna. The omnidirectional property has disadvantage, too. The radio waves transmitted by one antenna are susceptible to interference by another antenna that may send signal suing the same frequency or band.
+Electromagnetic waves ranging in frequencies between 3 KHz and 1 GHz are normally called radio waves. Radio waves are omnidirectional. When an antenna transmits radio waves, they are propagated in all directions. This means that the sending and receiving antennas do not have to be aligned. A sending antenna send waves that can be received by any receiving antenna. The omnidirectional property has disadvantage, too. The radio waves transmitted by one antenna are susceptible to interference by another antenna that may send signal suing the same frequency or band.
 
 Radio waves, particularly with those of low and medium frequencies, can penetrate walls. This characteristic can be both an advantage and a disadvantage. It is an advantage because, an AM radio can receive signals inside a building. It is a disadvantage because we cannot isolate a communication to just inside or outside a building.
 
@@ -77,26 +78,24 @@ Infrared waves, with frequencies from 300 GHz to 400 THz, can be used for short-
 
 When we use infrared remote control, we do not interfere with the use of the remote by our neighbours. However, this same characteristic makes infrared signals useless for long-range communication. In addition, we cannot use infrared waves outside a building because the sun's rays contain infrared waves that can interfere with the communication.
 
-<p text align="center"><img src="https://www.scienceabc.com/wp-content/uploads/ext-www.scienceabc.com/wp-content/uploads/2016/03/tv-remote-control.jpg-.jpg" height="" width=""></p>
+<p text align="center"><img src="https://www.scienceabc.com/wp-content/uploads/ext-www.scienceabc.com/wp-content/uploads/2016/03/tv-remote-control.jpg-.jpg" height="200" width="350"></p>
 
 
 ## Tansmission Impairment
-Signals travel through transmission media, which are not perfect. The imperfection causes signal impairment. This means that the signal at the beginning of the medium is not the same as the signal at the end of the medium. What is sent is not what is received.
+Signals travel through transmission media, which are not perfect. The imperfection causes signal impairment. This means that the signal at the beginning of the medium is not the same as the signal at the end of the medium. What is sent is not what is received. The three different causes of impairment are attenuation, distortion, and noise.
 
-The three different causes of impairment are attenuation, distortion, and noise.
-
-### Attenuation
+### 1. Attenuation
 
 Attenuation means a loss of energy. When a signal, simple or composite, travels through a medium, it loses some of its energy in overcoming the resistance of the medium. That is why a wire carrying electric signals gets warm, if not hot, after a while. Some of the electrical energy in the signal is converted to heat. To compensate for this loss, amplifiers are used to amplify the signal. The following figure shows the effect of attenuation and amplification.
 
 <p text align="center"><img src="http://www.myreadingroom.co.in/images/stories/docs/dcn/Transmission%20Impairment_Attenuation.JPG"></p>
 
-###  Distortion
-Distortion means that the signal changes its form or shape. Distortion can occur in a composite signal made of different frequencies. Each signal component has its own propagation speed (see the next section) through a medium and, therefore, its own delay in arriving at the final destination. Differences in delay may create a difference in phase if the delay is not exactly the same as the period duration. In other words, signal components at the receiver have phases different from what they had at the sender. The shape of the composite signal is therefore not the same. The following figure shows the effect of distortion on a composite signal.
+### 2. Distortion
+Distortion means that the signal changes its form or shape. Distortion can occur in a composite signal made of different frequencies. Each signal component has its own propagation speed through a medium and, therefore, its own delay in arriving at the final destination. Differences in delay may create a difference in phase if the delay is not exactly the same as the period duration. In other words, signal components at the receiver have phases different from what they had at the sender. The shape of the composite signal is therefore not the same. The following figure shows the effect of distortion on a composite signal.
 
 <p text align="center"><img src="http://www.myreadingroom.co.in/images/stories/docs/dcn/Transmission%20Impairment_Distortion.JPG"></p>
 
-### Noise
+### 3. Noise
 Noise is another cause of impairment. Several types of noise, such as thermal noise, induced noise, crosstalk, and impulse noise, may corrupt the signal. Thermal noise is the random motion of electrons in a wire which creates an extra signal not originally sent by the transmitter. Induced noise comes from sources such as motors and appliances.
 
 <p text align="center"><img src="http://www.myreadingroom.co.in/images/stories/docs/dcn/Transmission%20Impairment_noise.JPG"></p>
@@ -114,12 +113,12 @@ The time required for a signal or bit to travel from one point to another is Pro
 
 Calculate Propagation Time using the following formulae:
 
-<p text align="center"><img src="https://studyopedia.com/wp-content/uploads/2018/04/Propagation-Time.png"></p>
+    Propagation time = Distance / Propagation speed
 
 ### 3. Propagation Speed
 The distance a signal or bit travels through a transmission medium in one second. For electromagnetic signals, the propagation medium depends on the medium and frequency of the signal.
 
-## Shannon capacity
+## Shannon Capacity
 Shannon's Theorem gives an upper bound to the capacity of a link, in bits per second (bps), as a function of the available bandwidth and the signal-to-noise ratio of the link.
 The Theorem can be stated as:
 

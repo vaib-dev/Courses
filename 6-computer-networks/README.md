@@ -14,7 +14,7 @@ We shall study about the definition of computer networks. Then we study in brief
 In this chapter we will study the OSI model and TCP/IP model.
 
 ## Chapter - 4 Transmission Media
-
+The chapter will teach you about different types of transmission media, transmission impairment, Performance and shannon capacity. 
 
 
 ## Chapter - 5 Error Detection and Correction
