@@ -131,7 +131,9 @@ The signal-to-noise ratio (S/N) is usually expressed in decibels (dB).
 <p text align="center"><img src="https://www.sharetechnote.com/image/Communication_ChannelCapcity_01.png"></p>
 
 For example: For a typical telephone line with a signal-to-noise ratio of 30dB and an audio bandwidth of 3kHz, we get a maximum data rate of:\
-C = 3000 * log2(1001)\
+
+    C = 3000 * log2(1001)
+
 which is a little less than 30 kbps
 
 ## Summary
