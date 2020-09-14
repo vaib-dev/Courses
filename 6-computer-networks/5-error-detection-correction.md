@@ -21,7 +21,7 @@ Errors can be classified into two categories:
 The basic approach used for error detection is the use of redundancy bits, where additional bits are added to facilitate the detection of errors. So lets understand what are the redundant bits. 
 ###  Redundancy
 The central concept in detecting or correcting errors is redundancy. To be able to detect or correct errors, we need to send some extra bits with our data. These redundant bits are added by the sender and removed by the receiver. Their presence allows the receiver to detect or correct corrupted bits. The concept of including extra information in the transmission for error detection is a good one. But instead of repeating the entire data stream, a shorter group of bits may be appended to the end of each unit. This technique is called redundancy because the extra bits are redundant to the information: they are discarded as soon as the accuracy of the transmission has been determined. In this context the redundant bits are called as “Parity Bits”
-##  1. Vertical Redundancy Check(VRC)
+## Vertical Redundancy Check(VRC)
 Vertical redundancy check (VRC) is an error-checking method used on an eight-bit ASCII character. In VRC, a parity bit is attached to each byte of data, which is then tested to determine whether the transmission is correct. VRC is considered an unreliable error-detection method because it only works if an even number of bits is distorted.
 
 ### Example 
@@ -39,7 +39,7 @@ It can also detect burst errors but only in those cases where number of bits cha
 
 **Disadvantages**: The major disadvantage of using this method for error detection is that it is not able to detect burst error if the number of bits changed is even, i.e. 2, 4, 6, 8, …….etc.
 
-## 2. Longitudinal Redundancy Check(LRC)
+## Longitudinal Redundancy Check(LRC)
 A longitudinal redundancy check (LRC) is an error-detection method for determining the correctness of transmitted and stored data.
 
 LRC verifies the accuracy of stored and transmitted data using parity bits. It is a redundancy check applied to a parallel group of bit streams. The data to be transmitted is divided into transmission blocks into which additional check data is inserted.
@@ -56,7 +56,7 @@ Then the receiver also performs the same calculations and check wether the LRC n
 
 **Disadvantages**: If two bits in one data unit are damaged and two bits in exactly the same positions in another data unit are also damaged, the LRC checker will not detect an error.
 
-## 3. Cyclic Redundancy Check(CRC)
+## Cyclic Redundancy Check(CRC)
 In CRC, a sequence of redundant bits, called cyclic redundancy check bits, are appended to the end of data unit so that the resulting data unit becomes exactly divisible by a second, predetermined binary number.
 At the destination, the incoming data unit is divided by the same number. If at this step there is no remainder, the data unit is assumed to be correct and is therefore accepted.
 A remainder indicates that the data unit has been damaged in transit and therefore must be rejected.
@@ -73,7 +73,7 @@ Then the receiver will again performs division and if the remainder comes to be 
 
 **Advantages**: CRC detects larger proportion of errors as compared to the others. CRC can be applied to larger blocks of data.
 
-## 4. Checksum
+## Checksum
 In checksum error detection scheme, the data is divided into k segments each of m bits. In the sender’s end the segments are added using 1’s complement arithmetic to get the sum. The sum is complemented to get the checksum. The checksum segment is sent along with the data segments.\
 At the receiver’s end, all received segments are added using 1’s complement arithmetic to get the sum. The sum is complemented. If the result is zero, the received data is accepted; otherwise discarded.
 

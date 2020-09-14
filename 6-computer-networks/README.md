@@ -18,8 +18,7 @@ The chapter will teach you about different types of transmission media, transmis
 
 
 ## Chapter - 5 Error Detection and Correction
-
-
+Here we will study about types of errors that occurs in transmission of data and how to detect and correct them.
 
 ## Chapter - 6  Basics of IP Networking
 
