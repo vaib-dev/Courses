@@ -97,11 +97,11 @@ Error Correction codes are used to detect and correct the errors when data is tr
 
 A single additional bit can detect the error, but cannot correct it. For correcting the errors, one has to know the exact position of the error. For example, If we want to calculate a single-bit error, the error correction code will determine which one of seven bits is in error. To achieve this, we have to add some additional redundant bits.
 
-Suppose r is the number of redundant bits and d is the total number of the data bits. The number of redundant bits r can be calculated by using the formula:
+Suppose **R** is the number of redundant bits and **D** is the total number of the data bits. The number of redundant bits R can be calculated by using the formula:
 
-    2r>=d+r+1
+    2R >= D+R+1
 
-The value of r is calculated by using the above formula. For example, if the value of d is 4, then the possible smallest value that satisfies the above relation would be 3.
+The value of R is calculated by using the above formula. For example, if the value of D is 4, then the possible smallest value that satisfies the above relation would be 3.
 
 To determine the position of the bit which is in error, a technique developed by R.W Hamming is Hamming code which can be applied to any length of the data unit and uses the relationship between data units and redundant units.
 
