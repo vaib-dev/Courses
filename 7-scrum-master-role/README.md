@@ -50,4 +50,4 @@ Here, Scrum Master will have a coaching session with the Product Owner to help w
 
 ### Challenge 3: Team Vision Workshop
 
-In this workshop, the team will collaboratively built a Team Vision which will help them identify where they want to be in the upcoming years.
+In this workshop, the team will collaboratively built a Team Vision which will help them identify where they want to be in the upcoming years, how are the target customers and what is the goal?
