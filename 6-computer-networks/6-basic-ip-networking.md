@@ -34,7 +34,6 @@ Both UDP and TCP have their advantages and disadvantages. It really depends on w
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93015902-da28bd00-f5da-11ea-9308-61384d73e6b0.png" height="" width=""></p>
 
 ## Compare Network Topologies
-Below we will discuss the difference between star, mesh and hybrid topology:
 
 1. In star topology each device in the network is connected to a central device called hub where as in mesh topology each device is connected to one another and in hybrid topology we us multiple topologies to form a network.
 
@@ -51,7 +50,7 @@ Below we will discuss the difference between star, mesh and hybrid topology:
 3. In twisted wire power loss due to conduction and radiation, in coaxial it is due to conduction.and in fibre optical it is due to absorption, scattering and bending.
 4. Twisted pair cable has low bandwidth. Co-axial cable has moderately high bandwidth. Optical fiber cable has very high bandwidth.
 
- <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93051458-21b65400-f682-11ea-8512-c8b9011502b9.jpg" height="200" width=""></p>
+ <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93051458-21b65400-f682-11ea-8512-c8b9011502b9.jpg" height="300" width=""></p>
 
 ## IPv4 Addressing and Subnetting
 IPv4 supports three different types of addressing modes:
@@ -60,13 +59,84 @@ IPv4 supports three different types of addressing modes:
 In this mode, data is sent only to one destined host. The Destination Address field contains 32- bit IP address of the destination host. Here the client sends data to the targeted server
 
  <p text align="center"><img src="https://www.tutorialspoint.com/ipv4/images/unicast_addressing.jpg" height="200" width=""></p>
+
 ### 2. Broadcast Addressing Mode
 In this mode, the packet is addressed to all the hosts in a network segment. The Destination Address field contains a special broadcast address, i.e. 255.255.255.255. When a host sees this packet on the network, it is bound to process it. Here the client sends a packet, which is entertained by all the Servers −
 
  <p text align="center"><img src="https://www.tutorialspoint.com/ipv4/images/broadcast_addressing.jpg" height="200" width=""></p>
+
 ### 3. Multicast Addressing Mode
 This mode is a mix of the previous two modes, i.e. the packet sent is neither destined to a single host nor all the hosts on the segment. In this packet, the Destination Address contains a special address which starts with 224.x.x.x and can be entertained by more than one host.
 
  <p text align="center"><img src="https://www.tutorialspoint.com/ipv4/images/multicast_addressing.jpg" height="200" width=""></p>
 Here a server sends packets which are entertained by more than one servers. Every network has one IP address reserved for the Network Number which represents the network and one IP address reserved for the Broadcast Address, which represents all the hosts in that network.
 
+## IPv4 and Subnetting
+IPv4 addresses are normally expressed in dot-notation xxx.xxx.xxx.xxx where xxx is a value from 0 to 255. But another way to express them is as a 4-tuple of octets, which is an 8-bit segment since 2⁸=256. Here is the same IPv4 address in both dot-notation and 4-tuple octet.
+
+     172.217.6.36
+    10101100 11011001 00000110 00100100
+
+### IPv4 Address Classification
+There are 5 classes of IPv4 addresses, labeled A through E. The class of the IP address is determined by the first 4 bits.
+1. **Class A**: IP addresses are in this class if their first bit is a 0. In dot-notation, this is the range 0.0.0.0 to 127.255.255.255 . The first 8 bits represent the network prefix and the rest represents the host identifier. For example, 127.42.13.69 has network prefix 127 and host identifier 42.13.69 .
+2. **Class B**: IP addresses are in this class if their first two bits are 10 . In dot-notation, this is the range 128.0.0.0 to 191.255.255.255 . The first 16 bits represent the network prefix and the rest represent the host identifier. For example, 129.42.13.69 has network prefix 129.42 and host identifier 13.69 .
+3. **Class C**: IP addresses are in this class if their first three bits are 110 . In dot-notation, this is the range 192.0.0.0 to 223.255.255.255 . The first 24 bits represent the network prefix and the rest represent the host identifier. For example, 196.13.42.69 has network prefix 196.13.42 and host identifier 69 .
+4. **Class D**: IP addresses are in this class if their first four bits are 1110 . In dot-notation, this is the range 224.0.0.0 to 239.255.255.255 . These addresses are used for multi-casting protocols (ie. when a single packet can be sent to multiple hosts in one action)
+5. **Class E**: IP addresses are in this class if their first four bits are 1111 . In dot-notation, this the range 240.0.0.0 to 255.255.255.255 . These addresses are reserved for future and experimental use.
+### Reserved IP Addresses
+Some IPv4 addresses are reserved for specific uses, namely loopback IPs and Private IPs:
+1. **Loopback IPs**: The IPv4 address range 127.0.0.0 to 127.255.255.255 is reserved for looping back, which is when a host sends a network request to itself. Sometimes we want a program on a host to connect back to itself for debugging or development purposes.
+2. **Private IPs**: The IP ranges 10.0.0.0 — 10.xxx.xxx.xxx , 172.16.0.0 — 172.31.xxx.xxx , and 192.168.0.0 — 192.168.xxx.xxx are designated private network addresses, meaning they can be assigned to computers which must go through the Network Address Translation (NAT) protocol to connect to the Internet. It’s private IPs that make it possible for over 8 billion devices to connect with only about 4 billion IPv4 address (2³² =~ 4 billion).
+
+ <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93170405-d0bb6400-f744-11ea-9cc7-d1fcaa174e35.png" height="" width=""></p>
+
+### Understand Subnetting
+Subnetting allows you to create multiple logical networks that exist within a single Class A, B, or C network. If you do not subnet, you are only able to use one network from your Class A, B, or C network, which is unrealistic.
+
+Each data link on a network must have a unique network ID, with every node on that link being a member of the same network. If you break a major network (Class A, B, or C) into smaller subnetworks, it allows you to create a network of interconnecting subnetworks. Each data link on this network would then have a unique network/subnetwork ID. Any device, or gateway, that connects n networks/subnetworks has n distinct IP addresses, one for each network / subnetwork that it interconnects.
+
+In order to subnet a network, extend the natural mask with some of the bits from the host ID portion of the address in order to create a subnetwork ID. For example, given a Class C network of 204.17.5.0 which has a natural mask of 255.255.255.0, you can create subnets in this manner:
+
+    204.17.5.0 -      11001100.00010001.00000101.00000000
+    255.255.255.224 - 11111111.11111111.11111111.11100000
+                      --------------------------|sub|----
+
+By extending the mask to be 255.255.255.224, you have taken three bits (indicated by "sub") from the original host portion of the address and used them to make subnets. With these three bits, it is possible to create eight subnets. With the remaining five host ID bits, each subnet can have up to 32 host addresses, 30 of which can actually be assigned to a device since host ids of all zeros or all ones are not allowed (it is very important to remember this). So, with this in mind, these subnets have been created.
+
+    204.17.5.0 255.255.255.224     host address range 1 to 30
+    204.17.5.32 255.255.255.224    host address range 33 to 62
+    204.17.5.64 255.255.255.224    host address range 65 to 94
+    204.17.5.96 255.255.255.224    host address range 97 to 126
+    204.17.5.128 255.255.255.224   host address range 129 to 158
+    204.17.5.160 255.255.255.224   host address range 161 to 190
+    204.17.5.192 255.255.255.224   host address range 193 to 222
+    204.17.5.224 255.255.255.224   host address range 225 to 254
+
+### Sample Exercise 
+Now that you have an understanding of subnetting, put this knowledge to use. In this example, you are given two address / mask combinations, written with the prefix/length notation, which have been assigned to two devices. Your task is to determine if these devices are on the same subnet or different subnets. You can use the address and mask of each device in order to determine to which subnet each address belongs.
+
+DeviceA: 172.16.17.30/20\
+DeviceB: 172.16.28.15/20\
+Determine the Subnet for DeviceA:
+
+    172.16.17.30  -   10101100.00010000.00010001.00011110
+    255.255.240.0 -   11111111.11111111.11110000.00000000
+                  -----------------| sub|------------
+    subnet =          10101100.00010000.00010000.00000000 = 172.16.16.0
+
+Looking at the address bits that have a corresponding mask bit set to one, and setting all the other address bits to zero (this is equivalent to performing a logical "AND" between the mask and address), shows you to which subnet this address belongs. In this case, DeviceA belongs to subnet 172.16.16.0.
+
+Determine the Subnet for DeviceB:
+
+    172.16.28.15  -   10101100.00010000.00011100.00001111
+    255.255.240.0 -   11111111.11111111.11110000.00000000
+                  -----------------| sub|------------
+    subnet =          10101100.00010000.00010000.00000000 = 172.16.16.0
+From these determinations, DeviceA and DeviceB have addresses that are part of the same subnet.
+
+
+## Summary
+In this we compared OSI and TCP/IP models, UPD and TCP protocols, collapsed core and 3-tier architectures, network topologies, compare cabling types. Then we also learned a new topic IPv4 and subnetting.
+
+In the next chapter we will learn LAN switching.
