@@ -72,25 +72,19 @@ Some IPv4 addresses are reserved for specific uses, namely loopback IPs and Priv
 
 ### Types Of Addressing Modes
 IPv4 supports three different types of addressing modes:
-### 1. Unicast Addressing Mode
-In this mode, data is sent only to one destined host. The Destination Address field contains 32- bit IP address of the destination host. Here the client sends data to the targeted server
+ 1. **Unicast Addressing Mode**: In this mode, data is sent only to one destined host. The Destination Address field contains 32- bit IP address of the destination host. Here the client sends data to the targeted server
 
  <p text align="center"><img src="https://www.tutorialspoint.com/ipv4/images/unicast_addressing.jpg" height="200" width=""></p>
 
-### 2. Broadcast Addressing Mode
-In this mode, the packet is addressed to all the hosts in a network segment. The Destination Address field contains a special broadcast address, i.e. 255.255.255.255. When a host sees this packet on the network, it is bound to process it. Here the client sends a packet, which is entertained by all the Servers −
+ 2. **Broadcast Addressing Mode**: In this mode, the packet is addressed to all the hosts in a network segment. The Destination Address field contains a special broadcast address, i.e. 255.255.255.255. When a host sees this packet on the network, it is bound to process it. Here the client sends a packet, which is entertained by all the Servers −
 
  <p text align="center"><img src="https://www.tutorialspoint.com/ipv4/images/broadcast_addressing.jpg" height="200" width=""></p>
 
-### 3. Multicast Addressing Mode
-This mode is a mix of the previous two modes, i.e. the packet sent is neither destined to a single host nor all the hosts on the segment. In this packet, the Destination Address contains a special address which starts with 224.x.x.x and can be entertained by more than one host.
+3. **Multicast Addressing Mode**: This mode is a mix of the previous two modes, i.e. the packet sent is neither destined to a single host nor all the hosts on the segment. In this packet, the Destination Address contains a special address which starts with 224.x.x.x and can be entertained by more than one host.
 
  <p text align="center"><img src="https://www.tutorialspoint.com/ipv4/images/multicast_addressing.jpg" height="200" width=""></p>
-Here a server sends packets which are entertained by more than one servers. Every network has one IP address reserved for the Network Number which represents the network and one IP address reserved for the Broadcast Address, which represents all the hosts in that network.
+Here a server sends packets which are entertained by more than one servers. Every network has one IP address reserved for the Network Number which represents the network and one IP address reserved for the Broadcast Address, which represents all the hosts in that network.In the below picture we have successfully implemented a network. The connections are working properly and a packet sent by one node is received by the second node. We have used packet tracer software.
 
-In the below picture we have successfully implemented a network. The connections are working properly and a packet sent by one node is received by the second node. We have used packet tracer software.
-
- <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93170405-d0bb6400-f744-11ea-9cc7-d1fcaa174e35.png" height="" width=""></p>
 
 ### Understand Subnetting
 Subnetting allows you to create multiple logical networks that exist within a single Class A, B, or C network. If you do not subnet, you are only able to use one network from your Class A, B, or C network, which is unrealistic.
