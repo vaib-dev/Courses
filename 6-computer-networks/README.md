@@ -22,7 +22,7 @@ Here we will study about types of errors that occurs in transmission of data and
 
 ## Chapter - 6  Basics of IP Networking
 
-
+In this chapter we will compare the types of models, protocols,architecture, cables and topologies that we have learned in the above chapters. Then we will also learn a new topic i.e IPv4 and Subnetting.
 
 ## Chapter - 7 LAN Switching
 
