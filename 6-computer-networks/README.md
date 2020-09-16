@@ -26,7 +26,7 @@ Here we will study about types of errors that occurs in transmission of data and
 
 ## Chapter - 7 LAN Switching
 
-
+Here we will start with switching concepts then will study about  ethernet frame format, troubleshoot interface and cable issues and layer 2 protocols.
 
 ## Chapter - 8 IP Addressing
 

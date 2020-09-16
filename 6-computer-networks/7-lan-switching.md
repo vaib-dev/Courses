@@ -14,18 +14,19 @@ Switches are used to connect multiple devices together on the same network. In a
 
 ###  MAC learning and aging
 The dynamically learned MAC addresses are deleted after the MAC address age value has expired. This frees unused addresses from the MAC address table for other active subscribers. In Cisco ME 2600X, the default value for aging the MAC address is 300 seconds and can not be changed. The expected MAC address expiration timer is between 300 and 600 seconds, depending on the number of MAC addresses learned.
-1. You can configure the amount of time an entry remains in the MAC table.
-2. You can also configure MAC aging time in interface configuration mode or in VLAN configuration mode.
-3. The MAC aging time specifies the time before an entry ages and is discarded from the MAC address table.
-4. The range is from 0 to 1000000; The default value is 300 seconds.
-5. Entering the value 0 disables MAC aging.
-6. If a VLAN is not specified, the age specification applies to all VLANs.
+1. You can configure the amount of time an entry remains in the MAC table
+2. You can also configure MAC aging time in interface configuration mode or in VLAN configuration mode
+3. The MAC aging time specifies the time before an entry ages and is discarded from the MAC address table
+4. The range is from 0 to 1000000; The default value is 300 seconds
+5. Entering the value 0 disables MAC aging
+6. If a VLAN is not specified, the age specification applies to all VLANs
 
 ### Frame Switching
 The concept of switching and forwarding frames is universal in networking and telecommunications. Various types of switches are used in LANs, WANs, and the public switched telephone network (PSTN). The fundamental concept of switching refers to a device making a decision based on two criteria:
 
 1. Ingress port
 2. Destination address
+
 The decision on how a switch forwards traffic is made in relation to the flow of that traffic. The term ingress is used to describe a frame entering a device on a specific port. The term egress is used to describe frames leaving the device through a particular port.
 
 When a switch makes a decision, it is based on the ingress port and the destination address of the message. A LAN switch maintains a table that it uses to determine how to forward traffic through the switch.
@@ -68,8 +69,7 @@ Ethernet uses CSMA/CD (Carrier Sense Multiple Access/Collision Detect) as its co
 
 **Example**: Station A wishes to send a frame. First, it checks if the medium is available (Carrier Sense). If it isn't, it waits until the current sender on the medium has finished.
 
-<p text align center><img src="https://www.cisco.com/c/dam/en/us/support/docs/interfaces-modules/port-adapters/12768-eth-collisions.gif 
-"></p>
+<p text align= "center"><img src="https://www.cisco.com/c/dam/en/us/support/docs/interfaces-modules/port-adapters/12768-eth-collisions.gif"></p>
 
 Suppose Station A believes the medium is available and attempts to send a frame. Because the medium is shared (Multiple Access), other senders might also attempt to send at the same time. At this point, Station B tries to send a frame at the same time to Station A.
 Shortly after, Station A and Station B realize that there is another device attempting to send a frame (Collision Detect). Each station waits for a random amount of time before sending again. The time after the collision is divided into time slots; 
@@ -104,3 +104,43 @@ Duplex and Speed should match on both ends or else you will have problems. Traff
  You might see cyclic redundancy check (CRC) error messages when both the speed and duplex settings are hardcoded on the two devices. This might be because any one of the devices runs an earlier version of Cisco IOS. You can upgrade the Cisco IOS or set the speed and duplex to auto on both devices in order to resolve this.
 
 ## Configure Layer 2 protocols
+
+Layer 2 or the Datalink layer provides physical addressing and access to media. It defines how data is to be formatted for transmission and how access to the network is to be controlled. It also provides error detection, ensuring data on higher layers is formatted correctly for transmission.
+
+Cisco Discovery Protocol (CDP) and Link Layer Discovery Protocol (LLDP) in Data Link Layer are layer 2 (Datalink layer) protocols. They both help to discover how devices are connected to each other in a network. They both run independently of protocols IPv4/IPv6. They also help to verify and create documentation.
+
+### Cisco Discovery Protocol (CDP)
+CDP is a Cisco proprietary protocol developed by Cisco Systems. It is used to discover other Cisco devices and can be used to share information such as OS version IP address, etc. CDP uses multicast frames for transmission and doesn’t rely on higher layer protocols. It can also be used for On Demand Routing to include routing information in CDP announcements so that dynamic routing protocols do not need to be used in simple networks.
+
+To view the CDP connection is established or not use command:
+
+    show cdp
+
+To view the all neighbors of the switch which are connected to it use command:
+
+    show cdp neighbors
+
+### Link Layer Discovery Protocol (LLDP)
+LLDP on the other hand is the industry standard version of CDP. It is used by network devices for advertising themselves and their neighbors on a local area network based on IEEE 802 technology.
+
+To view the LDP connection is established or not use command:
+
+    show ldp
+
+To view the all neighbors of the switch which are connected to it use command:
+
+    show ldp neighbors
+
+
+**Example**
+In the below diagram connection 1 is possible as the connection is between 2 Cisco devices and both would use CDP to discover their neighbors and share their information. The same goes for connection 2 which is between 2 non Cisco devices. It will be using LLDP instead of CDP to discover its neighbors. A Cisco device cannot locate a non Cisco device using CDP and vice versa. Therefore, we can say that connection 3 is not possible.
+
+<p text align="center"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20190827115048/222221.jpg"></p>
+
+## Summary
+Above we learned about switching concepts which are MAC learning and aging, frame switching, frame flooding, MAC address table. Then we started with ethernet frame and its format. After which we learned about 
+troubleshoot interface and cable issues. At last we completed the chapter by learning layer 2 protocols. 
+
+In the next chapter we will study about IP Addressing.
+
+![edit2](https://img.shields.io/static/v1?label=Source&message=https://www.econfigs.com&color=blue)![edit](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=black)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
