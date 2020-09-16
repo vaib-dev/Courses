@@ -132,8 +132,7 @@ To view the all neighbors of the switch which are connected to it use command:
     show ldp neighbors
 
 
-**Example**
-In the below diagram connection 1 is possible as the connection is between 2 Cisco devices and both would use CDP to discover their neighbors and share their information. The same goes for connection 2 which is between 2 non Cisco devices. It will be using LLDP instead of CDP to discover its neighbors. A Cisco device cannot locate a non Cisco device using CDP and vice versa. Therefore, we can say that connection 3 is not possible.
+**Example**: In the below diagram connection 1 is possible as the connection is between 2 Cisco devices and both would use CDP to discover their neighbors and share their information. The same goes for connection 2 which is between 2 non Cisco devices. It will be using LLDP instead of CDP to discover its neighbors. A Cisco device cannot locate a non Cisco device using CDP and vice versa. Therefore, we can say that connection 3 is not possible.
 
 <p text align="center"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20190827115048/222221.jpg"></p>
 
