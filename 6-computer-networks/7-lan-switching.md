@@ -62,7 +62,9 @@ Initially, PRE (Preamble) was introduced to allow for the loss of a few bits due
 7. **Cyclic Redundancy Check (CRC)**: CRC is 4 Byte field. This field contains a 32-bits hash code of data, which is generated over the Destination Address, Source Address, Length, and Data field. If the checksum computed by destination is not the same as sent checksum value, data received is corrupted.
 
 ##  Troubleshoot interface and cable issues
+However if the switch is running in half duplex collisions can occur because only one device can communicate at a time similar to normal verbal communication. Packet collisions are rare in modern networks. Back before the invention of the switch, hubs were used.
 
+Switches eliminate collisions by creating a collision domain for each interface when the interface runs in full duplex. Full duplex means that the switch and the device can simultaneous send and receive – this means no collisions can occur.
 ### Collisions
 A collision is the mechanism used by Ethernet to control access and allocate shared bandwidth among stations that want to transmit data at the same time on a shared medium. Because the medium is shared, a mechanism must exist where two stations can detect that they want to transmit data at the same time. This mechanism is collision detection. In full-duplex Ethernet, collision detection is disabled.\
 Ethernet uses CSMA/CD (Carrier Sense Multiple Access/Collision Detect) as its collision detection method.
@@ -137,8 +139,7 @@ To view the all neighbors of the switch which are connected to it use command:
 <p text align="center"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20190827115048/222221.jpg"></p>
 
 ## Summary
-Above we learned about switching concepts which are MAC learning and aging, frame switching, frame flooding, MAC address table. Then we started with ethernet frame and its format. After which we learned about 
-troubleshoot interface and cable issues. At last we completed the chapter by learning layer 2 protocols. 
+Above we learned about switching concepts which are MAC learning and aging, frame switching, frame flooding, MAC address table. Then we started with ethernet frame and its format. After which we learned about troubleshoot interface and cable issues. At last we completed the chapter by learning layer 2 protocols. 
 
 In the next chapter we will study about IP Addressing.
 
