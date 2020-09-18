@@ -33,14 +33,11 @@ To know the class of the IP just keep the first first octet of the IP as it is a
 Let's move on to the next question. So if someone asks you what is the subnet mask of this IP address. Don't worry we will cover the subnetting later in this chapter only. But for now just understand that subnet mask is used to divide an IP address into two parts. One part identifies the host (computer), the other part identifies the network to which it belongs. So to tell the subnet mask of the IP address follow the steps:\
 **Step1**: Check the class of the IP which it belong to.\
 **Step2**: Once you identified the class then check how many octets are reserved for the network and host in that class.\
-**Step3**: So now you know the class and the number of octets and you also know that one octet is of 8 bits and the IP address of total 24 bits due to four octet. So now just write 8 times 1 in the network octets and 8 times 0 in host octet present in that class.\
-**Step4**: Now your IP address will appear in binary form that is 0 and 1. The 8 times make when converted into decimal makes 255. Change the network octet to 255.\
-**Step5**: Bingo! you have made your first subnet mask.\
+**Step3**: So now you know the class and the number of octets and you also know that one octet is of 8 bits and the IP address of total 24 bits due to presence of four octets. So now just write 8 times 1 in the network octets and 8 times 0 in host octet present in that class. Now your IP address will appear in binary form that is 0 and 1. The 8 times make when converted into decimal makes 255. Change the network octet to 255. Bingo! you have made your first subnet mask.\
 **Example of Subnet Mask**: Following the above steps find the subnet mask of the IP address 154.191.64.182 ?\
 **Step1**: The IP belongs to class B.\
 **Step2**: The class B has 2 network octet and 2 host octet.\
-**Step3**: So changing the network octets to 8 times 1, the IP address becomes 11111111.11111111.00000000.00000000.\
-**Step4**: Changing binary to decimal 255.255.0.0.\
+**Step3**: So changing the network octets to 8 times 1, the IP address becomes 11111111.11111111.00000000.00000000. Changing binary to decimal 255.255.0.0.\
 **Step5**: The subnet mask of the IP address 154.191.64.182 is 255.255.0.0.
 
 The next question is how many usable host you can put in a given IP address ? Usable host means number of computers or nodes that can be connected in a given IP address. To know this just check the number of bits that are reserved for the host ID in that class. Once you find the number of bits then just put that value as power of 2 and reduce the result by  2.\
@@ -52,13 +49,11 @@ This is the number of computers that can be connected in the above given IP addr
 
 The last ques is what is broadcast ID of the given IP address ? A  broadcast address allows information to be sent to all machines on a given subnet rather than to a specific machine. To find the broadcast ID of a given IP just give the maximum number i.e 255 to the host ID octets and network id will be same as given. Then you will get a broadcast ID.\
 To summarize all the concepts that we have learned above lets solve a question which will cover all the above topics:\
-**Question**: Given a IP address 124.251.178.164, find the (i)class, (ii) network ID, (iii) subnet mask, (iv) Number of hosts that can be connected in the given IP address, (v) broadcast ID ?\
+**Question**: Given a IP address 124.251.178.164, find the (i)class, network ID, (ii) subnet mask, (iii) Number of hosts that can be connected in the given IP address, broadcast ID ?\
 **Answer**: Given: 124.251.178.164\
-(i) This belongs to class A in which there is one Network ID and three Host ID octets.\
-(ii) Network ID is 124.0.0.0\
-(iii) Subnet Mask will be 255.0.0.0\
-(iv) There are 3 host octet in class A which means 24 bits so using formula 2^n-2 where n is the number of bits the answer is 16777214 hosts can be connected.\
-(v) The broadcast ID will be 124.255.255.255
+(i) This belongs to class A in which there is one Network ID and three Host ID octets. Network ID is 124.0.0.0\
+(ii) Subnet Mask will be 255.0.0.0\
+(iii) There are 3 host octet in class A which means 24 bits so using formula 2^n-2 where n is the number of bits the answer is 16777214 hosts can be connected. The broadcast ID will be 124.255.255.255
 ## Subnetting
 As the previous example illustrates, the way IP addresses are constructed makes it relatively simple for Internet routers to find the right network to route data into. However, in a Class A network (for instance), there could be millions of connected devices, and it could take some time for the data to find the right device. This is why subnetting comes in handy: subnetting narrows down the IP address to usage within a range of devices.\
 Because an IP address is limited to indicating the network and the device address, IP addresses cannot be used to indicate which subnet an IP packet should go to. Routers within a network use something called a subnet mask to sort data into subnetworks.
@@ -81,8 +76,7 @@ So how we will do the subnetting, for this we need a IP address. Lets assume the
 
 Then satisfy the condition in this case the condition is satisfied by n=6.\
 **Step4**: Now from the step3 we came to know that we need 2 bits from the HID or we can say we have to borrow 2 bits from HID. To borrow bits start from the rightmost side of the IP address which we have made in step2. Then we have to move from right to left, just leave the 6 bits as it is and make the rest bits of HID to 1. Now the IP address has become 197.10.10.11000000. This means HID has given its two bits to Network as 1 is used to represent network and 0 is used to represent host. Bingo! you have done the subnetting, you see how much easy it was. I know that you will say how, when the subnetting is done. Let me explain the sharing of the bits of Host with Network is known as subnetting.\
-**Step5**: Now we just have to change the host part i.e 197.10.10.11000000 to decimal which will be 197.10.10.192.\
-**Step6**: Now we have to calculate the subnet, the general subnet of class C is 255.255.255.0 but after subnetting the subnet mask has become 255.255.255.192 just put the host part that we got from the step6.\
+**Step5**: Now we just have to change the host part i.e 197.10.10.11000000 to decimal which will be 197.10.10.192. Now we have to calculate the subnet, the general subnet of class C is 255.255.255.0 but after subnetting the subnet mask has become 255.255.255.192 just put the host part that we got from the step6.\
 **Step7**: Now we have a subnet mask but are target is to break a network into parts for this we need to make subnets for this note the IP address we made in step4 i.e 197.10.10.11000000. Now grab the 1 which you will encounter first while moving from right to left. Note down its decimal place in this case it is 64.\
  1st subnet will be 197.10.10.0\
  2nd subnet will be made by adding 64 in the previous subnet, this will become 197.10.10.64\
@@ -118,8 +112,7 @@ This will take us into configuration terminal of switch.\
     name TEAM B
     exit 
     Ctrl+z
-
- Now we have successfully activated 2 VLAN's one is vlan A and the other is vlan B to see this just use the command:
+Now we have successfully activated 2 VLAN's one is vlan A and the other is vlan B to see this just use the command:
 
     show vlan  
 There you can see our entries are updated.\
@@ -142,7 +135,6 @@ There you can see our entries are updated.\
     switchport mode access
     switchport access vlan 3
     exit  [this will intialize the computer present at port 4 in VLAN 3]
-
 Now if you try to ping computer in VLAN B bya computer in VLAN A there will be connection time out message will appear which means we have successfully configured the VLAN setup.\
 This is the result when I tried to ping a Team B computer from team A computer.
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93597811-4a6b8000-f9d9-11ea-8da0-74ab0a974889.png"></p>
