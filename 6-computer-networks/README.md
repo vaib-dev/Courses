@@ -29,7 +29,7 @@ Here we will study about types of errors that occurs in transmission of data and
 
 
 ## Chapter - 8 IP Addressing
-
+One of most intersting chapter in this course, here you will learn about IPv4 addressing, next topic is Subnetting and at last we have configured VLAN for two teams. These topics are very important to understand in the field of networking which is very difficult to understand for many people but here we have the simplest explanation.  
 
 
 ## Chapter - 9 Routing Protocols
