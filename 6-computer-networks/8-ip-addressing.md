@@ -67,24 +67,23 @@ Then, to overcome this problem Subnetting was invented which in simple words mea
 
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93569805-b507c600-f9af-11ea-947c-7889dc1b6f6e.png"></p>
 
-So how we will do the subnetting, for this we need a IP address. Lets assume the IP address be 197.10.10.0/24 where 24 is the CIDR of class C. To make it simple to understand I have made steps to make do subnetting you have to just follow these simple steps and you will be then able to do subnetting:\
-**Step1**: Write down the network ID of the given IP address NID will be 197.10.10.0 which will be same as IP address if class C and in class C we have 3 NID octet and 1 HID octet.\
-**Step2**: Then convert the HID octet into binary form as one octet is of 8 bits n this case it will be 197.10.10.00000000\
+So how we will do the subnetting, for this we need a IP address. Lets assume the IP address be 12.10.10.0/8 where 8 is the CIDR of class A. To make it simple to understand I have made steps to make do subnetting you have to just follow these simple steps and you will be then able to do subnetting:\
+**Step1**: Write down the network ID of the given IP address, NID will be 12.0.0.0 which will be same as IP address and in class A we have 1 NID octet and 3 HID octet.\
+**Step2**: Then convert the HID octet into binary form as one octet is of 8 bits in this case it will be 12.00000000.00000000.00000000\
 **Step3**: Now check the greatest number of hosts required in the network in this case it is 50 hosts. The use the formula 
 
     2 ^ n - 2 >= 50(this will be highest number of hosts required in the network)
-
 Then satisfy the condition in this case the condition is satisfied by n=6.\
-**Step4**: Now from the step3 we came to know that we need 2 bits from the HID or we can say we have to borrow 2 bits from HID. To borrow bits start from the rightmost side of the IP address which we have made in step2. Then we have to move from right to left, just leave the 6 bits as it is and make the rest bits of HID to 1. Now the IP address has become 197.10.10.11000000. This means HID has given its two bits to Network as 1 is used to represent network and 0 is used to represent host. Bingo! you have done the subnetting, you see how much easy it was. I know that you will say how, when the subnetting is done. Let me explain the sharing of the bits of Host with Network is known as subnetting.\
-**Step5**: Now we just have to change the host part i.e 197.10.10.11000000 to decimal which will be 197.10.10.192. Now we have to calculate the subnet, the general subnet of class C is 255.255.255.0 but after subnetting the subnet mask has become 255.255.255.192 just put the host part that we got from the step6.\
-**Step7**: Now we have a subnet mask but are target is to break a network into parts for this we need to make subnets for this note the IP address we made in step4 i.e 197.10.10.11000000. Now grab the 1 which you will encounter first while moving from right to left. Note down its decimal place in this case it is 64.\
- 1st subnet will be 197.10.10.0\
- 2nd subnet will be made by adding 64 in the previous subnet, this will become 197.10.10.64\
- 3rd subnet 197.10.10.128\
- 4th subnet 197.10.10.192\
- 5th subnet 197.10.10.256 which is not possible in class C.\
- So class C IP address not abe to fulfill our requirement as we needed 5 subnets but with class C we only got 4. So we need to take a IP address of Class B. You can try own your own just follow the above steps you will definitely find the solution.
-## VLAN
+**Step4**: Now we have to borrow 2 bits from HID. To borrow bits start from the rightmost side of the IP address which we have made in step2. Then we have to move from right to left, just leave the 6 bits as it is and make the rest bits of HID to 1. Now the IP address has become 197.11111111.11111111.11000000. This means HID has given its 18 bits to Network, as 1 is used to represent network and 0 is used to represent host. Bingo! you have done the subnetting, you see how much easy it was. I know that you will say how, when the subnetting is done. Let me explain, the sharing of the bits of Host with Network is known as subnetting.\
+**Step5**: Now we just have to change the host part i.e 12.11111111.1111111.11000000 to decimal which will be 12.255.255.192. Now we have to calculate the subnet, the general subnet of class A is 255.0.0.0 but after subnetting the subnet mask has become 255.255.255.192 just put the host part that we got from the step4.\
+**Step6**: Now we have a subnet mask but are target is to break a network into parts for this we need to make subnets for this note the IP address we made in step4 i.e 12.1111111.11111111.11000000. Now grab the 1 which you will encounter first while moving from right to left. Note down its decimal place in this case it is 64.\
+ 1st subnet will be 12.0.0.0\
+ 2nd subnet will be made by adding 64 in the previous subnet, this will become 12.0.0.64\
+ 3rd subnet 12.0.0.128\
+ 4th subnet 12.0.0.192\
+ 5th subnet 12.0.0.256 here 256 value is not possible in any octet the maximum value is 255 so we will increase the value from 0 to 1 in the next octet.\
+ 5th subnet will be 12.0.1.0 like this you can make futher subnets.
+ ## VLAN
  VLAN is a logical grouping of networking devices. When we create VLAN, we actually break large broadcast domain in smaller broadcast domains. 
 ### Example
 If we have 4 computers connected to a single switch let the name be C1, C2 , C3, C4. C1 and C2 are working together as team A and C3 and C4 are working together as team B. We do not want to disturb any team with the conversation held between members of different teams. I mean like when team A talks with one another that message should not be sent to team B and vice-versa. So for this we will use VLAN.\
