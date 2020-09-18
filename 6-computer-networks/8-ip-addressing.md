@@ -2,8 +2,7 @@
 IP address stands for internet protocol address. IP consists of 32 bits logical address. In which value lies  between 0 to 255. There are two versions of IP in use today, IPv4 and IPv6. The original IPv4 protocol is still used today on both the internet, and many corporate networks. However, the IPv4 protocol only allowed for 232 addresses. This, coupled with how addresses were allocated, led to a situation where there would not be enough unique addresses for all devices connected to the internet.
 
 ## IPv4
-So we know IP addresses are 32 bits long and that they are separated into 4 decimal numbers by dot separation (this is known as dotted decimal), therefore each number must represent 8bits. Just as a reminder a bit is a binary digit, it can only represent a 0 or 1. Any IP address that falls specified ranges is a private IP address and is non-routable on the Internet. These addresses are reserved for use only within private/corporate network and cannot be seen outside the private networks. A Public IP address (External) is assigned to every device that connects to the Internet and each IP address is unique. Therefore, there cannot exist two device with the same public IP address. This addressing scheme makes it possible for the devices to “find each other” online and exchange information.
-Each 8 bit group is called an octet.
+So we know IP addresses are 32 bits long and that they are separated into 4 decimal numbers by dot separation (this is known as dotted decimal), therefore each number must represent 8bits. Just as a reminder a bit is a binary digit, it can only represent a 0 or 1. Any IP address that falls specified ranges is a private IP address and is non-routable on the Internet. These addresses are reserved for use only within private/corporate network and cannot be seen outside the private networks. A Public IP address (External) is assigned to every device that connects to the Internet and each IP address is unique. Therefore, there cannot exist two devices with the same public IP address. This addressing scheme makes it possible for the devices to “find each other” online and exchange information. Each 8 bit group is called an octet.
 <p text align="center"><img src="https://miro.medium.com/max/640/1*FIXeYfad7_fJvlnW90ITuQ.png" height="" width=""></p>
 
 ### IPv4 Classes
@@ -27,7 +26,7 @@ IPv4 consists of 4 classes:
 5. **Class E**: They are already reserved for research purposes. We can't use this IP for personal use.
 
        The range of this class is: 240.0.0.0 to 255.255.255.255
-So, we will always work in the first three classes. We also now can identify an IP is of which class. For eg: 148.120.200.15 is the IP address of which class? I know you will be a bit confused as there are too many numbers which all belongs to different class like 148 is of class B, 120 is of class A, 200 is of class C and 15 again of class A. So you might be thinking that so which class the IP belong. \
+So, we will always work in the first three classes. We also now can identify an IP is of which class. For eg: 148.120.200.15 is the IP address of which class? I know you will be a bit confused as there are too many numbers which all belongs to different class like 148 is of class B, 120 is of class A, 200 is of class C and 15 again of class A. So you might be thinking that so which class the IP belong. 
 To know the class of the IP just keep the first first octet of the IP as it is and make the remaining octet 0. So know the IP becomes 148.0.0.0. By this you can easily tell the class of the IP. The answer is class B. If someone asks you what is the Network ID of this IP? the answer is simple as we have learned above that in class B the first and second octet is reserved for the network ID, so keep the first and second octet of the IP as it is and change the remaining octets to 0. So the Network ID of the above IP is 148.120.0.0.
 
 Let's move on to the next question. So if someone asks you what is the subnet mask of this IP address. Don't worry we will cover the subnetting later in this chapter only. But for now just understand that subnet mask is used to divide an IP address into two parts. One part identifies the host (computer), the other part identifies the network to which it belongs. So to tell the subnet mask of the IP address follow the steps:\
@@ -47,7 +46,8 @@ So we know that the IP address if of class A which has 1 network ID octet and 3 
     The formula is: 2 ^ 24 - 2 = 16777216 - 2 =16777214
 This is the number of computers that can be connected in the above given IP address.
 
-The last ques is what is broadcast ID of the given IP address ? A  broadcast address allows information to be sent to all machines on a given subnet rather than to a specific machine. To find the broadcast ID of a given IP just give the maximum number i.e 255 to the host ID octets and network id will be same as given. Then you will get a broadcast ID.\
+The last ques is what is broadcast ID of the given IP address ? A  broadcast address allows information to be sent to all machines on a given subnet rather than to a specific machine. To find the broadcast ID of a given IP just give the maximum number i.e 255 to the host ID octets and network id will be same as given. Then you will get a broadcast ID.
+
 To summarize all the concepts that we have learned above lets solve a question which will cover all the above topics:\
 **Question**: Given a IP address 124.251.178.164, find the (i)class, network ID, (ii) subnet mask, (iii) Number of hosts that can be connected in the given IP address, broadcast ID ?\
 **Answer**: Given: 124.251.178.164\
@@ -67,7 +67,8 @@ Then, to overcome this problem Subnetting was invented which in simple words mea
 
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93569805-b507c600-f9af-11ea-947c-7889dc1b6f6e.png"></p>
 
-So how we will do the subnetting, for this we need a IP address. Lets assume the IP address be 12.10.10.0/8 where 8 is the CIDR of class A. To make it simple to understand I have made steps to make do subnetting you have to just follow these simple steps and you will be then able to do subnetting:\
+So how we will do the subnetting, for this we need a IP address. Lets assume the IP address be 12.10.10.0/8 where 8 is the CIDR of class A. To make it simple to understand I have made steps to make do subnetting you have to just follow these simple steps and you will be then able to do subnetting:
+
 **Step1**: Write down the network ID of the given IP address, NID will be 12.0.0.0 which will be same as IP address and in class A we have 1 NID octet and 3 HID octet.\
 **Step2**: Then convert the HID octet into binary form as one octet is of 8 bits in this case it will be 12.00000000.00000000.00000000\
 **Step3**: Now check the greatest number of hosts required in the network in this case it is 50 hosts. The use the formula 
@@ -87,7 +88,8 @@ Then satisfy the condition in this case the condition is satisfied by n=6.\
  VLAN is a logical grouping of networking devices. When we create VLAN, we actually break large broadcast domain in smaller broadcast domains. 
 ### Example
 If we have 4 computers connected to a single switch let the name be C1, C2 , C3, C4. C1 and C2 are working together as team A and C3 and C4 are working together as team B. We do not want to disturb any team with the conversation held between members of different teams. I mean like when team A talks with one another that message should not be sent to team B and vice-versa. So for this we will use VLAN.\
- Let us now configure VLAN in Packet Tracer with the following steps:\
+ Let us now configure VLAN in Packet Tracer with the following steps:
+
 **Step1**: Connect the 4 computers or nodes with a switch. Provide the IP address to each of the node and try to ping one node from other. If ping has got successful then move to step2.\
 **Step2**: Now double click on switch and select CLI(command line interface). Once you entered in CLI now enable the switch by using command
 
@@ -144,7 +146,7 @@ This is the result when I tried to ping a Team A computer from Team B computer.
 ## Summary
 i guess this would be the most interesting chapter for you we learned a lot of new things which are very important and mostly people don't understand them but I have explained it in easiest. By the end of the day we have learned all about the IPv4 addressing, Subnetting and also we have configured VLAN for two teams. 
 
-In the next chapter we will learn about Routing Protocols.
-
+In the next chapter we will learn about Routing Protocols.\
+![edit2](https://img.shields.io/static/v1?label=Source&message=Self&color=yellow)![edit](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=<COLOR>)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
  
