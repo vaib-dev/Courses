@@ -14,15 +14,12 @@ IPv4 consists of 4 classes:
 2. **Class B**: In a Class B network, the first 16 bits are the network part of the address. All Class B networks have their first bit set to 1 and the second bit set to 0.  In class B the first and second octet is reserved for the Network ID and the rest two are reserved for Host ID.
 
        The range of this class is: 128.0.0.0 to 191.255.255.255
-
 3. **Class C**: In a Class C network, the first two bits are set to 1, and the third bit is set to 0. That makes the first 24 bits of the address the network address and the remainder as the host address. In class C the first octet is reserved for the Network ID and the last octet is reserved for Host ID.
 
        The range of this class is: 192.0.0.0 to 223.255.255.255
-
 4. **Class D**: Class D addresses are used for multi-casting applications. Unlike the previous classes, the Class D is not used for "normal" networking operations.
 
         The range of this class is: 224.0.0.0 to 239.255.255.255
-
 5. **Class E**: They are already reserved for research purposes. We can't use this IP for personal use.
 
        The range of this class is: 240.0.0.0 to 255.255.255.255
