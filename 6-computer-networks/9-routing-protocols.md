@@ -42,11 +42,10 @@ IGP's fall into two categories:
 1. Distance Vector Protocols
     * Routing Information Protocol (RIP)
     * Interior Gateway Routing Protocol (IGRP)
-
-  2. Link State Protocols
+ 
+ 2. Link State Protocols
       * Open Shortest Path First (OSPF)
       * Intermediate System to Intermediate System (IS-IS)
- 
 
 ### EXTERIOR GATEWAY PROTOCOLS
 To get from place to place outside your network(s), i.e. on the Internet, you must use an Exterior Gateway Protocol. Exterior Gateway Protocols handle routing outside an Autonomous System and get you from your network, through your Internet provider's network and onto any other network. BGP is used by companies with more than one Internet provider to allow them to have redundancy and load balancing of their data transported to and from the Internet.
@@ -54,3 +53,22 @@ To get from place to place outside your network(s), i.e. on the Internet, you mu
 Examples of an EGP:
 1. Border Gateway Protocol (BGP)
 2. Exterior Gateway Protocol (Replaced by BGP)
+
+## Configure Static Routing Protocols
+
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93713359-ec759e80-fb78-11ea-97d3-49c23400423b.png" height="" width=""></p>
+
+## 8. Configure single-area and multi-area OSPFv2 for IPv4
+
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93713364-f6979d00-fb78-11ea-8693-2b434c4112a1.png" height="" width=""></p>
+
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93713366-f8f9f700-fb78-11ea-9387-2c8285a50efc.png" height="" width=""></p>
+
+## Configure EIGPRP
+
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93713368-fac3ba80-fb78-11ea-81bd-b2650dd6a44b.png" height="" width=""></p>
+
+
+## Configure RIPv2
+
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93713370-fbf4e780-fb78-11ea-9d25-a35d3bedefd9.png" height="" width=""></p>
