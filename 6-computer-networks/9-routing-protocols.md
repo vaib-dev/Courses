@@ -66,7 +66,7 @@ Examples of an EGP:
 
 ## Configure EIGPRP
 
-<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93713368-fac3ba80-fb78-11ea-81bd-b2650dd6a44b.png" height="" width=""></p>
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93717348-daa0f500-fb92-11ea-9997-7b6bca755209.png" height="" width=""></p>
 
 
 ## Configure RIPv2
