@@ -87,7 +87,10 @@ Then satisfy the condition in this case the condition is satisfied by n=6.\
 If we have 4 computers connected to a single switch let the name be C1, C2 , C3, C4. C1 and C2 are working together as team A and C3 and C4 are working together as team B. We do not want to disturb any team with the conversation held between members of different teams. I mean like when team A talks with one another that message should not be sent to team B and vice-versa. So for this we will use VLAN.\
  Let us now configure VLAN in Packet Tracer with the following steps:
 
-**Step1**: Connect the 4 computers or nodes with a switch. Provide the IP address to each of the node and try to ping one node from other. If ping has got successful then move to step2.\
+**Step1**: Connect the 4 computers or nodes with a switch. Provide the IP address to each of the node and try to ping one node from other. If ping has got successful then move to step2.
+
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93706208-9cc7b080-fb41-11ea-9520-fb45ca2002c5.png" height="" width=""></p>
+
 **Step2**: Now double click on switch and select CLI(command line interface). Once you entered in CLI now enable the switch by using command
 
     en
