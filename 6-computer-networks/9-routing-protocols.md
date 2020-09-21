@@ -34,7 +34,7 @@ Dynamic routing is also known as adaptive routing which change routing table acc
 
 <p text align="center"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20190517214708/Untitled-Diagram-1110.png" height="" width=""></p>
 
-## Compare Distance Speed Vector Routing
+## Compare Distance Vector And Link State Routing
 ### Distance Vector Routing 
 It is a dynamic routing algorithm in which each router computes distance between itself and each possible destination i.e. its immediate neighbors. The router share its knowledge about the whole network to its neighbors and accordingly updates table based on its neighbors. The sharing of information with the neighbors takes place at regular intervals. This uses the Bellman Ford Algorithm for making routing tables.
 ### Link State Routing
@@ -53,7 +53,7 @@ IGP's fall into two categories:
       * Open Shortest Path First (OSPF)
       * Intermediate System to Intermediate System (IS-IS)
 
-### EXTERIOR GATEWAY PROTOCOLS
+### Exterior Protocols
 To get from place to place outside your network(s), i.e. on the Internet, you must use an Exterior Gateway Protocol. Exterior Gateway Protocols handle routing outside an Autonomous System and get you from your network, through your Internet provider's network and onto any other network. BGP is used by companies with more than one Internet provider to allow them to have redundancy and load balancing of their data transported to and from the Internet.
 
 Examples of an EGP:
