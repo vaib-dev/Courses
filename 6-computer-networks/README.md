@@ -33,7 +33,7 @@ Here we will start with switching concepts like why they are called more intelli
 
 
 ## Chapter - 9 Routing Protocols
-
+This chapter mainly focus on the practical part. We will configure all the routing protocols in this chapter. We will configure both the static and dynamic routing protocols. So lets start with it!
 
 
 ## Chapter - 10 Troubleshooting

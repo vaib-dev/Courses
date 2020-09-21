@@ -13,9 +13,15 @@ Each entry in the routing table consists of the following entries:
 1. **Outgoing Interface**: Outgoing interface the packet should go out to reach the destination network.
 1. **Metric**: A common use of the metric is to indicate the minimum number of hops (routers crossed) to the network ID.
 
-## Configure Inter-VLAN routing
+## Configure Inter-VLAN Routing
 
-<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93668195-a5b87380-faa8-11ea-9e1d-363f87431a98.png" height="" width=""></p>
+In inter VLAN routing the two different teams or networks can talk to each other. In simple VLAN network one team can't talk to the other team but this problem is solved in inter VLAN routing. In this we add a router connected to the two interfaces of the switch. We then dive the gateways of the both teams at the router interface. This will enable the communication between the both teams.
+
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93738583-c8ab6a80-fc03-11ea-970a-27f3e2734020.png" height="" width=""></p>
+
+In the below image I have pinged the VLAN 20 node by the VLAN 10 node and we see that the packets are reached successfully. In the right side window I have shown the VLAN connection is successful.
+
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93738982-d1e90700-fc04-11ea-8789-b60deffb7b54.png" height="" width=""></p>
 
 ## Compare Static And Dynamic Routing
 ### Static Routing
@@ -55,20 +61,44 @@ Examples of an EGP:
 2. Exterior Gateway Protocol (Replaced by BGP)
 
 ## Configure Static Routing Protocols
-
+As we have studied above that static routing is non adaptive routing which means that the table of the router do no get updated until and unless the administrator does no update it manually.
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93713359-ec759e80-fb78-11ea-97d3-49c23400423b.png" height="" width=""></p>
+To enable the static routing we have to define the path through which the packet will travel. In the below image I have shown the static routing is working successfully. The capital 'S' represents the satatic routing and in front of it the route is given as shown:
+
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93739741-a109d180-fc06-11ea-8873-07805173c33a.png" height="" width=""></p>
 
 ## 8. Configure single-area and multi-area OSPFv2 for IPv4
-
+Below we will see the single-area and multi-area OSPFv2 for IPv4:
+### Single Area
+In single-area, we have to use the same process ID for each network, by the term process ID I mean in OSPF we have to give the process key to each network. But in single area it has the same process key for all networks. In the below image we have a Area 0 with process ID 1. The three routers are connnected to each other through OSPF.
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93713364-f6979d00-fb78-11ea-8693-2b434c4112a1.png" height="" width=""></p>
 
-<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93713366-f8f9f700-fb78-11ea-9387-2c8285a50efc.png" height="" width=""></p>
+In the below image we can see the configuration is successful. We can view that by going in router configuration terminal and then use the command do show ip address. Here the 'O' represents the OSPF connection and it shows the route in front of it as shown: 
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93740347-eaa6ec00-fc07-11ea-9685-488eeb8861db.png" height="" width=""></p>
 
-## Configure EIGPRP
+### Multi Area
+In multi-area, we provide different process ID for all networks. As in the below image we have 2 different networks i.e Area 1 and Area 2 and the Area 0 is for connecting the both Area 1 and Area 2 with each other.
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93713366-f8f9fre700-fb78-11ea-9387-2c8285a50efc.png" height="" width=""></p>
+
+In the below image we can see that our multi area OSPF connection is successful which is represented by 'O IA' which stands fot OSPF Inter Area. It also tells us the route and the port number as shown: 
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93741213-9a308e00-fc09-11ea-8326-708b4026ad28.png" height="" width=""></p>
+
+## Configure EIGRP 
+EIGRP stands for Enhanced inter gateway routing protocols. It was designed by CISCO system which can be used only in CISCO routers, but in 2013 it became open source, so it can be used in other router. In this there is no need to specify the route for the packet as it is an adaptive routing protocol, which means it wil decide its path itself by running some algorithms.
 
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93717348-daa0f500-fb92-11ea-9997-7b6bca755209.png" height="" width=""></p>
 
+In the below image we can see that our EIGRP connection is successful. The EIGRP connection is represented by 'D'. It displays the route and the serial port number as shown:
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93742310-7ff7af80-fc0b-11ea-95a3-c05922f81b40.png" height="" width=""></p>
 
 ## Configure RIPv2
-
+RIP (Routing Information Protocol) is one of the oldest routing protocols still in service. The main advantage of using RIP is it uses the UDP (User Datagram Protocol).
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93713370-fbf4e780-fb78-11ea-9d25-a35d3bedefd9.png" height="" width=""></p>
+In the below figure we see that our RIP configuration is successful. It is represented by letter 'R' and we can also see the route and the serial port in front of it as shown:
+
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93742772-5a1eda80-fc0c-11ea-87df-87ffe32438f3.png" height="" width=""></p>
+
+## Summary
+This chapter mainly focus on the implementation of the all routing protocols which are very interesting. We have configured inter-VLAN which is advance version of VLAN, Static routing, OSPF, EIGRP, RIP protocols.
+
+In the next chapter we will start with Troubleshooting.
