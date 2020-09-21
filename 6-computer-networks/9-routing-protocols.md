@@ -67,7 +67,7 @@ To enable the static routing we have to define the path through which the packet
 
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93739741-a109d180-fc06-11ea-8873-07805173c33a.png" height="" width=""></p>
 
-## 8. Configure single-area and multi-area OSPFv2 for IPv4
+## Configure single-area and multi-area OSPFv2 for IPv4
 Below we will see the single-area and multi-area OSPFv2 for IPv4:
 ### Single Area
 In single-area, we have to use the same process ID for each network, by the term process ID I mean in OSPF we have to give the process key to each network. But in single area it has the same process key for all networks. In the below image we have a Area 0 with process ID 1. The three routers are connnected to each other through OSPF.
@@ -78,7 +78,8 @@ In the below image we can see the configuration is successful. We can view that 
 
 ### Multi Area
 In multi-area, we provide different process ID for all networks. As in the below image we have 2 different networks i.e Area 1 and Area 2 and the Area 0 is for connecting the both Area 1 and Area 2 with each other.
-<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93713366-f8f9fre700-fb78-11ea-9387-2c8285a50efc.png" height="" width=""></p>
+
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93744254-2db88d80-fc0f-11ea-8717-645d659bce99.png" height="" width=""></p>
 
 In the below image we can see that our multi area OSPF connection is successful which is represented by 'O IA' which stands fot OSPF Inter Area. It also tells us the route and the port number as shown: 
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/93741213-9a308e00-fc09-11ea-8326-708b4026ad28.png" height="" width=""></p>
