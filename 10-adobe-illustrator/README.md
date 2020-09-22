@@ -6,5 +6,7 @@ In this chapter, we will introduce ourselves to the adobe illustrator interface 
 ## Chapter - 2 Paletts of illustrator
 ## Chapter - 3 Views
 ## Chapter - 4 Customizing illustrator
+So here we will start customizing our first window which we see on illustrator and will see how we can play with that. Like customizing the artboard, knowing about paths, smart guides. So let's jump in!
+
 ## Chapter - 5 Creating shapes vectors
 ## Chapter - 6 Create a project
