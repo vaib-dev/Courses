@@ -8,6 +8,7 @@ This is a very important chapter through which we are going to make our base str
 
 
 ## Chapter - 3 Views
+This chapter is very simple to understand but usually people kip this because at this stage it looks like we don't need this feature. But these features will make your task so easy and will present it in a good way. So let's learn about the different types of views.
 ## Chapter - 4 Customizing illustrator
 ## Chapter - 5 Creating shapes vectors
 ## Chapter - 6 Create a project
