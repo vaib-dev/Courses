@@ -8,7 +8,7 @@ Step1: Create an Ellipse. Make sure the Snap to point and Smart Guides are turne
  
  Step2: Select All four Circles and use the Shape Builder Tool from the Toolbox. As soon as we select the Shape Builder Tool, we create a path to be built.
 
-<p text align="center"><img src=" https://cdn.educba.com/academy/wp-content/uploads/2019/07/Shape-Builder-Tool-step-5.png  "></p>
+<p text align="center"><img src="https://cdn.educba.com/academy/wp-content/uploads/2019/07/Shape-Builder-Tool-step-5.png"></p>
 
  Step3: Now just drag the cursor towards the area you want to join, he resulted image will look like this.
 
