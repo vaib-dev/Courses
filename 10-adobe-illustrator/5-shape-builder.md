@@ -12,13 +12,13 @@ Step1: Create an Ellipse. Make sure the Snap to point and Smart Guides are turne
 
  Step3: Now just drag the cursor towards the area you want to join, he resulted image will look like this.
 
-<p text align="center"><img src=" https://cdn.educba.com/academy/wp-content/uploads/2019/07/Resulted-image-of-Shape-Builder.png  "></p>
+<p text align="center"><img src="https://cdn.educba.com/academy/wp-content/uploads/2019/07/Resulted-image-of-Shape-Builder.png"></p>
  
  ## Compound Paths 
 
 Compound paths let you use an object to cut a hole in another object. For example, you can create a doughnut shape from two nested circles. Once you create a compound path, the paths act as grouped objects. You can select and manipulate the objects separately using the Direct Selection tool or Group Selection tool; or you can select and edit the combined path.
 
-<p text align="center"><img src=" https://www.webdesign.org/img_articles/12810/tut_compound_paths2.gif  "></p>
+<p text align="center"><img src="https://www.webdesign.org/img_articles/12810/tut_compound_paths2.gif"></p>
  
 
 ## Group Paths 
@@ -26,7 +26,7 @@ Keep objects together by grouping them in Adobe Illustrator CC. The Group functi
 
 To group the items together select the black arrow from the left panel of the screen. Then just select the items you want to group by clicking the left button of the mouse and dragging it. After selecting press Ctr+G to group the items. Now if you try to move any item then all the items will move in one go.
 
-<p text align="center"><img src=" https://user-images.githubusercontent.com/54719422/94024538-2ba02b80-fdd5-11ea-8325-f8b0b61f44a2.png  "></p>
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/94024538-2ba02b80-fdd5-11ea-8325-f8b0b61f44a2.png"></p>
 
 In future, if you wish to ungroup then just select the black arrow again and click the left mouse and drag it on the items you have selected then just press Ctrl+Shift+G and the items will we ungrouped. 
 
