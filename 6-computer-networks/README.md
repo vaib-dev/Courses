@@ -33,7 +33,7 @@ One of most intersting chapter in this course, here you will learn about IPv4 ad
 
 
 ## Chapter - 9 Routing Protocols
-
+This chapter mainly focus on the practical part. We will configure all the routing protocols in this chapter. We will configure both the static and dynamic routing protocols. So lets start with it!
 
 
 ## Chapter - 10 Troubleshooting
