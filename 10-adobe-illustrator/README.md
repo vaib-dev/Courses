@@ -4,6 +4,9 @@ Adobe Illustrator is the industry-standard design app that lets you capture your
 ## Chapter - 1 Introduction
 In this chapter, we will introduce ourselves to the adobe illustrator interface for the first time. This chapter will take a short tour about the interface of the illustrator and will let you know about the things present on the screen like tools, panels.
 ## Chapter - 2 Paletts of illustrator
+This is a very important chapter through which we are going to make our base strong. These palettes will make our work very easy. So lets, see the different types of palettes we have in illustrator.
+
+
 ## Chapter - 3 Views
 ## Chapter - 4 Customizing illustrator
 ## Chapter - 5 Creating shapes vectors
