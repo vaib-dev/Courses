@@ -1,12 +1,3 @@
-<<<<<<< Updated upstream
-# Chapter - 6 Project 
-
-Implementing the knowledge that we gained from the above chapters, I have created my first project as a penguin image as shown below: 
-
-
-<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/94059352-e8a77d80-fdff-11ea-83f8-04905e7ce293.png"></p>
-
-=======
 # Chapter - 6 Creating A Project
 So, finally we have reached the most exciting chapter i.e making a project in illustrator. In this chapter we are given some information on the basis of which we have to design our logo. 
 ## About The Project
@@ -20,4 +11,3 @@ So then I started working on it and the final product that came out is as shown:
 <p text align="center"><img src="https://user-images.githubusercontent.com/54719422/94174341-c589d600-feb2-11ea-869f-95eb8d47036c.png"></p>
 
 You can share your creative logos with me on vaibhavpratapsingh22@gmail.com, I would be very happy to see your ideas.
->>>>>>> Stashed changes
