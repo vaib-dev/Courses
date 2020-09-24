@@ -3,14 +3,17 @@ Adobe Illustrator is the industry-standard design app that lets you capture your
 
 ## Chapter - 1 Introduction
 In this chapter, we will introduce ourselves to the adobe illustrator interface for the first time. This chapter will take a short tour about the interface of the illustrator and will let you know about the things present on the screen like tools, panels.
-## Chapter - 2 Paletts of illustrator
+
+## Chapter - 2 Customizing illustrator
+So here we will start customizing our first window which we see on illustrator and will see how we can play with that. Like customizing the artboard, knowing about paths, smart guides. So let's jump in!
+
+## Chapter - 3 Paletts of illustrator
 This is a very important chapter through which we are going to make our base strong. These palettes will make our work very easy. So lets, see the different types of palettes we have in illustrator.
 
 
-## Chapter - 3 Views
+## Chapter - 4 Views
 This chapter is very simple to understand but usually people kip this because at this stage it looks like we don't need this feature. But these features will make your task so easy and will present it in a good way. So let's learn about the different types of views.
-## Chapter - 4 Customizing illustrator
-So here we will start customizing our first window which we see on illustrator and will see how we can play with that. Like customizing the artboard, knowing about paths, smart guides. So let's jump in!
+
 
 ## Chapter - 5 Shape Builder Tool
 The chapter tells you about the most used feature in the illustrator by the editors that is shape builder tool as this this tool helps us in many ways in editing by this we can make two shape areas in one, remove the extra area from the image, etc. At last we studied about the compound paths and grouped paths.
