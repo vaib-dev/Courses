@@ -1,4 +1,4 @@
-# Chapter - 4 Customizing
+# Chapter - 2 Customizing
 One way of getting comfortable is setting Illustrator's preferences. In this chapter we learn about:
 * Art-board
 * Paths 

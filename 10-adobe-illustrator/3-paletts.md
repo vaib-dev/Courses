@@ -1,4 +1,4 @@
-# Chapter - 2 Paletts 
+# Chapter - 3 Paletts 
 Generally, palettes refers to a thin board or tablet of wood, plastic, etc., often with a hole for the thumb at one end, on which an artist arranges and mixes paints. The colors used by a particular artist or for a particular painting. In illustrator palettes can be divided into different types as follows:
 ##  1. Info palette 
 Info palettes tell you about the various things about your picture. Info palette is present at the rightmost side of your illustrator screen. It is mainly divided into three sub-categories as follows:

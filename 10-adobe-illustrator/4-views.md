@@ -1,4 +1,4 @@
-# Chapter - 3 Views
+# Chapter - 4 Views
 By default, Adobe Illustrator sets the view so that all artwork is previewed in color. However, you can choose to display artwork so that only its outlines (or paths) are visible. To view all artwork as outlines, choose View > Outline or press Ctrl+E (Windows) or Command+E (macOS).
 
 ## Types Of Views
