@@ -40,4 +40,4 @@ Smart Guides are on by default. To turn Smart Guides on or off, choose View > Sm
 ## Summary
 So at the end of the day we came to know about the artboard and how much it is important to understand, then we studied about paths which will be helping us a lot in designing logos and shapes, after this we moved on to smart guides and saw how we can use them for our benefit.
 
-In the next chapter we will start with Creating shapes vectors.
+In the next chapter we will start with types of paletts in illustrator.

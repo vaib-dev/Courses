@@ -46,4 +46,5 @@ This option is present at the left panel of your screen using these you can add 
 ## 6. Stroke palette
 This option allows you to adjust the size and color of the border of the area you select. It has many extra features like if you want to curve the edges of the straight line then you can use the caps option present in it.
 ## Summary
-In this we learned about different types of palettes by which we can make our document look more beautiful. These palettes will help us in every project which we are going to make in the future.
+In this we learned about different types of palettes by which we can make our document look more beautiful. These palettes will help us in every project which we are going to make in the future.\
+In the next chapter we will see different views in illustrator.
