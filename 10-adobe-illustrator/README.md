@@ -19,3 +19,6 @@ So finally we came to our last theory chapter which means from the next chapter 
 
 ## Challenge - 1 Bird Logo
 Here we have created a cute little bird logo.
+
+## Challenge - 2 Tiger Logo
+In this challenge we will create a tiger logo.
