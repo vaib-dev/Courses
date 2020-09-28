@@ -1,4 +1,4 @@
-# Chapter - 3 Views
+# Chapter - 4 Views
 By default, Adobe Illustrator sets the view so that all artwork is previewed in color. However, you can choose to display artwork so that only its outlines (or paths) are visible. To view all artwork as outlines, choose View > Outline or press Ctrl+E (Windows) or Command+E (macOS).
 
 ## Types Of Views
@@ -44,4 +44,4 @@ Below is an example of using custom views in a series of icons I sell on istock.
 ## Summary
 This chapter is very simple but need to be understood because at this time tou may say that these are of no use but believe me, they are going to help you a lot in the future. So here we studued about the views in illustrator like trim view, custom view and many more.
 
-In the next chapter we will learn about Customizing illustrator. 
+In the next chapter we will focus on shape builder tool. 

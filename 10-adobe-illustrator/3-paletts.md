@@ -1,4 +1,4 @@
-# Chapter - 2 Paletts 
+# Chapter - 3 Paletts 
 Generally, palettes refers to a thin board or tablet of wood, plastic, etc., often with a hole for the thumb at one end, on which an artist arranges and mixes paints. The colors used by a particular artist or for a particular painting. In illustrator palettes can be divided into different types as follows:
 ##  1. Info palette 
 Info palettes tell you about the various things about your picture. Info palette is present at the rightmost side of your illustrator screen. It is mainly divided into three sub-categories as follows:
@@ -46,4 +46,5 @@ This option is present at the left panel of your screen using these you can add 
 ## 6. Stroke palette
 This option allows you to adjust the size and color of the border of the area you select. It has many extra features like if you want to curve the edges of the straight line then you can use the caps option present in it.
 ## Summary
-In this we learned about different types of palettes by which we can make our document look more beautiful. These palettes will help us in every project which we are going to make in the future.
+In this we learned about different types of palettes by which we can make our document look more beautiful. These palettes will help us in every project which we are going to make in the future.\
+In the next chapter we will see different views in illustrator.
