@@ -1,4 +1,4 @@
-p# Chapter - 1 Profile
+# Chapter - 1 Profile
 LinkedIn is a social network specifically designed for career and business professionals to connect. Over 65 million professionals use LinkedIn to cultivate their careers and businesses. Unlike other social networks in which you might become "friends" with anyone and everyone, LinkedIn is about building strategic relationships. Thus, the number of connections is less important than the type of connections. In fact, LinkedIn stops showing your actual number of connections once you have 500 because it's about quality, not quantity. 
 
 
