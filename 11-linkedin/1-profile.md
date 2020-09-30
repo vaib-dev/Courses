@@ -12,12 +12,13 @@ So how do you know that your profile picture is good? You could ask colleagues o
 
 ##  Headline
 Your headline is the piece of text that comes below your name and you have to see that as an ad as the tile of an ad. It is the thing which will attract people to read open your profile and read about you.
-So there's a simple rule that you can use to enhance to make your title better on Linkedin.The rule is **Job title + Company name + most important keywords + Zing factor**. Now let me explain that, of course you have your job title and then your company name but it's also very important to ad the important keywords. Now why is that? Because when people go on Linkedin they often try to find certain profiles. They use the search option to find certain profiles. And then the Zing factor. That's something that surprises people, that could be a conversation starter, that explains a little bit more what you stand for. 
+So there's a simple rule that you can use to enhance to make your title better on Linkedin.The rule is **Job title + Company name + most important keywords + Zing factor**. Now let me explain that, of course you have your job title and then your company name but it's also very important to ad the important keywords. Now why is that? Because when people go on Linkedin they often try to find certain profiles. They use the search option to find certain profiles and they search for a keyword like sales executive.So if you have this keyword in your headline the serch will show you to the people. Now comes the Zing factor, that's something that surprises people, that could be a conversation starter, that explains a little bit more what you stand for. 
 
 ## Summary
-The summary is the piece of text that you
-can find below your headline. In your summary you can explain what are your skills, strengths. Also in your summary you can add social proof by this you make your profile more strong. You can add links to you website, to a blog, a slide share and you can even add youtube videos there.\
+The summary is the piece of text that you can find below your headline. In your summary you can explain what are your skills, strengths. Also in your summary you can add social proof by this you make your profile more strong. You can add links to you website, to a blog, a slide share and you can even add youtube videos there.\
 Just click the pencil here to edit your profile. Scroll down to the summary section and there you have the upload buttons for files and links. So let's say we want to link to a Youtube video, just paste the link here and as you can see you get the preview and you can change the title and the description if you want.
+
+<p text align="center"></p><img src="https://www.socialmediaexaminer.com/wp-content/uploads/2017/02/vvr-add-video-to-linkedin-profile.png"></p>
 
 ## Experience
 The objective of the Experience Section of your LinkedIn Profile is to give visitors to your profile information about your past & current positions. In this section you can add your projects, the jobs that you have done earlier and where are you currently working.
