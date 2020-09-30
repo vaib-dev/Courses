@@ -34,3 +34,6 @@ In this we have created a burger logo for a shop.
 
 ## Challenge - 4 Peacock Logo
 Here we have created a beautiful peacock logo.
+
+## Challenge - 5 Cowboy Logo
+Let's make a cowboy logo, believe me it is going to be very easy.
