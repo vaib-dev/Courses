@@ -1,5 +1,5 @@
-# Chapter - 2 Networking
-So, now you have made your profile on linkedin that contains a lot of information about you. It's time to tell people that who are you and that call networking. So, what is networking? The answer is simple the word networking means connecting with people and LinkedIn enables you to network with people and professional organizations in your industry. This is a great way to stay up to date with the latest developments, and to share information with others in your field. 
+p# Chapter - 2 Networking
+So, now you have made your profile on LinkedIn that contains a lot of information about you. It's time to tell people that who are you, make connections with them. So, what is networking? The answer is simple the word networking means connecting with people and LinkedIn enables you to network with people and professional organizations in your industry. This is a great way to stay up to date with the latest developments, and to share information with others in your field. 
 
 ## How do we network?
 Hopefully, you avoided reaching out to new contacts and accepting connection requests until your profile was in tip-top shape. You need to assume that people will check out your profile when you are connecting. And with many connections, that’s your first impression as **You never get a second chance to make a first impression**\
@@ -11,13 +11,15 @@ Hopefully, you avoided reaching out to new contacts and accepting connection req
 
 With that in mind, it’s time to build your network. There are four primary ways to do it:
 
-**1. Reach out**: When you’re reaching out, remember to customize the request instead of using the unimaginative “I would like to add you to my network.” You can even customize requests when using the LinkedIn mobile app. Here’s how:
+**1. Reach out**: When you’re reaching out, remember to customize the request instead of using the unimaginative “I would like to add you to my network.” You can even customize requests as follows:
 
 • While you’re at your invitee’s profile, click on the three dots in the upper right (don’t use the connect button).
 
 • Choose “Personalize Invite.”
 
-• Write a custom message, and then click send.
+• Write a custom message, and then click send as shown below.
+
+<p text align="center"><img src="https://mindsetdigital.com/wp-content/uploads/2017/06/example-2.png"></p>
 
 **2. Accept connection requests**: Know your criteria for accepting requests (and remember what you lose if you are a closed networker). LinkedIn alerts you when you have requests. Get in the habit of accepting them soon after receiving them.
 
@@ -31,10 +33,9 @@ Once you join a group you must do the following actions:
 2. You can introduce yourself. Let other members know you are new to the group and share a little bit about why you are there.   
 
 ### Nurture Your Network
-Adding people to your network won’t help you build a relationship with them. You need to engage with them regularly. Here’s how:
+By the word nurture I mean taking care of your relationship with connections. Adding people to your network won’t help you build a relationship with them. You need to engage with them regularly. Here’s how:
 
 **1. Interact**: 
-
  1. Provide status updates on a regular basis. It keeps you visible to the people in your brand community.
 
  2. Like and comment on LinkedIn posts that you think are valuable, and share the posts with your connections and other groups you belong to.
