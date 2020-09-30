@@ -1,4 +1,4 @@
-# Challenge - 4 Peacock
+# Challenge - 5 Cowboy Logo
 
 In this challenge we are going to create a cowboy logo. 
 ## Reference Image
