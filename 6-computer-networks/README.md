@@ -38,3 +38,5 @@ This chapter mainly focus on the practical part. We will configure all the routi
 
 ## Chapter - 10 Troubleshooting
 
+## Challenge - NAT Protocol
+Here I have configured the both types of NAT protocols that are static NAT and dynamic NAT, also I have mentioned all the commands by which you can also implement NAT. Basically, NAT enables private IP networks that use unregistered IP addresses to connect to the Internet. So let's see learn how to implement in packet tracer.
