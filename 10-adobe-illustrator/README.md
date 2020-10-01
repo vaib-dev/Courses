@@ -29,4 +29,3 @@ Here we have created a cute little bird logo.
 
 ## Challenge - 2 Tiger Logo
 In this challenge we will create a tiger logo.
-
