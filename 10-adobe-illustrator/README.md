@@ -26,3 +26,6 @@ In this chapter we will create our first project on illustrator. So lets start w
 
 ## Challenge - 1 Bird Logo
 Here we have created a cute little bird logo.
+
+## Challenge - 2 Tiger Logo
+In this challenge we will create a tiger logo.
