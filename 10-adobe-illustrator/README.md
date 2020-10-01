@@ -21,4 +21,8 @@ The chapter tells you about the most used feature in the illustrator by the edit
 So finally we came to our last theory chapter which means from the next chapter we will be creating our first project by implementing the concepts that we had learned in the above chapters. So are you excited to start with the first project?
 
 ## Chapter - 6 Create a project
+
 In this chapter we will create our first project on illustrator. So lets start with it!
+
+## Challenge - 1 Bird Logo
+Here we have created a cute little bird logo.
