@@ -22,3 +22,20 @@ So finally we came to our last theory chapter which means from the next chapter 
 
 ## Chapter - 6 Create a project
 In this chapter we will create our first project on illustrator. So lets start with it!
+
+In this chapter we will create our first project on illustrator. So lets start with it!
+
+## Challenge - 1 Bird Logo
+Here we have created a cute little bird logo.
+
+## Challenge - 2 Tiger Logo
+In this challenge we will create a tiger logo.
+
+## Challenge - 3 Burger Logo
+In this we have created a burger logo for a shop.
+
+## Challenge - 4 Peacock Logo
+Here we have created a beautiful peacock logo.
+
+## Challenge - 5 Cowboy Logo
+Let's make a cowboy logo, believe me it is going to be very easy.
