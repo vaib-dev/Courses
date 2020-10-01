@@ -23,6 +23,8 @@ So finally we came to our last theory chapter which means from the next chapter 
 ## Chapter - 6 Create a project
 In this chapter we will create our first project on illustrator. So lets start with it!
 
+In this chapter we will create our first project on illustrator. So lets start with it!
+
 ## Challenge - 1 Bird Logo
 Here we have created a cute little bird logo.
 
