@@ -34,3 +34,5 @@ In this challenge we will create a tiger logo.
 ## Challenge - 3 Burger Logo
 In this we have created a burger logo for a shop.
 
+## Challenge - 4 Peacock Logo
+Here we have created a beautiful peacock logo.
