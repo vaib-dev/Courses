@@ -9,7 +9,7 @@ Unlike other social networks such as Facebook, instagram which are often purely 
 Connections are formed between users when one accepts an invitation from another to join his or her network. LinkedIn allows users to further their careers by searching for jobs, finding connections (even at third hand) at a particular company, and receiving recommendations from other users. 
 
 ## Learning Objective
-After completing this course you will be able to understand LinkedIn at a great extent. Once you complete the course you will be able to,
+Once you complete the course you will be able to understand LinkedIn at a great extent and you will be able to,
 
 1. Create a ALL STAR profile
 2. Make network on LinkedIn
@@ -18,8 +18,7 @@ After completing this course you will be able to understand LinkedIn at a great 
 5. Add articles
 6. Optimize your profile for better search visibility
 
-
-
 ## Personal Branding
+
 
 ## Engagement
