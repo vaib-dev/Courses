@@ -34,13 +34,26 @@ Recommendation templates are divided into two parts:
 
 2. Writing a recommendation for someone
 
-### 1. Asking for a recommendation
+### 1. Requesting for a recommendation
 
-1. “Hi ____. I’m working on improving my LinkedIn profile and one of my goals is to get a couple of recommendations from colleagues that know my work well. Would you be able to write me a LinkedIn recommendation in the next couple of days to help me improve my profile? I could do the same for you if you’d like, just let me know.”
+1. “Hi[NAME]. I’m working on improving my LinkedIn profile and one of my goals is to get a couple of recommendations from colleagues that know my work well. Would you be able to write me a LinkedIn recommendation in the next couple of days to help me improve my profile? I could do the same for you if you’d like, just let me know.”
 
+2. [NAME], would you kindly write me a LinkedIn recommendation based on the time we worked together as [ROLE]?
+
+3. Hey, [NAME]! Long time no see. Would you kindly write a recommendation about the time we went to [SCHOOL]?
 
 ### 2. Writing a recommendation for someone
 
 1. “[DESCRIPTIVE PHRASE] is what comes to mind when I think about [NAME]. I’ve had the pleasure of knowing [NAME] for [LENGTH OF TIME], during which [DESCRIPTION OF WORKING RELATIONSHIP]. Above all, I was impressed with [NAME’s] ability to [DESCRIPTION OF WHAT MAKES THEM STAND OUT]. And, of course, his/her [PERSONALITY TRAIT. [NAME] would be a true asset for any positions requiring [1-2 SKILLS NEEDED FOR THE POSITION] and its without hesitation that I recommend [NAME].”
 
 2. I've worked for [NAME] for [TIME-PERIOD], and in those [TIME-PERIOD] years, I've seen her quickly take on new responsibilities while having the time to teach this information back into his/her friends or employees. [NAME] is as great a person as she was a [SKILL], and her next company will be lucky to have him/her.
+
+3. Hi [NAME], thanks for the recommendation! I’m glad I was a good [something the person said about you].
+You were also a great colleague and very [make a compliment]. Let me know if you would like me to leave you a recommendation as well. I’ll gladly do it.
+Kind regards,
+[your name]
+
+## Summary
+So now we know about the recommendations section inn LinkedIn, let's summarize the above in 2 min. Take it as personal, always write a positive message. Don’t say things you don’t believe in otherwise your recommendation will sound fake. Be professional this is not a chance to complain or give feedback. Keep it as short as possible, although, you have up to 3000 characters, but there is no need to use them all. Don’t be repetitive and try to add up to 3 paragraphs. You must finish the recommendation with a powerful statement.
+
+In the next chapter, we will start with posting content on LinkedIn.
