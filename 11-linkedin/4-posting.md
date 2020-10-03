@@ -48,13 +48,12 @@ You've proofread and edited your LinkedIn post for it to meet the rules of web-w
 
 <p text align="center"><img src="https://media.sproutsocial.com/uploads/2020/03/BTP-2020-LinkedIn-Heatmap-Global.png"></p>
 
-### Best times
 If you’re trying to create this share-worthy content, it’s no surprise that the most reliable engagement occurs during the work week, Tuesday through Friday, 8 a.m.–2 p.m. Engagement drops off outside of working hours, every day before 4 a.m. and after 8 p.m. Monday is also slightly lower on engagement, perhaps reflecting the rush to catch up post-weekend for the platform’s professional audience.
 
 Try to post on  Wednesday from 8–10 a.m. and noon, Thursday at 9 a.m. and 1–2 p.m., and Friday at 9 a.m.\
 The best day to post is Wednesday and Thursday and worst day is Sunday.
 
-The report is according to [Sprout-Social](https://sproutsocial.com/). Data from Sprout Social include users from various plan types, industries and locations. All time frames are recorded in Central Time Zone (CST). Number of engagements represents total engagements a brand received on the specific channel during that hour time frame. Industry-specific data includes mid- to high-level engagement times.
+The report is according to [Sprout-Social](https://sproutsocial.com/).
 
 ## Engagement On Posts
 
