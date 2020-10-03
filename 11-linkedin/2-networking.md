@@ -46,7 +46,9 @@ By the word nurture I mean taking care of your relationship with connections. Ad
 **3. Engage, engage, engage**: Take a few minutes per day to thoughtfully comment on other people's posts, articles and videos. After you do this on a few posts, send the person a connection request. They'll be much more likely to connect with you if you're a familiar face.
 
 ## Tips For Networking
-Here are four tips to network on LinkedIn:
+It's well known that networking is the key to a successful career. You can have the skills and the education, but without connections, it will be very difficult to get a job or even build a business. A recent study by Right Management found that for the fifth year in a row, person-to-person networking is the most effective way of finding a new job. Networking had a 46 percent effectiveness rate, compared to Internet job boards (25 percent), recruiters (14 percent), the direct approach (7 percent) and newspaper listings (1 percent).
+
+A lot of people have trouble with networking because they are introverted, feel like they are using people and come off as selfish instead of helpful. Here are five tips that will help you, even if you're not a natural chatterer:
 
 ### 1. Connect with people you know on LinkedIn 
 
