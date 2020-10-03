@@ -40,15 +40,14 @@ Below is the example of a good summary:
 <p text align="center"><img src="https://www.linkedinsights.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-06-at-5.22.35-PM.png"></p>
 
 ###  What NOT To Do
- 1. **Don’t recite your resume** like
+ 1. **Don’t recite your resume** like,
 My first job out of college was at Pinkberry where I worked for two years until I went to Chase Bank for three… That’s when the insurance world called, where I worked for Geico, Progressive and now State Farm, where I sell auto and life. Btw, interested??
 
-2. **Don’t confuse your LinkedIn summary with your unabridged biography** like I was born to a family of five, in a poor section of the Bronx. I was a bottle baby from the start, undersized, underfed, and underwhelming. As the middle child, I had a minor birth defect — a mole above my right eye that screamed ‘everyone, please keep away.’ But now I just write seemingly unending LinkedIn summaries to handle that for me.
+2. **Don’t confuse your LinkedIn summary with your unabridged biography** like, I was born to a family of five, in a poor section of the Bronx. I was a bottle baby from the start, undersized, underfed, and underwhelming. As the middle child, I had a minor birth defect — a mole above my right eye that screamed ‘everyone, please keep away.’ But now I just write seemingly unending LinkedIn summaries to handle that for me.
 
-3. **Don’t talk about yourself in the third person** like Carl Spackler is a detailed-oriented groundskeeper at Bushwood Country Club, who stays dedicated to manicuring the greens and believes in making true one-on-one connections with the people he speaks to.
+3. **Don’t talk about yourself in the third person** like, Carl Spackler is a detailed-oriented groundskeeper at Bushwood Country Club, who stays dedicated to manicuring the greens and believes in making true one-on-one connections with the people he speaks to.
 
-4. **Don’t overdo the keywords**:
-Accomplished technology professional who can lead business development, software design and contract management efforts. I’m also a customer-success driven sales executive with experience in enterprise data management solutions, cloud (IaaS, PaaS, SaaS), and product management.
+4. **Don’t overdo the keywords** like, Accomplished technology professional who can lead business development, software design and contract management efforts. I’m also a customer-success driven sales executive with experience in enterprise data management solutions, cloud (IaaS, PaaS, SaaS), and product management.
 
 ## Experience
 The objective of the Experience Section of your LinkedIn Profile is to give visitors to your profile information about your past & current positions. In this section you can add your projects, the jobs that you have done earlier and where are you currently working.
