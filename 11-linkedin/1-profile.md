@@ -36,24 +36,19 @@ If you wish to continue the reading [click here](https://searchengineland.com/se
 ## Summary
 Writing a great LinkedIn profile top-to-bottom is the easiest way to set yourself apart from half-a-billion other LinkedIn users. Even if you’re uploaded a great profile photo, customized your headline, and detailed your work and education history, leaving the summary blank is a huge missed opportunity for a number of reasons. The LinkedIn profile summary is one of the first things people see when they visit your profile. 
 
-### Tips To Write Good Summary
-1. **Start strong**: By default, LinkedIn shows only the first three lines of your profile summary before readers have to click to see more. This works out to around 290-310 characters. If you’re a creative writer you might start your summary with a catchy hook that invites readers to click “See More.” Otherwise, top load your LinkedIn summary with the number-one thing you want recruiters or hiring managers to know about you.
-
-2. **Make your LinkedIn summary keyword rich**:
-Recruiters search for a combination of job titles, skills, and other keywords to find the right candidates. LinkedIn even shows you some of the search queries used to find your profile. On your profile, check out the dashboard underneath your summary. One of the stats will be “search appearances.”
-
-3. **Open up about your career**: Your LinkedIn summary isn’t the place for your unabridged biography. However, it is the perfect place to add context to your career trajectory, show off your accomplishments, and dig into what makes you great at your job. This is information that recruiters and prospective employers are interested in knowing.
-
-4. **What are your greatest accomplishments?**: Specific accomplishments should be peppered throughout your work experience sections, but the summary is a great place to collect your greatest accomplishments for additional impact.
-
-5. **Do answer the following questions**:\
-a) What are your goals and ambitions?\
-b) What are your guiding principles?\
-c) Why are you passionate about your current job or industry?\
-d) Were there any specific pieces of wisdom that you took away from past jobs?\
-e) Is there any unique knowledge you’ve brought into your industry from other life experiences?
-
+Below is the example of a good summary:
 <p text align="center"><img src="https://www.linkedinsights.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-06-at-5.22.35-PM.png"></p>
+
+###  What NOT To Do
+ 1. **Don’t recite your resume** like
+My first job out of college was at Pinkberry where I worked for two years until I went to Chase Bank for three… That’s when the insurance world called, where I worked for Geico, Progressive and now State Farm, where I sell auto and life. Btw, interested??
+
+2. **Don’t confuse your LinkedIn summary with your unabridged biography** like I was born to a family of five, in a poor section of the Bronx. I was a bottle baby from the start, undersized, underfed, and underwhelming. As the middle child, I had a minor birth defect — a mole above my right eye that screamed ‘everyone, please keep away.’ But now I just write seemingly unending LinkedIn summaries to handle that for me.
+
+3. **Don’t talk about yourself in the third person** like Carl Spackler is a detailed-oriented groundskeeper at Bushwood Country Club, who stays dedicated to manicuring the greens and believes in making true one-on-one connections with the people he speaks to.
+
+4. **Don’t overdo the keywords**:
+Accomplished technology professional who can lead business development, software design and contract management efforts. I’m also a customer-success driven sales executive with experience in enterprise data management solutions, cloud (IaaS, PaaS, SaaS), and product management.
 
 ## Experience
 The objective of the Experience Section of your LinkedIn Profile is to give visitors to your profile information about your past & current positions. In this section you can add your projects, the jobs that you have done earlier and where are you currently working.
