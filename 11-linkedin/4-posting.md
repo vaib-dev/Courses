@@ -75,7 +75,7 @@ There are no rules per se, but there are guidelines or etiquette you should foll
 1. Don’t self-promote
 1. Avoid dense blocks of text
 1. Don’t use ALL CAPS
-1. Remember, your name, picture and headline accompany every comment you make
+1. ask a question/keep the conversation going
 
 ### What To Do Before You Post Your Comment On LinkedIn
 Before you leave your smart comment, review the other comments to see if anyone else has the same thoughts. If so, you can like their comment and reply to the person. (This is a great way to meet new people!)
