@@ -12,11 +12,11 @@ LinkedIn lets you change it at any time, but pick something good and stick with 
 Your profile picture is very important because on the basis of your profile picture people will want to connect to you or offer you business proposals or maybe offer you a job. Now, if you don't have a profile picture or if it's outdated than you really have to work on that. What do you need to have a good profile picture? Well, first thing is that is has to be close up. Look into the camera, smile, have a neutral background and dress appropriately, wearing minimal jewellery and accessories and certainly no head-wear or no sunglasses.\
 These are things to avoid in your profile picture like shades, bad lightning etc.\
 So how do you know that your profile picture is good? You could ask colleagues or maybe friends or family members and make changes according to their response and reaction on the picture. Below shown pictures shows different poses that you can put in you profile and did you note one thing common in all pictures except suit? The smile, smile creates a very good impact on the viewer on your profile.
-<p text align="center"></p><img src="https://cdn.goodgallery.com/274bb1d3-b411-4b2a-bf11-30e8078d1335/r/0800/2fdz4k31/olqfpjh53zr.jpg" height=250></p>
+<p text align="center"><img src="https://cdn.goodgallery.com/274bb1d3-b411-4b2a-bf11-30e8078d1335/r/0800/2fdz4k31/olqfpjh53zr.jpg" height=250></p>
 
 For the background image you can put any image of good quality which defines you or your profession. You can search on google and can easily find one. Maybe, like in the picture below:
 
-<p text align="center"></p><img src="https://content.linkedin.com/content/dam/business/talent-solutions/global/en_us/blog/2020/02/nashla-fadile-contreras-rello.png"></p>
+<p text align="center"><img src="https://content.linkedin.com/content/dam/business/talent-solutions/global/en_us/blog/2020/02/nashla-fadile-contreras-rello.png"></p>
 
 ##  Headline
 Your headline is the line of text directly beneath your name on your profile. LinkedIn gives you about 120 characters of space here to tell visitors who you are and what you offer.
@@ -37,7 +37,7 @@ If you wish to continue the reading [click here](https://searchengineland.com/se
 Writing a great LinkedIn profile top-to-bottom is the easiest way to set yourself apart from half-a-billion other LinkedIn users. Even if you’re uploaded a great profile photo, customized your headline, and detailed your work and education history, leaving the summary blank is a huge missed opportunity for a number of reasons. The LinkedIn profile summary is one of the first things people see when they visit your profile. 
 
 Below is the example of a good summary:
-<p text align="center"><img src="https://www.linkedinsights.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-06-at-5.22.35-PM.png"></p>
+<p text align="center"><img src="https://cdn.shortpixel.ai/spai/w_609+q_lossy+ret_img+to_webp/https://www.yesware.com/wp-content/uploads/summary7.png"></p>
 
 ###  What NOT To Do
  1. **Don’t recite your resume** like,
@@ -61,17 +61,16 @@ Including specific skills on your LinkedIn profile is a great way to showcase yo
 Once you've added a skill to your profile, your skills can be validated by 1st-degree(1st-degree LinkedIn connections are with  People you're directly connected to because you have accepted their invitation to connect, or vice-versa. You'll see a 1st degree icon next to their name in search results and on their profile) connections to reinforce their weighting. These are called **skill endorsements**, which are different than recommendations. When a connection endorses your skills, it contributes to the strength of your profile, and increases the likelihood that you'll be discovered for opportunities related to the skills you possess.
 
 You don't need to request a skill endorsement in order to receive one. By default, you'll receive a notification when a connection endorses one of your skills. However, you can manage the frequency of the skill endorsement notifications.
-<p text align="center"><img src="https://i.insider.com/5e91008bdcd88c16237eb6c3?width=1100&format=jpeg&auto=webp"></p>
 
 ##  Accomplishments
 Accomplishments help the viewer to know about you in terms of work that you have done in past years. So in this section you can add the projects that you have completed and what was your position in that project. You can add the languages you know, blogs that you have written, honors and awards that you have achieved along with your studies. 
-<p text align="center"><img src="https://neilpatel.com/wp-content/uploads/2018/03/linkedin-accomplishments.png"></p>
 
 ## Interests
-Interests on LinkedIn consist of "news sources, influence's, companies, schools, and groups" you're following on the site. This is useful because it lets other users know what you're curious about and can even help you form new connections with people who follow the same things as you.
-This is how the viewer will see your interests when he visit your profile
+Your interests must be listed professionally. So, pay attention to that fine line which divides your professional interests and personal hobbies.
 
-<p text align="center"><img src="https://miro.medium.com/max/1654/0*LuKpSbZCqd0L0wU5"></p>
+For example, you may love traveling, reading books, listening to music, or horse riding, but when it comes to adding LinkedIn interests, you should choose those appropriate to your job role or education. They should reflect on how you want to be seen by your target recruiters.
+
+
 
 ## Featured
 The Featured section allows you to showcase samples of your work to people who view your LinkedIn profile. This section is located toward the top of your profile between the About section and Activity section.
