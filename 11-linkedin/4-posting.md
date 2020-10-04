@@ -33,16 +33,24 @@ a) **Charts and diagrams**: They are perfect visuals to add when talking about c
 
 b) **Faces**: It's nothing but human psychology: we are instinctively drawn to look at faces, and that is why images of people work so well. Sure enough, it's about posting experts in your niche or real people, relevant to the context of your LinkedIn posts.
 
+### 4. Hashtags
+Use hashtags, as the algorithm uses many intent signals to rank content, including hashtags "Pete Davies( LinkedIn’s Senior Director) says he recommends using hashtags, but to keep the number of hashtags included in a post at three or less". So if you have been hashtag bombing your posts, please stop that – it isn’t helping you and it’s possibly hurting your performance.
+
+### 5.  Questions
+
+Always ask for the opinion of others with in your post to encourage conversation as all social platforms weight comments as one of the highest indicators of engagement, except YouTub but for the rest of the landscape including LinkedIn you will find that the content that gets the most comments has the highest about of viewership and tends to live longer on the news feed. So a simple was to do this is by asking your audience their thoughts and it can be a simple “do you agree or disagree”?.
+
 ###  Before You Hit "Publish"
 Consider this checklist every time you plan publishing a status update on LinkedIn:
 
-1. Content to share: an informative or educational blog post, a how-to guide, data-driven research on the latest trends in your niche, a case study, your company news or updates.
+1. Content maybe an informative or educational blog post, a how-to guide, data-driven research on the latest trends in your niche, a case study, your company news or updates.
 2. You have crafted a perfect headline for your post, relevant to its context.
 You've proofread and edited your LinkedIn post for it to meet the rules of web-writing.
+
 3. When providing an image for your post, you've cared for it to be informative and valuable to a reader.
 4. Your LinkedIn video is short, to the point, and of high quality. Viewers will learn from it, and it will help them understand your brand better.
 5. You are on LinkedIn to grow professionally and help followers grow with you.
-
+6. Check the hashtags are specific to the topic you are talking about in the post.
 
 ## Best Timings To Post
 
