@@ -5,7 +5,7 @@ When you write LinkedIn articles, you are writing as a professional. People will
 
 You can write on any topic for example “5 best interview questions” or explain “the benefits of Snapchat for a business,” use your business title to prove you know what you are talking about. Of course, be sure that the information you share is relevant. If you write an article on something so specialized that only your coworkers will know, it could lack the engagement you seek. Find relevant subjects that will draw in your target audience and share important material with them. You will gain trust once you have given quality information that can benefit them.
 
-## Tips 
+## Writing a Healthy Article
 These are some tips that can help improve the quality and quantity of your written material:
 
 ### 1. Write a Head-Turning Headline
@@ -29,24 +29,17 @@ These are some tips that can help improve the quality and quantity of your writt
 ### 7. Edit Your Work
  After you have created a first draft, go back and consider how you might polish the rough edges of your writing. In most cases, writing improves as it goes through a round or two of edits—even when it has been drafted by experienced content creators.
 
-## Before You Publish, Remember This:
+## Before You Publish Article, Remember This
+
 1. Include a relevant sub-headline as an add-on to the title. It helps to give a glimpse into the idea of the article even before reading the first sentence.
 
-2. Don’t forget to use strong images to emphasize major points. Unsplash, Pexels, and Moose are great sources for free stock imagery. Be sure to credit the photographers of the image.
+2. Don’t forget to use strong images to emphasize major points. Unsplash, and Moose are great sources for free stock imagery. Be sure to credit the photographers of the image.
 
 3. If possible, consider using quotes. Incorporate the words of influential people to substantiate your points. This will also bring more highlights and the chances for the sharing of your article.
 
 4. Use hyperlinks to other articles, writers, and content from around the internet. Make sure external links are providing more context to your ideas and not just a shameless plug for your other works.
 
- ## Must Read
-
- 1. [How to Write Anything and Everything Faster and Save Your Some Time](https://www.themuse.com/advice/how-to-write-anything-and-everything-faster-and-save-yourself-some-time)
- 
- 2. [7 Free Tools That'll Help Anyone Become a Better Writer Today](https://www.themuse.com/advice/7-free-tools-thatll-help-anyone-become-a-better-writer-today)
-
- 3. [LinkedIN article template](https://www.linkedin.com/pulse/linkedin-article-template-minja-smura/)
-
-## Articles Template
+## Article Template
 1. CHOOSE A TOPIC
 2. WHAT'S MY POINT OF VIEW ON SAID TOPIC?
 3. THE TITLE
@@ -68,21 +61,17 @@ These are some tips that can help improve the quality and quantity of your writt
   - Takeaways
 8. THE CONCLUSION
 
-### Examples
-
-https://www.socialmediaexaminer.com/wp-content/uploads/2020/02/linkedin-post-with-personal-story-550.png
-
-https://www.socialmediaexaminer.com/wp-content/uploads/2020/02/linkedin-post-that-dispels-industry-myth-550.png
-
 ## Best and Worst Time To Post Your Article
-Best or time to get best outcome of your work:
+You must post your article in the perfect time slot i.e when most of the users are active on LinkedIn. Below are the best and the worst time slots to post:
+
+### Best or time to get best outcome of your work
  1. Work-Hours, 10 A.M to 6 P.M. 
  Interaction with LinkedIn has been seen in the first half of the office hours when people cruise through the network to look for new research, opinions, inspiration, before indulging in their own work.
 
  2. Office Commute hour, 7 A.M to 9 A.M and 6 P.M to 8 P.M 
   Well, that’s not surprising, people turn to see their LinkedIn feed while traveling to work in the early morning or winding up their workday and coming back home.
 
-Worst or not efficient time to post on linkedin are:
+### Worst or not efficient time to post on linkedin are
 
 1. Weekends are the worst days to post on LinkedIn. The majority of your audience will be out, socializing with the real world, or spending time with their families. So it is important to schedule your posts for weekdays mostly.
 
@@ -90,7 +79,16 @@ Worst or not efficient time to post on linkedin are:
 
 3. Outside of business hours. Most of the people tend to switch from professional social media platforms to more personal ones after work hours.
 
+## Must Read
+
+ 1. [How to Write Anything and Everything Faster and Save Your Some Time](https://www.themuse.com/advice/how-to-write-anything-and-everything-faster-and-save-yourself-some-time)
+ 
+ 2. [7 Free Tools That'll Help Anyone Become a Better Writer Today](https://www.themuse.com/advice/7-free-tools-thatll-help-anyone-become-a-better-writer-today)
+
+ 3. [LinkedIN article template](https://www.linkedin.com/pulse/linkedin-article-template-minja-smura/)
+
 ## Engagement 
+Engagement simply means to spread your content more and more. Below are some ways by which you can make that happen:
 
 ### 1. Share Your LinkedIn Articles with Your Knowns
 
