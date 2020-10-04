@@ -6,6 +6,7 @@ If you use custom graphics or images, you have the additional benefit of adding 
 Every time your connections interact with your post (likes, comments and shares), it becomes visible to their first degree connections. This is very powerful as not only does this broaden the amount of people who see your post but it also has the benefit of being viewed as worthy of engagement by their connection.
 
 ## Tips For Posting Content
+Below are some tips that you can follow:
 
 ### 1. Post Different Content Types
 
@@ -85,8 +86,9 @@ There are no rules per se, but there are guidelines or etiquette you should foll
 1. Don’t use ALL CAPS
 1. ask a question/keep the conversation going
 
-### What To Do Before You Post Your Comment On LinkedIn
-Before you leave your smart comment, review the other comments to see if anyone else has the same thoughts. If so, you can like their comment and reply to the person. (This is a great way to meet new people!)
+### Points To Check Before Commenting
+
+ Before you leave your smart comment, review the other comments to see if anyone else has the same thoughts. If so, you can like their comment and reply to the person. (This is a great way to meet new people!)
 
 It’s also important to make sure the article’s topic or subject matter is relevant to your career goals.
 
