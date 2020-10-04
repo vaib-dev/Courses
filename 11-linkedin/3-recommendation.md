@@ -30,11 +30,11 @@ In this section, hit the message home with a mention of how you felt working wit
 
 ## Recommendation Templates
 Recommendation templates are divided into two parts:
-1. Asking for a recommendation
+1. Asking for recommendation
 
-2. Writing a recommendation for someone
+2. Writing recommendation for someone
 
-### 1. Requesting for a recommendation
+### 1. Requesting For Recommendation
 
 1. “Hi[NAME]. I’m working on improving my LinkedIn profile and one of my goals is to get a couple of recommendations from colleagues that know my work well. Would you be able to write me a LinkedIn recommendation in the next couple of days to help me improve my profile? I could do the same for you if you’d like, just let me know.”
 
@@ -61,9 +61,7 @@ Best regards,
 
 [WRITER-NAME]
 
-
-
-### 2. Writing a recommendation for someone
+### 2. Writing Recommendation For Someone
 
 1. “[DESCRIPTIVE PHRASE] is what comes to mind when I think about [NAME]. I’ve had the pleasure of knowing [NAME] for [LENGTH OF TIME], during which [DESCRIPTION OF WORKING RELATIONSHIP]. Above all, I was impressed with [NAME’s] ability to [DESCRIPTION OF WHAT MAKES THEM STAND OUT]. And, of course, his/her [PERSONALITY TRAIT. [NAME] would be a true asset for any positions requiring [1-2 SKILLS NEEDED FOR THE POSITION] and its without hesitation that I recommend [NAME].”
 
@@ -84,7 +82,17 @@ Best regards,
 9. “I hired [NAME] as a Freelance Website Designer to re-design my website portfolio in [YEAR].”
 
 10. “I’m amazed by [NAME]'s ability to make friends with anyone, a skill he/she uses to full effect when presenting proposals to our clients.”
+
+## Do Read
+1. [How many recommendations you should have on LinkedIn](https://medium.com/your-brand/linkedin-recommendations-needed-b832510636a6)
+
+2. [To know more recommendation tips](https://www.themuse.com/advice/4-keys-to-scoring-amazing-linkedin-recommendations)
+
+3. [Role of recommendations on getting a job call](https://www.vault.com/blogs/networking/pros-and-cons-of-linkedin-recommendations-according-to-10-hiring-managers)
+
+4. [Have you ever asked for a recommendation on LinkedIn and heard…nothing?](https://www.impulsecreative.com/blog/5-ways-not-to-get-recommendations-on-linkedin)
+
 ## Summary
-So now we know about the recommendations section inn LinkedIn, let's summarize the above in 2 min. Take it as personal, always write a positive message. Don’t say things you don’t believe in otherwise your recommendation will sound fake. Be professional this is not a chance to complain or give feedback. Keep it as short as possible, although, you have up to 3000 characters, but there is no need to use them all. Don’t be repetitive and try to add up to 3 paragraphs. You must finish the recommendation with a powerful statement.
+LinkedIn recommendations can help boost your credibility with the hiring manager and signal that you have had strong relationships throughout your professional career. So make sure you invest this time to reinforce your professional reputation. Ask for recommendations. And don’t forget to return the favor if you have an opportunity!
 
 In the next chapter, we will start with posting content on LinkedIn.
