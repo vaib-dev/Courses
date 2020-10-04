@@ -68,6 +68,12 @@ These are some tips that can help improve the quality and quantity of your writt
   - Takeaways
 8. THE CONCLUSION
 
+### Examples
+
+https://www.socialmediaexaminer.com/wp-content/uploads/2020/02/linkedin-post-with-personal-story-550.png
+
+https://www.socialmediaexaminer.com/wp-content/uploads/2020/02/linkedin-post-that-dispels-industry-myth-550.png
+
 ## Best and Worst Time To Post Your Article
 Best or time to get best outcome of your work:
  1. Work-Hours, 10 A.M to 6 P.M. 
@@ -85,3 +91,38 @@ Worst or not efficient time to post on linkedin are:
 3. Outside of business hours. Most of the people tend to switch from professional social media platforms to more personal ones after work hours.
 
 ## Engagement 
+
+### 1. Share Your LinkedIn Articles with Your Knowns
+
+ Your knowns play a very important role in making your article go viral as they will read the article properly, will add comments and like, there is also a chance of sharing the article. So, you must send them.
+ 
+ Think through who in your contacts would genuinely benefit from the knowledge and information you shared in your post. Then send them a personalized message with a link.
+
+ Something like:
+
+ “Good morning/afternoon, [First Name]! I just wrote an article about how to get more views on LinkedIn Publishing posts, and I know this is something you had mentioned you are exploring. I hope you find it useful and would love to know your thoughts if you have a minute. Thanks!”
+
+### 2. Share with LinkedIn Groups
+The most effective way to share your LinkedIn articles within a group will be to copy the link from the “share” button and then write a post specific to each group that includes the link.
+
+### 3. Share with Other Social Media and/or Email
+This one is a tricky one, as it depends on your bigger picture social media strategy and goals. If you are repurposing your own blog content as LinkedIn articles, then you may prefer to send them to the original source on your website rather than your LinkedIn profile.
+
+If, however, you have not shared the same content in another way with your email list or other social media accounts, then share on! Follow all the same guidelines to personalize and customize.
+
+### 4. Engage with Your Readers on LinkedIn
+ You can get more readers by rewarding the ones you have! LinkedIn will show you who has liked your article, how many views it has received, and any comments on the article.
+
+If you see that someone liked your article and you feel like it is appropriate to the relationship you might follow up with an individual message. Something along the lines of “I see that you liked my article about ____. Have you been using ___ in your business lately? What kind of results are you seeing?”
+
+Definitely take the time to respond to any comments with a comment of your own. At a minimum, thank readers for taking the time to comment, and if possible, keep the conversation going with engagement strategies.
+
+### 5. Be Aware of Search Optimization Best Practices
+Are you still not seeing the number of readers you would like on your articles? Maybe the way you wrote the article itself needs to be evaluated.
+
+Think through who it is that you want to read this article, and what they are searching for, or what frustration they are having. Do you answer their questions? Do you solve their problem?
+
+## Summary
+At the end I can say that, you can connect with everyone who comments or engages with your article. Do the same for those who comment/engage with posts from other experts in your niche. You can also search LinkedIn for relevant groups to join, participate in discussions there, and connect with everyone you talk to or engage with by sharing your article there.
+
+In the next chapter, we will study about, How to optimize your profile for better search visibility.
