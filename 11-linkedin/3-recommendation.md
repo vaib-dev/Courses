@@ -55,11 +55,11 @@ Recommendation templates are divided into two parts:
 
     I understand if you are busy and it has been a while since we have spoken. If there is anything that I can do to help, please do not hesitate to contact me.
 
-As always, I greatly appreciate your time.
+    As always, I greatly appreciate your time.
 
-Best regards,
+    Best regards,
 
-[WRITER-NAME]
+    [WRITER-NAME]
 
 ### 2. Writing Recommendation For Someone
 
