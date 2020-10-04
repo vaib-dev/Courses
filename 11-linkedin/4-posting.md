@@ -90,9 +90,9 @@ There are no rules per se, but there are guidelines or etiquette you should foll
 
  Before you leave your smart comment, review the other comments to see if anyone else has the same thoughts. If so, you can like their comment and reply to the person. (This is a great way to meet new people!)
 
-It’s also important to make sure the article’s topic or subject matter is relevant to your career goals.
+ It’s also important to make sure the article’s topic or subject matter is relevant to your career goals.
 
-Think carefully about the topic before commenting. But also consider the popularity of the poster and the article/post. You are looking to hang with the right people and meet new connections in the right field. Be strategic and invest your time wisely.
+ Think carefully about the topic before commenting. But also consider the popularity of the poster and the article/post. You are looking to hang with the right people and meet new connections in the right field. Be strategic and invest your time wisely.
 
 ## Summary
 This is the chapter that help you to increase your connections and views on profile. The content above is there to guide you. These are only suggestions. Of course, there will be the occasional outlier, exception to the rule, or variable we didn’t account for. In the end, you should be doing what works.
