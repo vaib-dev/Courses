@@ -43,11 +43,11 @@ Recommendation templates are divided into two parts:
 3. "Hey, [NAME]! Long time no see. Would you kindly write a recommendation about the time we went to [SCHOOL]?"
 
 4. "Hey [NAME],
-I hope all is great with you. I would like to reach out to you through LinkedIn to request a recommendation for the work I did when I was when I was on your team. The projects you assigned me allowed me to be the most creative I have ever been in my career. I am so appreciative of the opportunity you gave me to lead and manage others – it was a valuable growth experience for me.
+ I hope all is great with you. I would like to reach out to you through LinkedIn to request a recommendation for the work I did when I was when I was on your team. The projects you assigned me allowed me to be the most creative I have ever been in my career. I am so appreciative of the opportunity you gave me to lead and manage others – it was a valuable growth experience for me.
 
-I know you are really busy, so I’d be happy to send you a draft recommendation you can edit (or of course, just ignore).
+ I know you are really busy, so I’d be happy to send you a draft recommendation you can edit (or of course, just ignore).
 
-Thanks in advance for your support."
+  Thanks in advance for your support."
 
 5. Good morning [NAME],
 
