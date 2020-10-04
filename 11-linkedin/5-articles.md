@@ -29,7 +29,8 @@ These are some tips that can help improve the quality and quantity of your writt
 ### 7. Edit Your Work
  After you have created a first draft, go back and consider how you might polish the rough edges of your writing. In most cases, writing improves as it goes through a round or two of edits—even when it has been drafted by experienced content creators.
 
-## Before You Publish Article, Remember This
+## Before You Publish 
+Must check these points once before you are clicking in the publish button:
 
 1. Include a relevant sub-headline as an add-on to the title. It helps to give a glimpse into the idea of the article even before reading the first sentence.
 
