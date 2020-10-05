@@ -10,9 +10,11 @@ Keywords are ideas and topics that define what your profile is about. In terms o
 But to have a good LinkedIn profile, you want the keywords on your profile to be relevant to what people are searching for so they have a better chance of finding your profile among the results.
 
 ### Why are keywords important?
-Keywords are important because they are the linchpin between what people are searching for and your profile to fill that need.
+Keywords are important because they are the linchpin between what people are searching for and your profile to fill that need. These keywords usually represent your areas of expertise or hard
+skills. The more of the right keywords your profile contains, the more findable you’ll be. 
 
- Your goal is to rank good on search engines is to drive traffic to your profile from the search engine result and the keywords you choose to target will determine what kind of traffic you get. If you are a web developer, for example, you might want to rank for website building companies but if you're not careful, you might end up attracting traffic that's interested in finding a new place to dance after dark. So it is very important to add keywords to your profile, but where?
+Your entire LinkedIn profile should be packed with your relevant keywords – while still being readable and interesting to humans, not just the search engine. Fill out every profile section that applies to you, with as much content as you can. The more keyword-rich content in your profile, the better your personal SEO (Search Engine
+Optimization) . . . making you more visible and findable to people who can help you reach your career goals. So it is very important to add keywords to your profile, but where?
 
  ### Places to add keywords
 You should add keywords in every section of your profile, below I have mentioned some fixed places where keywords are must to add:

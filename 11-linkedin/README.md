@@ -7,5 +7,22 @@ LinkedIn, business-oriented social networking Web site founded in 2002 and headq
 ## Learning Objective
 
 ## Personal Branding
+You already have a brand. Your personal brand is your personal DNA -- the combination of personal attributes, values, strengths, and passions that people know you for and that represent the value you offer.
 
+Today, LinkedIn is the most important social network for making that brand clear by:
+1. Making a good profile
+2. Making a lot of connections
+3. Getting recommendations
+4. Writing articles in consistency
+5. Engaging in different groups
+6. Having a short chat with your connections 
+
+This course covers these all topics in detail so if you are interested to make a good personal brand then [click here](https://github.com/Vaibhavpratapsingh22/Courses/tree/master/11-linkedin) to start with the course.
 ## Engagement
+Engagement on Linkedin is defined as “How many times members clicked, liked, commented on, and shared your content in both organic and paid campaigns, as well as the number of followers acquired through paid campaigns”.
+
+To get more and more engagements follow the steps:
+
+1. Focus on when and what to post
+2. Focus on post frequency
+3. Focus on the content type
