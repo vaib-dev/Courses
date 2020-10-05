@@ -37,6 +37,30 @@ graphic design, web design, website design, website builder, web developer, web 
 
 If you are unable to find good keywords you can find by [clicking here](https://www.wordstream.com/popular-keywords).
 
+LinkedIn recently released its list of the buzzwords users in the U.S. most rely on to describe themselves and their professional experience.
+
+Here are the top 10:
+
+1. Specialized
+
+2. Experienced
+
+3. Leadership
+
+4. Skilled
+
+5. Passionate
+
+6. Expert
+
+7. Motivated
+
+8. Creative
+
+9. Strategic
+
+10. Successful
+
 
 ## Summary
 Now we are all set with our LinkedIn profile. If you have followed the complete course then now you must be having a ALL-star profile, a large network, recommendations, some posts, and complete knowledge of LinkedIn. 
