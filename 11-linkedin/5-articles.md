@@ -97,8 +97,7 @@ Engagement simply means to spread your content more and more. Below are some way
  
  Think through who in your contacts would genuinely benefit from the knowledge and information you shared in your post. Then send them a personalized message with a link.
 
- Something like:
-
+ **Example**:\
  “Good morning/afternoon, [First Name]! I just wrote an article about how to get more views on LinkedIn Publishing posts, and I know this is something you had mentioned you are exploring. I hope you find it useful and would love to know your thoughts if you have a minute. Thanks!”
 
 ### 2. Share with LinkedIn Groups
