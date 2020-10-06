@@ -7,6 +7,8 @@ Every time your connections interact with your post (likes, comments and shares)
 
 ## Tips For Posting Content
 
+Below are some tips that you can follow:
+
 ### 1. Post Different Content Types
 
  a) **Long story short**: Online content is about emotions and personal stories, not advertising. Users don't read but scan it, looking for something that would reflect their inner world at that very moment - when they scroll a news-feed. LinkedIn is about business, so brand storytelling is what you need to master here.
@@ -42,6 +44,25 @@ You've proofread and edited your LinkedIn post for it to meet the rules of web-w
 3. When providing an image for your post, you've cared for it to be informative and valuable to a reader.
 4. Your LinkedIn video is short, to the point, and of high quality. Viewers will learn from it, and it will help them understand your brand better.
 5. You are on LinkedIn to grow professionally and help followers grow with you.
+
+### 4. Hashtags
+Use hashtags, as the algorithm uses many intent signals to rank content, including hashtags "Pete Davies( LinkedIn’s Senior Director) says he recommends using hashtags, but to keep the number of hashtags included in a post at three or less". So if you have been hashtag bombing your posts, please stop that – it isn’t helping you and it’s possibly hurting your performance.
+
+### 5.  Questions
+
+Always ask for the opinion of others with in your post to encourage conversation as all social platforms weight comments as one of the highest indicators of engagement, except YouTub but for the rest of the landscape including LinkedIn you will find that the content that gets the most comments has the highest about of viewership and tends to live longer on the news feed. So a simple was to do this is by asking your audience their thoughts and it can be a simple “do you agree or disagree”?.
+
+###  Before You Hit "Publish"
+Consider this checklist every time you plan publishing a status update on LinkedIn:
+
+1. Content maybe an informative or educational blog post, a how-to guide, data-driven research on the latest trends in your niche, a case study, your company news or updates.
+2. You have crafted a perfect headline for your post, relevant to its context.
+You've proofread and edited your LinkedIn post for it to meet the rules of web-writing.
+
+3. When providing an image for your post, you've cared for it to be informative and valuable to a reader.
+4. Your LinkedIn video is short, to the point, and of high quality. Viewers will learn from it, and it will help them understand your brand better.
+5. You are on LinkedIn to grow professionally and help followers grow with you.
+6. Check the hashtags are specific to the topic you are talking about in the post.
 
 
 ## Best Timings To Post
@@ -83,6 +104,14 @@ Before you leave your smart comment, review the other comments to see if anyone 
 It’s also important to make sure the article’s topic or subject matter is relevant to your career goals.
 
 Think carefully about the topic before commenting. But also consider the popularity of the poster and the article/post. You are looking to hang with the right people and meet new connections in the right field. Be strategic and invest your time wisely.
+
+### Points To Check Before Commenting
+
+ Before you leave your smart comment, review the other comments to see if anyone else has the same thoughts. If so, you can like their comment and reply to the person. (This is a great way to meet new people!)
+
+ It’s also important to make sure the article’s topic or subject matter is relevant to your career goals.
+
+ Think carefully about the topic before commenting. But also consider the popularity of the poster and the article/post. You are looking to hang with the right people and meet new connections in the right field. Be strategic and invest your time wisely.
 
 ## Summary
 This is the chapter that help you to increase your connections and views on profile. The content above is there to guide you. These are only suggestions. Of course, there will be the occasional outlier, exception to the rule, or variable we didn’t account for. In the end, you should be doing what works.
