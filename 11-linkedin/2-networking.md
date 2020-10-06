@@ -1,4 +1,4 @@
-p# Chapter - 2 Networking
+# Chapter - 2 Networking
 So, now you have made your profile on LinkedIn that contains a lot of information about you. It's time to tell people that who are you, make connections with them. So, what is networking? The answer is simple the word networking means connecting with people and LinkedIn enables you to network with people and professional organizations in your industry. This is a great way to stay up to date with the latest developments, and to share information with others in your field. 
 
 ## How do we network?
@@ -43,8 +43,12 @@ By the word nurture I mean taking care of your relationship with connections. Ad
 
 **2. Acknowledge**: LinkedIn does the heavy lifting when it comes to staying on top of people in your network. They provide notifications when someone you know has a birthday, work anniversary, or new job. You have the option of “liking” the notification or sending a message. I suggest choosing “send a message” and writing a personal note. Determine a time of day you will check in and get in the habit of doing it daily so you don’t miss any of your connections’ important dates.
 
+**3. Engage, engage, engage**: Take a few minutes per day to thoughtfully comment on other people's posts, articles and videos. After you do this on a few posts, send the person a connection request. They'll be much more likely to connect with you if you're a familiar face.
+
 ## Tips For Networking
-Here are four tips to network on LinkedIn:
+It's well known that networking is the key to a successful career. You can have the skills and the education, but without connections, it will be very difficult to get a job or even build a business. A recent study by Right Management found that for the fifth year in a row, person-to-person networking is the most effective way of finding a new job. Networking had a 46 percent effectiveness rate, compared to Internet job boards (25 percent), recruiters (14 percent), the direct approach (7 percent) and newspaper listings (1 percent).
+
+A lot of people have trouble with networking because they are introverted, feel like they are using people and come off as selfish instead of helpful. Here are five tips that will help you, even if you're not a natural chatterer:
 
 ### 1. Connect with people you know on LinkedIn 
 
@@ -62,9 +66,23 @@ A great way to network on LinkedIn is by sharing your experiences and ideas, and
 
 Try to post on a regular basis and include relevant hashtags on your content which will extend reach beyond your first-degree connections. If you’re job seeking, this could prompt hiring managers or other professionals to reach out to you directly. For more tips to share your insights on LinkedIn, read on here.
 
-### 4. Ask your network for help
+### 4. Create Win/Win Situations
+It's very important that both you and the other party gain equally when networking. If you benefit more than the other person, he or she will feel cheated and used. When that happens, you won't be able to go back and built a long-term relationship.
+### 5. Become A Connector
 
-By connecting with people you know on LinkedIn, you’ll not only see more relevant conversations in your feed, but you’ll also have visibility into your connections’ professional networks you may not have known about. You might discover, for example, that your cousin’s college roommate runs HR at a company you love and can facilitate a conversation with a hiring manager. Asking your connections to introduce you is a great way to expand your digital network.
+You don't always have to gain something in a networking relationship. If you can introduce people who can benefit from one another, it's just as effective. You can build a stronger rapport with multiple people and it makes you very good.
+
+### 6. LinkedIn Open Networker (LION)
+The LinkedIn Open Networker is a member of the professional social networking site that encourages connections from any member of the site by publicly declaring they are open networkers. In other words, they are open to connecting with anyone who sends an invitation to them.
+
+Under most circumstances, when you sign up for a LinkedIn account, you are placed into a network—according to your location and possibly your school and professional affiliations. This creates limits on the number of people who can become your connection.
+
+But by becoming a LinkedIn Open Networker, you open the possibility of expanding your connection base by quickly increasing the number of people in your network.
+
+ **How to join**: To join a LION group within LinkedIn by searching “Lion” or “open networkers” under the Groups option in the site’s search engine. You will a lot of groups, just enter in anyone which has a good number of members.
+
+Remember, once you proclaim yourself as an open networker, you’re opening yourself up to hundreds (or potentially thousands) of networking opportunities. This could be good or bad, of course. So it’s up to you to decide if increasing your networking opportunities in this way will be effective for your job search.
+
 
 ## Summary
 Now you have the keys for unlocking the power of networking on LinkedIn. So you can start coming in peoples eye and make the maximum number of connections in order to be on the top of the search list.
