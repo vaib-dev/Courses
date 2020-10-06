@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-## [GitHub](1-github)
+## [GitHub](C-01-github)
 
 This course will comprehensively cover the GitHub hosting service as a companion to the Github Desktop source control tool, which means no prior knowledge or experience is required.
 
@@ -14,7 +14,7 @@ This course will comprehensively cover the GitHub hosting service as a companion
 
     7. Creating PR   8. Merge            9. Fork
 
-## [Data Structures](2-datastructure)
+## [Data Structures](C-02-datastructure)
 
 You may be new to Data Structure or you have already Studied and Implemented Data Structures but still you feel you need to learn more about Data Structure in detail. Every Data Structure is discussed, analysed and implemented with a Practical line-by-line coding.
 
@@ -26,18 +26,20 @@ You may be new to Data Structure or you have already Studied and Implemented Dat
 
     7. Tree
 
-## [Algorithms](3-algorithms)
+## [Algorithms](C-03-algorithms)
 
 Apply basic algorithmic techniques such as greedy algorithms, searching, sorting and dynamic programming to solve programming challenges.
 Apply graph and string algorithms to solve real-world challenges: finding the shortest paths.
 
                      CONTENTS
 
-    1. Sorting            2. Searching            3. Greedy Method
+    1. Sorting            2. Searching           
+    
+    3. Greedy Method      4. Dynamic Method      
+    
+    5. Big O Notation
 
-    4. Dynamic Metod      5. Big O Notaion
-
-## [Software Engineering](4-software-engineering)
+## [Software Engineering](C-04-software-engineering)
 
 Here, you will learn software engineering principles that are applicable to the breadth of large-scale software systems. The course explores topics such as agile development,project planning, testing, design, and more.
 
@@ -49,7 +51,7 @@ Here, you will learn software engineering principles that are applicable to the 
 
          5. Software Design     6. Software Testing
 
-## [Database Management System(DBMS)](5-dbms)
+## [Database Management System(DBMS)](C-05-dbms)
 
 As we know information is not useful if not organized. So in this course, we will study database, Database Management System (DBMS) , relational data management system, data modeling and many more to present data in an organized form.
 
@@ -61,7 +63,25 @@ As we know information is not useful if not organized. So in this course, we wil
 
            5. RDBMS
 
-## [Scrum Master Role](7-scrum-master-role)
+## [Computer Networking](C-06-computer-networks)
+This course is designed to provide a full overview of computer networking. We’ll cover everything from the fundamentals of networking, protocols with practicals and we will also do network troubleshooting.
+
+                          CONTENTS
+
+           1. Introduction          2. Basic Concepts  
+
+           3. The OSI Model         4. Transmission Media
+
+           5. Error Detection       6. Basics of IP Networking
+              and Correction
+
+           7. LAN Switching         8. IP Addressing
+
+           9. Routing Protocols     10. Troubleshooting
+
+
+
+## [Scrum Master Role](C-07-scrum-master-role)
 
 This course will help you in learning how to use Scrum to optimize value, productivity, and the total cost of ownership of software products. Tools are provided to enable all of you to relate to behavioral shifts, work with people and teams, coach and facilitate techniques, and address the organization. We will learn about the role and various skills here.
 
@@ -76,6 +96,31 @@ This course will help you in learning how to use Scrum to optimize value, produc
            7. Coaching            8. Anti-Patterns
 
            9. Remote Work         10. Remote Toolkit
+
+## [Adobe Illustrator](C-10-adobe-illustrator)
+This course is for people who has never used the Adobe Illustrator. If you want to understand the Illustrator quickly this course is for you.
+
+
+                         CONTENTS
+
+           1. Introduction        2. Paletts of illustrator
+
+           3. Views               4. Customizing illustrator
+
+           5. Shape Builder Tool  6. Create a project                 
+
+
+## [LinkedIn](C-11-linkedin)
+A well-crafted LinkedIn profile can be far more powerful than a single resume, cover letter, or website, and in this course you will learn how to set up your profile the right way. 
+
+
+                         CONTENTS
+
+           1. Linkedin Profile     2. Networking
+
+           3. Recommendation       4. Posting
+
+           5.  Articles            6. How to Optimize Your Profile for Better Search Visibility
 
 ## Support
 
