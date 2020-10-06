@@ -72,6 +72,18 @@ It's very important that both you and the other party gain equally when networki
 
 You don't always have to gain something in a networking relationship. If you can introduce people who can benefit from one another, it's just as effective. You can build a stronger rapport with multiple people and it makes you very good.
 
+### 6. LinkedIn Open Networker (LION)
+The LinkedIn Open Networker is a member of the professional social networking site that encourages connections from any member of the site by publicly declaring they are open networkers. In other words, they are open to connecting with anyone who sends an invitation to them.
+
+Under most circumstances, when you sign up for a LinkedIn account, you are placed into a network—according to your location and possibly your school and professional affiliations. This creates limits on the number of people who can become your connection.
+
+But by becoming a LinkedIn Open Networker, you open the possibility of expanding your connection base by quickly increasing the number of people in your network.
+
+ **How to join**: To join a LION group within LinkedIn by searching “Lion” or “open networkers” under the Groups option in the site’s search engine. You will a lot of groups, just enter in anyone which has a good number of members.
+
+Remember, once you proclaim yourself as an open networker, you’re opening yourself up to hundreds (or potentially thousands) of networking opportunities. This could be good or bad, of course. So it’s up to you to decide if increasing your networking opportunities in this way will be effective for your job search.
+
+
 ## Summary
 Now you have the keys for unlocking the power of networking on LinkedIn. So you can start coming in peoples eye and make the maximum number of connections in order to be on the top of the search list.
 
