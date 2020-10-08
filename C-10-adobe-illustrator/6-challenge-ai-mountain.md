@@ -6,4 +6,4 @@ We are going to make a mountain logo. Below I have uploaded the reference and my
 
 ## My creation 
 
-<p text align="center"><Img src="https://user-images.githubusercontent.com/54719422/95417776-813b1300-0953-11eb-8027-09153da4520f.png"></p>
+<p text align="center"><Img src="https://user-images.githubusercontent.com/54719422/95444373-59f83c00-097b-11eb-9f3f-8dd7f089ca9d.png"></p>
