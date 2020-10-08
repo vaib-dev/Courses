@@ -6,4 +6,4 @@ In this challenge we are going to create a satellite logo.
 
 ## My creation 
 
-<p text align="center"><Img src="https://user-images.githubusercontent.com/54719422/95420728-a3379400-0959-11eb-969e-949a63a6cd4f.png"></p>
+<p text align="center"><Img src="https://user-images.githubusercontent.com/54719422/95443648-75af1280-097a-11eb-9143-4209f5269dc1.png"></p>
