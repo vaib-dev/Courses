@@ -39,3 +39,15 @@ Here we have created a beautiful peacock logo.
 
 ## Challenge - 5 Cowboy Logo
 Let's make a cowboy logo, believe me it is going to be very easy.
+
+## Challenge - 6 Mountain Logo
+In this challenge we will create a mountain logo.
+
+## Challenge - 7 Nestouse Logo
+Let's make a nestouse logo, believe me it is going to be very easy.
+
+## Challenge - 8 Satellite Logo
+Here we will design a satellite logo.
+
+## Challenge - 9 Ship Logo
+A pirate type ship logo, sounds interesting. Lets design then!
