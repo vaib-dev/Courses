@@ -6,4 +6,4 @@ The requirement was to make a simple, beautiful and attractive logo.
 
 The shop today have  all the confectionery items at a large scale, but it all started with a small tea stall. So I decided to represent the a glass of tea in the logo. The owner of the shop who is known by the name Sharma Ji. He always wear specs and kids call him as "chasme vale uncle". So I made this logo as shown below: 
 
-<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/96294563-2fa51f00-100a-11eb-9d92-fbfe8eb6ae0c.jpg"></p>
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/96330752-682e1280-1075-11eb-9fba-a4f1ef2255c2.jpg"></p>
