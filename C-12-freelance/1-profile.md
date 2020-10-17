@@ -43,6 +43,6 @@ Your freelance profile isn’t a get-it-and-forget-it asset. It actually require
 For freelancers, your digital profile is your resume. If you want to get paid, you must have the freelance profile to back it up. It’s what makes a good first impression, gets you the interview and helps you stand out from the competition.
 
 ## Summary
-We now have build a good freelance profile through which people can now more about us and give us the work.
+The main thing to start with freelancing is setting up the right profile. We now have build a proper freelance profile if you have followed the above-mentioned points. Now we start with bidding on projects and sending proposals for work.
 
 In the next chapter we will start how to bid on a project.
