@@ -2,15 +2,13 @@
 
 It’s been several weeks or maybe months since you signed up as a freelancer on UpWork but you still haven’t had any luck landing a job. Sound familiar to you?
 
-Having an incomplete freelancer profile or a profile with poor copy is one of the main reasons why most freelancers have a hard time landing clients on platforms like UpWork.
-
-Because when you apply for a job on UpWork, the first thing your client do is checking your profile to learn more about you. And an incomplete or a bad profile might give your clients the wrong impression of you.
+Having an incomplete freelancer profile or a profile with poor copy is one of the main reasons why most freelancers have a hard time landing clients on platforms like UpWork. Because when you apply for a job on UpWork, the first thing your client do is checking your profile to learn more about you. And an incomplete or a bad profile might give your clients the wrong impression of you.
 
 UpWork, Freelancer.com, People Per Hour, are all great freelance platforms you can use as a starting point for your freelance career. However, just registering an account and filling it up with some random text is not going to work out well for you.
 
 If you’re serious about making a career as a freelancer, the first thing you need to do is create a complete and an attractive freelancer profile.
 
-So, here’s what you should include in your UpWork freelancer profile:
+So, here’s what you should include in your freelancer profile:
 
 ## Attractive Headline
  Write a Headline That’s Clear, Concise and Effective
