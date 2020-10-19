@@ -41,6 +41,9 @@ For freelancers, your digital profile is your resume. If you want to get paid, y
 
 2. https://www.careeraddict.com/freelance-profile 
 3. https://www.careerizma.com/blog/6-ways-show-empathy-work/
+
+## My UpWork Profile
+https://www.upwork.com/freelancers/~0199079a8b662f4f6f?viewMode=1&s=1044578476142100497
 ## Summary
 The main thing to start with freelancing is setting up the right profile. We now have build a proper freelance profile if you have followed the above-mentioned points. 
 
