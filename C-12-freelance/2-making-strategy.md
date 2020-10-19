@@ -1,7 +1,7 @@
 # Chapter - 2 Making Strategy
 Find one strategy that works really well, and then another, and then one more. Focus your primary efforts on developing strategies A and B simultaneously, and get to strategy C once the first two have been established. It’s important to understand that there isn’t one formula that works for all, certain freelancers will find strategy X to work great, while other freelancers will find strategy Y to work best.
 
-Below are 5 strategies that should be kept in mind before bidding on a project.
+Below are 5 strategies that should be checked with a tick, before you start bidding on a project.
 ## Strategy 1: Word of Mouth & Networking
 If you're just getting started, it's important to build up your reputation and credibility. You do this by getting your first few projects completed, and making sure your clients are happy with your work.
 
@@ -29,5 +29,13 @@ Firstly, your hourly rate calculation should take into account any and all month
  Then Calculate working days, it is advisable to determine how many days per week, month, or year you are looking to do freelance work.\
   After this, Calculate your Minimum Acceptable Rate (MAR) once you’ve calculated your expenses and working days, it’s time to set your MAR – or minimum acceptable rate. This is the absolute lowest hourly rate you would be willing to work for. By analyzing your costs and workdays, you can calculate the MAR that best works for you. 
 
-## Strategy 5: 
+## Strategy 5: Build Your Credibility
+There are many ways to build your credibility within your industry. Aside from creating high quality blog content and collaborating with notable influencers in your industry, you can write an ebook, create an online course, and line up speaking engagements to start increasing your visibility within your niche.
+
+These credibility-boosters can help you add your list of accomplishments that you can highlight on your portfolio and simultaneously demonstrate your knowledge for more potential clients to see. The wider you can broadcast your message, the more influence you’ll build within your niche.
  
+
+ ## Summary
+ Now we have a strategy to follow to get the first project on freelancer. Mostly people on freelancer are bidding randomly without any strategy due to this they don't get any project. So, a freelancer must have a strategy to follow for better working.
+
+ In the next chapter we will study who to find the perfect client for a project. 
