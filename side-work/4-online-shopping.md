@@ -3,4 +3,4 @@ My friend has recently started his business of digital marketing distribution, i
 
 So, he wanted a logo that is simple and soft. Then I made the logo as shown below:
 
-<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/96583821-ed762900-12fa-11eb-897f-31727636a842.jpg"></p>
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/96585964-ee5c8a00-12fd-11eb-8120-7b587fee30b4.jpg"></p>
