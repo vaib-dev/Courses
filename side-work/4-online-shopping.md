@@ -3,8 +3,10 @@ My friend has recently started his business of digital marketing distribution, i
 
 So, he wanted a logo that is simple and soft. Then I made the logo as shown below:
 
-<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/97038173-05aea800-1588-11eb-853e-f863e077738a.png"></p>
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/97081108-df3b4c00-161d-11eb-9f5f-780d9f865392.png"></p>
 
-<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/97038183-08a99880-1588-11eb-8c9d-4ba64be525f2.png"></p>
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/97081113-e19da600-161d-11eb-97eb-e57143878a13.png"></p>
 
-<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/97038178-07786b80-1588-11eb-9573-48fa89c45778.png"></p>
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/97081114-e4000000-161d-11eb-9ae2-e039cb2fd217.png"></p>
+
+<p text align="center"><img src="https://user-images.githubusercontent.com/54719422/97081115-e5312d00-161d-11eb-9a19-39bc9b26bacd.png"></p>
