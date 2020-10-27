@@ -25,3 +25,21 @@ Are you happy with this current type of customer and, more importantly, are they
 
 As mentioned above, your current clients or customers may not be your ideal ones. Maybe you’ve noticed that your customer retention rate is really low—people are buying once, but not returning. Perhaps you’ve been on the receiving end of a lot of customer complaints. Or, maybe you just want to shift your focus, change your business model, and reach a totally different audience.\
 This is the time to outline your goals. Determining what specifically you want to achieve will help you alter your strategies when it comes to your customers. 
+
+## Step4: Create Trigger Phrases
+
+Your clients don’t know how to solve their problems, but they usually know what their problems are. If you can get really good at demonstrating that what you sell is the answer to their problem they really don’t care what you call it.
+
+Break down every solution you sell and every benefit you attribute to what you do, and map it back to a handful of “trigger phrases.” These phrases can be questions or statements or even anecdotes, but they must come from the point of view of the client.
+
+Find the relevant keyword on this site: https://copyblogger.com/trigger-words/
+
+## Step5: Remember Your Hard Work
+So, you pulled together a detailed profile of your ideal customer and made sure everyone on your team was on the same page. Now what?
+
+Unfortunately, many businesses make the mistake of putting all of the time and research in, and then just letting that information sit there unused. If your goal is to target those specific customers in order to continue improving your business, you need to always keep the information you gathered at the top of mind. It should influence every move and decision you make. So use the information wisely.
+
+## Summary 
+Identifying your ideal customer can seem like an overwhelming and daunting task. However, it’s an important step in growing and improving your business, and with these five steps, the process doesn’t need to be overly complicated. Follow along and you’re well on your way to not only reaching new customers—but the right ones.
+
+In the next chapter we will know how to bid on the project.
