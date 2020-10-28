@@ -1,7 +1,6 @@
 # Chapter - 3 Who is your Ideal Client
 
-Before you can charge ahead and zone in on your target, you first need to have a solid handle on what exactly an ideal customer is. When you think about it this way, the entire concept is quite simple:\
- "Your ideal customer is someone who gets their exact needs met by what you’re offering."
+Before you can charge ahead and zone in on your target, you first need to have a solid handle on what exactly an ideal customer is. When you think about it this way, the entire concept is quite simple: "Your ideal customer is someone who gets their exact needs met by what you’re offering."
 
  So, your ideal client is someone who benefits from your product or service. But, it’s also defined as someone you most want to target with your marketing and promotions based on your current business situation. Perhaps you’ve been mainly reaching creative freelancers, but you’d rather shift your focus and work with more agency founders. Your existing customers may not necessarily be your ideal ones.
 
