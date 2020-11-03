@@ -83,3 +83,8 @@ Make sure you have a great Upwork profile that backs up everything you’re sayi
 
     Best regards,\
     [Your Name]
+
+## Summary
+Now we know how to select the right project and client so it's the time to implement all the learnings. So start bidding on the projects. Remember in the line of freelance you have to keep yourself motivated and never lose hope. I believe that you will surely get the first project within a month. The biggest hurdle is the first project after that the things will go smooth. 
+
+So be positive evrytime you bid.
