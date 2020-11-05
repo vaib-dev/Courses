@@ -7,7 +7,7 @@ In this chapter we are going to design our profile in a professional way so that
 ## Chapter - 2 Marketing Strategies
 Here I will tell you the top 5 marketing strategies that will give you a boost to get your first freelance project very soon.
 
-## Chapter - 3 Clients
+## Chapter - 3 Selecting Clients
  Selecting right client plays a very important role in getting the project, so after this chapter you will be able to select the right client.  
-## Chapter - 4 bidding
+## Chapter - 4 Bidding
 Thr most important and the most risky part is putting a bid. While putting a bid you always have to be positive that you are going to get the project. So writing a good proposal is a difficult task, to make it easy for you I have given some templates by which you can take a idea how to write them and then write you own proposal.
