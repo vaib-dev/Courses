@@ -116,14 +116,24 @@ A well-crafted LinkedIn profile can be far more powerful than a single resume, c
 
                          CONTENTS
 
-           1. Linkedin Profile     2. Networking
+           1. LinkedIn Profile     2. Networking
 
            3. Recommendation       4. Posting
 
            5.  Articles            6. How to Optimize Your Profile for Better Search Visibility
 
+## [Freelance](C-12-freelance)
+A freelancer is a self-employed person who offers services, often working on several jobs for multiple clients at one time.
+
+
+                         CONTENTS
+
+           1. Profile     2. Strategies
+
+           3. Clients       4. Bidding
+
 ## Support
 
-For any query plz mail at vaibhavpratapsingh22@gmail.com
+For any query please mail at vaibhavpratapsingh22@gmail.com
 
 ![edit2](https://img.shields.io/static/v1?label=Topic&message=Introduction&color=orange)![edit](https://img.shields.io/static/v1?label=PRs&message=Welcome&color=<COLOR>)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
