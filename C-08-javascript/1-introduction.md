@@ -35,25 +35,27 @@ The terms above are good to remember because they are used in developer articles
 
 <p text-align="center"><img src="https://user-images.githubusercontent.com/54719422/101372125-8ffd6200-38d1-11eb-9046-bfac2e1f4a9e.png"></p>
 
-## JavaScript Example
+## Putting JS file in HTML document
+We can use javascript with HTML code on two ways that are internally or externally. Below we will see them with examples.
+
+### Internal Javascript File
 JavaScript can be placed at two positions in HTML file that are:
 1. Within body tag
 2. Within head tag
 
-Let’s create the first JavaScript example.
+**1. Code between the body tag**:
+In the above example, we have displayed the dynamic content using JavaScript. Let’s see the simple example of JavaScript that displays alert dialog box. 
 
+    <html>
+    <head></head>
+    <body>
     <script type="text/javascript">  
     document.write("JavaScript is a simple language for javascript learners");  
     </script>  
+    </body>
+    </html>
 
-### 1. JavaScript Example : code between the body tag
-In the above example, we have displayed the dynamic content using JavaScript. Let’s see the simple example of JavaScript that displays alert dialog box.
-
-    <script type="text/javascript">  
-     alert("Hello javascript");  
-    </script>      
-
-### 2. JavaScript Example : code between the head tag
+**2. Code between the head tag**:
 Let’s see the same example of displaying an alert dialog box of JavaScript that is contained inside the head tag.
 
 In this example, we are creating an alert message that will be displaying on the website before the HTML code which means when we click on the OK button on the website only then we will be able to see our HTML web-page.
@@ -65,15 +67,14 @@ In this example, we are creating an alert message that will be displaying on the
     </script>  
     </head>  
 
-## External JavaScript file
+### External JavaScript file
 We can create external JavaScript file and embed it in many html page. It provides code re usability because single JavaScript file can be used in several html pages. An external JavaScript file must be saved by .js extension. It is recommended to embed all JavaScript files into a single file. It increases the speed of the webpage.
 
 Let's create an external JavaScript file that prints Hello javascript in a alert dialog box. **message.js**
   
      alert("Hello javascript");  
 
-### Including the JS file in HTML
-Let's include the JavaScript file into html page. It calls the JavaScript function on button click. **index.html**
+**Including the JS file in HTML**: Let's include the JavaScript file into html page. It calls the JavaScript function on button click. **index.html**
 
       <html>  
       <head>  
