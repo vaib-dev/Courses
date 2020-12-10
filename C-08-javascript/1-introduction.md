@@ -1,4 +1,4 @@
-# Introduction to Javascript
+# Chapter -1 Introduction to Javascript
 
 JavaScript is a dynamic, weakly typed programming language which is compiled at
 runtime. It can be executed as part of a webpage in a browser or directly on any
