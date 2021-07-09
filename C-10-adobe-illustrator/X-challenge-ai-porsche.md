@@ -13,5 +13,5 @@ I use tools such as the pen tool, shape builder tool, curvature and width tool t
 
 ## Final Version
 
-<p text align="center"><Img src="https://user-images.githubusercontent.com/54719422/125110280-00878e00-e102-11eb-8af1-30550ad629b7.png"></p>
+<p text align="center"><Img src="https://user-images.githubusercontent.com/54719422/125110990-f6b25a80-e102-11eb-9322-ba0f3190c4e7.png"></p>
 
