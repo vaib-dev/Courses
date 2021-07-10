@@ -16,4 +16,4 @@ I use tools such as the pen tool, shape builder tool, curvature and width tool t
 <p text align="center"><Img src="https://user-images.githubusercontent.com/54719422/125110990-f6b25a80-e102-11eb-9322-ba0f3190c4e7.png"></p>
 
 ### V2
-<p text align="center"><Img src="https://user-images.githubusercontent.com/54719422/125163835-a42d7880-e1ac-11eb-84d5-a0679721bf2a.png"></p>
+<p text align="center"><Img src="https://user-images.githubusercontent.com/54719422/125163975-59603080-e1ad-11eb-98f8-8975f7543adb.png"></p>
