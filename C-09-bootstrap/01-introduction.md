@@ -10,7 +10,9 @@ So basically, bootstrap is an open-source website or library in which there is p
 
 ## How Bootstrap was started?
 
-<img src="https://miro.medium.com/max/450/1*Rn1qm0COeT7oxrSwGzD3GQ@2x.jpeg">Developers of Bootstrap Otto and Thornton</img>
+<p align="center"><img src="https://miro.medium.com/max/450/1*Rn1qm0COeT7oxrSwGzD3GQ@2x.jpeg" height="250px" width="250px"></img></p>
+
+<p align="center">Developers of Bootstrap Otto and Thornton</p>
 
 Bootstrap was developed by Mark Otto and Jacob Thornton at Twitter. It was developed as a framework to encourage consistency across internal tools. So many libraries were used for interface development earlier, which led to inconsistencies and a high maintenance burden. The initial name of Bootstrap was Twitter Blueprint. It was renamed and released as an open source project on August 19, 2011.
 
