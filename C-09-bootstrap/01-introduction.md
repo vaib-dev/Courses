@@ -4,7 +4,7 @@ Welcome to the course of Bootstrap. In this course we will come to know about th
 
 ## What is Bootstrap?
 
-### "Bootstrap is a free, open-source front-end library for designing websites and web applications. It contains HTML- and CSS-based design templates for everything from typography, forms, buttons, navigation and other interface components as well as JavaScript extensions. Unlike many other web frameworks, Bootstrap concerns itself with front-end development only." - Wikipedia
+*"Bootstrap is a free, open-source front-end library for designing websites and web applications. It contains HTML- and CSS-based design templates for everything from typography, forms, buttons, navigation and other interface components as well as JavaScript extensions. Unlike many other web frameworks, Bootstrap concerns itself with front-end development only."* - Wikipedia
 
 So basically, bootstrap is an open-source website or library in which there is pre-made codes for different essentials required to built a website. We can customize them easily with basic knowledge of HTML and CSS. There are many components, styles of nav & bars etc.
 
@@ -32,73 +32,52 @@ There are many ways to add Bootstrap in your code. You can either add all the pr
 
 If you want to add all the properties of Bootstrap then just copy and paste the below code and all the properties will be added in your code like CSS, JS, Icons, Fonts etc.
 
-```
-<!DOCTYPE html>
+~~~
+<!doctype html>
 <html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<head>
-	<title>Bootstrap Example</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-	<meta charset="utf-8">
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
 
-	<meta name="viewport" content=
-		"width=device-width, initial-scale=1">
+    <!-- Optional JavaScript; choose one of the two! -->
 
-	<!-- Bootstrap CSS library -->
-	<link rel="stylesheet" href=
-"https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-	integrity=
-"sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-	crossorigin="anonymous">
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
-	<!-- jQuery library -->
-	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-	integrity=
-"sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-	crossorigin="anonymous"></script>
-
-	<!-- JS library -->
-	<script src=
-"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-	integrity=
-"sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-	crossorigin="anonymous"></script>
-
-	<!-- Latest compiled JavaScript library -->
-	<script src=
-"https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-	integrity=
-"sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-	crossorigin="anonymous"></script>
-	</head>
-<body>
-
-<div class="container">
-	<h1>Welcome To Bootstrap Course</h1>
-	<p>A simple guide to start with Bootstrap. </p>
-
-</div>
-
-</body>
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    -->
+  </body>
 </html>
-```
+~~~
 
 ### 2. Adding properties of CSS only
 
 To add CSS in your code copy-paste the stylesheet <link> into your <head> before all other stylesheets to load our CSS.
 
-```
+~~~
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-```
+~~~
 
 ### 3. Adding JS properties only
 
 To add the properties of JS copy-paste the below code.
 **Note**: Many components of Bootstrap require the use of JavaScript to function. Specifically, they require bootstrap own JavaScript plugins and Popper. Place one of the following <script> near the end of your pages, right before the closing </body> tag, to enable them.
 
-```
+~~~
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-```
+~~~
 
 ## Why we use Bootstrap?
 
@@ -117,6 +96,17 @@ Open source: It is open source in nature and completely free to download.
 ### 3. Great Grid system
 
 Bootstrap makes use of the powerful 12 column grid system which is easy to use and is very consistent.
+
+## Disadvantages of Bootstrap
+### 1.Every Bootstrap Website Looks Similar
+A great many of us are tired of seeing the same old Twitter Bootstrap theme again and again. Black header, giant hero, rounded blue buttons, Helvetica Neue.
+Yes, you can customize the header to be a different color, maybe re-color some of the buttons, use a different font. Ultimately, however, that doesn’t change anything—it still looks like Bootstrap.
+
+### 2. Can be Heavy
+While it’s easy to build a responsive website with Bootstrap, the end results can be quite a bit heavy for the users in terms of slower loading times, as well as battery drain issues. Also, the files generated by Bootstrap can be huge in size, which can slow things down for you quite heavily. You might be able to go on and delete things manually, but this again defeats the purpose of using the framework at all.
+
+### Lots of changes required
+Can require lots of overriding styles or rewriting their files if you have lots of customizations or want to deviate from Bootstrap structure.
 
 ## Summary
 
