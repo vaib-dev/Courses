@@ -10,9 +10,14 @@ So basically, bootstrap is an open-source website or library in which there is p
 
 ## How Bootstrap was started?
 
-Bootstrap was **created at Twitter in mid-2010 by @mdo and @fat**. Prior to being an open-sourced framework, Bootstrap was known as Twitter Blueprint. A few months into development, Twitter held its first Hack Week and the project exploded as developers of all skill levels jumped in without any external guidance. **It served as the style guide for internal tools development at the company for over a year before its public release, and continues to do so today**.
+Bootstrap was developed by Mark Otto and Jacob Thornton at Twitter. It was developed as a framework to encourage consistency across internal tools. So many libraries were used for interface development earlier, which led to inconsistencies and a high maintenance burden. The initial name of Bootstrap was Twitter Blueprint. It was renamed and released as an open source project on August 19, 2011.
 
-**Originally released on Friday, August 19, 2011**, we’ve since had over twenty releases, including two major rewrites with v2 and v3. With Bootstrap 2, we added responsive functionality to the entire framework as an optional stylesheet. Building on that with Bootstrap 3, we rewrote the library once more to make it responsive by default with a mobile first approach.
+### Versions of Bootstrap
+**Bootstrap 2** was released on January 30, 2012 with a twelve-column responsive grid layout system, inbuilt support for Glyphicons and several new components.
+
+**Bootstrap 3** was released on August 19, 2013 with flat-design and mobile-first approach.
+
+**Bootstrap 4** was announced on October 29, 2014. Its alpha version was released on August 19, 2015. Stable version was released on January 18, 2018.
 
 The latest release, **Bootstrap 5**, focuses on improving v4’s codebase with as few major breaking changes as possible. We improved existing features and components, removed support for older browsers, dropped jQuery for regular JavaScript, and embraced more future-friendly technologies like CSS custom properties as part of our tooling.
 
@@ -69,7 +74,6 @@ To add CSS in your code copy-paste the stylesheet <link> into your <head> before
 ~~~
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 ~~~
-
 ### 3. Adding JS properties only
 
 To add the properties of JS copy-paste the below code.
