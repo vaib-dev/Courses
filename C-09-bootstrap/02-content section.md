@@ -175,7 +175,7 @@ Below is the code for table with different colors of rows:
 
 **Output**-
 
-<img src="https://user-images.githubusercontent.com/54719422/125184332-5f502300-e23a-11eb-8c94-a249ae9d822a.png"></img>
+<p align="center"><img src="https://user-images.githubusercontent.com/54719422/125184332-5f502300-e23a-11eb-8c94-a249ae9d822a.png"></img></p>
 
 ## 5. Figures
 Anytime you need to display a piece of content like an image with an optional caption, consider using a figure tag.
@@ -191,8 +191,9 @@ Use the included .figure, .figure-img and .figure-caption classes to provide som
   <figcaption class="figure-caption">A caption for the above image.</figcaption>
 </figure>
 ~~~
-Output- 
-<img src="https://user-images.githubusercontent.com/54719422/125156260-34a29380-e182-11eb-803c-6f06ebe7cda1.png"></img>
+**Output**-
+ 
+<p align="center"><img src="https://user-images.githubusercontent.com/54719422/125156260-34a29380-e182-11eb-803c-6f06ebe7cda1.png"></img></p>
 
 
 
