@@ -18,7 +18,7 @@ Reboot builds upon Normalize, providing many HTML elements with somewhat opinion
 ## 2. Typography
 You can use different fon-family in bootstrap and the default family is "sans-serif". Some normal features that we can use in Bootstrap are:
 
-### Headings
+### (a) Headings
 In bootstrap all HTML headings, h1 to h6, are available. In this h1 heading is the biggest and h6 is the smallest as show:
 
 **Heading	Example**- 
@@ -29,7 +29,7 @@ In bootstrap all HTML headings, h1 to h6, are available. In this h1 heading is t
 <h5>h5. Bootstrap heading</h5>	
 <h6>h6. Bootstrap heading</h6>	
 
-### Paragraphs
+### (b) Paragraphs
 Paragraphs are written under (p) tag as we write in HTML. But with the use of different classes we can edit the styles of (p) tag as shown:
 
 ~~~
@@ -38,7 +38,7 @@ Paragraphs are written under (p) tag as we write in HTML. But with the use of di
 </p>
 ~~~
 
-### Inline text elements
+### (c) Inline text elements
 
 Below are some styles that you can implement using the below code:
 
@@ -62,7 +62,7 @@ Below are some styles that you can implement using the below code:
 <p><em>This line rendered as italicized text.</em></p>
 
 
-### Lists
+### (d) Lists
 When we use the class "Unstyled" then it removes the default list-style and left margin on list items (immediate children only). This only applies to immediate children list items, meaning you will need to add the class for any nested lists as well.
 
 ~~~
