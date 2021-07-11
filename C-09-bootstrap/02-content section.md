@@ -5,7 +5,7 @@ This section guides about the basic elements o styles of bootstrap like typograp
 The first things comes after clicking on the content option is the Reboot feature, let's start with this:
 
 ## 1. Reboot 
-> "Reboot, a collection of element-specific CSS changes in a single file, kickstart Bootstrap to provide an elegant, consistent, and simple baseline to build upon."
+*"Reboot, a collection of element-specific CSS changes in a single file, kickstart Bootstrap to provide an elegant, consistent, and simple baseline to build upon."*
 
 Reboot builds upon Normalize, providing many HTML elements with somewhat opinionated styles using only element selectors. Additional styling is done only with classes. 
 
@@ -30,7 +30,8 @@ Heading	Example
 <h5>h5. Bootstrap heading</h5>	
 <h6>h6. Bootstrap heading</h6>	
 
-- Paragraphs are written under <p> tag as we write in HTML. But with the use of different classes we can edit the styles of <p> tag as shown:
+### Paragraphs
+Paragraphs are written under (p) tag as we write in HTML. But with the use of different classes we can edit the styles of (p) tag as shown:
 
 ~~~
 <p class="lead">
@@ -51,7 +52,7 @@ Below are some styles that you can implement using the below code:
 <p><strong>This line rendered as bold text.</strong></p>
 <p><em>This line rendered as italicized text.</em></p>
 ~~~
-
+Output- 
 <p>You can use the mark tag to <mark>highlight</mark> text.</p>
 <p><del>This line of text is meant to be treated as deleted text.</del></p>
 <p><s>This line of text is meant to be treated as no longer accurate.</s></p>
@@ -94,9 +95,9 @@ In addition to our border-radius utilities, you can **use .img-thumbnail to give
 ~~~
 1. To add the image at the beginning of the the flex 
 <img src="..." class="rounded float-start" alt="..."> 
-1. To add the image at the end of the the flex
+2. To add the image at the end of the the flex
 <img src="..." class="rounded float-end" alt="...">
-3. 1. To add the image at the middle of the the flex
+3. To add the image at the middle of the the flex
 <img src="..." class="rounded mx-auto d-block" alt="...">
 ~~~
 
@@ -174,7 +175,7 @@ Below is the code for table with different colors of rows:
 ~~~
 
 Output-
-<img src="https://awesomescreenshot.s3.amazonaws.com/image/2251055/10487237-764977994f4382350a8c5b8b75d18ae0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20210710%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210710T080611Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=fa2a63b66ce81145731774f92191c7da0e9f41f1bedcf447f3ac27facc0c32d6"></img>
+<img src="https://user-images.githubusercontent.com/54719422/125184332-5f502300-e23a-11eb-8c94-a249ae9d822a.png"></img>
 
 ## 5. Figures
 Anytime you need to display a piece of content like an image with an optional caption, consider using a figure tag.
