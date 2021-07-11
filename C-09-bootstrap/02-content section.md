@@ -6,7 +6,6 @@ The first things comes after clicking on the content option is the Reboot featur
 
 ## 1. Reboot 
 *"Reboot, a collection of element-specific CSS changes in a single file, kickstart Bootstrap to provide an elegant, consistent, and simple baseline to build upon."*
-
 Reboot builds upon Normalize, providing many HTML elements with somewhat opinionated styles using only element selectors. Additional styling is done only with classes. 
 
 ### Here are our guidelines and reasons for choosing what to override in Reboot
@@ -22,7 +21,7 @@ You can use different fon-family in bootstrap and the default family is "sans-se
 ### Headings
 In bootstrap all HTML headings, h1 to h6, are available. In this h1 heading is the biggest and h6 is the smallest as show:
 
-Heading	Example
+**Heading	Example**- 
 <h1>h1. Bootstrap heading</h1>	
 <h2>h2. Bootstrap heading</h2>	
 <h3>h3. Bootstrap heading</h3>	
@@ -52,7 +51,7 @@ Below are some styles that you can implement using the below code:
 <p><strong>This line rendered as bold text.</strong></p>
 <p><em>This line rendered as italicized text.</em></p>
 ~~~
-Output- 
+**Output**- 
 <p>You can use the mark tag to <mark>highlight</mark> text.</p>
 <p><del>This line of text is meant to be treated as deleted text.</del></p>
 <p><s>This line of text is meant to be treated as no longer accurate.</s></p>
@@ -174,7 +173,7 @@ Below is the code for table with different colors of rows:
 </tr>
 ~~~
 
-Output-
+**Output**-
 <img src="https://user-images.githubusercontent.com/54719422/125184332-5f502300-e23a-11eb-8c94-a249ae9d822a.png"></img>
 
 ## 5. Figures
