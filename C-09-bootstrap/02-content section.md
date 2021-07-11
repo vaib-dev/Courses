@@ -174,6 +174,7 @@ Below is the code for table with different colors of rows:
 ~~~
 
 **Output**-
+
 <img src="https://user-images.githubusercontent.com/54719422/125184332-5f502300-e23a-11eb-8c94-a249ae9d822a.png"></img>
 
 ## 5. Figures
