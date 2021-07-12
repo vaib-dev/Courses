@@ -16,7 +16,7 @@ Reboot builds upon Normalize, providing many HTML elements with somewhat opinion
 - Keep declarations of font-related properties to a minimum, using inherit whenever possible.
 
 ## 2. Typography
-You can use different fon-family in bootstrap and the default family is "sans-serif". Some normal features that we can use in Bootstrap are:
+You can use different font-family in bootstrap and the default family is "sans-serif". Some normal features that we can use in Bootstrap are:
 
 ### (a) Headings
 In bootstrap all HTML headings, h1 to h6, are available. In this h1 heading is the biggest and h6 is the smallest as show:
