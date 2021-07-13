@@ -102,7 +102,7 @@ To get the below layout copy this following code:
 ~~~
 <p align="center"><img src="https://miro.medium.com/max/2000/0*hQKf30h43s11n_VZ.png"><p>
 
-<p align="center"><img src="https://miro.medium.com/max/1240/0*5z95TI47K6TakZv5.png"><p>
+<p align="center"><img src="https://miro.medium.com/max/1240/0*5z95TI47K6TakZv5.png" height="100px"><p>
 
 ### Offsets
 The offset feature of the grid enables you to move columns to the right, or create more whitespace to the left. This comes in handy when you want a narrower centered layout.
@@ -130,10 +130,10 @@ Many scenarios require that columns inside columns, and in this case our columns
 ~~~
 
 This is how it looks in large layout screen:
-<p align="center"><img src="https://miro.medium.com/max/2000/0*2kLY-zwqi8Z5Y24U.png" height="50px"><p>
+<p align="center"><img src="https://miro.medium.com/max/2000/0*2kLY-zwqi8Z5Y24U.png" height="px"><p>
 
 In small screens it will look like nesting the columns:
-<p align="center"><img src="https://miro.medium.com/max/1006/0*knPud2BH5y2BGXkA.png"height="80px"><p>
+<p align="center"><img src="https://miro.medium.com/max/1006/0*knPud2BH5y2BGXkA.png"height="100px"><p>
 
 ## Remember
 Using the following table, you can easily check out the different layout building solutions that the Bootstrap grid system offers:
