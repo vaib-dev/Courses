@@ -38,15 +38,10 @@ Bootstrap 4 has 2 types of Containers. In my examples I used .container, but the
 <div class="container-fluid"></div>
 ~~~
 
-The .container scales down in width responsively (as the screen width narrows) so that eventually it becomes full-width like the .container-fluid on smaller devices.
-
-
-It’s important that a Container is used to contain grid Rows (.row).
+The .container scales down in width responsively (as the screen width narrows) so that eventually it becomes full-width like the .container-fluid on smaller devices. It’s important that a Container is used to contain grid Rows (.row).
 
 **Note**: Rows have a negative left/right margins of -15px. The Container padding of 15px is used to counteract the negative margins of the Row. If you don’t put a Row in a Container, the Row will overflow it’s container, causing an undesirable horizontal scroll.
-
 ### Columns & Rows
-
 The grid system of Bootstrap allows you to divide a row into 12 columns of equal width. However, these columns can also be combined to create columns that are wider and positioned differently. The grid can also be responsive and rearrange depending on the screen width or window size.
 
 ### Why does Bootstrap have 12 columns?
