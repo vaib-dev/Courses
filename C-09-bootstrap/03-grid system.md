@@ -5,7 +5,47 @@ Using Bootstrap grid systems eliminates the fear of having your website displaye
 
 In this chapter, we will explain how Bootstrap columns and rows work and how to manipulate them to create a responsive layout for your modern website.
 
-## Bootstrap Columns
+## Container
+
+In Bootstrap we use the .container to wrap the .row. The Container is the root (we can say it top-level or outermost) element of the Bootstrap Grid.
+~~~
+<div class="container"> 
+   <div class="row"> 
+      <div class="col">I'm content inside the grid!</div> 
+   </div> 
+</div>
+The Container can be used to hold any elements and content. It’s not only used for the Grid Rows & Columns. For example, this is perfectly valid Bootstrap markup:
+<div class="container">
+   <h2>My Heading</h2> 
+   <div class="row"> 
+      <div class="col">I'm content inside the grid!</div> 
+   </div> 
+</div>
+~~~
+At first, the Container may seem trivial or unnecessary, but it’s very important to control width of the layout. The Container is also used to evenly align the left and right edges of the layout within the browser’s viewport.
+
+**FYI:** Viewport- The visible area inside the browser window.
+
+### Types of Containers
+Bootstrap 4 has 2 types of Containers. In my examples I used .container, but there is also the full-width .container-fluid. You can use either one:
+1.  **Fixed-width**: container to center your layout in the middle:
+~~~
+<div class="container"></div>
+~~~
+2. **Full-width**: container for a layout the spans the entire width:
+~~~
+<div class="container-fluid"></div>
+~~~
+The .container scales down in width responsively (as the screen width narrows) so that eventually it becomes full-width like the .container-fluid on smaller devices.
+
+
+It’s important that a Container is used to contain grid Rows (.row).
+
+**Note**: Rows have a negative left/right margins of -15px. The Container padding of 15px is used to counteract the negative margins of the Row. If you don’t put a Row in a Container, the Row will overflow it’s container, causing an undesirable horizontal scroll.
+
+
+
+### Columns & Rows
 
 The grid system of Bootstrap allows you to divide a row into 12 columns of equal width. However, these columns can also be combined to create columns that are wider and positioned differently. The grid can also be responsive and rearrange depending on the screen width or window size.
 
@@ -99,12 +139,12 @@ Many scenarios require that columns inside columns, and in this case our columns
 ~~~
 
 This is how it looks in large layout screen:
-<p align="center"><img src="https://miro.medium.com/max/2000/0*2kLY-zwqi8Z5Y24U.png"><p>
+<p align="center"><img src="https://miro.medium.com/max/2000/0*2kLY-zwqi8Z5Y24U.png" height="50px"><p>
 
 In small screens it will look like nesting the columns:
-<p align="center"><img src="https://miro.medium.com/max/1006/0*knPud2BH5y2BGXkA.png"><p>
+<p align="center"><img src="https://miro.medium.com/max/1006/0*knPud2BH5y2BGXkA.png"height="80px"><p>
 
-## Options
+## Remember
 Using the following table, you can easily check out the different layout building solutions that the Bootstrap grid system offers:
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54719422/125314179-96662780-e353-11eb-8761-620cdfca9d02.png"><p>
