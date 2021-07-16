@@ -78,56 +78,9 @@ Output:
   </button>
 </div>
  ~~~
-
  Output: 
+
  <img src="https://user-images.githubusercontent.com/54719422/125815408-39a7208c-8b91-4c4a-8cad-a974e1be0896.png">
-
- 3. **With captions & Captions:** Add captions to your slides easily with the .carousel-caption element within any .carousel-item. They can be easily hidden on smaller view-ports, as shown below, with optional display utilities. We hide them initially with .d-none and bring them back on medium-sized devices with .d-md-block.
-
- Example:
- ~~~
-<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="..." class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Second slide label</h5>
-        <p>Some representative placeholder content for the second slide.</p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Third slide label</h5>
-        <p>Some representative placeholder content for the third slide.</p>
-      </div>
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
- ~~~
-
- Output:
- <img src="https://user-images.githubusercontent.com/54719422/125815890-47db316f-217d-4d0f-9dec-a4286782053d.png">
 
 ## 3. <a href="">Navbar</a> 
 It provides navigation headers for your application or site. Navbar collapse in mobile views and become horizontal as the available viewport width increases.
@@ -196,7 +149,7 @@ Output:
 Output:
 <img src="https://user-images.githubusercontent.com/54719422/125818164-d9bdeaac-a208-4712-a229-4b2979302854.png">
 
-## 4. <a href="">Progress bars</a>
+## 4. <a href="https://getbootstrap.com/docs/5.0/components/progress/">Progress bars</a>
 This component is used to provide the visuals on the feedback on the progress of work or action with a progress bar.
 
 ### Styles of Progress Bars
@@ -226,7 +179,7 @@ Example
 Output
 <img src="https://user-images.githubusercontent.com/54719422/125821275-3dfb2162-d9fa-47a2-96d1-11ee12efba38.png">
 
-## 5. Offsets
+## 5. <a href="https://getbootstrap.com/docs/5.0/components/offcanvas/">Offcanvas</a>
 Build hidden sidebars into your project for navigation, shopping carts, and more with a few classes and our JavaScript plugin.
 
 Example
