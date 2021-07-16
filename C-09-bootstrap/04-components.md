@@ -197,4 +197,6 @@ Example:
 
 ## Summary
 Bootstrap framework is a very handy tool for bringing in responsiveness to the web pages. The components explained in this chapter are some of the very widely used ones that help you write less code for more functionality and add more elegance to the web page that you’re building.
-**Note:** There are many more components that you can try according to your website style. To see more styles <a href="https://getbootstrap.com/docs/5.0/components/">click here</a> or go to the Bootstrap website.
+
+### Note
+ There are many more components that you can try according to your website style. To see more styles <a href="https://getbootstrap.com/docs/5.0/components/">click here</a> or go to the Bootstrap website.
