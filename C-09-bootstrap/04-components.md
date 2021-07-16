@@ -127,8 +127,8 @@ The following example demonstrates creation of a basic navbar:
   </div>
 </nav>
 ~~~
-
 Output:
+
 <img src="https://user-images.githubusercontent.com/54719422/125817838-d4dc0feb-1201-4110-a907-1148afee48dd.png">
 
 **Note:** There are many more components that you can try according to your website style. To see more styles <a href="https://getbootstrap.com/docs/5.0/components/carousel/">click here</a> or go to the Bootstrap website.
@@ -145,8 +145,8 @@ Output:
   </div>
 </nav>
 ~~~
-
 Output:
+
 <img src="https://user-images.githubusercontent.com/54719422/125818164-d9bdeaac-a208-4712-a229-4b2979302854.png">
 
 ## 4. <a href="https://getbootstrap.com/docs/5.0/components/progress/">Progress bars</a>
