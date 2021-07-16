@@ -4,8 +4,7 @@ Bootstrap comes bundled with basic HTML and CSS design templates that include ma
 ## 1. <a href="https://getbootstrap.com/docs/5.0/components/buttons/">Buttons</a>
 Bootstrap provides clickable button to put content such as text and images. You can include the text to button by using the "input" tag.
 
-You can create button by using .btn class followed by desired style (e.g. btn-success). Bootstrap provides some options to style buttons, which are listed below −
-
+You can create button by using .btn class followed by desired style (e.g. btn-success). Bootstrap provides some options to style buttons, which are listed below:
 ~~~
 <button type="button" class="btn btn-primary">Primary</button>
 <button type="button" class="btn btn-secondary">Secondary</button>
@@ -24,9 +23,7 @@ You can create button by using .btn class followed by desired style (e.g. btn-su
 
 ## 2. <a href="https://getbootstrap.com/docs/5.0/components/carousel/">Carousel</a>
 Carousel is a flexible, responsive way to add a slider to your site. To create a carousel, add the .carousel and .slide classes to the container along with an id.
-
 - Specify the slides in a "div" with class .carousel-inner and each slide defined with .carousel-item class.
-
 - Add the .active class to one of the slides to make carousel visible; otherwise the carousel will not be visible. 
 
 ### Styles of Carousel
@@ -48,8 +45,8 @@ Example:
   </div>
 </div>
 ~~~
-
 Output: 
+
 <img src="https://user-images.githubusercontent.com/54719422/125814904-aaa9bd07-a96d-499c-9113-ac01191dea15.png">
 
 **2. With controls:** Adding in the previous and next controls. We recommend using "button" elements, but you can also use "a" elements with role="button".
@@ -131,10 +128,7 @@ Output:
 
 <img src="https://user-images.githubusercontent.com/54719422/125817838-d4dc0feb-1201-4110-a907-1148afee48dd.png">
 
-**Note:** There are many more components that you can try according to your website style. To see more styles <a href="https://getbootstrap.com/docs/5.0/components/carousel/">click here</a> or go to the Bootstrap website.
-
 2. **Image and text**: The brand or logo of the page can be highlighted by using the .navbar-brand class as shown in the below example;
-
 ~~~
 <nav class="navbar navbar-light bg-light">
   <div class="container-fluid">
@@ -151,13 +145,11 @@ Output:
 
 ## 4. <a href="https://getbootstrap.com/docs/5.0/components/progress/">Progress bars</a>
 This component is used to provide the visuals on the feedback on the progress of work or action with a progress bar.
-
 ### Styles of Progress Bars
 1. Basic Progress Bar
 The basic progress bar can be created by adding "div" element with a class of .progress and add the .progress-bar class inside its child element. Add a style attribute with the width expressed as a percentage. Say for example, style = "60%"; indicates that the progress bar was at 60%. The following example demonstrates this:
 
-Example
-
+Example:
 ~~~
 <div class="progress">
   <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
@@ -175,14 +167,14 @@ Example
   <div class="progress-bar" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
 </div>
 ~~~
+Output:
 
-Output
 <img src="https://user-images.githubusercontent.com/54719422/125821275-3dfb2162-d9fa-47a2-96d1-11ee12efba38.png">
 
 ## 5. <a href="https://getbootstrap.com/docs/5.0/components/offcanvas/">Offcanvas</a>
 Build hidden sidebars into your project for navigation, shopping carts, and more with a few classes and our JavaScript plugin.
 
-Example
+Example:
 
 1. Enable Body Scrolling
 ~~~
@@ -202,26 +194,7 @@ Example
   </div>
 </div>
 ~~~
-3. Body Scroll with dark background
-~~~
-<div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasWithBackdrop" aria-labelledby="offcanvasWithBackdropLabel">
-  <div class="offcanvas-header">
-    <h5 class="offcanvas-title" id="offcanvasWithBackdropLabel">Offcanvas with backdrop</h5>
-    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-  </div>
-  <div class="offcanvas-body">
-    <p>.....</p>
-  </div>
-</div>
-<div class="offcanvas offcanvas-start" data-bs-scroll="true" tabindex="-1" id="offcanvasWithBothOptions" aria-labelledby="offcanvasWithBothOptionsLabel">
-  <div class="offcanvas-header">
-    <h5 class="offcanvas-title" id="offcanvasWithBothOptionsLabel">Backdroped with scrolling</h5>
-    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-  </div>
-  <div class="offcanvas-body">
-    <p>Try scrolling the rest of the page to see this option in action.</p>
-  </div>
-</div>
-~~~
 
 ## Summary
+Bootstrap framework is a very handy tool for bringing in responsiveness to the web pages. The components explained in this chapter are some of the very widely used ones that help you write less code for more functionality and add more elegance to the web page that you’re building.
+**Note:** There are many more components that you can try according to your website style. To see more styles <a href="https://getbootstrap.com/docs/5.0/components/">click here</a> or go to the Bootstrap website.
