@@ -19,7 +19,7 @@ You can create button by using .btn class followed by desired style (e.g. btn-su
 
 **Output**:
 
-<img src="https://user-images.githubusercontent.com/54719422/125814244-7737b02a-d863-49f1-9c0c-87eb805a67d9.png">
+<p align="center"><img src="https://user-images.githubusercontent.com/54719422/125814244-7737b02a-d863-49f1-9c0c-87eb805a67d9.png"></p>
 
 ## 2. <a href="https://getbootstrap.com/docs/5.0/components/carousel/">Carousel</a>
 Carousel is a flexible, responsive way to add a slider to your site. To create a carousel, add the .carousel and .slide classes to the container along with an id.
@@ -47,7 +47,7 @@ Example:
 ~~~
 Output: 
 
-<img src="https://user-images.githubusercontent.com/54719422/125814904-aaa9bd07-a96d-499c-9113-ac01191dea15.png">
+<p align="center"><img src="https://user-images.githubusercontent.com/54719422/125814904-aaa9bd07-a96d-499c-9113-ac01191dea15.png" height="120px" width="250px"></p>
 
 **2. With controls:** Adding in the previous and next controls. We recommend using "button" elements, but you can also use "a" elements with role="button".
 
@@ -77,7 +77,7 @@ Output:
  ~~~
  Output: 
 
- <img src="https://user-images.githubusercontent.com/54719422/125815408-39a7208c-8b91-4c4a-8cad-a974e1be0896.png">
+ <p align="center"><img src="https://user-images.githubusercontent.com/54719422/125815408-39a7208c-8b91-4c4a-8cad-a974e1be0896.png"height="120px" width="250px"></p>
 
 ## 3. <a href="">Navbar</a> 
 It provides navigation headers for your application or site. Navbar collapse in mobile views and become horizontal as the available viewport width increases.
@@ -126,7 +126,7 @@ The following example demonstrates creation of a basic navbar:
 ~~~
 Output:
 
-<img src="https://user-images.githubusercontent.com/54719422/125817838-d4dc0feb-1201-4110-a907-1148afee48dd.png">
+<p align="center"><img src="https://user-images.githubusercontent.com/54719422/125817838-d4dc0feb-1201-4110-a907-1148afee48dd.png"></p>
 
 2. **Image and text**: The brand or logo of the page can be highlighted by using the .navbar-brand class as shown in the below example;
 ~~~
@@ -141,7 +141,7 @@ Output:
 ~~~
 Output:
 
-<img src="https://user-images.githubusercontent.com/54719422/125818164-d9bdeaac-a208-4712-a229-4b2979302854.png">
+<p align="center"><img src="https://user-images.githubusercontent.com/54719422/125818164-d9bdeaac-a208-4712-a229-4b2979302854.png"></p>
 
 ## 4. <a href="https://getbootstrap.com/docs/5.0/components/progress/">Progress bars</a>
 This component is used to provide the visuals on the feedback on the progress of work or action with a progress bar.
@@ -169,7 +169,7 @@ Example:
 ~~~
 Output:
 
-<img src="https://user-images.githubusercontent.com/54719422/125821275-3dfb2162-d9fa-47a2-96d1-11ee12efba38.png">
+<p align="center"><img src="https://user-images.githubusercontent.com/54719422/125821275-3dfb2162-d9fa-47a2-96d1-11ee12efba38.png"></p>
 
 ## 5. <a href="https://getbootstrap.com/docs/5.0/components/offcanvas/">Offcanvas</a>
 Build hidden sidebars into your project for navigation, shopping carts, and more with a few classes and our JavaScript plugin.
