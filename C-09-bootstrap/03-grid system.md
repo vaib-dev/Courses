@@ -15,11 +15,15 @@ In Bootstrap we use the .container to wrap the .row. The Container is the root (
       <div class="col">I'm content inside the grid!</div> 
    </div> 
 </div>
-The Container can be used to hold any elements and content. It’s not only used for the Grid Rows & Columns. For example, this is perfectly valid Bootstrap markup:
+The Container can be used to hold any elements and 
+content. It’s not only used for the Grid Rows & 
+Columns. For example, this is perfectly valid 
+Bootstrap markup:
 <div class="container">
    <h2>My Heading</h2> 
    <div class="row"> 
-      <div class="col">I'm content inside the grid!</div> 
+      <div class="col">I'm content inside the 
+      grid!</div> 
    </div> 
 </div>
 ~~~
