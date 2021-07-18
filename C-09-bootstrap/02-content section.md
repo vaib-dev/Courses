@@ -42,14 +42,23 @@ Paragraphs are written under (p) tag as we write in HTML. But with the use of di
 
 Below are some styles that you can implement using the below code:
 
-~~~ <p>You can use the mark tag to <mark>highlight</mark> text.</p>
-<p><del>This line of text is meant to be treated as deleted text.</del></p>
-<p><s>This line of text is meant to be treated as no longer accurate.</s></p>
-<p><ins>This line of text is meant to be treated as an addition to the document.</ins></p>
-<p><u>This line of text will render as underlined.</u></p>
-<p><small>This line of text is meant to be treated as fine print.</small></p>
-<p><strong>This line rendered as bold text.</strong></p>
-<p><em>This line rendered as italicized text.</em></p>
+~~~ 
+<p>You can use the mark tag to <mark>highlight</
+mark> text.</p>
+<p><del>This line of text is meant to be treated as 
+deleted text.</del></p>
+<p><s>This line of text is meant to be treated as 
+no longer accurate.</s></p>
+<p><ins>This line of text is meant to be treated as 
+an addition to the document.</ins></p>
+<p><u>This line of text will render as underlined.</
+u></p>
+<p><small>This line of text is meant to be treated 
+as fine print.</small></p>
+<p><strong>This line rendered as bold text.</
+strong></p>
+<p><em>This line rendered as italicized text.</em></
+p>
 ~~~
 **Output**- 
 <p>You can use the mark tag to <mark>highlight</mark> text.</p>
@@ -70,7 +79,8 @@ When we use the class "Unstyled" then it removes the default list-style and left
   <li>This is a list.</li>
   <li>It appears completely unstyled.</li>
   <li>Structurally, it's still a list.</li>
-  <li>However, this style only applies to immediate child elements.</li>
+  <li>However, this style only applies to immediate 
+  child elements.</li>
   <li>Nested lists:
     <ul>
       <li>are unaffected by this style</li>
@@ -78,7 +88,8 @@ When we use the class "Unstyled" then it removes the default list-style and left
       <li>and have appropriate left margin</li>
     </ul>
   </li>
-  <li>This may still come in handy in some situations.</li>
+  <li>This may still come in handy in some 
+  situations.</li>
 </ul>
 ~~~
 
@@ -92,8 +103,10 @@ Images in Bootstrap are made responsive with .img-fluid. This applies max-width:
 ### Image thumbnails
 In addition to our border-radius utilities, you can **use .img-thumbnail to give an image a rounded 1px border appearance**. Code for adding a image thumbnail: 
 ~~~
-1. To add the image at the beginning of the the flex 
-<img src="..." class="rounded float-start" alt="..."> 
+1. To add the image at the beginning of the the 
+flex 
+<img src="..." class="rounded float-start" alt="...
+"> 
 2. To add the image at the end of the the flex
 <img src="..." class="rounded float-end" alt="...">
 3. To add the image at the middle of the the flex
@@ -188,7 +201,8 @@ Use the included .figure, .figure-img and .figure-caption classes to provide som
   <figcaption class="figure-caption">A caption for the above image.</figcaption>
 </figure><figure class="figure">
   <img src="..." class="figure-img img-fluid rounded" alt="...">
-  <figcaption class="figure-caption">A caption for the above image.</figcaption>
+  <figcaption class="figure-caption">A caption for 
+  the above image.</figcaption>
 </figure>
 ~~~
 **Output**-
