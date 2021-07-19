@@ -24,6 +24,9 @@ Here’s a quick example to demonstrate Bootstrap’s form styles. Keep reading 
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 ~~~
+Output:
+
+<p text align-="center"><img src="https://user-images.githubusercontent.com/54719422/126159525-026f11e1-81ad-4d13-b66d-e66f5d1ca86a.png"></p>
 
 Above you have seen the basic code for a starter form. Now let's learn about adding some more styles to the form.
 
@@ -44,7 +47,7 @@ aria-describedby="passwordHelpBlock">
 </div>
 ~~~
 Output:
-<p text align-="center"><img src=""></p>
+<p text align-="center"><img src="https://user-images.githubusercontent.com/54719422/126156356-9ada5e2e-536b-4f21-9412-77415ffa8153.png"></p>
 
 ### Inline text
 This can use any typical inline HTML element (be it a span, small, or something else) with nothing more than the .form-text class.
@@ -68,7 +71,7 @@ This can use any typical inline HTML element (be it a span, small, or something 
 </div>
 ~~~
 Output:
-<p text align-="center"><img src=""></p>
+<p text align-="center"><img src="https://user-images.githubusercontent.com/54719422/126159268-2b85750e-c0b5-43b4-88fb-23e83808dca8.png"></p>
 
 ### Readonly plain text
 If you want to have "input readonly" elements in your form styled as plain text, use the .form-control-plaintext class to remove the default form field styling and preserve the correct margin and padding.
@@ -91,7 +94,10 @@ If you want to have "input readonly" elements in your form styled as plain text,
     </div>
   </div>
 ~~~
-<p text align-="center"><img src=""></p>
+<p text align-="center"><img src="https://user-images.githubusercontent.com/54719422/126156359-ef0c5cf6-355c-4f0b-98dc-0a3181b6bd38.png"></p>
+
+## File Upload Option
+We can add file upload feature by adding the following code in the form. This function allows user to upload or attach a file. 
 
 ### File input
 If you want to add a file upload column in your form then you can use the below code:
@@ -130,6 +136,10 @@ If you want to add a file upload column in your form then you can use the below 
   id="formFileLg" type="file">
 </div>
 ~~~
+<p align="center"><img src="https://user-images.githubusercontent.com/54719422/126156364-caaf5c5c-c5b7-432b-9352-eda410e634b6.png"></p>
+
+## Range in Forms
+This feature allows user to select a range for a particular item. This can be used in cases such as you want add a field which will allow user to enter his budget for the project.
 
 ### Min and max
 Range inputs have implicit values for min and max—0 and 100, respectively. You may specify new values for those using the min and max attributes.
@@ -140,6 +150,7 @@ class="form-label">Example range</label>
 <input type="range" class="form-range" min="0" 
 max="5" id="customRange2">
 ~~~~
+<p align="center"><img src="https://user-images.githubusercontent.com/54719422/126156366-95767a74-c87f-4f49-adc4-7ef5f59fb138.png"></p>
 
 ## Summary
-Forms are the basic requirement to complete a website. We always require a basic contact us form in our website. So, you can use the above styles and classes to customize the form in the way you want. To learn more about forms <a href="">click here.</a>
+Forms are the basic requirement to complete a website. We always require a basic contact us form in our website. So, you can use the above styles and classes to customize the form in the way you want. To learn more about forms <a href="https://getbootstrap.com/docs/5.0/forms/overview/">click here.</a>
