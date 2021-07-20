@@ -2,7 +2,7 @@
 
 This section guides about the basic elements o styles of bootstrap like typography styles, short codes, forms, tables etc. These elements or styles are mostly needed to create a website either be simple or dynamic. So, understanding this section becomes very important. Let's get started- 
 
-The first things comes after clicking on the content option is the Reboot feature, let's start with this:
+Now we will discuss about some styles and elements that we can add to make an eye-catching website. We have different elements and styles like Reboot, Typography, images, tables, figures. We will start with Reboot: 
 
 ## 1. Reboot 
 *"Reboot, a collection of element-specific CSS changes in a single file, kickstart Bootstrap to provide an elegant, consistent, and simple baseline to build upon."*
@@ -10,7 +10,7 @@ Reboot builds upon Normalize, providing many HTML elements with somewhat opinion
 
 ### Here are our guidelines and reasons for choosing what to override in Reboot
 
-- Update some browser default values to use rems instead of ems for scalable component spacing.
+- Update some browser default values to use rems(provides a way to specify lengths as fractions of the root element's font size) instead of ems(provides a way to specify lengths as fractions of the parent element's font size) for scalable component spacing.
 - Avoid margin-top. Vertical margins can collapse, yielding unexpected results. More importantly though, a single direction of margin is a simpler mental model.
 - For easier scaling across device sizes, block elements should use rems for margins.
 - Keep declarations of font-related properties to a minimum, using inherit whenever possible.
@@ -20,7 +20,7 @@ You can use different font-family in bootstrap and the default family is "sans-s
 
 ### (a) Headings
 In bootstrap all HTML headings, h1 to h6, are available. In this h1 heading is the biggest and h6 is the smallest as show:
-
+~~~
 **Heading	Example**- 
 <h1>h1. Bootstrap heading</h1>	
 <h2>h2. Bootstrap heading</h2>	
@@ -28,6 +28,7 @@ In bootstrap all HTML headings, h1 to h6, are available. In this h1 heading is t
 <h4>h4. Bootstrap heading</h4>	
 <h5>h5. Bootstrap heading</h5>	
 <h6>h6. Bootstrap heading</h6>	
+~~~
 
 ### (b) Paragraphs
 Paragraphs are written under (p) tag as we write in HTML. But with the use of different classes we can edit the styles of (p) tag as shown:
@@ -60,16 +61,6 @@ strong></p>
 <p><em>This line rendered as italicized text.</em></
 p>
 ~~~
-**Output**- 
-<p>You can use the mark tag to <mark>highlight</mark> text.</p>
-<p><del>This line of text is meant to be treated as deleted text.</del></p>
-<p><s>This line of text is meant to be treated as no longer accurate.</s></p>
-<p><ins>This line of text is meant to be treated as an addition to the document.</ins></p>
-<p><u>This line of text will render as underlined.</u></p>
-<p><small>This line of text is meant to be treated as fine print.</small></p>
-<p><strong>This line rendered as bold text.</strong></p>
-<p><em>This line rendered as italicized text.</em></p>
-
 
 ### (d) Lists
 When we use the class "Unstyled" then it removes the default list-style and left margin on list items (immediate children only). This only applies to immediate children list items, meaning you will need to add the class for any nested lists as well.
@@ -197,10 +188,13 @@ Use the included .figure, .figure-img and .figure-caption classes to provide som
 
 ~~~
 <figure class="figure">
-  <img src="..." class="figure-img img-fluid rounded" alt="...">
-  <figcaption class="figure-caption">A caption for the above image.</figcaption>
+  <img src="..." class="figure-img img-fluid ]
+  rounded" alt="...">
+  <figcaption class="figure-caption">A caption for 
+  the above image.</figcaption>
 </figure><figure class="figure">
-  <img src="..." class="figure-img img-fluid rounded" alt="...">
+  <img src="..." class="figure-img img-fluid 
+  rounded" alt="...">
   <figcaption class="figure-caption">A caption for 
   the above image.</figcaption>
 </figure>
