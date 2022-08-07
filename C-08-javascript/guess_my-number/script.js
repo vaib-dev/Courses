@@ -10,7 +10,7 @@ check.addEventListener('click',function(){
 
 console.log( typeof numberEntered);
 if(!numberEntered){
-document.querySelector('.message').textContent="HELLLOOOO";
+document.querySelector('.message').textContent="Please Enter Number";
 
 }
 if(numberEntered < correctNumber){
