@@ -20,3 +20,15 @@ close.addEventListener('click', function(){
 modal.classList.add('hidden');
 overlay.classList.add('hidden');
 });
+
+overlay.addEventListener('click',function(){
+  modal.classList.add('hidden');
+  overlay.classList.add('hidden');
+});
+
+document.addEventListener('keydown',function(pressed){
+ 
+  if(pressed.key=='Escape'){
+    modal.classList.add('hidden');
+  overlay.classList.add('hidden');}
+})
